@@ -24,10 +24,11 @@ class TemporalRelationClassification(BertPreTrainedModel):
     config_class = RobertaConfig
     base_model_prefix = "roberta"
 
-    def __init__(self, config, dataset=None):
+    def __init__(self, config, dataset=None, alpha=1.0):
         super(TemporalRelationClassification, self).__init__(config)
 
         # Initialize RoBERTa backbone
+        self.alpha = alpha
         self.roberta = RobertaModel(config)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
 

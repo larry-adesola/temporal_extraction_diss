@@ -6,7 +6,8 @@ from transformers import RobertaTokenizerFast, RobertaModel, AdamW, BertPreTrain
 from typing import List, Optional
 from data import temprel_set
 from model import TemporalRelationClassification
-
+import random
+import numpy as np
 import argparse
 
 def parse_args():
@@ -17,18 +18,31 @@ def parse_args():
                         help="Path to the training dataset file.")
     parser.add_argument("--testset_loc", type=str, default="../testset-temprel.xml",
                         help="Path to the testing dataset file.")
-    parser.add_argument("--batch_size", type=int, default=32,
+    parser.add_argument("--batch_size", type=int, default=16,
                         help="Batch size for training.")
-    parser.add_argument("--epochs", type=int, default=5,
+    parser.add_argument("--epochs", type=int, default=30,
                         help="Number of epochs for training.")
-    parser.add_argument("--learning_rate", type=float, default=5e-5,
+    parser.add_argument("--learning_rate", type=float, default=1e-5,
                         help="Learning rate for the optimizer.")
+    parser.add_argument("--weight_decay", type=float, default=0.01,
+                        help="Weight decay for optimizer.")
+    parser.add_argument("--dropout", type=float, default=0.1,
+                        help="Dropout rate for the model.")
+    parser.add_argument("--warmup_proportion", type=float, default=0.1,
+                        help="Proportion of steps for warmup in the scheduler.")
     parser.add_argument("--num_workers", type=int, default=2,
                         help="Number of workers for DataLoader.")
+    parser.add_argument("--seed", type=int, default=42,
+                        help="Random seed for reproducibility.")
     
     return parser.parse_args()
 
 
+def set_seed(seed):
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    np.random.seed(seed)
+    random.seed(seed)
 
 
 def evaluate_model(model, dataloader, device):
@@ -93,6 +107,8 @@ def main(input_args=None):
     # Parse arguments
     args = parse_args()
     
+    #set_seed(args.seed)
+
     # Access arguments
     trainsetLoc = args.trainset_loc
     testsetLoc = args.testset_loc
@@ -111,14 +127,20 @@ def main(input_args=None):
     dev_dataloader = DataLoader(dev_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)
 
     # Model and optimizer
-    config = RobertaConfig.from_pretrained("roberta-base", num_labels=4)
+    config = RobertaConfig.from_pretrained("roberta-large", num_labels=4, hidden_dropout_prob=args.dropout)
     model = TemporalRelationClassification.from_pretrained(
-        "roberta-base", config=config,
-        dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}}
+        "roberta-large", config=config,
+        dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
+        alpha=1.0
     )
-    optimizer = AdamW(model.parameters(), lr=learning_rate, eps=1e-8)
-    num_training_steps = len(train_dataloader) * num_epochs
-    scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=0, num_training_steps=num_training_steps)
+    
+    optimizer = AdamW(model.parameters(), lr=args.learning_rate, weight_decay=args.weight_decay, eps=1e-8)
+
+    # Calculate the number of warmup steps
+    num_training_steps = len(train_dataloader) * args.epochs
+    num_warmup_steps = int(num_training_steps * args.warmup_proportion)
+
+    scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=num_warmup_steps, num_training_steps=num_training_steps)
     
     # Training
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
