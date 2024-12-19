@@ -2,13 +2,18 @@ from sklearn.metrics import classification_report
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, TensorDataset, Subset
-from transformers import RobertaTokenizerFast, RobertaModel, AdamW, BertPreTrainedModel, RobertaConfig, get_scheduler
+from transformers import RobertaTokenizerFast, RobertaModel, AdamW, BertPreTrainedModel, RobertaConfig, get_linear_schedule_with_warmup
 from typing import List, Optional
 from data import temprel_set
 from model import TemporalRelationClassification
 import random
 import numpy as np
 import argparse
+from math import ceil
+import os
+
+
+
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Train a temporal relation classification model.")
@@ -20,6 +25,8 @@ def parse_args():
                         help="Path to the testing dataset file.")
     parser.add_argument("--batch_size", type=int, default=16,
                         help="Batch size for training.")
+    parser.add_argument("--update_batch_size", type=int, default=32,
+                    help="Batch size for each model update.")
     parser.add_argument("--epochs", type=int, default=30,
                         help="Number of epochs for training.")
     parser.add_argument("--learning_rate", type=float, default=1e-5,
@@ -34,6 +41,10 @@ def parse_args():
                         help="Number of workers for DataLoader.")
     parser.add_argument("--seed", type=int, default=42,
                         help="Random seed for reproducibility.")
+    parser.add_argument("--beta1", type=float, default=0.9,
+                        help="Beta 1 parameters (b1, b2) for optimizer.")
+    parser.add_argument("--beta2", type=float, default=0.999,
+                        help="Beta 1 parameters (b1, b2) for optimizer.")
     
     return parser.parse_args()
 
@@ -44,6 +55,20 @@ def set_seed(seed):
     np.random.seed(seed)
     random.seed(seed)
 
+def calc_f1(predicted_labels, all_labels):
+    confusion = np.zeros((4, 4))
+    for i in range(len(predicted_labels)):
+        confusion[all_labels[i]][predicted_labels[i]] += 1
+
+    acc = 1.0 * np.sum([confusion[i][i] for i in range(4)]) / np.sum(confusion)
+    true_positive = 0
+    for i in range(4-1):
+        true_positive += confusion[i][i]
+    prec = true_positive/(np.sum(confusion)-np.sum(confusion,axis=0)[-1])
+    rec = true_positive/(np.sum(confusion)-np.sum(confusion[-1][:]))
+    f1 = 2*prec*rec / (rec+prec)
+
+    return acc, prec, rec, f1, confusion
 
 def evaluate_model(model, dataloader, device):
     model.eval()
@@ -61,6 +86,13 @@ def evaluate_model(model, dataloader, device):
 
     print(classification_report(all_labels, all_predictions, target_names=["BEFORE", "AFTER", "EQUAL", "VAGUE"]))
 
+    acc, prec, rec, f1, confusion = calc_f1(all_predictions, all_labels)
+    
+    print(f"Acc={acc}, Precision={prec}, Recall={rec}, F1={f1}")
+    print(f"Confusion={confusion}")
+
+
+
 def contextualise_data(tokeniser, trainsetLoc, testsetLoc):
 
     traindevset = temprel_set(trainsetLoc)
@@ -75,22 +107,62 @@ def contextualise_data(tokeniser, trainsetLoc, testsetLoc):
     return train_tensorset, dev_tensorset, test_tensorset
 
 
-def train_model(model, train_dataloader, dev_dataloader, optimizer, scheduler, device, num_epochs=5):
+def train_model(args, model, train_dataloader, dev_dataloader, device):
+    
+    num_training_steps_per_epoch = ceil(len(train_dataloader.dataset)/float(args.update_batch_size))
+    num_training_steps = args.epochs * num_training_steps_per_epoch
+
+
+    params_to_optimise = list(model.named_parameters())
+
+    no_decay = ['bias', 'LayerNorm.bias', 'LayerNorm.weight']
+
+    optimizer_grouped_parameters = [
+        {'params': [p for n, p in params_to_optimise if
+                    not any(nd in n for nd in no_decay)],
+         'weight_decay': args.weight_decay},
+        {'params': [p for n, p in params_to_optimise if any(nd in n for nd in no_decay)],
+         'weight_decay': 0.0}
+    ]
+
+
+    #optimizer = AdamW(model.parameters(), lr=args.learning_rate, weight_decay=args.weight_decay, eps=1e-8)
+
+    optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=1e-8, betas=(args.beta1, args.beta2))
+
+    # Calculate the number of warmup steps
+    num_warmup_steps = ceil(num_training_steps * args.warmup_proportion)
+
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=num_warmup_steps, num_training_steps=num_training_steps)
+
+    update_per_batch = args.update_batch_size // args.batch_size
     model.to(device)
-    for epoch in range(num_epochs):
+    for epoch in range(args.epochs):
         model.train()
         total_loss = 0
         correct, total = 0, 0
 
-        print(f"Epoch {epoch + 1}/{num_epochs}")
-        for batch in train_dataloader:
+        print(f"Epoch {epoch + 1}/{args.epochs}")
+        for i, batch in enumerate(train_dataloader):
             input_ids, attention_mask, event_ix, labels = (item.to(device) for item in batch)
 
-            optimizer.zero_grad()
+            #optimizer.zero_grad()
             loss, logits = model(input_ids, attention_mask, event_ix, labels)
+
+            loss /= update_per_batch
             loss.backward()
-            optimizer.step()
-            scheduler.step()
+            
+            if (i+1) % update_per_batch == 0 or (i+1) == len(train_dataloader):
+                # global_loss.backward()
+
+                torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+
+                optimizer.step()
+                scheduler.step()
+                model.zero_grad()
+
+            # optimizer.step()
+            # scheduler.step()
 
             total_loss += loss.item()
             predictions = torch.argmax(logits, dim=1)
@@ -104,6 +176,8 @@ def train_model(model, train_dataloader, dev_dataloader, optimizer, scheduler, d
 
 
 def main(input_args=None):
+
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
     # Parse arguments
     args = parse_args()
     
@@ -134,17 +208,9 @@ def main(input_args=None):
         alpha=1.0
     )
     
-    optimizer = AdamW(model.parameters(), lr=args.learning_rate, weight_decay=args.weight_decay, eps=1e-8)
-
-    # Calculate the number of warmup steps
-    num_training_steps = len(train_dataloader) * args.epochs
-    num_warmup_steps = int(num_training_steps * args.warmup_proportion)
-
-    scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=num_warmup_steps, num_training_steps=num_training_steps)
-    
     # Training
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    train_model(model, train_dataloader, dev_dataloader, optimizer, scheduler, device, num_epochs=num_epochs)
+    train_model(args, model, train_dataloader, dev_dataloader, device)
 
 
     print(f"Test Stats")
