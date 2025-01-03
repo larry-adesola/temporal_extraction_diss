@@ -7,6 +7,7 @@ from typing import List, Optional
 from data import temprel_set
 from model import TemporalRelationClassification
 from model_time import TemporalRelationClassificationWithTime
+from model_weight_fct import TemporalRelationClassificationWithWeightedFCT
 import random
 import numpy as np
 import argparse
@@ -46,8 +47,8 @@ def parse_args():
                         help="Beta 1 parameters (b1, b2) for optimizer.")
     parser.add_argument("--beta2", type=float, default=0.999,
                         help="Beta 1 parameters (b1, b2) for optimizer.")
-    parser.add_argument("--time_prediction", type=int, default="1",
-                        help="Use time prediction or not")
+    parser.add_argument("--model", type=int, default="2",
+                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2")
     
     return parser.parse_args()
 
@@ -140,6 +141,8 @@ def train_model(args, model, train_dataloader, dev_dataloader, device):
 
     update_per_batch = args.update_batch_size // args.batch_size
     model.to(device)
+
+
     for epoch in range(args.epochs):
         model.train()
         total_loss = 0
@@ -206,9 +209,15 @@ def main(input_args=None):
     # Model and optimizer
     config = RobertaConfig.from_pretrained("roberta-large", num_labels=4, hidden_dropout_prob=args.dropout)
     
-    if args.time_prediction == 1:
+    if args.model == 1:
         print("Time Prediction In Use")
         model = TemporalRelationClassificationWithTime.from_pretrained(
+            "roberta-large", config=config,
+            dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
+        )
+    elif args.model == 2:
+        print("Weighted Cross Entropy Loss")
+        model = TemporalRelationClassificationWithWeightedFCT.from_pretrained(
             "roberta-large", config=config,
             dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
         )

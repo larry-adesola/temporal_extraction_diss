@@ -4,6 +4,11 @@ from transformers import RobertaTokenizerFast, RobertaModel, AdamW, BertPreTrain
 from copy import deepcopy
 #from transformers.models.roberta.modeling_roberta import RobertaClassificationHead
 
+count_BEFORE = 5483
+count_AFTER  = 3819
+count_EQUAL  = 359
+count_VAGUE  = 1227
+
 class RobertaClassificationHead(nn.Module):
     """Head for sentence-level classification tasks."""
 
@@ -27,12 +32,12 @@ class RobertaClassificationHead(nn.Module):
 
 
 
-class TemporalRelationClassificationWithTime(BertPreTrainedModel):
+class TemporalRelationClassificationWithWeightedFCT(BertPreTrainedModel):
     config_class = RobertaConfig
     base_model_prefix = "roberta"
 
     def __init__(self, config, dataset=None):
-        super(TemporalRelationClassificationWithTime, self).__init__(config)
+        super(TemporalRelationClassificationWithWeightedFCT, self).__init__(config)
 
         # Initialize RoBERTa backbone
         self.roberta = RobertaModel(config)
@@ -96,10 +101,27 @@ class TemporalRelationClassificationWithTime(BertPreTrainedModel):
             loss /= sequence_output.size(0)
 
             # Compute loss if labels are provided
-        
-            loss_fct = nn.CrossEntropyLoss()
+
+            #weight loss here  --------
+            
+ 
+
+            label_counts = torch.tensor([count_BEFORE, count_AFTER, count_EQUAL, count_VAGUE], dtype=torch.float)
+
+            weights = 1.0 / label_counts
+            weights = weights / weights.sum()
+
+            device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            weights = weights.to(device)
+
+
+            loss_fct = nn.CrossEntropyLoss(weight=weights)
+
+            #---------- end
+
             loss += loss_fct(logits, labels)
             return loss, logits
+        
         return logits
 
 
