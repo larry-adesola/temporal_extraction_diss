@@ -8,11 +8,13 @@ from data import temprel_set
 from model import TemporalRelationClassification
 from model_time import TemporalRelationClassificationWithTime
 from model_weight_fct import TemporalRelationClassificationWithWeightedFCT
+from model_weight_no_time import TemporalRelationClassificationWithWeightNoTime
 import random
 import numpy as np
 import argparse
 from math import ceil
 import os
+
 
 
 
@@ -47,8 +49,8 @@ def parse_args():
                         help="Beta 1 parameters (b1, b2) for optimizer.")
     parser.add_argument("--beta2", type=float, default=0.999,
                         help="Beta 1 parameters (b1, b2) for optimizer.")
-    parser.add_argument("--model", type=int, default="2",
-                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2")
+    parser.add_argument("--model", type=int, default="3",
+                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3")
     
     return parser.parse_args()
 
@@ -206,6 +208,7 @@ def main(input_args=None):
     test_dataloader = DataLoader(test_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)
     dev_dataloader = DataLoader(dev_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)
 
+    
     # Model and optimizer
     config = RobertaConfig.from_pretrained("roberta-large", num_labels=4, hidden_dropout_prob=args.dropout)
     
@@ -218,6 +221,12 @@ def main(input_args=None):
     elif args.model == 2:
         print("Weighted Cross Entropy Loss")
         model = TemporalRelationClassificationWithWeightedFCT.from_pretrained(
+            "roberta-large", config=config,
+            dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
+        )
+    elif args.model == 3:
+        print("Weighted Cross Entropy Loss No Time Prediction")
+        model = TemporalRelationClassificationWithWeightNoTime.from_pretrained(
             "roberta-large", config=config,
             dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
         )
