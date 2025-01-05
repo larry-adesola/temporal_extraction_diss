@@ -9,6 +9,7 @@ from model import TemporalRelationClassification
 from model_time import TemporalRelationClassificationWithTime
 from model_weight_fct import TemporalRelationClassificationWithWeightedFCT
 from model_weight_no_time import TemporalRelationClassificationWithWeightNoTime
+from model_pos_embedding import TemporalRelationClassificationWithPOSEmbedding
 import random
 import numpy as np
 import argparse
@@ -49,8 +50,8 @@ def parse_args():
                         help="Beta 1 parameters (b1, b2) for optimizer.")
     parser.add_argument("--beta2", type=float, default=0.999,
                         help="Beta 1 parameters (b1, b2) for optimizer.")
-    parser.add_argument("--model", type=int, default="3",
-                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3")
+    parser.add_argument("--model", type=int, default="4",
+                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3 POS Embedding - 4")
     
     return parser.parse_args()
 
@@ -76,19 +77,24 @@ def calc_f1(predicted_labels, all_labels):
 
     return acc, prec, rec, f1, confusion
 
-def evaluate_model(model, dataloader, device):
+def evaluate_model(model, dataloader, device, pos_enabled):
     model.eval()
     all_labels = []
     all_predictions = []
 
     with torch.no_grad():
         for batch in dataloader:
+          if pos_enabled:
+            input_ids, attention_mask, event_ix, labels, pos_id = (item.to(device) for item in batch)
+            logits = model(input_ids, attention_mask, event_ix, pos_ids=pos_id)
+          else:
             input_ids, attention_mask, event_ix, labels = (item.to(device) for item in batch)
             logits = model(input_ids, attention_mask, event_ix)
-            predictions = torch.argmax(logits, dim=1)
 
-            all_labels.extend(labels.cpu().numpy())
-            all_predictions.extend(predictions.cpu().numpy())
+          predictions = torch.argmax(logits, dim=1)
+
+          all_labels.extend(labels.cpu().numpy())
+          all_predictions.extend(predictions.cpu().numpy())
 
     print(classification_report(all_labels, all_predictions, target_names=["BEFORE", "AFTER", "EQUAL", "VAGUE"]))
 
@@ -99,21 +105,21 @@ def evaluate_model(model, dataloader, device):
 
 
 
-def contextualise_data(tokeniser, trainsetLoc, testsetLoc):
+def contextualise_data(tokeniser, trainsetLoc, testsetLoc, model):
 
     traindevset = temprel_set(trainsetLoc)
-    traindev_tensorset = traindevset.to_tensor(tokenizer=tokeniser)
+    traindev_tensorset = traindevset.to_tensor(tokenizer=tokeniser, pos_enabled=model == 4)
     train_idx = list(range(len(traindev_tensorset)-1852))
     dev_idx = list(range(len(traindev_tensorset)-1852, len(traindev_tensorset)))
     train_tensorset = Subset(traindev_tensorset, train_idx)
     dev_tensorset = Subset(traindev_tensorset, dev_idx) #Last 21 docs
 
     testset = temprel_set(testsetLoc)
-    test_tensorset = testset.to_tensor(tokenizer=tokeniser)
+    test_tensorset = testset.to_tensor(tokenizer=tokeniser, pos_enabled=model == 4)
     return train_tensorset, dev_tensorset, test_tensorset
 
 
-def train_model(args, model, train_dataloader, dev_dataloader, device):
+def train_model(args, model, train_dataloader, dev_dataloader, device, pos_enabled):
     
     num_training_steps_per_epoch = ceil(len(train_dataloader.dataset)/float(args.update_batch_size))
     num_training_steps = args.epochs * num_training_steps_per_epoch
@@ -152,35 +158,40 @@ def train_model(args, model, train_dataloader, dev_dataloader, device):
 
         print(f"Epoch {epoch + 1}/{args.epochs}")
         for i, batch in enumerate(train_dataloader):
+          
+          if pos_enabled:
+            input_ids, attention_mask, event_ix, labels, pos_id = (item.to(device) for item in batch)
+            loss, logits = model(input_ids, attention_mask, event_ix, labels, pos_id)
+          
+          else:
             input_ids, attention_mask, event_ix, labels = (item.to(device) for item in batch)
-
-            #optimizer.zero_grad()
             loss, logits = model(input_ids, attention_mask, event_ix, labels)
 
-            loss /= update_per_batch
-            loss.backward()
-            
-            if (i+1) % update_per_batch == 0 or (i+1) == len(train_dataloader):
-                # global_loss.backward()
 
-                torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+          loss /= update_per_batch
+          loss.backward()
+          
+          if (i+1) % update_per_batch == 0 or (i+1) == len(train_dataloader):
+              # global_loss.backward()
 
-                optimizer.step()
-                scheduler.step()
-                model.zero_grad()
+              torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 
-            # optimizer.step()
-            # scheduler.step()
+              optimizer.step()
+              scheduler.step()
+              model.zero_grad()
 
-            total_loss += loss.item()
-            predictions = torch.argmax(logits, dim=1)
-            correct += (predictions == labels).sum().item()
-            total += labels.size(0)
+          # optimizer.step()
+          # scheduler.step()
+
+          total_loss += loss.item()
+          predictions = torch.argmax(logits, dim=1)
+          correct += (predictions == labels).sum().item()
+          total += labels.size(0)
 
         print(f"Train Loss: {total_loss / len(train_dataloader):.4f}, Train Accuracy: {correct / total:.4f}")
 
         # Evaluate on dev set
-        evaluate_model(model, dev_dataloader, device)
+        evaluate_model(model, dev_dataloader, device, pos_enabled)
 
 
 def main(input_args=None):
@@ -202,7 +213,7 @@ def main(input_args=None):
     
     # Tokenizer and datasets
     tokeniser = RobertaTokenizerFast.from_pretrained("roberta-large")
-    train_dataset, dev_dataset, test_dataset = contextualise_data(tokeniser, trainsetLoc, testsetLoc)
+    train_dataset, dev_dataset, test_dataset = contextualise_data(tokeniser, trainsetLoc, testsetLoc, args.model)
     
     train_dataloader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle=True, num_workers=num_workers)
     test_dataloader = DataLoader(test_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)
@@ -230,6 +241,12 @@ def main(input_args=None):
             "roberta-large", config=config,
             dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
         )
+    elif args.model == 4:
+        print("POS Tagging")
+        model = TemporalRelationClassificationWithPOSEmbedding.from_pretrained(
+            "roberta-large", config=config,
+            dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
+        )
     else:
         model = TemporalRelationClassification.from_pretrained(
             "roberta-large", config=config,
@@ -238,11 +255,11 @@ def main(input_args=None):
     
     # Training
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    train_model(args, model, train_dataloader, dev_dataloader, device)
+    train_model(args, model, train_dataloader, dev_dataloader, device, args.model==4)
 
 
     print(f"Test Stats")
-    evaluate_model(model, test_dataloader, device)
+    evaluate_model(model, test_dataloader, device, args.model==4)
 
 if __name__ == "__main__":
     main()
