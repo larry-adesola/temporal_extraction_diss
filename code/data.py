@@ -133,8 +133,10 @@ class temprel_set:
 
       event_ix_pair = []
       for j, offset_pair in enumerate(tokenized_output['offset_mapping'][i]):
-          if (offset_pair[0] == self.temprel_ee[i].event_offset[0] or\
-              offset_pair[0] == self.temprel_ee[i].event_offset[1]) and\
+          if ((offset_pair[0] == self.temprel_ee[i].event_offset[0] 
+          or offset_pair[0] + 1 == self.temprel_ee[i].event_offset[0]) or #as deberta offset doesn't increment
+              (offset_pair[0] == self.temprel_ee[i].event_offset[1] or 
+              offset_pair[0] + 1 == self.temprel_ee[i].event_offset[1])) and\
               offset_pair[0] != offset_pair[1]:
               event_ix_pair.append(j)
       if len(event_ix_pair) != 2:

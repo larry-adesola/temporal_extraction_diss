@@ -1,18 +1,19 @@
 from sklearn.metrics import classification_report
 import torch
 import torch.nn as nn
-from torch.utils.data import DataLoader, TensorDataset, Subset
-from transformers import RobertaTokenizerFast, RobertaModel, AdamW, BertPreTrainedModel, RobertaConfig, get_linear_schedule_with_warmup
-from typing import List, Optional
+from torch.utils.data import DataLoader, Subset
+from transformers import RobertaTokenizerFast, AdamW, RobertaConfig, get_linear_schedule_with_warmup, DebertaV2TokenizerFast, DebertaV2Config
+from typing import List
 from data import temprel_set
 from model import TemporalRelationClassification
 from model_time import TemporalRelationClassificationWithTime
 from model_weight_fct import TemporalRelationClassificationWithWeightedFCT
 from model_weight_no_time import TemporalRelationClassificationWithWeightNoTime
 from model_pos_embedding import TemporalRelationClassificationWithPOSEmbedding
-import random
+from model_deberta import TemporalRelationClassificationWithDebertaPOS
 import numpy as np
 import argparse
+import random
 from math import ceil
 import os
 
@@ -50,8 +51,8 @@ def parse_args():
                         help="Beta 1 parameters (b1, b2) for optimizer.")
     parser.add_argument("--beta2", type=float, default=0.999,
                         help="Beta 1 parameters (b1, b2) for optimizer.")
-    parser.add_argument("--model", type=int, default="4",
-                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3 POS Embedding - 4")
+    parser.add_argument("--model", type=int, default="5",
+                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3 POS Embedding - 4 Deberta & POS - 5")
     
     return parser.parse_args()
 
@@ -108,14 +109,14 @@ def evaluate_model(model, dataloader, device, pos_enabled):
 def contextualise_data(tokeniser, trainsetLoc, testsetLoc, model):
 
     traindevset = temprel_set(trainsetLoc)
-    traindev_tensorset = traindevset.to_tensor(tokenizer=tokeniser, pos_enabled=model == 4)
+    traindev_tensorset = traindevset.to_tensor(tokenizer=tokeniser, pos_enabled=model >= 4)
     train_idx = list(range(len(traindev_tensorset)-1852))
     dev_idx = list(range(len(traindev_tensorset)-1852, len(traindev_tensorset)))
     train_tensorset = Subset(traindev_tensorset, train_idx)
     dev_tensorset = Subset(traindev_tensorset, dev_idx) #Last 21 docs
 
     testset = temprel_set(testsetLoc)
-    test_tensorset = testset.to_tensor(tokenizer=tokeniser, pos_enabled=model == 4)
+    test_tensorset = testset.to_tensor(tokenizer=tokeniser, pos_enabled=model >= 4)
     return train_tensorset, dev_tensorset, test_tensorset
 
 
@@ -212,7 +213,11 @@ def main(input_args=None):
     num_workers = args.num_workers
     
     # Tokenizer and datasets
-    tokeniser = RobertaTokenizerFast.from_pretrained("roberta-large")
+    if args.model == 5:
+      tokeniser = DebertaV2TokenizerFast.from_pretrained("microsoft/deberta-v3-large")
+    else:
+      tokeniser = RobertaTokenizerFast.from_pretrained("roberta-large")
+
     train_dataset, dev_dataset, test_dataset = contextualise_data(tokeniser, trainsetLoc, testsetLoc, args.model)
     
     train_dataloader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle=True, num_workers=num_workers)
@@ -247,6 +252,13 @@ def main(input_args=None):
             "roberta-large", config=config,
             dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
         )
+    elif args.model == 5:
+        print("DEBERTA & POS Tagging")
+        config = DebertaV2Config.from_pretrained("microsoft/deberta-v3-large", num_labels=4, hidden_dropout_prob=args.dropout)
+        model = TemporalRelationClassificationWithDebertaPOS.from_pretrained(
+            "microsoft/deberta-v3-large", config=config,
+            dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
+        )
     else:
         model = TemporalRelationClassification.from_pretrained(
             "roberta-large", config=config,
@@ -255,11 +267,11 @@ def main(input_args=None):
     
     # Training
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    train_model(args, model, train_dataloader, dev_dataloader, device, args.model==4)
+    train_model(args, model, train_dataloader, dev_dataloader, device, args.model>=4)
 
 
     print(f"Test Stats")
-    evaluate_model(model, test_dataloader, device, args.model==4)
+    evaluate_model(model, test_dataloader, device, args.model>=4)
 
 if __name__ == "__main__":
     main()
