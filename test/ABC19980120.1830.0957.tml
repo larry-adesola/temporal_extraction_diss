@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+ABC<TIMEX3 tid="t93" type="DATE" value="1998-01-20" temporalFunction="false" functionInDocument="CREATION_TIME">19980120</TIMEX3>.1830.0957 REPORTAGEM
+
+
+<s>Por sua parte, Fidel Castro é o derradeiro sobrevivente político.</s>
+<s>As pessoas já <EVENT eid="e1" class="I_ACTION" stem="prever" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">previram</EVENT> a sua <EVENT eid="e86" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> tantas vezes, e os EUA <EVENT eid="e2" class="I_ACTION" stem="tentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tentaram</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="antecipar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">antecipá</EVENT>-la por várias ocasiões.</s>
+<s>Repetidamente, ele <EVENT eid="e87" class="OCCURRENCE" stem="resistir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">resiste</EVENT>.</s>
+<s><EVENT eid="e7" class="OCCURRENCE" stem="sobreviver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Sobreviveu</EVENT> e às vezes <EVENT eid="e8" class="OCCURRENCE" stem="iludir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">iludiu</EVENT> oito presidentes americanos.</s>
+<s>Fidel Castro <EVENT eid="e9" class="OCCURRENCE" stem="convidar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">convidou</EVENT> João Paulo a <EVENT eid="e11" class="OCCURRENCE" stem="vir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vir</EVENT> por uma razão.</s>
+<s>Esta é claramente uma oportunidade para Cuba parecer bem a nível internacional.</s>
+
+<s>O mundo inteiro vai <EVENT eid="e15" class="PERCEPTION" stem="ver" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">ver</EVENT> as imagens do Papa em Cuba.</s>
+<s>Vão <EVENT eid="e16" class="PERCEPTION" stem="ver" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">ver</EVENT> as imagens do Papa com Fidel Castro.</s>
+<s>Vai <EVENT eid="e18" class="OCCURRENCE" stem="dar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">dar</EVENT> ao resto do mundo a <EVENT eid="e90" class="I_STATE" stem="visão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visão</EVENT> de que Cuba é <EVENT eid="e385" class="STATE" stem="igual" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">igual</EVENT> a qualquer outra nação, algo que os EUA, naturalmente, <EVENT eid="e22" class="I_ACTION" stem="tentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tentaram</EVENT> <EVENT eid="e24" class="I_ACTION" stem="convencer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">convencer</EVENT> o mundo que não é.</s>
+
+<s>Durante <TIMEX3 tid="t94" type="DURATION" value="P40Y" mod="EQUAL_OR_LESS" temporalFunction="false" functionInDocument="NONE">quase quarenta anos</TIMEX3>, os Estados Unidos <EVENT eid="e26" class="REPORTING" stem="afirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afirmaram</EVENT> categoricamente que não <EVENT eid="e99" class="I_ACTION" stem="tolerar" aspect="NONE" tense="C" polarity="NEG" pos="VERB">tolerariam</EVENT> um <EVENT eid="e97" class="STATE" stem="regime" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">regime</EVENT> totalitário no seu próprio quintal.</s>
+<s>Foi o <EVENT eid="e240" class="OCCURRENCE" stem="embargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">embargo</EVENT> económico e político americano que <EVENT eid="e30" class="ASPECTUAL" stem="manter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manteve</EVENT> Cuba <EVENT eid="e381" class="STATE" stem="em" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">numa</EVENT> caixa.</s>
+
+<s>O aspeto positivo principal de Castro <EVENT eid="e32" class="OCCURRENCE" stem="convidar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">convidar</EVENT> o Papa é internacional, para <EVENT eid="e100" class="I_STATE" stem="poder" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">poder</EVENT> <EVENT eid="e35" class="REPORTING" stem="dizer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dizer</EVENT> ao resto do mundo que este governo não é tão <EVENT eid="e382" class="STATE" stem="fechado" aspect="NONE" tense="PI" polarity="NEG" pos="ADJECTIVE">fechado</EVENT>, tão <EVENT eid="e383" class="STATE" stem="intolerante" aspect="NONE" tense="PI" polarity="NEG" pos="ADJECTIVE">intolerante</EVENT>, tão <EVENT eid="e384" class="STATE" stem="totalitário" aspect="NONE" tense="PI" polarity="NEG" pos="ADJECTIVE">totalitário</EVENT> como alguns o <EVENT eid="e38" class="I_ACTION" stem="fazer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">fazem</EVENT> parecer.</s>
+
+<s>Um dos cenários bastante <EVENT eid="e103" class="REPORTING" stem="referir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">referidos</EVENT> antes da <EVENT eid="e42" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> é que, através do Papa, Cuba, ainda <EVENT eid="e44" class="OCCURRENCE" stem="liderar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">liderada</EVENT> por Castro, pode <EVENT eid="e45" class="ASPECTUAL" stem="começar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">começar</EVENT> uma <EVENT eid="e107" class="STATE" stem="relação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relação</EVENT> mais produtiva com o mundo.</s>
+<s>Isso, por sua vez, <EVENT eid="e48" class="OCCURRENCE" stem="pressionar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">pressionará</EVENT> Washington a <EVENT eid="e50" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">mudar</EVENT>.</s>
+
+<s>Os observadores que <EVENT eid="e51" class="I_ACTION" stem="procurar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">procurem</EVENT> uma <EVENT eid="e52" class="OCCURRENCE" stem="batalha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">batalha</EVENT> entre representantes intransigentes e ideologias muito diferentes muito provavelmente vão ficar <EVENT eid="e53" class="STATE" stem="desapontar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">desapontados</EVENT>.</s>
+
+<s>Castro disse que se pode ser comunista e mesmo assim ser cristão.</s>
+<s><EVENT eid="e56" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Diz</EVENT> que ele e o Papa <EVENT eid="e57" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">querem</EVENT> ambos <EVENT eid="e59" class="ASPECTUAL" stem="acabar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">acabar</EVENT> com a <EVENT eid="e60" class="OCCURRENCE" stem="exploração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">exploração</EVENT> do homem pelo homem.</s>
+<s>A questão é em quem os cubanos vão <EVENT eid="e378" class="STATE" stem="acreditar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">acreditar</EVENT>.</s>
+
+<s>O principal aspeto negativo é o <EVENT eid="e109" class="I_STATE" stem="risco" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">risco</EVENT> de que a <EVENT eid="e63" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> do Papa <EVENT eid="e64" class="I_ACTION" stem="convencer" aspect="NONE" tense="PC" polarity="POS" pos="VERB">convença</EVENT> muitos mais cubanos a <EVENT eid="e66" class="OCCURRENCE" stem="fugir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fugir</EVENT> do governo cubano.</s>
+<s>Se assim for, então a <EVENT eid="e67" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> do Papa seria realmente o <EVENT eid="e112" class="ASPECTUAL" stem="abrir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">abrir</EVENT> de um novo capítulo nas <EVENT eid="e69" class="OCCURRENCE" stem="relação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relações</EVENT> do governo com a sua própria sociedade.</s>
+<s>Para o governo cubano, é esse o risco.</s>
+
+<s>No final da emissão desta noite, mais uma viagem à volta de Havana para ver como as coisas têm sido desde a última vez.</s>
+<s>E daqui a um momento Diane Sawyer vai ter mais algumas novidades.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e26" relatedToTime="t94" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e2" relatedToTime="t93" task="B"/>
+<TLINK lid="l3" relType="AFTER" eventID="e11" relatedToTime="t93" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e15" relatedToTime="t93" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e16" relatedToTime="t93" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e18" relatedToTime="t93" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e22" relatedToTime="t93" task="B"/>
+<TLINK lid="l8" relType="BEFORE-OR-OVERLAP" eventID="e26" relatedToTime="t93" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e38" relatedToTime="t93" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e35" relatedToTime="t93" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e45" relatedToTime="t93" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e50" relatedToTime="t93" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e57" relatedToTime="t93" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e56" relatedToTime="t93" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e378" relatedToTime="t93" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e103" eventID="e32" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e18" eventID="e16" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e7" eventID="e87" task="C"/>
+<TLINK lid="l4c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e112" eventID="e109" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP-OR-AFTER" relatedToEvent="e26" eventID="e18" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e48" eventID="e103" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e32" eventID="e30" task="C"/>
+<TLINK lid="l8c" relType="VAGUE" relatedToEvent="e109" eventID="e378" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e16" eventID="e15" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e30" eventID="e26" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP-OR-AFTER" relatedToEvent="e53" eventID="e48" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e9" eventID="e7" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e378" eventID="e56" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e87" eventID="e1" task="C"/>
+</TempEval>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891025-0157
+= 891025
+891025-0157.
+Advanced Medical Faz Aquisição
+<TIMEX3 tid="t11" type="DATE" value="1989-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">10/25/89</TIMEX3>
+WALL STREET JOURNAL (J)
+AMA HENG
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDICAL AND BIOTECHNOLOGY (MTC)
+SAN FRANCISCO
+
+
+<s>A Advanced Medical Technologies Inc. <EVENT eid="e2" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que <EVENT eid="e3" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adquiriu</EVENT> 93% de uma unidade do Henley Group Inc.</s>
+
+<s>A Advanced Medical <EVENT eid="e4" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pagou</EVENT> 106 milhões de dólares em dinheiro pela participação numa unidade da subsidiária Henley's Fisher Scientific.</s>
+<s>A unidade faz bombas intravenosas usadas por hospitais e <EVENT eid="e9" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fez</EVENT> mais de 110 milhões de dólares em <EVENT eid="e30" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> no <TIMEX3 tid="t31" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t11">ano passado</TIMEX3>, de acordo com a Advanced Medical.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e9" relatedToTime="t31" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e30" relatedToTime="t31" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e2" relatedToTime="t11" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e4" relatedToTime="t11" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e3" relatedToTime="t11" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e9" relatedToTime="t11" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e30" relatedToTime="t11" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e9" eventID="e2" task="C"/>
+</TempEval>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891026-0120
+= 891026
+891026-0120.
+Drabinsky, Presidente da Cineplex, Considera
+@ Oferta de 666 Milhões de Dólares para Adquirir Empresa
+@ ----
+@ Por Suzanne McGee
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t177" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CPX MCA RANKY
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+RECREATION, ENTERTAINMENT, TOYS, MOVIES, PHOTOGRAPHY, SPORTS (REC)
+TORONTO
+
+
+<s>Os diretores da Cineplex Odeon Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que o presidente do conselho de administração e diretor geral da companhia, Garth Drabinsky, está a <EVENT eid="e2" class="I_STATE" stem="considerar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">considerar</EVENT> <EVENT eid="e3" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">oferecer</EVENT> 780,6 milhões de dólares canadianos (666 milhões de dólares) para <EVENT eid="e5" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> a empresa.</s>
+
+<s>O conselho <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que Drabinsky e o vice-presidente Myron Gottlieb estão a <EVENT eid="e7" class="I_ACTION" stem="negociar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">negociar</EVENT> o <EVENT eid="e8" class="OCCURRENCE" stem="financiamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">financiamento</EVENT> antes de <EVENT eid="e10" class="I_ACTION" stem="oferecer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">oferecerem</EVENT> 16,40 dólares canadianos por ação para <EVENT eid="e12" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> todas as ações em circulação da Cineplex.</s>
+<s>Os diretores <EVENT eid="e13" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentaram</EVENT> que os dois executivos ainda não <EVENT eid="e14" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">chegaram</EVENT> a uma <EVENT eid="e16" class="OCCURRENCE" stem="decisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">decisão</EVENT> final para <EVENT eid="e18" class="OCCURRENCE" stem="avançar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">avançar</EVENT> com uma <EVENT eid="e19" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> e que até se <EVENT eid="e22" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">fazer</EVENT> uma <EVENT eid="e20" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> o conselho de administração <EVENT eid="e23" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> à <EVENT eid="e24" class="I_ACTION" stem="procura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">procura</EVENT> de ofertas mais altas de outros licitantes.</s>
+
+<s>Os diretores <EVENT eid="e26" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que se Drabinsky e Gottlieb <EVENT eid="e176" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">enviarem</EVENT> uma <EVENT eid="e180" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> aos acionistas até <TIMEX3 tid="t179" type="DATE" value="1989-11-22" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t177">22 de novembro</TIMEX3>, vai <EVENT eid="e29" class="OCCURRENCE" stem="reembolsar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">reembolsar</EVENT>-lhes um máximo de 8,5 milhões de dólares canadianos por despesas relacionadas com uma oferta.</s>
+
+<s>"<EVENT eid="e33" class="I_STATE" stem="considerar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Consideramos</EVENT> que a oferta dele é uma proposta <EVENT eid="e226" class="STATE" stem="aceitável" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">aceitável</EVENT>", <EVENT eid="e36" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Sandra Kolber, porta-voz da comissão de diretores independentes <EVENT eid="e37" class="OCCURRENCE" stem="constituir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">constituída</EVENT> em <TIMEX3 tid="t183" type="DATE" value="1989-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t177">maio passado</TIMEX3> para <EVENT eid="e39" class="OCCURRENCE" stem="solicitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">solicitar</EVENT> e <EVENT eid="e40" class="OCCURRENCE" stem="analisar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">analisar</EVENT> propostas à empresa, na sequência de um <EVENT eid="e43" class="OCCURRENCE" stem="diferendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diferendo</EVENT> entre Drabinsky e o principal acionista da Cineplex, a MCA Inc.</s>
+
+<s>A MCA e o outro acionista principal da Cineplex, o financista Charles Bronfman de Montreal e seus associados, <EVENT eid="e44" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordaram</EVENT> <EVENT eid="e46" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> as suas participações a uma oferta de Drabinsky a menos que uma <EVENT eid="e49" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> maior seja <EVENT eid="e50" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PC" polarity="POS" pos="VERB">feita</EVENT> por outro licitante.</s>
+<s>A MCA detém metade do capital da Cineplex e 33% dos direitos de voto por meio de ações com voto restrito, enquanto o grupo Bronfman detém cerca de 24% do capital da empresa.</s>
+
+<s>Kolber <EVENT eid="e55" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a comissão tinha <EVENT eid="e56" class="OCCURRENCE" stem="receber" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">recebido</EVENT> outras propostas.</s>
+<s>Ela <EVENT eid="e58" class="I_ACTION" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusou</EVENT>-se a <EVENT eid="e60" class="OCCURRENCE" stem="identificar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">identificar</EVENT> os outros licitantes, mas <EVENT eid="e61" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a oferta de Drabinsky "é toda em dinheiro, e é <EVENT eid="e227" class="STATE" stem="por" aspect="NONE" tense="PI" polarity="POS" pos="PREPOSITION">por</EVENT> toda a empresa".</s>
+<s>Vários analistas da Cineplex têm <EVENT eid="e64" class="I_ACTION" stem="especular" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">especulado</EVENT> que as ofertas externas recebidas pela comissão eram dececionantemente <EVENT eid="e223" class="STATE" stem="baixo" aspect="NONE" tense="PII" polarity="POS" pos="ADJECTIVE">baixas</EVENT> ou <EVENT eid="e224" class="STATE" stem="por" aspect="NONE" tense="PII" polarity="POS" pos="PREPOSITION">por</EVENT> apenas uma parte da empresa.</s>
+
+<s>"Tudo o que isto de facto estabeleceu é que a MCA e os Bronfmans <EVENT eid="e68" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordaram</EVENT> num preço pelo qual podem ser <EVENT eid="e70" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprados</EVENT>", <EVENT eid="e72" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Jeffery Logsdon, um analista da Crowell, de Weedon, em Los Angeles.</s>
+<s>"Se uma oferta se <EVENT eid="e74" class="OCCURRENCE" stem="concretizar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">concretizar</EVENT> a esse preço, os acionistas terão todas as razões para estar <EVENT eid="e192" class="STATE" stem="contente" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">contentes</EVENT>, mas ainda <EVENT eid="e81" class="STATE" stem="permanecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permanece</EVENT> a questão do financiamento".</s>
+
+<s>Em <TIMEX3 tid="t193" type="DATE" value="1989-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t177">abril passado</TIMEX3>, Drabinsky e um grupo de financiadores <EVENT eid="e82" class="I_STATE" stem="planear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">planearam</EVENT> <EVENT eid="e84" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> até 30,2% da Cineplex por 17,50 dólares canadianos por ação aos associados de Bronfman.</s>
+<s>Drabinsky, que <EVENT eid="e195" class="STATE" stem="ter" aspect="NONE" tense="C" polarity="POS" pos="VERB">teria</EVENT> o <EVENT eid="e225" class="STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direito</EVENT> de <EVENT eid="e85" class="OCCURRENCE" stem="voto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">voto</EVENT> dessas ações durante <TIMEX3 tid="t201" type="DURATION" value="P2Y" temporalFunction="false" functionInDocument="NONE">dois anos</TIMEX3>, <EVENT eid="e86" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e202" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT>, posteriormente <EVENT eid="e88" class="OCCURRENCE" stem="rejeitar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">rejeitada</EVENT> pelos órgãos reguladores, se <EVENT eid="e89" class="I_STATE" stem="destinar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">destinava</EVENT> a <EVENT eid="e91" class="I_ACTION" stem="consolidar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">consolidar</EVENT> o seu <EVENT eid="e205" class="STATE" stem="controlo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">controlo</EVENT> da companhia.</s>
+<s>A MCA <EVENT eid="e92" class="I_ACTION" stem="opor" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">opôs</EVENT>-se fortemente à iniciativa do grupo de Drabinsky.</s>
+
+<s>Os diretores não <EVENT eid="e94" class="I_ACTION" stem="indicar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">indicaram</EVENT> a fonte de financiamento da nova proposta de Drabinsky, mas <EVENT eid="e98" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que a MCA e os associados a Bronfman <EVENT eid="e99" class="I_ACTION" stem="acordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acordaram</EVENT> em princípio em <EVENT eid="e101" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> por 57 milhões de dólares e, em seguida, <EVENT eid="e207" class="OCCURRENCE" stem="alugar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">alugar</EVENT> sob leasing à Cineplex o complexo de 18 salas de cinema na Universal City, na Califórnia, se Drabinsky <EVENT eid="e103" class="OCCURRENCE" stem="ter" aspect="NONE" tense="FC" polarity="POS" pos="VERB">tiver</EVENT> sucesso numa oferta.</s>
+
+<s>"Isto está a ser <EVENT eid="e106" class="OCCURRENCE" stem="fazer" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">feito</EVENT> por <EVENT eid="e107" class="OCCURRENCE" stem="sugestão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sugestão</EVENT> de Drabinsky e para o <EVENT eid="e110" class="STATE" stem="satisfazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">satisfazer</EVENT>, para <EVENT eid="e112" class="I_STATE" stem="facilitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">facilitar</EVENT> o seu <EVENT eid="e208" class="STATE" stem="regime" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">regime</EVENT> de financiamento", <EVENT eid="e113" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Kolber.</s>
+
+<s>Os diretores <EVENT eid="e115" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> ainda que se uma oferta de Drabinsky <EVENT eid="e209" class="STATE" stem="ter" aspect="NONE" tense="FC" polarity="POS" pos="VERB">tiver</EVENT> sucesso, a Cineplex <EVENT eid="e118" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> que a Rank Organisation PLC <EVENT eid="e120" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PC" polarity="POS" pos="VERB">adquira</EVENT> os 51% da unidade House Film da Cineplex que não <EVENT eid="e211" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">possui</EVENT>, e <EVENT eid="e122" class="OCCURRENCE" stem="fornecer" aspect="NONE" tense="PC" polarity="POS" pos="VERB">forneça</EVENT> a Drabinsky financiamento para empréstimos adicionais.</s>
+
+<s>Michael Gifford, diretor geral da Rank, <EVENT eid="e124" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o envolvimento total da cadeia de cinemas britânica "não <EVENT eid="e126" class="OCCURRENCE" stem="ultrapassar" aspect="NONE" tense="C" polarity="NEG" pos="VERB">ultrapassaria</EVENT> os 100 milhões de dólares", mas <EVENT eid="e129" class="OCCURRENCE" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusou</EVENT>-se a <EVENT eid="e131" class="OCCURRENCE" stem="discriminar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">discriminar</EVENT> o financiamento de empréstimos e a compra proposta da Film House.</s>
+
+<s>Os acionistas da Cineplex <EVENT eid="e135" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">responderam</EVENT> friamente ao <EVENT eid="e136" class="OCCURRENCE" stem="anúncio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">anúncio</EVENT> de <TIMEX3 tid="t212" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t177">ontem</TIMEX3>.</s>
+<s>Nas <EVENT eid="e214" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> da Bolsa de Valores de Nova York, a Cineplex <EVENT eid="e138" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos <EVENT eid="e216" class="STATE" stem="11" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">11</EVENT> dólares, descendo 25 cêntimos, com mais de um milhão de ações a mudar de mãos.</s>
+<s>Na Bolsa de Toronto, a Cineplex <EVENT eid="e141" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos <EVENT eid="e217" class="STATE" stem="12,875" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">12,875</EVENT> dólares canadianos, descendo 37,5 cêntimos de dólar canadiano, bem abaixo do nível dos 16,40 dólares canadianos.</s>
+
+<s>"Onde está a oferta?" perguntou Pierre Panet-Raymond, um analista e corretor da empresa de valores de Toronto McDermid St. Lawrence Ltd.</s>
+<s>Panet-Raymond <EVENT eid="e144" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que não <EVENT eid="e145" class="I_STATE" stem="pensar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">pensa</EVENT> que Drabinsky e Gottlieb estejam "de todo <EVENT eid="e147" class="I_STATE" stem="perto" aspect="NONE" tense="PC" polarity="POS" pos="ADVERB">perto</EVENT>" de <EVENT eid="e148" class="I_ACTION" stem="arranjar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">arranjar</EVENT> <EVENT eid="e149" class="OCCURRENCE" stem="financiamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">financiamento</EVENT> e que os investidores vão <EVENT eid="e150" class="I_STATE" stem="precisar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">precisar</EVENT> de uma <EVENT eid="e222" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> sólida antes de as ações <EVENT eid="e153" class="ASPECTUAL" stem="começar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">começarem</EVENT> a <EVENT eid="e155" class="OCCURRENCE" stem="subir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">subir</EVENT> novamente.</s>
+
+<s>Drabinsky não pôde ser <EVENT eid="e156" class="OCCURRENCE" stem="contactar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">contactado</EVENT> para comentar.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e26" relatedToTime="t179" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e180" relatedToTime="t179" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e36" relatedToTime="t183" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e44" relatedToTime="t183" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e50" relatedToTime="t183" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e49" relatedToTime="t183" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e82" relatedToTime="t193" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e84" relatedToTime="t193" task="A"/>
+<TLINK lid="l9" relType="VAGUE" eventID="e86" relatedToTime="t201" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e195" relatedToTime="t201" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e202" relatedToTime="t201" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e1" relatedToTime="t177" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e5" relatedToTime="t177" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e12" relatedToTime="t177" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e6" relatedToTime="t177" task="B"/>
+<TLINK lid="l16" relType="AFTER" eventID="e10" relatedToTime="t177" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e23" relatedToTime="t177" task="B"/>
+<TLINK lid="l18" relType="AFTER" eventID="e19" relatedToTime="t177" task="B"/>
+<TLINK lid="l19" relType="AFTER" eventID="e20" relatedToTime="t177" task="B"/>
+<TLINK lid="l20" relType="AFTER" eventID="e22" relatedToTime="t177" task="B"/>
+<TLINK lid="l21" relType="OVERLAP" eventID="e24" relatedToTime="t177" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e13" relatedToTime="t177" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e26" relatedToTime="t177" task="B"/>
+<TLINK lid="l24" relType="AFTER" eventID="e180" relatedToTime="t177" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e36" relatedToTime="t177" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e44" relatedToTime="t177" task="B"/>
+<TLINK lid="l27" relType="AFTER" eventID="e50" relatedToTime="t177" task="B"/>
+<TLINK lid="l28" relType="AFTER" eventID="e49" relatedToTime="t177" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e55" relatedToTime="t177" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e61" relatedToTime="t177" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e58" relatedToTime="t177" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e72" relatedToTime="t177" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e68" relatedToTime="t177" task="B"/>
+<TLINK lid="l34" relType="AFTER" eventID="e70" relatedToTime="t177" task="B"/>
+<TLINK lid="l35" relType="OVERLAP" eventID="e81" relatedToTime="t177" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e82" relatedToTime="t177" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e84" relatedToTime="t177" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e86" relatedToTime="t177" task="B"/>
+<TLINK lid="l39" relType="VAGUE" eventID="e195" relatedToTime="t177" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e202" relatedToTime="t177" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e98" relatedToTime="t177" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e101" relatedToTime="t177" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e99" relatedToTime="t177" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e113" relatedToTime="t177" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e115" relatedToTime="t177" task="B"/>
+<TLINK lid="l46" relType="AFTER" eventID="e120" relatedToTime="t177" task="B"/>
+<TLINK lid="l47" relType="OVERLAP" eventID="e118" relatedToTime="t177" task="B"/>
+<TLINK lid="l48" relType="BEFORE" eventID="e129" relatedToTime="t177" task="B"/>
+<TLINK lid="l49" relType="BEFORE" eventID="e131" relatedToTime="t177" task="B"/>
+<TLINK lid="l50" relType="BEFORE" eventID="e124" relatedToTime="t177" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e138" relatedToTime="t177" task="B"/>
+<TLINK lid="l52" relType="BEFORE" eventID="e214" relatedToTime="t177" task="B"/>
+<TLINK lid="l53" relType="BEFORE" eventID="e141" relatedToTime="t177" task="B"/>
+<TLINK lid="l54" relType="AFTER" eventID="e222" relatedToTime="t177" task="B"/>
+<TLINK lid="l55" relType="AFTER" eventID="e155" relatedToTime="t177" task="B"/>
+<TLINK lid="l56" relType="BEFORE" eventID="e144" relatedToTime="t177" task="B"/>
+<TLINK lid="l57" relType="AFTER" eventID="e153" relatedToTime="t177" task="B"/>
+<TLINK lid="l58" relType="OVERLAP" eventID="e147" relatedToTime="t177" task="B"/>
+<TLINK lid="l59" relType="OVERLAP" eventID="e145" relatedToTime="t177" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e26" eventID="e13" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e115" eventID="e113" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e156" eventID="e144" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e144" eventID="e141" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e192" eventID="e72" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e86" eventID="e82" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e36" eventID="e26" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e82" eventID="e192" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e58" eventID="e55" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e72" eventID="e64" task="C"/>
+<TLINK lid="l11c" relType="VAGUE" relatedToEvent="e94" eventID="e92" task="C"/>
+<TLINK lid="l12c" relType="VAGUE" relatedToEvent="e92" eventID="e86" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e13" eventID="e6" task="C"/>
+<TLINK lid="l15c" relType="VAGUE" relatedToEvent="e135" eventID="e124" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e141" eventID="e138" task="C"/>
+<TLINK lid="l17c" relType="VAGUE" relatedToEvent="e64" eventID="e58" task="C"/>
+<TLINK lid="l18c" relType="VAGUE" relatedToEvent="e138" eventID="e135" task="C"/>
+<TLINK lid="l19c" relType="VAGUE" relatedToEvent="e113" eventID="e94" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e124" eventID="e115" task="C"/>
+</TempEval>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0079
+= 891027
+891027-0079.
+Di Giorgio Corp Quer
+@ Vender Certas Unidades
+<TIMEX3 tid="t26" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DIG
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+SAN FRANCISCO
+
+
+<s>A Di Giorgio Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que vai <EVENT eid="e2" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">continuar</EVENT> as <EVENT eid="e3" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> com os potenciais compradores de algumas unidades, mas ainda não <EVENT eid="e4" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">chegou</EVENT> a <EVENT eid="e5" class="I_STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> sobre nenhum <EVENT eid="e6" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócio</EVENT>.</s>
+
+<s>A Di Giorgio, um comerciante por grosso de alimentos e fabricante de produtos de construção, está à <EVENT eid="e8" class="I_STATE" stem="procura" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="NOUN">procura</EVENT> de <EVENT eid="e25" class="OCCURRENCE" stem="alternativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alternativas</EVENT> a uma <EVENT eid="e9" class="OCCURRENCE" stem="OPA" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">OPA</EVENT> não <EVENT eid="e79" class="OCCURRENCE" stem="solicitar" aspect="NONE" tense="PPA" polarity="NEG" pos="VERB">solicitada</EVENT> de 32 dólares por ação pela DIG Acquisition Corp., uma unidade da Rose Partners Limited Partnership.</s>
+<s>A DIG é o veículo que está a ser <EVENT eid="e10" class="OCCURRENCE" stem="utilizar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">utilizado</EVENT> para <EVENT eid="e12" class="OCCURRENCE" stem="conduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">conduzir</EVENT> a <EVENT eid="e13" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT>.</s>
+
+<s>Robert Mellor, vice-presidente executivo da Di Giorgio, <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a empresa <EVENT eid="e16" class="I_STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> mais dinheiro a <EVENT eid="e18" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ganhar</EVENT> com a <EVENT eid="e20" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de unidades individuais a outros do que ao <EVENT eid="e22" class="I_ACTION" stem="aceitar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aceitar</EVENT> a <EVENT eid="e23" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> da DIG.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t26" task="B"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e3" relatedToTime="t26" task="B"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e5" relatedToTime="t26" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t26" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e9" relatedToTime="t26" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e8" relatedToTime="t26" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e13" relatedToTime="t26" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e10" relatedToTime="t26" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e23" relatedToTime="t26" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e20" relatedToTime="t26" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e15" relatedToTime="t26" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP-OR-AFTER" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

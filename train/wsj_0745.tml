@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891027-0150
+= 891027
+891027-0150.
+A GM Quer Comprar até 15% da Jaguar,
+@ Aquecendo Luta com a Ford
+@ ----
+@ Por Joann S. Lublin
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t157" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+GM JAGRY F EUROP
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+AUTOMOBILES (AUT)
+LONDON
+
+<s>A General Motors Corp. <EVENT eid="e1" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">quer</EVENT> <EVENT eid="e3" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> até 15% da Jaguar PLC, <EVENT eid="e4" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">lançando</EVENT> a primeira <EVENT eid="e5" class="OCCURRENCE" stem="descarga" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">descarga</EVENT> de balas numa possível grande <EVENT eid="e6" class="OCCURRENCE" stem="batalha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">batalha</EVENT> contra a Ford Motor Co. pelo <EVENT eid="e147" class="STATE" stem="controlo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">controlo</EVENT> do fabricante de carros britânico.</s>
+
+<s>A GM <EVENT eid="e8" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT> <EVENT eid="e159" class="I_STATE" stem="permissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">permissão</EVENT> antitrust dos EUA na <TIMEX3 tid="t158" type="DATE" value="1989-W42" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">semana passada</TIMEX3> para <EVENT eid="e10" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> mais de 15 milhões de dólares em ações da Jaguar, mas <TIMEX3 tid="t161" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">ainda</TIMEX3> não <EVENT eid="e11" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">possui</EVENT> nenhuma, <EVENT eid="e149" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">de acordo com</EVENT> os funcionários da GM aqui e na sede da empresa em Detroit.</s>
+<s>O fabricante nº 1 de carros dos EUA <EVENT eid="e13" class="REPORTING" stem="escrever" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">escreveu</EVENT> depois à Jaguar que <EVENT eid="e14" class="I_STATE" stem="pretender" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pretende</EVENT> "<EVENT eid="e16" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">chegar</EVENT> a esse <EVENT eid="e150" class="STATE" stem="nível" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nível</EVENT> de 15% assim que <EVENT eid="e17" class="OCCURRENCE" stem="obter" aspect="NONE" tense="FC" polarity="POS" pos="VERB">obtiver</EVENT> <EVENT eid="e152" class="I_STATE" stem="permissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">permissão</EVENT> dos EUA para <EVENT eid="e19" class="OCCURRENCE" stem="ir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ir</EVENT> além dos 15 milhões de dólares", <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> <TIMEX3 tid="t163" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">ontem</TIMEX3> um porta-voz da Jaguar.</s>
+
+<s>A <EVENT eid="e154" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativa</EVENT> da GM segue-se à <EVENT eid="e22" class="REPORTING" stem="declaração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declaração</EVENT> de <TIMEX3 tid="t164" type="DATE" value="1989-10-24" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">terça-feira</TIMEX3> pela Ford, que detém uma participação indesejada de 12,45% na Jaguar, de que está <EVENT eid="e25" class="I_STATE" stem="preparar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">preparada</EVENT> para <EVENT eid="e27" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> toda a empresa.</s>
+<s>A GM está quase a <EVENT eid="e29" class="ASPECTUAL" stem="concluir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">concluir</EVENT> um <EVENT eid="e30" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> amigável com a Jaguar, que provavelmente <EVENT eid="e2073" class="I_STATE" stem="envolver" aspect="NONE" tense="PI" polarity="POS" pos="VERB">envolve</EVENT> uma futura participação de 30% e <EVENT eid="e2075" class="OCCURRENCE" stem="empreendimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">empreendimentos</EVENT> de produção conjunta.</s>
+<s>Os investidores especulativos, <EVENT eid="e35" class="OCCURRENCE" stem="apostar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">apostando</EVENT> num <EVENT eid="e36" class="OCCURRENCE" stem="confronto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">confronto</EVENT> iminente entre a Ford e a GM, <EVENT eid="e38" class="OCCURRENCE" stem="elevar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">elevaram</EVENT> os preços das ações da Jaguar em cinco pence (oito cêntimos americanos) para uns quase recordistas <EVENT eid="e2386" class="STATE" stem="720" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">720</EVENT> pence (11,60 dólares) no final das <EVENT eid="e39" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> da Bolsa de Londres <TIMEX3 tid="t313" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">ontem</TIMEX3>.</s>
+<s>Desde <TIMEX3 tid="t314" type="DATE" value="1989-10-24" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">terça-feira</TIMEX3>, as ações <EVENT eid="e42" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> quase 4%.</s>
+
+<s>Mas uma <EVENT eid="e2091" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">guerra</EVENT> de licitação em força entre os maiores gigantes automóveis do mundo pelo fabricante de carros de luxo líder da Grã-Bretanha parece improvável.</s>
+<s>"Não vamos <EVENT eid="e46" class="OCCURRENCE" stem="passar" aspect="NONE" tense="IR-PI+INF" polarity="NEG" pos="VERB">passar</EVENT> de um certo nível", <EVENT eid="e48" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> David N. McCammon, vice-presidente financeiro da Ford, numa <EVENT eid="e316" class="OCCURRENCE" stem="conferência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conferência</EVENT> de imprensa <TIMEX3 tid="t315" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">ontem</TIMEX3>, em Dearborn, no Michigan.</s>
+<s>"Há um preço em que nós <EVENT eid="e50" class="ASPECTUAL" stem="parar" aspect="NONE" tense="C" polarity="POS" pos="VERB">pararíamos</EVENT> de <EVENT eid="e52" class="OCCURRENCE" stem="licitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">licitar</EVENT>".</s>
+<s>Não <EVENT eid="e53" class="OCCURRENCE" stem="especificar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">especificou</EVENT> qual era.</s>
+
+<s>E <EVENT eid="e318" class="STATE" stem="pressão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pressões</EVENT> políticas poderosas podem <EVENT eid="e56" class="I_ACTION" stem="convencer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">convencer</EVENT> o governo conservador a <EVENT eid="e59" class="OCCURRENCE" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> a chamada "golden share", que limita qualquer participação individual até 15%, até a <EVENT eid="e322" class="OCCURRENCE" stem="restrição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">restrição</EVENT> <EVENT eid="e63" class="ASPECTUAL" stem="expirar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">expirar</EVENT> a <TIMEX3 tid="t325" type="DATE" value="1990-12-31" temporalFunction="false" functionInDocument="NONE">31 de dezembro de 1990</TIMEX3>.</s>
+
+<s>"Eu realmente não <EVENT eid="e64" class="I_STATE" stem="ver" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">vejo</EVENT> o governo a <EVENT eid="e66" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> algo que a Jaguar não <EVENT eid="e67" class="I_STATE" stem="querer" aspect="NONE" tense="PC" polarity="NEG" pos="VERB">queira</EVENT> durante <TIMEX3 tid="t327" type="DURATION" value="P14M" temporalFunction="true" functionInDocument="NONE" beginPoint="t157">os próximos 14 meses</TIMEX3>", <EVENT eid="e69" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Kenneth Warren, um membro conservador do Parlamento e presidente da Comissão Especial sobre Comércio e Indústria na Câmara dos Comuns da Grã-Bretanha.</s>
+<s>"A golden share é uma quota única, mas é a quota mágica".</s>
+
+<s>O governo <EVENT eid="e70" class="OCCURRENCE" stem="manter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manteve</EVENT> a quota única depois de <EVENT eid="e72" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">vender</EVENT> a sua participação na Jaguar em <TIMEX3 tid="t330" type="DATE" value="1984" temporalFunction="false" functionInDocument="NONE">1984</TIMEX3> - parte de uma prática nacionalista de proteger as empresas anteriormente pertencentes ao governo para afastar as críticas às privatizações.</s>
+<s>A restrição de 15% abrange qualquer comprador potencial, britânico ou estrangeiro.</s>
+
+<s>A Ford está <EVENT eid="e1988" class="I_STATE" stem="disposto" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">disposta</EVENT> a <EVENT eid="e82" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> 100% das ações da Jaguar se tanto o governo como os acionistas da Jaguar <EVENT eid="e84" class="I_ACTION" stem="concordar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">concordarem</EVENT> em <EVENT eid="e86" class="OCCURRENCE" stem="relaxar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">relaxar</EVENT> a barreira anti-OPAs prematuramente.</s>
+<s>Como maior acionista da Jaguar e maior fabricante de automóveis da Grã-Bretanha, a Ford pode <EVENT eid="e87" class="OCCURRENCE" stem="aquecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aquecer</EVENT> as coisas ao <EVENT eid="e89" class="I_ACTION" stem="convocar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">convocar</EVENT> uma <EVENT eid="e90" class="OCCURRENCE" stem="reunião" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reunião</EVENT> especial de acionistas e <EVENT eid="e91" class="I_ACTION" stem="pedir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">pedir</EVENT> aos acionistas para <EVENT eid="e1985" class="OCCURRENCE" stem="abandonar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">abandonarem</EVENT> os limites antecipadamente.</s>
+<s>A Ford pode <EVENT eid="e92" class="OCCURRENCE" stem="ter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ter</EVENT> êxito porque muitos acionistas são especuladores <EVENT eid="e1986" class="I_STATE" stem="entusiasta" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">entusiastas</EVENT> de <EVENT eid="e94" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ofertas</EVENT> completas ou investidores institucionais <EVENT eid="e1987" class="I_STATE" stem="infeliz" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">infelizes</EVENT> com a <EVENT eid="e95" class="I_ACTION" stem="abordagem" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abordagem</EVENT> da gestão da Jaguar às <TIMEX3 tid="t1992" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">atuais</TIMEX3> <EVENT eid="e1994" class="STATE" stem="dificuldade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dificuldades</EVENT> financeiras.</s>
+
+<s>O governo, porém, provavelmente não <EVENT eid="e97" class="OCCURRENCE" stem="ceder" aspect="NONE" tense="C" polarity="NEG" pos="VERB">cederia</EVENT> imediatamente a uma investida hostil pela Ford.</s>
+<s><EVENT eid="e101" class="OCCURRENCE" stem="abandonar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Abandonou</EVENT> uma "golden share" apenas uma vez antes - durante a <EVENT eid="e103" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> de 2,5 mil milhões de libras (4 mil milhões de dólares) pela British Petroleum Co. da Britoil PLC em <TIMEX3 tid="t1998" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3>.</s>
+
+<s>Para <EVENT eid="e104" class="OCCURRENCE" stem="seduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">seduzir</EVENT> os legisladores britânicos, a GM <EVENT eid="e105" class="I_ACTION" stem="indicar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">indicou</EVENT> que a sua <EVENT eid="e1999" class="I_STATE" stem="vontade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vontade</EVENT> de se <EVENT eid="e107" class="OCCURRENCE" stem="contentar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">contentar</EVENT> com uma participação minoritária <EVENT eid="e109" class="ASPECTUAL" stem="manter" aspect="NONE" tense="C" polarity="POS" pos="VERB">manteria</EVENT> a Jaguar como <EVENT eid="e2000" class="STATE" stem="propriedade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">propriedade</EVENT> britânica e <EVENT eid="e2001" class="STATE" stem="independente" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">independente</EVENT>.</s>
+<s><TIMEX3 tid="t2007" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">Esta semana</TIMEX3>, o gigante automóvel americano <EVENT eid="e111" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pagou</EVENT> a 10 membros da Câmara dos Comuns e a dois membros da Câmara dos Lordes para <EVENT eid="e113" class="OCCURRENCE" stem="voar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">voarem</EVENT> até Detroit e <EVENT eid="e114" class="OCCURRENCE" stem="visitar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">visitarem</EVENT> as suas fábricas lá.</s>
+<s>Apesar de a <EVENT eid="e116" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> não estar relacionada com a Jaguar, o presidente do conselho de administração da GM, Roger Smith, <EVENT eid="e117" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">respondeu</EVENT> às <EVENT eid="e118" class="OCCURRENCE" stem="pergunta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perguntas</EVENT> dos legisladores sobre isso durante o <EVENT eid="e2385" class="OCCURRENCE" stem="almoço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">almoço</EVENT> na <TIMEX3 tid="t2386" type="DATE" value="1989-10-24" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">terça-feira</TIMEX3>.</s>
+<s>Ele <EVENT eid="e119" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Jaguar "não devia ser <EVENT eid="e120" class="OCCURRENCE" stem="sufocar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">sufocada</EVENT> por ninguém", <EVENT eid="e123" class="REPORTING" stem="recordar" aspect="NONE" tense="PPI" polarity="POS" pos="ADJECTIVE">recordou</EVENT> um participante.</s>
+
+<s>A política também influencia a opinião do governo sobre as restrições anti-OPAs.</s>
+<s>Os conservadores não ousam colocar em perigo os cargos políticos marginais dos conservadores em Coventry, onde a Jaguar tem a sede, nem o governo pode facilmente desistir da proteção prometida às empresas privatizadas enquanto prossegue os planos controversos de privatizar a maioria das companhias de água e electricidade da Grã-Bretanha.</s>
+
+<s>A primeira-ministra Margaret Thatcher pode, no entanto, estar <EVENT eid="e2011" class="I_STATE" stem="recetivo" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">recetiva</EVENT> a qualquer <EVENT eid="e138" class="I_ACTION" stem="pedido" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pedido</EVENT> do presidente do conselho de administração da Jaguar Sir John Egan para a <EVENT eid="e139" class="OCCURRENCE" stem="remoção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">remoção</EVENT> precoce dessa restrição, para <EVENT eid="e141" class="I_ACTION" stem="deixar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">deixar</EVENT> a GM <EVENT eid="e142" class="OCCURRENCE" stem="acumular" aspect="NONE" tense="INF" polarity="POS" pos="VERB">acumular</EVENT> mais de 15% ou <EVENT eid="e143" class="I_ACTION" stem="colocar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">colocar</EVENT> uma <EVENT eid="e2012" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> amistosa à Ford.</s>
+<s>Em último caso, Sir John - e não o governo ou os acionistas da Jaguar - pode ser a chave para resolver a "golden share".</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e8" relatedToTime="t158" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e8" relatedToTime="t161" task="A"/>
+<TLINK lid="l3" relType="OVERLAP-OR-AFTER" eventID="e149" relatedToTime="t158" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e149" relatedToTime="t161" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e10" relatedToTime="t158" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e10" relatedToTime="t161" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e19" relatedToTime="t163" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e20" relatedToTime="t163" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e16" relatedToTime="t163" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e154" relatedToTime="t164" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e27" relatedToTime="t164" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e39" relatedToTime="t313" task="A"/>
+<TLINK lid="l13" relType="OVERLAP-OR-AFTER" eventID="e42" relatedToTime="t314" task="A"/>
+<TLINK lid="l14" relType="AFTER" eventID="e46" relatedToTime="t315" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e48" relatedToTime="t315" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e67" relatedToTime="t327" task="A"/>
+<TLINK lid="l17" relType="BEFORE-OR-OVERLAP" eventID="e64" relatedToTime="t327" task="A"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e69" relatedToTime="t327" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e72" relatedToTime="t330" task="A"/>
+<TLINK lid="l20" relType="AFTER" eventID="e94" relatedToTime="t1992" task="A"/>
+<TLINK lid="l21" relType="OVERLAP" eventID="e111" relatedToTime="t2007" task="A"/>
+<TLINK lid="l22" relType="AFTER" eventID="e3" relatedToTime="t157" task="B"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e1" relatedToTime="t157" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e8" relatedToTime="t157" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e149" relatedToTime="t157" task="B"/>
+<TLINK lid="l26" relType="AFTER" eventID="e10" relatedToTime="t157" task="B"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e19" relatedToTime="t157" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e20" relatedToTime="t157" task="B"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e16" relatedToTime="t157" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e154" relatedToTime="t157" task="B"/>
+<TLINK lid="l31" relType="VAGUE" eventID="e27" relatedToTime="t157" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e39" relatedToTime="t157" task="B"/>
+<TLINK lid="l33" relType="BEFORE-OR-OVERLAP" eventID="e42" relatedToTime="t157" task="B"/>
+<TLINK lid="l34" relType="VAGUE" eventID="e2091" relatedToTime="t157" task="B"/>
+<TLINK lid="l35" relType="OVERLAP" eventID="e46" relatedToTime="t157" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e48" relatedToTime="t157" task="B"/>
+<TLINK lid="l37" relType="BEFORE-OR-OVERLAP" eventID="e67" relatedToTime="t157" task="B"/>
+<TLINK lid="l38" relType="OVERLAP" eventID="e64" relatedToTime="t157" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e69" relatedToTime="t157" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e72" relatedToTime="t157" task="B"/>
+<TLINK lid="l41" relType="AFTER" eventID="e82" relatedToTime="t157" task="B"/>
+<TLINK lid="l42" relType="AFTER" eventID="e84" relatedToTime="t157" task="B"/>
+<TLINK lid="l43" relType="AFTER" eventID="e1985" relatedToTime="t157" task="B"/>
+<TLINK lid="l44" relType="AFTER" eventID="e94" relatedToTime="t157" task="B"/>
+<TLINK lid="l45" relType="AFTER" eventID="e97" relatedToTime="t157" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e111" relatedToTime="t157" task="B"/>
+<TLINK lid="l47" relType="BEFORE" eventID="e119" relatedToTime="t157" task="B"/>
+<TLINK lid="l48" relType="AFTER" eventID="e2012" relatedToTime="t157" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e111" eventID="e105" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e87" eventID="e1988" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e56" eventID="e53" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e119" eventID="e117" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e69" eventID="e56" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e2091" eventID="e42" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e92" eventID="e87" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e117" eventID="e111" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e42" eventID="e38" task="C"/>
+<TLINK lid="l10c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e97" eventID="e92" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e20" eventID="e8" task="C"/>
+<TLINK lid="l12c" relType="VAGUE" relatedToEvent="e154" eventID="e20" task="C"/>
+<TLINK lid="l13c" relType="AFTER" relatedToEvent="e38" eventID="e29" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e29" eventID="e154" task="C"/>
+<TLINK lid="l15c" relType="AFTER" relatedToEvent="e101" eventID="e97" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e53" eventID="e48" task="C"/>
+<TLINK lid="l17c" relType="BEFORE" relatedToEvent="e105" eventID="e101" task="C"/>
+<TLINK lid="l18c" relType="AFTER" relatedToEvent="e48" eventID="e2091" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

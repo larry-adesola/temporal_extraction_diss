@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0017
+= 891102
+891102-0017.
+Dossier de Negócios - Coleco Industries Inc.:
+@ Fabricante de Brinquedos em Má Situação Submete
+@ Plano de Prevenção de Falência
+<TIMEX3 tid="t24" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CLO
+BANKRUPTCIES (BCY)
+
+
+<s>A Coleco Industries Inc., um fabricante de brinquedos <TIMEX3 tid="t30" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t24">outrora</TIMEX3> bem <EVENT eid="e1988" class="STATE" stem="sucedido" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">sucedido</EVENT>, cujas ações <EVENT eid="e1" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atingiram</EVENT> os 65 dólares por ação no <TIMEX3 tid="t26" type="DATE" value="198" mod="START" temporalFunction="false" functionInDocument="NONE">início de 1980</TIMEX3>, <EVENT eid="e2" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apresentou</EVENT> um plano de reorganização para prevenir falência, que <EVENT eid="e3" class="OCCURRENCE" stem="prever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">prevê</EVENT> apenas 1,125 cêntimos por ação para os acionistas ordinários.</s>
+
+<s>Segundo o plano, os credores quirografários, a quem são <EVENT eid="e4" class="STATE" stem="dever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">devidos</EVENT> cerca de 430 milhões de dólares, <EVENT eid="e5" class="OCCURRENCE" stem="receber" aspect="NONE" tense="C" polarity="POS" pos="VERB">receberiam</EVENT> cerca de 92 milhões de dólares, ou 21 cêntimos por cada dólar que lhes é <EVENT eid="e7" class="STATE" stem="dever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">devido</EVENT>.</s>
+<s>Além disso, <EVENT eid="e8" class="OCCURRENCE" stem="receber" aspect="NONE" tense="FI" polarity="POS" pos="VERB">receberão</EVENT> ações da companhia reorganizada, que se <EVENT eid="e9" class="STATE" stem="chamar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">chamará</EVENT> Ranger Industries Inc.</s>
+<s>Depois destes <EVENT eid="e1990" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamentos</EVENT>, cerca de 225.000 dólares serão <EVENT eid="e1991" class="OCCURRENCE" stem="disponibilizar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">disponibilizados</EVENT> para os 20 milhões de ações ordinárias em circulação.</s>
+
+<s>As ações da companhia de Avon, no Connecticut, <EVENT eid="e10" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atingiram</EVENT> um máximo em <TIMEX3 tid="t27" type="DATE" value="1983" temporalFunction="false" functionInDocument="NONE">1983</TIMEX3> depois de ter <EVENT eid="e11" class="OCCURRENCE" stem="revelar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">revelado</EVENT> o seu computador de casa Adam, mas o produto estava <EVENT eid="e12" class="STATE" stem="afetar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">afetado</EVENT> por falhas e as fortunas da companhia <EVENT eid="e13" class="OCCURRENCE" stem="afundar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afundaram</EVENT>.</s>
+<s>Mas a Coleco <EVENT eid="e14" class="OCCURRENCE" stem="recuperar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recuperou</EVENT> com a <EVENT eid="e1993" class="OCCURRENCE" stem="introdução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">introdução</EVENT> das bonecas Cabbage Patch, cujas vendas <EVENT eid="e15" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atingiram</EVENT> os 600 milhões de dólares em <TIMEX3 tid="t28" type="DATE" value="1985" temporalFunction="false" functionInDocument="NONE">1985</TIMEX3>.</s>
+<s>Mas, quando a moda <EVENT eid="e16" class="OCCURRENCE" stem="acabar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acabou</EVENT>, a Coleco não <EVENT eid="e17" class="OCCURRENCE" stem="conseguir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">conseguiu</EVENT> <EVENT eid="e18" class="OCCURRENCE" stem="inventar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">inventar</EVENT> outro sucesso e <EVENT eid="e19" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT> <EVENT eid="e1995" class="STATE" stem="proteção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proteção</EVENT> jurídica contra falência, em <TIMEX3 tid="t29" type="DATE" value="1988-07" temporalFunction="false" functionInDocument="NONE">julho de 1988</TIMEX3>.</s>
+
+<s>O plano foi <EVENT eid="e20" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apresentado</EVENT> em conjunto com os credores quirografários no tribunal federal de falências em Nova Iorque e deve ser <EVENT eid="e22" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aprovado</EVENT> pelo tribunal.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e18" relatedToTime="t29" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e18" relatedToTime="t24" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e20" eventID="e17" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e5" eventID="e2" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e17" eventID="e14" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e14" eventID="e10" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e8" eventID="e5" task="C"/>
+</TempEval>

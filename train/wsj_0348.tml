@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TempEval>
+
+WSJ891101-0016
+= 891101
+891101-0016.
+Dossier de Negócios - Ogden Corp.:
+@ Ogden Estima que Unidade Teve
+@ Aumento no Lucro Líquido no Terceiro Trimestre
+<TIMEX3 tid="t28" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+OG
+EARNINGS (ERN)
+
+<s>A Ogden Projects Inc. <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que o lucro líquido <EVENT eid="e2" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> para os <EVENT eid="e141" class="STATE" stem="6,6" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">6,6</EVENT> milhões de dólares, ou 18 cêntimos por ação, no <TIMEX3 tid="t29" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">terceiro trimestre</TIMEX3>.</s>
+
+<s>A empresa de Fairfield, na Nova Jérsia, que é detida em 92% pela Ogden Corp., de Nova Iorque, <EVENT eid="e30" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um lucro líquido de 1,1 milhões de dólares, ou quatro cêntimos por ação, <TIMEX3 tid="t89" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t29">há um ano</TIMEX3>.</s>
+<s>As receitas <EVENT eid="e5" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> a pique para os <EVENT eid="e142" class="STATE" stem="101,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">101,7</EVENT> milhões de dólares desde os <EVENT eid="e143" class="STATE" stem="39,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">39,5</EVENT> milhões de dólares.</s>
+
+<s>A Ogden Projects, cujas ações <EVENT eid="e6" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começaram</EVENT> a ser <EVENT eid="e7" class="OCCURRENCE" stem="negociar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">negociadas</EVENT> na Bolsa de Valores de Nova Iorque em <TIMEX3 tid="t37" type="DATE" value="1989-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">agosto</TIMEX3>, <EVENT eid="e8" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> <TIMEX3 tid="t38" type="DATE" value="1989-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">ontem</TIMEX3> nos <EVENT eid="e40" class="STATE" stem="26,875" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">26,875 dólares</EVENT>, uma queda de 75 cêntimos.</s>
+<s>As ações <EVENT eid="e9" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começaram</EVENT> a ser <EVENT eid="e10" class="OCCURRENCE" stem="negociar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">negociadas</EVENT> neste <TIMEX3 tid="t41" type="DATE" value="1989-SU" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">verão</TIMEX3> a <EVENT eid="e144" class="STATE" stem="14" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">14</EVENT> dólares cada.</s>
+
+<s>A Ogden Projects, que faz negócios na recuperação de resíduos sólidos e limpeza de resíduos perigosos, <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e16" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> 13 <EVENT eid="e42" class="STATE" stem="instalação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">instalações</EVENT> em operação, subindo das <EVENT eid="e47" class="STATE" stem="sete" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">sete</EVENT> de <TIMEX3 tid="t158" type="DATE" value="1988-11" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">há um ano</TIMEX3>.</s>
+
+<s>Entretanto, a Ogden Corp., que também tem negócios na manutenção e gestão de edifícios, <EVENT eid="e23" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um <EVENT eid="e145" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido no <TIMEX3 tid="t52" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">terceiro trimestre</TIMEX3> de 27,1 milhões de dólares, ou 67 cêntimos por ação, mais do dobro dos <EVENT eid="e146" class="STATE" stem="13,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">13,5</EVENT> milhões de dólares, ou 34 cêntimos por ação, de <TIMEX3 tid="t55" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t52">há um ano</TIMEX3>.</s>
+<s>A receita <EVENT eid="e24" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 33% para os <EVENT eid="e147" class="STATE" stem="378,1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">378,1</EVENT> milhões dólares desde os <EVENT eid="e148" class="STATE" stem="283,8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">283,8</EVENT> milhões dólares.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e1" relatedToTime="t29" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e30" relatedToTime="t89" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e6" relatedToTime="t37" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e6" relatedToTime="t38" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e8" relatedToTime="t37" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e8" relatedToTime="t38" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e9" relatedToTime="t41" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e16" relatedToTime="t158" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e15" relatedToTime="t158" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e23" relatedToTime="t55" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e23" relatedToTime="t52" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e1" relatedToTime="t28" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e30" relatedToTime="t28" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e6" relatedToTime="t28" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e8" relatedToTime="t28" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e9" relatedToTime="t28" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e16" relatedToTime="t28" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e15" relatedToTime="t28" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e23" relatedToTime="t28" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e24" relatedToTime="t28" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e9" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e23" eventID="e15" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e15" eventID="e9" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e5" eventID="e30" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e24" eventID="e23" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e30" eventID="e1" task="C"/>
+</TempEval>

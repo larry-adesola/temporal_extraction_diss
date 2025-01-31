@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TempEval>
+
+
+SJMN91-06338157
+06338157
+Photo; PHOTO: Sununu; (Photo ran in PM editions only)
+US; GOVERNMENT; OFFICIAL; RESIGN; CONTROVERSY
+
+
+<s>Um dos filhos do presidente Bush <EVENT eid="e64" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informou</EVENT> o chefe de gabinete da Casa Branca John Sununu que ele <EVENT eid="e65" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perdeu</EVENT> muito do seu apoio entre os republicanos, <EVENT eid="e68" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">pedindo</EVENT> a Sununo um esforço intenso para <EVENT eid="e83" class="STATE" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> o seu trabalho ao <EVENT eid="e84" class="OCCURRENCE" stem="demonstrar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">demonstrar</EVENT> o seu apoio ao Partido Republicano, <EVENT eid="e69" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> na <TIMEX3 tid="t70" type="DATE" value="1991-12-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t66">segunda-feira</TIMEX3> fontes da Casa Branca e dos republicanos.</s>
+<s>O filho de Bush, George, <EVENT eid="e85" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a Sununo na <TIMEX3 tid="t73" type="DATE" value="1991-11-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t66">quarta-feira</TIMEX3> que ele havia <EVENT eid="e75" class="OCCURRENCE" stem="alienar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">alienado</EVENT> membros do Gabinete, os funcionários da Casa Branca e a comunidade política republicana, <EVENT eid="e76" class="OCCURRENCE" stem="criar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">criando</EVENT> uma situação que coloca a sua eficácia em dúvida significativa, <EVENT eid="e77" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> as fontes.</s>
+Sununu luta para manter o emprego
+<s>A <EVENT eid="e1" class="OCCURRENCE" stem="mensagem" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mensagem</EVENT> para o chefe de gabinete <EVENT eid="e2" class="I_STATE" stem="destinar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">destinava</EVENT>-se a ser <EVENT eid="e4" class="OCCURRENCE" stem="tomar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tomada</EVENT> como uma <EVENT eid="e5" class="OCCURRENCE" stem="sugestão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sugestão</EVENT> a Sununu para <EVENT eid="e89" class="I_ACTION" stem="pedir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">pedir</EVENT> a <EVENT eid="e7" class="OCCURRENCE" stem="demissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">demissão</EVENT>, <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> uma fonte altamente colocada.</s>
+<s>Em vez disso, Sununu <EVENT eid="e9" class="I_ACTION" stem="procurar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">procurou</EVENT> <EVENT eid="e11" class="OCCURRENCE" stem="provar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">provar</EVENT> ao presidente que os seus apoiantes <EVENT eid="e12" class="OCCURRENCE" stem="superar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">superam</EVENT> os seus críticos e que ele deve <EVENT eid="e13" class="STATE" stem="permanecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">permanecer</EVENT> no seu posto.</s>
+<s>Um alto funcionário <EVENT eid="e15" class="REPORTING" stem="descrever" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">descreveu</EVENT> na <TIMEX3 tid="t78" type="DATE" value="1991-12-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t66">segunda-feira</TIMEX3> a Casa Branca como ``uma coleção de pequenos grupos de assessores em <EVENT eid="e16" class="STATE" stem="suspense" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">suspense</EVENT>'', à <EVENT eid="e17" class="I_STATE" stem="espera" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">espera</EVENT> de <EVENT eid="e19" class="PERCEPTION" stem="ver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ver</EVENT> se Sununu <EVENT eid="e20" class="OCCURRENCE" stem="sobreviver" aspect="NONE" tense="PI" polarity="POS" pos="VERB">sobrevive</EVENT>.</s>
+<s>Uma fonte do Partido Republicano, <EVENT eid="e21" class="OCCURRENCE" stem="falar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">falando</EVENT> de um <EVENT eid="e80" class="OCCURRENCE" stem="telefonema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">telefonema</EVENT> do chefe de gabinete a um líder republicano, <EVENT eid="e24" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que Sununu se <EVENT eid="e25" class="OCCURRENCE" stem="queixar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">queixava</EVENT> que "o laço está a <EVENT eid="e26" class="OCCURRENCE" stem="apertar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">apertar</EVENT>-se no meu pescoço, e <EVENT eid="e28" class="I_STATE" stem="precisar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">preciso</EVENT> da sua <EVENT eid="e29" class="OCCURRENCE" stem="ajuda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ajuda</EVENT>".</s>
+<s>Outra fonte altamente colocada <EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o filho do presidente se <EVENT eid="e31" class="OCCURRENCE" stem="reunir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reuniu</EVENT> com Sununu na <TIMEX3 tid="t81" type="DATE" value="1991-W48" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t66">semana passada</TIMEX3>, depois de ter <EVENT eid="e33" class="OCCURRENCE" stem="ter" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">tido</EVENT> uma série de <EVENT eid="e35" class="OCCURRENCE" stem="conversa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversas</EVENT> sobre a estrutura do pessoal da Casa Branca e da campanha com outros apoiantes de Bush e ativistas do Partido Republicano.</s>
+<s>A fonte <EVENT eid="e37" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o jovem Bush ``<EVENT eid="e38" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deu</EVENT> a Sununu um panorama" dos problemas que o presidente está a <EVENT eid="e39" class="OCCURRENCE" stem="encountrar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">encontrar</EVENT> por causa da carreira do chefe de gabinete''.</s>
+<s>``Foi-lhe <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">dito</EVENT>... a mensagem escrita à mão estava <EVENT eid="e317" class="STATE" stem="em" aspect="NONE" tense="PII" polarity="POS" pos="PREPOSITION">na</EVENT> parede'', <EVENT eid="e43" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a fonte <TIMEX3 tid="t87" type="DATE" value="1991-12-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t66">segunda-feira</TIMEX3>.</s>
+<s>Isso, <EVENT eid="e44" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> a fonte, foi quando Sununu <EVENT eid="e46" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> a <EVENT eid="e47" class="OCCURRENCE" stem="telefonar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">telefonar</EVENT> aos republicanos do Congresso e a <EVENT eid="e48" class="I_ACTION" stem="pedir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pedir</EVENT>-lhes que <EVENT eid="e50" class="REPORTING" stem="dizer" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">dissessem</EVENT> a Bush que a ala conservadora do partido, em particular, se <EVENT eid="e53" class="OCCURRENCE" stem="opor" aspect="NONE" tense="C" polarity="POS" pos="VERB">oporia</EVENT> a que ele fosse <EVENT eid="e316" class="OCCURRENCE" stem="demitir" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">demitido</EVENT>.</s>
+<s>Os funcionários <EVENT eid="e55" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que o próprio presidente se <EVENT eid="e56" class="OCCURRENCE" stem="reunir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reuniu</EVENT> com Sununu no <TIMEX3 tid="t88" type="DATE" value="1991-12-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t66">domingo</TIMEX3>.</s>
+<s>Uma fonte <EVENT eid="e57" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e58" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultado</EVENT> dessa <EVENT eid="e59" class="OCCURRENCE" stem="sessão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sessão</EVENT> não foi claro.</s>
+
+ANN DEVROY, Washington Post
+USA
+Washington
+Morning Final
+SJ
+San Jose Mercury News
+911203
+Tuesday
+December
+4A
+1991
+WEST
+PHOTO
+CA
+326
+<TIMEX3 tid="t66" type="DATE" value="1991-12-03" temporalFunction="false" functionInDocument="CREATION_TIME">Terça-feira, 3 de dezembro de 1991</TIMEX3>
+00338157,SJ1
+Copyright 1991, San Jose Mercury News
+1
+ENG
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e19" relatedToTime="t78" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e16" relatedToTime="t78" task="A"/>
+<TLINK lid="l3" relType="OVERLAP-OR-AFTER" eventID="e13" relatedToTime="t78" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e9" relatedToTime="t78" task="A"/>
+<TLINK lid="l5" relType="BEFORE-OR-OVERLAP" eventID="e33" relatedToTime="t81" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e30" relatedToTime="t81" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e43" relatedToTime="t88" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e43" relatedToTime="t87" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e37" relatedToTime="t88" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e37" relatedToTime="t87" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e40" relatedToTime="t88" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e40" relatedToTime="t87" task="A"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e55" relatedToTime="t88" task="A"/>
+<TLINK lid="l14" relType="VAGUE" eventID="e55" relatedToTime="t87" task="A"/>
+<TLINK lid="l15" relType="VAGUE" eventID="e44" relatedToTime="t88" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e44" relatedToTime="t87" task="A"/>
+<TLINK lid="l17" relType="BEFORE-OR-OVERLAP" eventID="e47" relatedToTime="t88" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e47" relatedToTime="t87" task="A"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e50" relatedToTime="t88" task="A"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e50" relatedToTime="t87" task="A"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e57" relatedToTime="t66" task="A"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e4" relatedToTime="t66" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e8" relatedToTime="t66" task="B"/>
+<TLINK lid="l24" relType="AFTER" eventID="e89" relatedToTime="t66" task="B"/>
+<TLINK lid="l25" relType="AFTER" eventID="e19" relatedToTime="t66" task="B"/>
+<TLINK lid="l26" relType="BEFORE-OR-OVERLAP" eventID="e16" relatedToTime="t66" task="B"/>
+<TLINK lid="l27" relType="OVERLAP-OR-AFTER" eventID="e13" relatedToTime="t66" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e9" relatedToTime="t66" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e21" relatedToTime="t66" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e80" relatedToTime="t66" task="B"/>
+<TLINK lid="l31" relType="BEFORE-OR-OVERLAP" eventID="e29" relatedToTime="t66" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e24" relatedToTime="t66" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e33" relatedToTime="t66" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e30" relatedToTime="t66" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e43" relatedToTime="t66" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e37" relatedToTime="t66" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e40" relatedToTime="t66" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e55" relatedToTime="t66" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e44" relatedToTime="t66" task="B"/>
+<TLINK lid="l40" relType="BEFORE-OR-OVERLAP" eventID="e47" relatedToTime="t66" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e50" relatedToTime="t66" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e57" relatedToTime="t66" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e37" eventID="e30" task="C"/>
+<TLINK lid="l2c" relType="VAGUE" relatedToEvent="e9" eventID="e8" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e57" eventID="e37" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e30" eventID="e24" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e24" eventID="e9" task="C"/>
+</TempEval>

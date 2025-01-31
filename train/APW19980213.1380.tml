@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980213.1380
+REPORTAGEM
+<TIMEX3 tid="t30" type="TIME" value="1998-02-13T15:44:00" temporalFunction="false" functionInDocument="CREATION_TIME">02/13/1998 15:44:00</TIMEX3>
+w2227 Cx1f wstm-
+r i Cx13  Cx11  BC-PuertoRico-HostageKil     02-13 0243
+BC-Puerto Rico-Hostage Killed,0246
+<s>Polícia <EVENT eid="e41" class="OCCURRENCE" stem="descobrir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">descobre</EVENT> corpo <EVENT eid="e40" class="OCCURRENCE" stem="desmembrar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">desmembrado</EVENT> de homem <EVENT eid="e39" class="OCCURRENCE" stem="raptar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">raptado</EVENT> quarta-feira</s>
+UR By HILARIO DE LEON QC
+UR Associated Press Writer QC
+
+
+<s>Caguas, Porto Rico (AP) - Raptores <EVENT eid="e1" class="ASPECTUAL" stem="cumprir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cumpriram</EVENT> a <EVENT eid="e42" class="I_ACTION" stem="promessa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">promessa</EVENT> de <EVENT eid="e2" class="OCCURRENCE" stem="matar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">matar</EVENT> o dono de uma loja que <EVENT eid="e3" class="OCCURRENCE" stem="tomar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tomaram</EVENT> como <EVENT eid="e43" class="OCCURRENCE" stem="refém" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">refém</EVENT> e a polícia <EVENT eid="e4" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">encontrou</EVENT> o corpo do homem, <EVENT eid="e5" class="OCCURRENCE" stem="mutilar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">mutilado</EVENT> e <EVENT eid="e44" class="OCCURRENCE" stem="decapitar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">decapitado</EVENT>, na <TIMEX3 tid="t33" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">sexta-feira</TIMEX3>, <EVENT eid="e6" class="OCCURRENCE" stem="envolver" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">envolto</EVENT> em sacos de lixo de plástico.</s>
+<s>A polícia <EVENT eid="e8" class="REPORTING" stem="confirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">confirmou</EVENT> <TIMEX3 tid="t39" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">hoje</TIMEX3> que o corpo <EVENT eid="e9" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">encontrado</EVENT> numa estrada neste município 15 milhas a sul de San Juan <EVENT eid="e10" class="STATE" stem="pertencer" aspect="NONE" tense="PII" polarity="POS" pos="VERB">pertencia</EVENT> a Jorge Hernandez, de 49 anos.</s>
+<s>Hernandez foi <EVENT eid="e11" class="OCCURRENCE" stem="raptar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">raptado</EVENT> na sua pequena loja de bairro, na cidade de Trujillo Alto, às <TIMEX3 tid="t35" type="TIME" value="1998-02-11T22:00" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">10 horas da noite de quarta-feira</TIMEX3>, <EVENT eid="e12" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informou</EVENT> a polícia.</s>
+<s>Os raptores <EVENT eid="e13" class="I_ACTION" stem="exigir" aspect="NONE" tense="PII" polarity="POS" pos="VERB">exigiam</EVENT> um <EVENT eid="e162" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgate</EVENT> de 1 milhão de dólares, mas as <EVENT eid="e47" class="OCCURRENCE" stem="negotiação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> <EVENT eid="e14" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começaram</EVENT> ao <TIMEX3 tid="t36" type="TIME" value="1998-02-12T12:00" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">meio-dia de quinta-feira</TIMEX3>.</s>
+<s>A polícia não <EVENT eid="e15" class="REPORTING" stem="dar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deu</EVENT> detalhes sobre as <EVENT eid="e48" class="I_ACTION" stem="negotiação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> com os raptores para o <EVENT eid="e50" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgate</EVENT> de Hernandez.</s>
+<s>O corpo do dono da loja foi <EVENT eid="e17" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">encontrado</EVENT> com os braços e cabeça <EVENT eid="e51" class="OCCURRENCE" stem="cortar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">cortados</EVENT> e as partes <EVENT eid="e18" class="OCCURRENCE" stem="meter" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">metidas</EVENT> em sacos de lixo separados.</s>
+<s>Um transeunte <EVENT eid="e20" class="OCCURRENCE" stem="telefonar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">telefonou</EVENT> à polícia, para <EVENT eid="e21" class="OCCURRENCE" stem="denunciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">denunciar</EVENT> o corpo na berma da estrada.</s>
+<s>O superintendente da Polícia de Porto Rico, Pedro Toledo, <EVENT eid="e22" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT> às pessoas que pudessem ser <EVENT eid="e23" class="OCCURRENCE" stem="alvo" aspect="NONE" tense="INF" polarity="POS" pos="NOUN">alvo</EVENT> de raptores para estarem <EVENT eid="e25" class="STATE" stem="alerta" aspect="NONE" tense="INFF" polarity="POS" pos="ADJECTIVE">alerta</EVENT>.</s>
+<s>``Houve um <EVENT eid="e26" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">aumento</EVENT> em Porto Rico deste tipo de coisa, e alguns destes grupos de raptores são <EVENT eid="e27" class="STATE" stem="compor" aspect="NONE" tense="PI" polarity="POS" pos="VERB">compostos</EVENT> por estrangeiros'', <EVENT eid="e28" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Toledo.</s>
+<s>Enquanto que alguns países latino-americanos, como o México e a Colômbia, têm <EVENT eid="e29" class="OCCURRENCE" stem="sofrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sofrido</EVENT> uma onda de <EVENT eid="e276" class="OCCURRENCE" stem="sequestro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sequestros</EVENT> nos <TIMEX3 tid="t37" type="DURATION" value="PXY" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">últimos anos</TIMEX3>, o <EVENT eid="e281" class="OCCURRENCE" stem="crime" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crime</EVENT> não tem sido <EVENT eid="e54" class="STATE" stem="comum" aspect="NONE" tense="PPI" polarity="NEG" pos="ADJECTIVE">comum</EVENT> nesta comunidade dos EUA.</s>
+
+(PROFILE
+(WS SL:BC-Puerto Rico-Hostage Killed; CT:i;
+(REG:CRB;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-02-13-98 1544EST</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e3" relatedToTime="t33" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e12" relatedToTime="t35" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e3" relatedToTime="t30" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e12" relatedToTime="t30" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e15" relatedToTime="t30" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e21" relatedToTime="t30" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e20" relatedToTime="t30" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e27" relatedToTime="t30" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e26" relatedToTime="t30" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e28" relatedToTime="t30" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e17" eventID="e15" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e15" eventID="e13" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e28" eventID="e22" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e22" eventID="e20" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e54" eventID="e28" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e13" eventID="e12" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e20" eventID="e17" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e8" eventID="e1" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e12" eventID="e8" task="C"/>
+</TempEval>

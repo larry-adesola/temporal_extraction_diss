@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980626.0364
+REPORTAGEM
+<TIMEX3 tid="t39" type="TIME" value="1998-06-26T07:07:00" temporalFunction="false" functionInDocument="CREATION_TIME">06/26/1998 07:07:00</TIMEX3>
+w2640 Cx1f wstm-
+r i Cx13  Cx11  BC-Germany-RightistsFine     06-26 0198
+BC-Germany-Rightists Fined
+Partido alemão de extrema direita multado por violar as leis das doações
+
+
+<s>Bona, Alemanha (AP) - Um endereço falso listado em formulários publicados de um doador francês vai <EVENT eid="e3" class="STATE" stem="custar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">custar</EVENT> à União Popular Alemã, de extrema direita, cerca de 549.000 marcos (305.000 dólares), <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> o parlamento nesta <TIMEX3 tid="t40" type="DATE" value="1998-06-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">sexta-feira</TIMEX3>.</s>
+<s>A presidente parlamentar Rita Suessmuth <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a União Popular <EVENT eid="e7" class="OCCURRENCE" stem="listar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">listou</EVENT> corretamente Jacques de Mathan como tendo <EVENT eid="e8" class="OCCURRENCE" stem="doar" aspect="NONE" tense="GERC" polarity="POS" pos="VERB">doado</EVENT> cerca de 274.500 marcos em <TIMEX3 tid="t41" type="DATE" value="1995" temporalFunction="false" functionInDocument="NONE">1995</TIMEX3>, mas <EVENT eid="e9" class="OCCURRENCE" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT>-lhe um endereço falso.</s>
+<s>A lei alemã <EVENT eid="e10" class="I_STATE" stem="exigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">exige</EVENT> que os partidos <EVENT eid="e11" class="OCCURRENCE" stem="publicar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">publiquem</EVENT> o nome e o endereço de quem <EVENT eid="e12" class="OCCURRENCE" stem="doar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">doar</EVENT> mais de 20.000 marcos (11.000 dólares).</s>
+<s>O partido anti-estrangeiros <EVENT eid="e14" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e15" class="I_STATE" stem="querer" aspect="NONE" tense="PII" polarity="POS" pos="VERB">queria</EVENT> <EVENT eid="e16" class="OCCURRENCE" stem="proteger" aspect="NONE" tense="INF" polarity="POS" pos="VERB">proteger</EVENT> o doador de possíveis <EVENT eid="e17" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT>.</s>
+<s>Suessmuth <EVENT eid="e36" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT>, no entanto, que a lei não <EVENT eid="e20" class="I_STATE" stem="permitir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">permite</EVENT> <EVENT eid="e22" class="OCCURRENCE" stem="fornecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fornecer</EVENT> um endereço falso seja por que motivo for.</s>
+<s>A multa é o dobro da dádiva, tal como previsto nas leis alemãs de financiamento dos partido.</s>
+<s>O porta-voz do partido Bernd Droese <EVENT eid="e25" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a União Popular <EVENT eid="e26" class="OCCURRENCE" stem="questionar" aspect="NONE" tense="C" polarity="POS" pos="VERB">questionaria</EVENT> a coima em tribunal.</s>
+<s>O partido extremista <EVENT eid="e28" class="OCCURRENCE" stem="obter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">obteve</EVENT> <TIMEX3 tid="t42" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">recentemente</TIMEX3> uns surpreendentes 13 por cento dos votos em <EVENT eid="e29" class="OCCURRENCE" stem="eleição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eleições</EVENT> num estado alemão oriental em <EVENT eid="e38" class="STATE" stem="depressão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">depressão</EVENT> económica, e <EVENT eid="e32" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e33" class="I_STATE" stem="ganhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ganhar</EVENT> os seus primeiros lugares no parlamento federal em <TIMEX3 tid="t43" type="DATE" value="1998-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">setembro</TIMEX3>.</s>
+<s>UR (pfg-xx)</s>
+
+(PROFILE
+(WS SL:BC-Germany-Rightists Fined; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-06-26-98 0707EDT</s>
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e5" relatedToTime="t40" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e6" relatedToTime="t41" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e9" relatedToTime="t41" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e28" relatedToTime="t43" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e28" relatedToTime="t42" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e5" relatedToTime="t39" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e6" relatedToTime="t39" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e9" relatedToTime="t39" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e14" relatedToTime="t39" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e15" relatedToTime="t39" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e36" relatedToTime="t39" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e25" relatedToTime="t39" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e28" relatedToTime="t39" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e28" eventID="e25" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e10" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e36" eventID="e14" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e6" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e14" eventID="e10" task="C"/>
+</TempEval>

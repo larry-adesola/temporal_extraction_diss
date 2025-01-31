@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0017
+= 891026
+891026-0017.
+Dossier de Negócios - Amdahl Corp.:
+@ Lucros da Firma de Computadores
+@ Caíram 37% no Terceiro Trimestre
+<TIMEX3 tid="t15" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+AMH
+EARNINGS (ERN)
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+
+
+<s>A Amdahl Corp., um fabricante de computadores mainframe, <EVENT eid="e1" class="REPORTING" stem="relatar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">relatou</EVENT> uma <EVENT eid="e16" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> acentuada no <EVENT eid="e31" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido do <TIMEX3 tid="t17" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t15">terceiro trimestre</TIMEX3>, <EVENT eid="e2" class="OCCURRENCE" stem="referir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">referindo</EVENT> os <EVENT eid="e18" class="OCCURRENCE" stem="corte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cortes</EVENT> dos preços pelos concorrentes e os efeitos adversos de um dólar americano forte.</s>
+
+<s>O lucro líquido <EVENT eid="e3" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 37% para os <EVENT eid="e115" class="STATE" stem="32,9" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">32,9</EVENT> milhões de dólares, ou 30 cêntimos de dólar por ação, face aos <EVENT eid="e116" class="STATE" stem="52,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">52,2</EVENT> milhões de dólares, ou 48 cêntimos por ação, no <TIMEX3 tid="t21" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">período homólogo do ano anterior</TIMEX3>.</s>
+<s>A receita <EVENT eid="e4" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 15% para os <EVENT eid="e117" class="STATE" stem="534,3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">534,3</EVENT> milhões de dólares face a <EVENT eid="e118" class="STATE" stem="464,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">464,7</EVENT> milhões de dólares.</s>
+
+<s>Os <EVENT eid="e5" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> da Amdahl foram um pouco piores do que o <EVENT eid="e6" class="I_STATE" stem="esperar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">esperado</EVENT>.</s>
+<s>Jay Stevens, analista da Dean Witter Reynolds, <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e8" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> que a empresa de Sunnyvale, na Califórnia, <EVENT eid="e10" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">ganhe</EVENT> 35 cêntimos por ação no <TIMEX3 tid="t22" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">trimestre</TIMEX3> e <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e114" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> mais fraco da empresa foi, em parte, o <EVENT eid="e12" class="STATE" stem="resultado" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">resultado</EVENT> de um <EVENT eid="e111" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> da concorrência da International Business Machines Corp., o principal concorrente da Amdahl nas vendas de mainframes.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e16" relatedToTime="t17" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e1" relatedToTime="t17" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e3" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e10" relatedToTime="t22" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e12" relatedToTime="t22" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e8" relatedToTime="t22" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e7" relatedToTime="t22" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e11" relatedToTime="t22" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e16" relatedToTime="t15" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e1" relatedToTime="t15" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e3" relatedToTime="t15" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e4" relatedToTime="t15" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e5" relatedToTime="t15" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e10" relatedToTime="t15" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e12" relatedToTime="t15" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e8" relatedToTime="t15" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e7" relatedToTime="t15" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e11" relatedToTime="t15" task="B"/>
+<TLINK lid="l1c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e5" eventID="e4" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e4" eventID="e3" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e7" eventID="e5" task="C"/>
+</TempEval>

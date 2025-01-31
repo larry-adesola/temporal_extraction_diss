@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+ed<TIMEX3 tid="t14" type="DATE" value="1998-01-11T23:00" temporalFunction="false" functionInDocument="CREATION_TIME">980111</TIMEX3>.1130.0089
+REPORTAGEM
+
+
+<s>As luzes estão <EVENT eid="e21" class="STATE" stem="apagar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">apagadas</EVENT> e o aquecimento está <EVENT eid="e22" class="STATE" stem="desativar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">desativado</EVENT> e não é <EVENT eid="e25" class="STATE" stem="provável" aspect="NONE" tense="PI" polarity="NEG" pos="ADJECTIVE">provável</EVENT> que os sinais vitais <EVENT eid="e1" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">mudem</EVENT> muito ao longo dos <TIMEX3 tid="t15" type="DURATION" value="PXD" temporalFunction="true" functionInDocument="NONE" beginPoint="t14">próximos dias</TIMEX3> para a população de zonas do nordeste dos EUA e do leste do Canadá.</s>
+
+<s>Uma poderosa tempestade de gelo <EVENT eid="e2" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> a <EVENT eid="e3" class="STATE" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> a sua <EVENT eid="e27" class="STATE" stem="força" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">força</EVENT>.</s>
+
+<s><TIMEX3 tid="t16" type="DATE" value="1998-01-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">Ontem</TIMEX3> o governador de Nova Iorque, George Pataki, <EVENT eid="e4" class="OCCURRENCE" stem="percorrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">percorreu</EVENT> cinco municípios que foram <EVENT eid="e5" class="I_ACTION" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarados</EVENT> em <EVENT eid="e34" class="STATE" stem="estado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estado</EVENT> de emergência.</s>
+<s><TIMEX3 tid="t17" type="DATE" value="1998-01-11" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">Hoje</TIMEX3> <EVENT eid="e6" class="ASPECTUAL" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> mais um.</s>
+
+<s><TIMEX3 tid="t18" type="DATE" value="1998-01-11" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">Hoje</TIMEX3> há helicópteros a <EVENT eid="e7" class="OCCURRENCE" stem="sobrevoar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">sobrevoar</EVENT> o norte de Nova Iorque a <EVENT eid="e8" class="I_ACTION" stem="tentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e9" class="OCCURRENCE" stem="localizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">localizar</EVENT> pessoas <EVENT eid="e10" class="OCCURRENCE" stem="isolar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">isoladas</EVENT> sem alimentos, aquecimento ou medicamentos.</s>
+
+<s>No Maine, cerca de meio milhão de pessoas ainda não <EVENT eid="e32" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> eletricidade e vai ter de <EVENT eid="e12" class="STATE" stem="viver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">viver</EVENT> <TIMEX3 tid="t20" type="DURATION" value="PXD" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">algum tempo</TIMEX3> sem ela.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t15" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e6" relatedToTime="t17" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e8" relatedToTime="t18" task="A"/>
+<TLINK lid="l4" relType="BEFORE-OR-OVERLAP" eventID="e32" relatedToTime="t20" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e1" relatedToTime="t14" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e2" relatedToTime="t14" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e6" relatedToTime="t14" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e8" relatedToTime="t14" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e32" relatedToTime="t14" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e8" eventID="e6" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e32" eventID="e8" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e6" eventID="e4" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e4" eventID="e2" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e2" eventID="e21" task="C"/>
+</TempEval>

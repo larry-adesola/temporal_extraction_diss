@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0167
+= 891030
+891030-0167.
+Conseco Quer Resgatar Ações Preferenciais
+<TIMEX3 tid="t14" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CNC
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+CARMEL, Ind.
+
+
+<s>A Conseco Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que está a <EVENT eid="e2" class="I_ACTION" stem="pedir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">pedir</EVENT> o <EVENT eid="e3" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgate</EVENT> em <TIMEX3 tid="t15" type="DATE" value="1989-12-07" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">7 de dezembro</TIMEX3> de todas as 800.000 ações emitidas em circulação das suas ações preferencias convertíveis em ações de série A a 1,875 dólares, por 26,805 dólares por ação.</s>
+
+<s>A companhia de seguros <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que todos os <EVENT eid="e16" class="STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direitos</EVENT> de conversão sobre as ações <EVENT eid="e7" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">terminarão</EVENT> a <TIMEX3 tid="t18" type="DATE" value="1989-11-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">30 de novembro</TIMEX3>.</s>
+<s>Até <TIMEX3 tid="t22" type="DATE" value="1989-11-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t18">então</TIMEX3>, a Conseco <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as ações <EVENT eid="e9" class="STATE" stem="permanecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permanecem</EVENT> convertíveis em ações ordinárias na proporção de 1,439 ações ordinárias para cada ação preferencial, o que equivale a um preço de conversão de 17,50 dólares por ação ordinária.</s>
+<s>Na Bolsa de Valores de Nova Iorque na <TIMEX3 tid="t19" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">sexta-feira</TIMEX3>, a Conseco <EVENT eid="e12" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos <EVENT eid="e20" class="STATE" stem="19,50" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">19,50</EVENT> dólares, menos 25 cêntimos.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t15" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t15" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e5" relatedToTime="t18" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e8" relatedToTime="t22" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e9" relatedToTime="t22" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e12" relatedToTime="t19" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e2" relatedToTime="t14" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e1" relatedToTime="t14" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e5" relatedToTime="t14" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e8" relatedToTime="t14" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e9" relatedToTime="t14" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e12" relatedToTime="t14" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e12" eventID="e8" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

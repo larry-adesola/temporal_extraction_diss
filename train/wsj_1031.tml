@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0025
+= 891026
+891026-0025.
+Dossier de Negócios - Philip Morris Cos.:
+@ Medida de Defesa É Adotada
+@ Por Empresa de Alimentos e Tabaco
+<TIMEX3 tid="t23" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MO
+TOBACCO PRODUCTS (TOB)
+FOOD PRODUCTS (FOD)
+
+
+<s>A Philip Morris Cos., de Nova Iorque, <EVENT eid="e1" class="OCCURRENCE" stem="adotar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adotou</EVENT> uma medida de defesa <EVENT eid="e3" class="OCCURRENCE" stem="conceber" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">concebida</EVENT> para <EVENT eid="e5" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tornar</EVENT> uma <EVENT eid="e6" class="OCCURRENCE" stem="OPA" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">OPA</EVENT> hostil proibitivamente cara.</s>
+
+<s>A empresa gigante de alimentos, tabaco e cerveja <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que irá <EVENT eid="e8" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="IR-FI+INF" polarity="POS" pos="VERB">emitir</EVENT> direitos de compra de ações ordinárias aos acionistas <EVENT eid="e9" class="OCCURRENCE" stem="registar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">registados</EVENT> a <TIMEX3 tid="t24" type="DATE" value="1989-11-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">8 de novembro</TIMEX3>.</s>
+<s>Sob certas circunstâncias, os direitos <EVENT eid="e10" class="I_STATE" stem="permitir" aspect="NONE" tense="C" polarity="POS" pos="VERB">permitiriam</EVENT> que os acionistas da Philip Morris <EVENT eid="e13" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">comprassem</EVENT> ações da companhia ou do seu adquirente por metade do preço.</s>
+
+<s>O conselho não <EVENT eid="e27" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> conhecimento de qualquer <EVENT eid="e15" class="I_ACTION" stem="tentativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tentativa</EVENT> de <EVENT eid="e17" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> da Philip Morris, <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a empresa.</s>
+<s>À <TIMEX3 tid="t25" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">data de 30 de setembro</TIMEX3>, a Philip Morris <EVENT eid="e28" class="STATE" stem="ter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">tinha</EVENT> 926 milhões de ações em circulação.</s>
+<s>Na Bolsa de Valores de Nova Iorque, as ações da Philip Morris <EVENT eid="e20" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> <TIMEX3 tid="t26" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">ontem</TIMEX3> nos 43,50 dólares cada, descendo 1 dólar.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e7" relatedToTime="t24" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e28" relatedToTime="t25" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e20" relatedToTime="t26" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e5" relatedToTime="t23" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e7" relatedToTime="t23" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e13" relatedToTime="t23" task="B"/>
+<TLINK lid="l7" relType="VAGUE" eventID="e17" relatedToTime="t23" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e18" relatedToTime="t23" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e28" relatedToTime="t23" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e20" relatedToTime="t23" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e7" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e28" eventID="e18" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e20" eventID="e28" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e18" eventID="e10" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e10" eventID="e7" task="C"/>
+</TempEval>

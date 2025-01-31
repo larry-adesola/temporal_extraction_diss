@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TempEval>
+
+WSJ891101-0040
+= 891101
+891101-0040.
+Dossier de Negócios - QVC Network Inc.:
+@ Aquisição da CVN Cos.
+@ Completada pela Companhia
+<TIMEX3 tid="t9" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+QVCN CAVN
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDIA, PUBLISHING, BROADCASTING, ELECTRONIC PUBLISHING (MED)
+RETAILING (RET)
+
+
+<s>A QVC Network Inc. <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluiu</EVENT> a <EVENT eid="e10" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> da CVN Cos. por cerca de 423 milhões milhões de dólares.</s>
+
+<s>A QVC <EVENT eid="e3" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e4" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> 19 dólares e um oitavo de ação da QVC por cada uma dos 20 milhões de ações da CVN totalmente diluídas.</s>
+
+<s>A <EVENT eid="e11" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> <EVENT eid="e5" class="OCCURRENCE" stem="reunir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">reúne</EVENT> as duas maiores concorrentes da Home Shopping Network Inc., que <TIMEX3 tid="t49" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t9">agora</TIMEX3> <EVENT eid="e59" class="STATE" stem="abranger" aspect="NONE" tense="PI" polarity="POS" pos="VERB">abrange</EVENT> mais espetadores do que qualquer outra empresa no setor das televendas.</s>
+<s>Entre elas, a Home Shopping, a QVC e a CVN já <EVENT eid="e12" class="STATE" stem="controlar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">controlam</EVENT> a maior parte desse mercado jovem e em rápido crescimento, que no <TIMEX3 tid="t64" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t9">ano passado</TIMEX3> <EVENT eid="e13" class="OCCURRENCE" stem="realizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">realizou</EVENT> <EVENT eid="e14" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> de cerca de 1,4 mil milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e11" relatedToTime="t49" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e13" relatedToTime="t64" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e14" relatedToTime="t64" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t9" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e10" relatedToTime="t9" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e4" relatedToTime="t9" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e3" relatedToTime="t9" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e11" relatedToTime="t9" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e13" relatedToTime="t9" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e14" relatedToTime="t9" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e12" eventID="e5" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e5" eventID="e3" task="C"/>
+</TempEval>

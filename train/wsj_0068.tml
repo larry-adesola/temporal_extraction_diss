@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0124
+= 891102
+891102-0124
+Notícias de Dividendos:
+@ Goody Products Inc.
+<TIMEX3 tid="t8" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+GOOD
+DIVIDENDS (DIV)
+
+<s>A Goody Products Inc. <EVENT eid="e9" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reduziu</EVENT> os seus dividendos trimestrais para os <EVENT eid="e33" class="STATE" stem="cinco" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">cinco</EVENT> cêntimos por ação, dos <EVENT eid="e32" class="STATE" stem="11.5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">11,5</EVENT> cêntimos por ação.</s>
+<s>Os dividendos <EVENT eid="e10" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">reduzidos</EVENT> são <EVENT eid="e15" class="OCCURRENCE" stem="pagável" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">pagáveis</EVENT> a <TIMEX3 tid="t18" type="DATE" value="1990-01-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t8">2 de janeiro</TIMEX3> segundo o <EVENT eid="e2" class="STATE" stem="registo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">registo</EVENT> de <TIMEX3 tid="t17" type="DATE" value="1989-12-15" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t8">15 de dezembro</TIMEX3>.</s>
+<s>A The Kearny, fabricante de acessórios para o cabelo e outros produtos cosméticos sediado em Nova Jérsia, <EVENT eid="e3" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e4" class="OCCURRENCE" stem="cortar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cortou</EVENT> os dividendos devido à <EVENT eid="e5" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perda</EVENT> no <TIMEX3 tid="t26" type="TIME" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t8">terceiro trimestre</TIMEX3> de 992.000 dólares, ou 15 cêntimos por ação.</s>
+<s>No <TIMEX3 tid="t134" type="TIME" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t8">trimestre homólogo do ano passado</TIMEX3>, a empresa <EVENT eid="e6" class="REPORTING" stem="registar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">registara</EVENT> um lucro líquido de 1,9 milhões de dólares, ou de 29 cêntimos por ação.</s>
+<s>A empresa também <EVENT eid="e7" class="I_ACTION" stem="adotar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adotou</EVENT> um <EVENT eid="e31" class="OCCURRENCE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> contra <EVENT eid="e30" class="OCCURRENCE" stem="OPA" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">OPAs</EVENT>.</s>
+
+<TLINK lid="l1" relType="AFTER" eventID="e3" relatedToTime="t26" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e5" relatedToTime="t26" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e6" relatedToTime="t134" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e3" relatedToTime="t8" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e5" relatedToTime="t8" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e6" relatedToTime="t8" task="B"/>
+<TLINK lid="l7" relType="VAGUE" eventID="e31" relatedToTime="t8" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e6" eventID="e3" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e3" eventID="e15" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e15" eventID="e9" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e7" eventID="e6" task="C"/>
+</TempEval>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0186
+= 891027
+891027-0186.
+Lucros da Service Corp.
+<TIMEX3 tid="t25" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+SRV
+EARNINGS (ERN)
+HOUSTON
+
+
+<s>A Service Corp. International <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e4" class="REPORTING" stem="anunciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anunciar</EVENT> uma <EVENT eid="e18" class="STATE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receita</EVENT> líquida de 15 cêntimos por ação no <TIMEX3 tid="t26" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">terceiro trimestre</TIMEX3>.</s>
+<s>A empresa <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e6" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e8" class="OCCURRENCE" stem="publicar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">publicar</EVENT> os resultados do terceiro trimestre em meados de <TIMEX3 tid="t27" type="DATE" value="1989-11" mod="MID" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">novembro</TIMEX3>.</s>
+
+<s>A casa funerária e operadora de cemitérios <EVENT eid="e10" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mudou</EVENT> de um ano fiscal para um ano civil em <TIMEX3 tid="t28" type="DATE" value="1988-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">dezembro</TIMEX3>.</s>
+<s>No <TIMEX3 tid="t30" type="DATE" value="1988-Q2" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">trimestre homólogo do ano passado</TIMEX3>, o <TIMEX3 tid="t31" type="DATE" value="1988-Q2" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">segundo trimestre</TIMEX3> encerrado a <TIMEX3 tid="t32" type="DATE" value="1988-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">31 de outubro</TIMEX3>, a Service Corp. <EVENT eid="e21" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um <EVENT eid="e13" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> de cerca de 12,5 milhões de dólares, ou 26 cêntimos por ação, com uma receita de 175,4 milhões de dólares.</s>
+<s>Os resultados para <TIMEX3 tid="t33" type="DATE" value="1988-Q2" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">esse trimestre</TIMEX3> incluíram uma <EVENT eid="e23" class="OCCURRENCE" stem="desvalorização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desvalorização</EVENT> de 30 milhões, ou 40 cêntimos por ação, associada à dissolução de uma agência.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t26" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1" relatedToTime="t26" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e4" relatedToTime="t26" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e6" relatedToTime="t27" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e5" relatedToTime="t27" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e10" relatedToTime="t28" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e13" relatedToTime="t31" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e13" relatedToTime="t30" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e13" relatedToTime="t32" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e21" relatedToTime="t31" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e21" relatedToTime="t30" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e21" relatedToTime="t32" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e2" relatedToTime="t25" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e1" relatedToTime="t25" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e4" relatedToTime="t25" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e6" relatedToTime="t25" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e5" relatedToTime="t25" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e10" relatedToTime="t25" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e13" relatedToTime="t25" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e21" relatedToTime="t25" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e21" eventID="e10" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e23" eventID="e21" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e10" eventID="e5" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

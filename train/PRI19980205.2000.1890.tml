@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+PRI<TIMEX3 tid="t35" type="DATE" value="1998-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">19980205</TIMEX3>.2000.1890
+REPORTAGEM
+
+<s>Os EUA estão a <EVENT eid="e1" class="OCCURRENCE" stem="reforçar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">reforçar</EVENT> a sua presença militar no Golfo Pérsico, enquanto o presidente Clinton <EVENT eid="e2" class="I_ACTION" stem="discutir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">discutiu</EVENT> a <EVENT eid="e32" class="OCCURRENCE" stem="crise" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crise</EVENT> do Iraque com o único aliado que <EVENT eid="e3" class="I_ACTION" stem="apoiar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apoiou</EVENT> a sua <EVENT eid="e4" class="OCCURRENCE" stem="ameaça" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ameaça</EVENT> de intervenção, o primeiro ministro britânico Tony Blair.</s>
+<s>Nancy Marshall, do The World, relata a atual visita de Blair a Washington e a relação especial entre os dois líderes.</s>
+
+<s>O presidente Clinton <EVENT eid="e6" class="OCCURRENCE" stem="desenrolar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desenrolou</EVENT> o tapete vermelho para o primeiro-ministro Tony Blair, <EVENT eid="e7" class="OCCURRENCE" stem="receber" aspect="NONE" tense="GER" polarity="POS" pos="VERB">recebendo</EVENT>-o não só como um aliado próximo mas também como um amigo próximo.</s>
+<s><EVENT eid="e8" class="OCCURRENCE" stem="posar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Posando</EVENT> para os fotógrafos com Clinton, Blair <EVENT eid="e9" class="I_ACTION" stem="prometer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prometeu</EVENT> <EVENT eid="e11" class="I_STATE" stem="permanecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">permanecer</EVENT> unido ao presidente contra o Iraque, <EVENT eid="e13" class="I_ACTION" stem="avisar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">avisando</EVENT> Saddam Hussein de que a <EVENT eid="e14" class="OCCURRENCE" stem="ameaça" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ameaça</EVENT> de uma intervenção é <EVENT eid="e33" class="STATE" stem="real" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">real</EVENT>.</s>
+<s>O porta-aviões britânico Invincible está neste <TIMEX3 tid="t36" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">momento</TIMEX3> a <EVENT eid="e34" class="OCCURRENCE" stem="patrulhar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">patrulhar</EVENT> o Golfo Pérsico ao lado de três navios dos EUA.</s>
+<s>Washington e Londres estão praticamente <EVENT eid="e37" class="STATE" stem="sozinho" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">sozinhos</EVENT> no <EVENT eid="e17" class="I_ACTION" stem="alerta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alerta</EVENT> ao Iraque sobre <EVENT eid="e19" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT> militares se não <EVENT eid="e21" class="OCCURRENCE" stem="recuar" aspect="NONE" tense="FC" polarity="NEG" pos="VERB">recuar</EVENT> sobre a questão da inspecção de armas.</s>
+<s>O presidente Clinton <EVENT eid="e24" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que ele e Blair vão tomar a mesma <EVENT eid="e38" class="STATE" stem="posição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">posição</EVENT> não apenas sobre o Iraque mas também sobre a <EVENT eid="e27" class="OCCURRENCE" stem="detenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">detenção</EVENT> dos terroristas <EVENT eid="e28" class="I_STATE" stem="suspeito" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">suspeitos</EVENT> de <EVENT eid="e29" class="OCCURRENCE" stem="explodir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">explodir</EVENT> o voo Pan Am 103 sobre a Escócia.</s>
+<s>Para o The World, Nancy Marshall, em Washington.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e24" relatedToTime="t35" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e37" eventID="e34" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e9" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e24" eventID="e37" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e34" eventID="e9" task="C"/>
+</TempEval>

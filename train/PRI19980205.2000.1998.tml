@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+PRI<TIMEX3 tid="t37" type="DATE" value="1998-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">19980205</TIMEX3>.2000.1998
+REPORTAGEM
+
+<s>Milhares de pessoas na Alemanha têm estado a <EVENT eid="e1" class="OCCURRENCE" stem="manifestar" aspect="PROGRESSIVE" tense="PPIC" polarity="POS" pos="VERB">manifestar</EVENT>-se <TIMEX3 tid="t38" type="DATE" value="1998-02-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">hoje</TIMEX3> contra o elevado <EVENT eid="e50" class="STATE" stem="nível" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nível</EVENT> de desemprego no país.</s>
+<s>Os números mais recentes mostram um <EVENT eid="e4" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> acentuado, com quase cinco milhões de alemães sem trabalho.</s>
+<s>Caroline Wyatt relata.</s>
+
+<s><EVENT eid="e6" class="OCCURRENCE" stem="cantar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Cantando</EVENT> ``Helmut Kohl deve <EVENT eid="e7" class="OCCURRENCE" stem="sair" aspect="NONE" tense="INF" polarity="POS" pos="VERB">sair</EVENT>'', os desempregados <EVENT eid="e9" class="OCCURRENCE" stem="sair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">saíram</EVENT> às ruas da capital alemã, Berlim, <EVENT eid="e41" class="STATE" stem="refletir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">refletindo</EVENT> os <EVENT eid="e10" class="OCCURRENCE" stem="protesto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">protestos</EVENT> por todo o país.</s>
+<s>O desemprego está <TIMEX3 tid="t42" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">agora</TIMEX3> <EVENT eid="e51" class="STATE" stem="em" aspect="NONE" tense="PI" polarity="POS" pos="PREPOSITION">no</EVENT> seu nível mais alto na Alemanha desde a segunda <EVENT eid="e12" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> mundial.</s>
+<s>Com a <EVENT eid="e14" class="OCCURRENCE" stem="eleição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eleição</EVENT> geral prevista para <TIMEX3 tid="t44" type="DATE" value="1998-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">setembro próximo</TIMEX3>, os números recorde não poderiam ter <EVENT eid="e19" class="OCCURRENCE" stem="aparecer" aspect="NONE" tense="INFC" polarity="POS" pos="VERB">aparecido</EVENT> em pior hora para o chanceler Kohl.</s>
+<s>A sua <EVENT eid="e22" class="I_ACTION" stem="promessa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">promessa</EVENT> de reduzir o desemprego para <EVENT eid="e24" class="OCCURRENCE" stem="metade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">metade</EVENT> até ao <TIMEX3 tid="t45" type="DATE" value="2000" temporalFunction="false" functionInDocument="NONE">ano 2000</TIMEX3> foi <TIMEX3 tid="t47" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">agora</TIMEX3> <EVENT eid="e25" class="ASPECTUAL" stem="abandonar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">abandonada</EVENT>.</s>
+<s>E o eleitorado alemão parece cada vez mais <EVENT eid="e49" class="I_STATE" stem="ansioso" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">ansioso</EVENT> em <EVENT eid="e28" class="OCCURRENCE" stem="dispensar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dispensar</EVENT> os serviços do líder mais antigo da Europa.</s>
+<s>Caroline Wyatt, BBC News, Bona.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e12" relatedToTime="t42" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e19" relatedToTime="t44" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e4" relatedToTime="t37" task="B"/>
+<TLINK lid="l4" relType="BEFORE-OR-OVERLAP" eventID="e9" relatedToTime="t37" task="B"/>
+<TLINK lid="l5" relType="OVERLAP-OR-AFTER" eventID="e7" relatedToTime="t37" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e12" relatedToTime="t37" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e19" relatedToTime="t37" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e25" eventID="e19" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e51" eventID="e9" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e49" eventID="e25" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e19" eventID="e51" task="C"/>
+</TempEval>

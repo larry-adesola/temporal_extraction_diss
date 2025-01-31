@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+PRI<TIMEX3 tid="t17" type="DATE" value="1998-03-06T23:00" temporalFunction="false" functionInDocument="CREATION_TIME">19980306</TIMEX3>.2000.1675
+REPORTAGEM
+
+
+<s>Para o The World, sou a Pamela McCall, na sala de notícias da BBC, em Londres.</s>
+<s>Mais <EVENT eid="e20" class="OCCURRENCE" stem="tiroteio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tiroteios</EVENT> pesados na província sérvia do Kosovo.</s>
+<s>É <TIMEX3 tid="t31" type="DATE" value="1998-03-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">o segundo dia</TIMEX3> de uma <EVENT eid="e21" class="OCCURRENCE" stem="ofensiva" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ofensiva</EVENT> das forças de segurança contra aldeias povoadas por grupos étnicos albaneses.</s>
+<s>A correspondente da BBC Karyn Coleman <EVENT eid="e22" class="REPORTING" stem="relatar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">relata</EVENT> do Kosovo.</s>
+
+<s>Houve mais <EVENT eid="e2" class="REPORTING" stem="história" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">histórias</EVENT> de pessoas a <EVENT eid="e3" class="OCCURRENCE" stem="fugir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fugir</EVENT> das aldeias perto de onde a <EVENT eid="e23" class="OCCURRENCE" stem="ofensiva" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ofensiva</EVENT> estava a <EVENT eid="e5" class="OCCURRENCE" stem="ocorrer" aspect="PROGRESSIVE" tense="PII" polarity="POS" pos="VERB">ocorrer</EVENT>.</s>
+<s>Estavam com muito <EVENT eid="e24" class="I_STATE" stem="medo" aspect="NONE" tense="PII" polarity="POS" pos="NOUN">medo</EVENT> de <EVENT eid="e6" class="STATE" stem="ficar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ficar</EVENT>, <EVENT eid="e7" class="I_STATE" stem="temer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">temendo</EVENT> que as forças também <EVENT eid="e8" class="OCCURRENCE" stem="mover" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">movessem</EVENT> as <EVENT eid="e25" class="OCCURRENCE" stem="operação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">operações</EVENT> para mais longe.</s>
+<s>A <TIMEX3 tid="t18" type="TIME" value="1998-03-06TAF" mod="MID" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">meio da tarde</TIMEX3>, fontes oficiais sérvias <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PII" polarity="POS" pos="VERB">diziam</EVENT> que a <EVENT eid="e30" class="OCCURRENCE" stem="operação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">operação</EVENT> <EVENT eid="e26" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">terminara</EVENT>, mas isso ainda não foi <EVENT eid="e11" class="REPORTING" stem="confirmar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">confirmado</EVENT> em Belgrado, capital da Sérvia, que é onde se <EVENT eid="e13" class="I_STATE" stem="pensar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pensa</EVENT> que todo o <EVENT eid="e27" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataque</EVENT> foi <EVENT eid="e14" class="I_STATE" stem="planear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">planeado</EVENT>.</s>
+<s>A minoria albanesa aqui no Kosovo está bastante <EVENT eid="e32" class="I_STATE" stem="preocupar" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">preocupada</EVENT> com o <TIMEX3 tid="t19" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">futuro</TIMEX3> e <EVENT eid="e35" class="I_STATE" stem="temer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">teme</EVENT> que esteja a <EVENT eid="e16" class="PERCEPTION" stem="testemunhar" aspect="PROGRESSIVE" tense="PC" polarity="POS" pos="VERB">testemunhar</EVENT> o <EVENT eid="e36" class="ASPECTUAL" stem="começo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">começo</EVENT> de um <EVENT eid="e37" class="OCCURRENCE" stem="conflito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conflito</EVENT> muito mais amplo.</s>
+<s>Karyn Coleman, BBC News, Pristina.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e13" relatedToTime="t18" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e10" relatedToTime="t18" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e14" relatedToTime="t18" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e22" relatedToTime="t17" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e5" relatedToTime="t17" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e8" relatedToTime="t17" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e13" relatedToTime="t17" task="B"/>
+<TLINK lid="l8" relType="BEFORE-OR-OVERLAP" eventID="e10" relatedToTime="t17" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e14" relatedToTime="t17" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e24" eventID="e2" task="C"/>
+<TLINK lid="l2c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e10" eventID="e24" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e2" eventID="e22" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e21" eventID="e20" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e32" eventID="e10" task="C"/>
+</TempEval>

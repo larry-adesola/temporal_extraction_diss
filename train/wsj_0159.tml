@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0032
+= 891102
+891102-0032.
+Dossier de Negócios - Dunkin 'Donuts Inc.:
+@ A DD Acquisition Prolongou
+@ A Sua OPA de 45 Dólares por Ação
+<TIMEX3 tid="t39" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+UNI.A DUNK T.CAO
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+RESTAURANTS, SUPERMARKETS AND DRUGSTORES (RFD)
+
+
+<s>A DD Acquisition Corp., uma parceria da Unicorp Canada Corp's Kingsbridge Capital Group com a Cara Operations Ltd., <EVENT eid="e2" class="OCCURRENCE" stem="prolongar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prolongou</EVENT> até <TIMEX3 tid="t41" type="DATE" value="1989-11-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">20 de novembro</TIMEX3> a oferta de 45 dólares por ação a todas as ações em circulação da Dunkin' Donuts Inc.</s>
+
+<s>A <EVENT eid="e207" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>, que estava <EVENT eid="e49" class="I_STATE" stem="agendar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">agendada</EVENT> para <EVENT eid="e6" class="OCCURRENCE" stem="terminar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">terminar</EVENT> <TIMEX3 tid="t44" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">ontem</TIMEX3>, está <EVENT eid="e45" class="I_STATE" stem="dependente" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">dependente</EVENT> de 50,1% das ações ordinárias da Dunkin', sobre uma base totalmente diluída, serem <EVENT eid="e7" class="OCCURRENCE" stem="disponibilizar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">disponibilizadas</EVENT> e na <EVENT eid="e8" class="OCCURRENCE" stem="desistência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desistência</EVENT> pela empresa de medidas de prevenção de OPAs.</s>
+
+<s>A Acquisition <EVENT eid="e11" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">lançou</EVENT> um <EVENT eid="e113" class="I_ACTION" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> num tribunal de Delaware <EVENT eid="e13" class="I_ACTION" stem="procurar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">procurando</EVENT> a <EVENT eid="e14" class="OCCURRENCE" stem="renúncia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">renúncia</EVENT> dos direitos da Dunkin a medidas contra OPAs e a planos para a aquisição de ações por empregados, que <EVENT eid="e50" class="REPORTING" stem="alegar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">alega</EVENT> que foram <EVENT eid="e208" class="OCCURRENCE" stem="pôr" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">postos</EVENT> em prática para <EVENT eid="e18" class="OCCURRENCE" stem="deter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">deter</EVENT> licitantes.</s>
+<s>A Acquisition <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que 2,2 milhões de ações, ou cerca de 38,5% das ações em circulação, já foram <EVENT eid="e21" class="OCCURRENCE" stem="obter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">obtidas</EVENT> sob a oferta.</s>
+<s>Os sócios <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que <TIMEX3 tid="t51" type="TIME" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">já</TIMEX3> <EVENT eid="e24" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detêm</EVENT> 15% do total de ações em circulação.</s>
+
+<s>A Dunkin' <EVENT eid="e25" class="I_ACTION" stem="fixar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fixou</EVENT> <TIMEX3 tid="t52" type="DATE" value="1989-11-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">10 de novembro</TIMEX3> como prazo limite para a <EVENT eid="e26" class="OCCURRENCE" stem="apreciação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apreciação</EVENT> de eventuais ofertas concorrentes.</s>
+<s>A DD Acquisition <EVENT eid="e28" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e29" class="OCCURRENCE" stem="prorrogação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prorrogação</EVENT> é para <EVENT eid="e206" class="I_ACTION" stem="permitir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">permitir</EVENT> que este processo se <EVENT eid="e34" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="PC" polarity="POS" pos="VERB">conclua</EVENT>.</s>
+<s>A Dunkin' está sediada em Randolph, no Massachusetts.</s>
+<s>A Cara, um operador da cadeia de serviços de alimentos, e a Unicorp, uma holding, estão sediadas em Toronto.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e207" relatedToTime="t44" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e23" relatedToTime="t51" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e24" relatedToTime="t51" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e25" relatedToTime="t52" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e207" relatedToTime="t39" task="B"/>
+<TLINK lid="l6" relType="BEFORE-OR-OVERLAP" eventID="e13" relatedToTime="t39" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e20" relatedToTime="t39" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e23" relatedToTime="t39" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e24" relatedToTime="t39" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e25" relatedToTime="t39" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e28" relatedToTime="t39" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e28" eventID="e25" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e25" eventID="e23" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e23" eventID="e20" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e11" eventID="e45" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e45" eventID="e2" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e20" eventID="e11" task="C"/>
+</TempEval>

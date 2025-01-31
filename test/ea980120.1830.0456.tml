@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+ea<TIMEX3 tid="t13" type="DATE" value="1998-01-20T23:00" temporalFunction="false" functionInDocument="CREATION_TIME">980120</TIMEX3>.1830.0456 REPORTAGEM
+
+
+<s>O Pentágono <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> <TIMEX3 tid="t14" type="DATE" value="1998-01-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">hoje</TIMEX3> que <EVENT eid="e2" class="I_ACTION" stem="reanalisar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">reanalisará</EVENT> a <EVENT eid="e17" class="I_STATE" stem="questão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">questão</EVENT> de os restos dentro do Túmulo do Desconhecido da Guerra do Vietname serem, na verdade, <EVENT eid="e5" class="STATE" stem="conhecer" aspect="NONE" tense="INFF" polarity="POS" pos="ADJECTIVE">conhecidos</EVENT>.</s>
+
+<s>A CBS News <EVENT eid="e6" class="REPORTING" stem="relatar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">relatou</EVENT> primeiro <TIMEX3 tid="t15" type="TIME" value="1998-01-19TNI" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">ontem à noite</TIMEX3> que o túmulo pode <EVENT eid="e7" class="STATE" stem="conter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">conter</EVENT> os restos do piloto da Força Aérea Michael Blassie.</s>
+
+<s>Havia a <EVENT eid="e18" class="I_STATE" stem="suspeita" aspect="NONE" tense="PII" polarity="POS" pos="NOUN">suspeita</EVENT> de que o corpo era <EVENT eid="e20" class="STATE" stem="de" aspect="NONE" tense="PII" polarity="POS" pos="PREPOSITION">de</EVENT> Blassie porque o seu uniforme e cartão de identificação foram <EVENT eid="e9" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">encontrados</EVENT> perto do corpo, no Vietname.</s>
+<s>Mas, posteriormente, <EVENT eid="e10" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perderam</EVENT>-se.</s>
+<s>A mãe de Blassie <EVENT eid="e11" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">quer</EVENT> <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">agora</TIMEX3> que os restos no túmulo sejam <EVENT eid="e12" class="OCCURRENCE" stem="testar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">testados</EVENT> quanto ao ADN.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t14" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e6" relatedToTime="t15" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e11" relatedToTime="t16" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t13" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e6" relatedToTime="t13" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e11" relatedToTime="t13" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e11" eventID="e10" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e18" eventID="e6" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e10" eventID="e18" task="C"/>
+</TempEval>

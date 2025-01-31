@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0045
+= 891027
+891030-0045.
+Dossier de Negócios - Rally's Inc.:
+@ Grupo de Investidores Quer Obter
+@ Mais de 50% das Ações
+<TIMEX3 tid="t27" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+GPO RLLY
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>Um grupo de investidores liderado pelo Giant Group Ltd. e o seu presidente do conselho de administração, Burt Sugarman, <EVENT eid="e2" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que <EVENT eid="e28" class="I_ACTION" stem="submeter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">submeteram</EVENT> ao órgão regulador antitrust federal um pedido de <EVENT eid="e29" class="I_ACTION" stem="permissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">permissão</EVENT> para <EVENT eid="e5" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> mais de 50% das ações da Rally's Inc., uma empresa de fast-food sediada em Louisville, no Kentucky.</s>
+
+<s>A Rally's opera e tem franchises de 160 restaurantes de fast-food espalhados pelos E.U.A.</s>
+<s>A empresa <EVENT eid="e9" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tornou</EVENT>-se de capital aberto no <TIMEX3 tid="t79" type="TIME" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t27">início deste mês</TIMEX3>, <EVENT eid="e10" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">oferecendo</EVENT> 1.745.000 ações ordinárias a 15 dólares por ação.</s>
+<s>O Giant tem interesses no fabrico de cimento e papel de jornal.</s>
+
+<s>O grupo de investidores inclui a Restaurant Investment Partnership, uma sociedade da Califórnia, e três diretores da Rally's: Sugarman, James M. Trotter III e William E. Trotter II.</s>
+<s>O grupo possui atualmente 3.027.330 das ações da Rally's, ou 45,2% das ações ordinárias em circulação.</s>
+<s>O Giant Group <EVENT eid="e16" class="STATE" stem="deter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">detinha</EVENT> 22% das ações da Rally's antes da <EVENT eid="e17" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública inicial.</s>
+
+<s>Um segundo grupo de três diretores da empresa, aliado ao fundador da Rally's James Patterson, também <EVENT eid="e20" class="I_ACTION" stem="procurar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">procura</EVENT> o <EVENT eid="e32" class="STATE" stem="controlo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">controlo</EVENT> da cadeia de fast-food.</s>
+<s>Estima-se que o grupo Patterson <EVENT eid="e33" class="STATE" stem="controlar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">controle</EVENT> mais de 40% das ações da Rally's.</s>
+
+<s>Os funcionários da Rally's não estavam <EVENT eid="e34" class="STATE" stem="disponível" aspect="NONE" tense="PII" polarity="NEG" pos="ADJECTIVE">disponíveis</EVENT> para <EVENT eid="e24" class="OCCURRENCE" stem="comentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comentar</EVENT> ontem ao <TIMEX3 tid="t37" type="DATE" value="1989-10-26" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t27">fim do dia</TIMEX3>.</s>
+
+<s>No <TIMEX3 tid="t39" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" endPoint="t40">ano</TIMEX3> encerrado a <TIMEX3 tid="t40" type="DATE" value="1989-07-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t27">2 de julho</TIMEX3>, a Rally <EVENT eid="e26" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um lucro líquido de 2,4 milhões de dólares, ou 34 cêntimos por ação, com uma receita de 52,9 milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t79" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e10" relatedToTime="t79" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e9" relatedToTime="t79" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e5" relatedToTime="t79" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e26" relatedToTime="t39" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e26" relatedToTime="t40" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e2" relatedToTime="t27" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e10" relatedToTime="t27" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e9" relatedToTime="t27" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e5" relatedToTime="t27" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e20" relatedToTime="t27" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e26" relatedToTime="t27" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e33" eventID="e20" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e26" eventID="e34" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e34" eventID="e33" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e20" eventID="e16" task="C"/>
+</TempEval>

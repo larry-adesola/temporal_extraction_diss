@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+ea<TIMEX3 tid="t51" type="DATE" value="1998-01-20" temporalFunction="false" functionInDocument="CREATION_TIME">980120.</TIMEX3>1830.0071
+REPORTAGEM
+
+
+<s>Boa noite a partir do parque central na baixa de Havana.</s>
+<s>Estamos <EVENT eid="e116" class="STATE" stem="aqui" aspect="NONE" tense="PI" polarity="POS" pos="ADVERB">aqui</EVENT> <TIMEX3 tid="t53" type="DATE" value="1998-W04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t51">esta semana</TIMEX3> para <EVENT eid="e61" class="PERCEPTION" stem="testemunhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">testemunhar</EVENT> o <EVENT eid="e62" class="OCCURRENCE" stem="encontro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encontro</EVENT> que Fidel Castro e o Papa estão a ter com a história.</s>
+
+<s>Estamos <EVENT eid="e117" class="STATE" stem="here" aspect="NONE" tense="PI" polarity="POS" pos="ADVERB">aqui</EVENT> porque o que <EVENT eid="e3" class="OCCURRENCE" stem="acontecer" aspect="NONE" tense="FC" polarity="POS" pos="VERB">acontecer</EVENT> nesta ilha também terá um <EVENT eid="e4" class="OCCURRENCE" stem="impacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">impacto</EVENT> sobre os Estados Unidos.</s>
+<s>Tudo o que acontece em Cuba recebe a atenção da América.</s>
+
+<s>Por acaso, acabamos de <EVENT eid="e6" class="OCCURRENCE" stem="aparecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aparecer</EVENT> para fazer a <EVENT eid="e65" class="OCCURRENCE" stem="transmissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transmissão</EVENT>, e os cubanos <EVENT eid="e8" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">querem</EVENT> <EVENT eid="e9" class="I_STATE" stem="saber" aspect="NONE" tense="INF" polarity="POS" pos="VERB">saber</EVENT> o que vamos <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">dizer</EVENT> aos americanos, em muitos casos, o que os seus parentes nos Estados Unidos vão <EVENT eid="e15" class="PERCEPTION" stem="ouvir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">ouvir</EVENT>.</s>
+
+<s>Bem, esta é a <EVENT eid="e101" class="OCCURRENCE" stem="véspera" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">véspera</EVENT> da <EVENT eid="e66" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> do Papa a um dos últimos bastiões do comunismo em todo o mundo, e já está a <EVENT eid="e16" class="OCCURRENCE" stem="levantar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">levantar</EVENT> enormes <EVENT eid="e67" class="I_STATE" stem="expetativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">expetativas</EVENT>.</s>
+
+<s>Na Praça da Revolução, <EVENT eid="e17" class="OCCURRENCE" stem="erguer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ergueram</EVENT> <TIMEX3 tid="t59" type="DATE" value="1998-01-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t51">hoje</TIMEX3> uma cruz gigante.</s>
+<s>E do outro lado do ícone revolucionário cubano Che Guevara, têm <TIMEX3 tid="t56" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t51">agora</TIMEX3> um enorme retrato de Jesus.</s>
+<s>Acima, em espanhol, ``Jesus, em ti acreditamos''.</s>
+
+<s>Nem todos os cubanos <EVENT eid="e22" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acreditam</EVENT>, mas Castro <EVENT eid="e23" class="I_ACTION" stem="convidar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">convidou</EVENT> todos a <EVENT eid="e24" class="OCCURRENCE" stem="saudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">saudar</EVENT> o homem que foi um dos adversários mais eficazes do comunismo, e é por isso que há suspense.</s>
+
+<s>Todos <EVENT eid="e25" class="I_STATE" stem="parecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">parecem</EVENT> <EVENT eid="e26" class="I_STATE" stem="acreditar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">acreditar</EVENT> que, de alguma forma, Cuba vai <EVENT eid="e28" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">mudar</EVENT>.</s>
+<s>Castro já <EVENT eid="e29" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> oficialmente que não há problema em estar entusiasmado.</s>
+<s>E assim, as pessoas estão cada vez mais <EVENT eid="e69" class="STATE" stem="entusiasmar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">entusiasmadas</EVENT> a cada dia que passa -</s>
+
+<s>[[NS]]</s>
+
+<s><TIMEX3 tid="t68" type="DATE" value="1998-01-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t51">Hoje</TIMEX3> a televisão cubana, que se agarra à linha do Partido Comunista, <EVENT eid="e31" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> na verdade a <EVENT eid="e32" class="OCCURRENCE" stem="promover" aspect="NONE" tense="INF" polarity="POS" pos="VERB">promover</EVENT> a sua <EVENT eid="e70" class="OCCURRENCE" stem="cobertura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cobertura</EVENT> papal.</s>
+
+<s><TIMEX3 tid="t57" type="DATE" value="1998-01-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t51">Hoje</TIMEX3>, centenas de pessoas dos EUA <EVENT eid="e33" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começaram</EVENT> a <EVENT eid="e34" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">chegar</EVENT>, inclusive alguns cubano-americanos que <EVENT eid="e36" class="OCCURRENCE" stem="partir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">partiram</EVENT> daqui quando Castro <EVENT eid="e38" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">chegou</EVENT> ao poder e estão a <EVENT eid="e40" class="OCCURRENCE" stem="regressar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">regressar</EVENT> a Havana pela primeira vez.</s>
+<s>A <EVENT eid="e72" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> do Papa é importante, mas eles também estão a <EVENT eid="e41" class="I_ACTION" stem="regressar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">regressar</EVENT> a casa.</s>
+
+<s>Esta é uma <EVENT eid="e42" class="OCCURRENCE" stem="história" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">história</EVENT> extraordinária a <EVENT eid="e43" class="ASPECTUAL" stem="desenrolar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">desenrolar</EVENT>-se aqui.</s>
+<s><EVENT eid="e44" class="OCCURRENCE" stem="voltar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">Voltaremos</EVENT> a Havana mais tarde durante a <EVENT eid="e46" class="OCCURRENCE" stem="transmissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transmissão</EVENT>.</s>
+
+<s>Mas <TIMEX3 tid="t58" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t51">agora</TIMEX3> vamos <EVENT eid="e49" class="OCCURRENCE" stem="voltar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">voltar</EVENT> para Nova Iorque, onde Diane Sawyer tem o resto das notícias.</s>
+<s>Diane?</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e31" relatedToTime="t68" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e38" relatedToTime="t57" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e33" relatedToTime="t57" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e36" relatedToTime="t57" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e49" relatedToTime="t58" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e8" relatedToTime="t51" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e11" relatedToTime="t51" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e22" relatedToTime="t51" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e26" relatedToTime="t51" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e28" relatedToTime="t51" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e29" relatedToTime="t51" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e31" relatedToTime="t51" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e38" relatedToTime="t51" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e33" relatedToTime="t51" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e36" relatedToTime="t51" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e41" relatedToTime="t51" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e44" relatedToTime="t51" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e49" relatedToTime="t51" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e49" eventID="e44" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e101" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e117" eventID="e116" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e33" eventID="e31" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e44" eventID="e42" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP-OR-AFTER" relatedToEvent="e42" eventID="e72" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e17" eventID="e101" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e25" eventID="e22" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e29" eventID="e25" task="C"/>
+<TLINK lid="l10c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e69" eventID="e29" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e72" eventID="e33" task="C"/>
+</TempEval>

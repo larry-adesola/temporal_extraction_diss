@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+APW19980308.0201
+REPORTAGEM
+<TIMEX3 tid="t63" type="TIME" value="1998-03-08T06:26:00" temporalFunction="true" functionInDocument="CREATION_TIME">03/08/1998 06:26:00</TIMEX3>
+
+w2106 Cx1f wstm-
+r i Cx13  Cx11  BC-Turkey-Yugoslavia-Kos     03-08 0243
+BC-Turkey-Yugoslavia-Kosovo,0242
+Minoria étnica albanesa da Turquia protesta contra os ataques dos sérvios no Kosovo
+UR AP Photos IST101-102 QL
+
+
+<s>Istambul, Turquia (AP) - Cerca de 1.500 albaneses <EVENT eid="e2" class="OCCURRENCE" stem="manifestar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manifestaram</EVENT>-se no <TIMEX3 tid="t68" type="DATE" value="1998-03-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t63">domingo</TIMEX3> no centro de Istambul, <EVENT eid="e62" class="I_ACTION" stem="queimar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">queimando</EVENT> bandeiras sérvias em <EVENT eid="e47" class="I_STATE" stem="protesto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">protesto</EVENT> contra o <EVENT eid="e75" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinato</EVENT> da minoria étnica albanesa pela polícia sérvia no sul da província sérvia do Kosovo.</s>
+<s>A polícia <EVENT eid="e76" class="I_ACTION" stem="impedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">impediu</EVENT> a multidão de <EVENT eid="e49" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">chegar</EVENT> ao consulado jugoslavo na baixa de Istambul, mas <EVENT eid="e77" class="I_ACTION" stem="permitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">permitiu</EVENT> que se <EVENT eid="e13" class="STATE" stem="manifestar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">manifestassem</EVENT> em ruas próximas.</s>
+<s>``<EVENT eid="e14" class="ASPECTUAL" stem="parar" aspect="NONE" tense="IMP" polarity="POS" pos="VERB">Parem</EVENT> o <EVENT eid="e50" class="OCCURRENCE" stem="derrame" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">derrame</EVENT> de sangue no Kosovo'', <EVENT eid="e116" class="REPORTING" stem="gritar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">gritavam</EVENT> os manifestantes.</s>
+<s><TIMEX3 tid="t69" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t68">Entretanto</TIMEX3>, na capital, Ancara, algumas centenas de albaneses <EVENT eid="e18" class="OCCURRENCE" stem="depositar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">depositaram</EVENT> uma coroa preta à porta da embaixada jugoslava.</s>
+<s>Os albaneses representam 90 por cento da população do Kosovo, mas os sérvios mantêm o controlo através de uma grande presença policial e militar.</s>
+<s>A polícia sérvia <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que está a <EVENT eid="e23" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e25" class="ASPECTUAL" stem="eliminar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">eliminar</EVENT> o Exército de Libertação do Kosovo, pró-independência, e <EVENT eid="e27" class="ASPECTUAL" stem="restaurar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">restaurar</EVENT> a <EVENT eid="e28" class="STATE" stem="ordem" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ordem</EVENT>.</s>
+<s>Pelo menos 51 pessoas foram <EVENT eid="e29" class="REPORTING" stem="alegadamente" aspect="NONE" tense="NONE" polarity="POS" pos="ADVERB">alegadamente</EVENT> <EVENT eid="e30" class="OCCURRENCE" stem="matar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mortas</EVENT> em <EVENT eid="e31" class="OCCURRENCE" stem="confronto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">confrontos</EVENT> entre a polícia sérvia e a minoria albanesa nesta região conturbada nos <TIMEX3 tid="t71" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t68">últimos dias</TIMEX3>.</s>
+<s>A Turquia, <EVENT eid="e34" class="I_STATE" stem="preocupar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">preocupada</EVENT> que a <EVENT eid="e35" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> civil no Kosovo <EVENT eid="e72" class="ASPECTUAL" stem="alastrar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">alastre</EVENT> a toda a região dos Balcãs, <EVENT eid="e36" class="I_ACTION" stem="exortar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">exortou</EVENT> todos os estados dos Balcãs a <EVENT eid="e38" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">assinar</EVENT> uma <EVENT eid="e39" class="OCCURRENCE" stem="declaração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declaração</EVENT> conjunta de que a crise do Kosovo será <EVENT eid="e40" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="FI" polarity="POS" pos="VERB">resolvida</EVENT> de forma pacífica e sem qualquer <EVENT eid="e41" class="OCCURRENCE" stem="alteração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alteração</EVENT> de fronteiras.</s>
+<s>Os turcos acham que têm laços especiais com toda a região, que governaram durante centenas de anos durante o Império Otomano.</s>
+<s>Também têm o Islão em comum com a minoria albanesa.</s>
+
+(PROFILE
+(WS SL:BC-Turkey-Yugoslavia-Kosovo; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(REG:MEST;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-03-08-98 0626EST</s>
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e29" relatedToTime="t71" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e23" relatedToTime="t63" task="B"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e22" relatedToTime="t63" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e29" relatedToTime="t63" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e41" relatedToTime="t63" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e35" relatedToTime="t63" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e29" eventID="e22" task="C"/>
+<TLINK lid="l2c" relType="VAGUE" relatedToEvent="e36" eventID="e29" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e116" eventID="e76" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e18" eventID="e116" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e76" eventID="e2" task="C"/>
+</TempEval>

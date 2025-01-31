@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891101-0048
+= 891101
+891101-0048.
+Dossier de Negócios - First Security Corp.:
+@ Acordo Provisório Firmado
+@ Para Comprar a Deseret Bancorp.
+<TIMEX3 tid="t14" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+FSCO
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A First Security Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> provisoriamente em <EVENT eid="e3" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> a Deseret Bancorp. dando em troca ações <EVENT eid="e4" class="STATE" stem="avaliar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">avaliadas</EVENT> em cerca de 18 milhões de dólares.</s>
+
+<s>Os termos do acordo <EVENT eid="e5" class="I_STATE" stem="prever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">prevêem</EVENT> que a First Security <EVENT eid="e6" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">lance</EVENT> cerca de 0,55 ações do seu capital social por cada ação da Deseret <EVENT eid="e7" class="STATE" stem="deter" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">detida</EVENT>, ou um total de cerca de 550.000 ações da First Security.</s>
+<s><EVENT eid="e8" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Tem</EVENT> cerca de 12,3 milhões de ações em circulação.</s>
+
+<s>A Deseret, com cerca de 100 milhões de dólares em ativos, é a empresa-mãe do Banco Deseret, que <EVENT eid="e9" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">possui</EVENT> seis escritórios e sede em Pleasant Grove, no Utah.</s>
+<s>O preço de aquisição é <EVENT eid="e2041" class="STATE" stem="igual" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">igual</EVENT> a aproximadamente 1,65 vezes o valor contabilístico da Deseret de cerca de 10,7 milhões de dólares, ou seja os ativos menos os passivos.</s>
+
+<s>A First Security, sediada em Salt Lake City, com 5,4 mil milhões de dólares em ativos, <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e2050" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> está <EVENT eid="e2057" class="I_STATE" stem="sujeitar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">sujeito</EVENT> à <EVENT eid="e2056" class="OCCURRENCE" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT> das entidades reguladoras e dos acionistas, e que <EVENT eid="e12" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e13" class="OCCURRENCE" stem="concluir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">concluir</EVENT> a <EVENT eid="e1993" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> no <TIMEX3 tid="t16" type="DATE" value="1990" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t14">início do próximo ano</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2050" relatedToTime="t16" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e11" relatedToTime="t16" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e2" relatedToTime="t14" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e3" relatedToTime="t14" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e1" relatedToTime="t14" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e5" relatedToTime="t14" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e7" relatedToTime="t14" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e8" relatedToTime="t14" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e9" relatedToTime="t14" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e2050" relatedToTime="t14" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e11" relatedToTime="t14" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e9" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e2041" eventID="e9" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e11" eventID="e2041" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

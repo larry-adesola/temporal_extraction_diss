@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891101-0024
+= 891101
+891101-0024.
+Dossier Internacional - Cie. de Navigation Mixte:
+@ Unidade do Credit Lyonnais Compra
+@ Ações para Ajudar a Derrotar OPA
+<TIMEX3 tid="t22" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+F.CNM F.CLC F.CFP
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+INSURANCE (INS)
+FOOD PRODUCTS (FOD)
+
+
+<s>A unidade de carteiras do grupo financeiro francês Credit Lyonnais <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> às entidades reguladoras do mercado de ações que <EVENT eid="e2" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">comprou</EVENT> 43.000 ações da Cie. de Navigation Mixte, aparentemente para <EVENT eid="e3" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudar</EVENT> a <EVENT eid="e4" class="OCCURRENCE" stem="contrariar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">contrariar</EVENT> uma oferta pública de aquisição não desejada da empresa.</s>
+
+<s><TIMEX3 tid="t23" type="DATE" value="1989-10-31" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">Ontem cedo</TIMEX3>, a Societé de Bourses Françaises foi <EVENT eid="e6" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informada</EVENT> de que uma unidade da Framatome S.A. também <EVENT eid="e7" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">comprou</EVENT> ações da Navigation Mixte, esta <EVENT eid="e8" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT> cobrindo mais de 160.000 ações.</s>
+
+<s>Ambas as empresas são aliadas da Navigation Mixte na <EVENT eid="e24" class="STATE" stem="luta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">luta</EVENT> contra uma OPA hostil <EVENT eid="e13" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">iniciada</EVENT> na <TIMEX3 tid="t61" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">semana passada</TIMEX3> pela Cie. Financière de Paribas de 1.850 francos franceses (297 dólares) por ação.</s>
+<s>O presidente do conselho de administração da Navigation Mixte tinha <EVENT eid="e14" class="I_STATE" stem="sugerir" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">sugerido</EVENT> que as instituições amigas provavelmente <EVENT eid="e16" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="C" polarity="POS" pos="VERB">comprariam</EVENT> as suas ações assim que as <EVENT eid="e17" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> da bolsa <EVENT eid="e18" class="ASPECTUAL" stem="abrir" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">abrissem</EVENT> na <TIMEX3 tid="t26" type="DATE" value="1989-11-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">segunda-feira</TIMEX3>.</s>
+
+<s>A compra do Credit Lyonnais de 33.000 ações ordinárias e 10.000 ações recém-criadas está avaliada em cerca de pouco mais de 80 milhões de francos franceses.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e8" relatedToTime="t23" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e6" relatedToTime="t23" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e7" relatedToTime="t23" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e16" relatedToTime="t26" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e17" relatedToTime="t26" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e2" relatedToTime="t22" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e1" relatedToTime="t22" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e3" relatedToTime="t22" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e8" relatedToTime="t22" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e6" relatedToTime="t22" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e7" relatedToTime="t22" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e16" relatedToTime="t22" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e17" relatedToTime="t22" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e24" eventID="e6" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e14" eventID="e24" task="C"/>
+</TempEval>

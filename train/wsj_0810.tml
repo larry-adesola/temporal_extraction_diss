@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0085
+= 891027
+891027-0085.
+Internacional:
+@ Presidente da Navigation Mixte Diz que o Conselho de Administração
+@ Rejeitou Proposta da Paribas para Aumentar a sua Participação
+@ ----
+@ Por E. S. Browning
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t152" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+F.CNM F.CFP G.ALL F.SGF F.CLC
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+FOOD PRODUCTS (FOD)
+TRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA)
+INSURANCE (INS)
+PARIS
+
+
+<s>O presidente Marc Fournier do conselho de administração da Cie. de Navigation Mixte <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o conselho <EVENT eid="e2" class="I_ACTION" stem="rejeitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">rejeitou</EVENT> por unanimidade, considerando-a muito baixa, a <EVENT eid="e3" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de 1,77 mil milhões de dólares da Cie. Financière de Paribas para <EVENT eid="e5" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> a sua participação na Navigation Mixte para os <EVENT eid="e150" class="STATE" stem="66,7%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">66,7%</EVENT>.</s>
+
+<s>Em <EVENT eid="e148" class="OCCURRENCE" stem="conferência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conferência</EVENT> de imprensa, Fournier <EVENT eid="e7" class="I_ACTION" stem="acusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acusou</EVENT> a Paribas de <EVENT eid="e8" class="I_STATE" stem="planear" aspect="NONE" tense="INF" polarity="POS" pos="VERB">planear</EVENT> <EVENT eid="e10" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> a <EVENT eid="e11" class="OCCURRENCE" stem="OPA" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">OPA</EVENT> com a <EVENT eid="e12" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de partes da companhia, cujos negócios incluem seguros, serviços bancários, conservas de atum, açúcar e sumo de laranja.</s>
+
+<s>O presidente do conselho de administração <EVENT eid="e16" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os membros do conselho, incluindo representantes do gigante de seguros da Alemanha Ocidental Allianz AG e os bancos franceses Crédit Lyonnais e Société Générale, <EVENT eid="e17" class="I_STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detêm</EVENT> quase 50% do capital da Navigation Mixte.</s>
+
+<s>Fournier <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que, como presidente do conselho de administração da Navigation Mixte, está <EVENT eid="e19" class="I_STATE" stem="proibir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">proibido</EVENT> pelos regulamentos de OPAs de <EVENT eid="e22" class="OCCURRENCE" stem="organizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">organizar</EVENT> a sua própria defesa ou <EVENT eid="e24" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> qualquer coisa para além de <EVENT eid="e25" class="OCCURRENCE" stem="gerir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">gerir</EVENT> os negócios correntes da empresa.</s>
+<s>Mas fontes <EVENT eid="e27" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que estará a <EVENT eid="e28" class="I_ACTION" stem="pedir" aspect="PROGRESSIVE" tense="FI" polarity="POS" pos="VERB">pedir</EVENT> aos seus aliados para <EVENT eid="e30" class="OCCURRENCE" stem="reforçar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">reforçarem</EVENT> as suas participações na Navigation Mixte, que está a ser <EVENT eid="e31" class="OCCURRENCE" stem="negociar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">negociada</EVENT> em Londres e está para <EVENT eid="e33" class="ASPECTUAL" stem="retomar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retomar</EVENT> as <EVENT eid="e34" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> na <TIMEX3 tid="t153" type="DATE" value="1989-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">terça-feira</TIMEX3> em Paris.</s>
+<s>Ao mesmo tempo, <EVENT eid="e36" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT>-se que ele <EVENT eid="e38" class="I_ACTION" stem="procurar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">procure</EVENT> os meios legais e regulamentares para <EVENT eid="e40" class="I_ACTION" stem="bloquear" aspect="NONE" tense="INF" polarity="POS" pos="VERB">bloquear</EVENT> ou <EVENT eid="e41" class="I_ACTION" stem="atrasar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atrasar</EVENT> a <EVENT eid="e42" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> da Paribas.</s>
+<s>De momento, <EVENT eid="e43" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> as fontes, ele <EVENT eid="e44" class="OCCURRENCE" stem="decidir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">decidiu</EVENT> não <EVENT eid="e45" class="I_ACTION" stem="procurar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">procurar</EVENT> um "cavaleiro branco" nem <EVENT eid="e46" class="I_ACTION" stem="organizar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">organizar</EVENT> uma <EVENT eid="e156" class="OCCURRENCE" stem="contraproposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">contraproposta</EVENT> à Paribas.</s>
+
+<s>Mr. Fournier <EVENT eid="e47" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o lucro não consolidado, ou da companhia-mãe, em <TIMEX3 tid="t157" type="DATE" value="1989" temporalFunction="false" functionInDocument="NONE">1989</TIMEX3> da Navigation Mixte, será provavelmente de <EVENT eid="e2255" class="STATE" stem="4,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">4,7</EVENT> mil milhões de francos (754,4 milhões de dólares), subindo dos <EVENT eid="e2256" class="STATE" stem="633,8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">633,8</EVENT> milhões de francos do <TIMEX3 tid="t162" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t157">ano passado</TIMEX3>.</s>
+<s>Isso é devido principalmente aos <EVENT eid="e49" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamentos</EVENT> da Allianz pela participação maioritária de 50% que <EVENT eid="e51" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e53" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> no negócio de seguros da Navigation Mixte.</s>
+<s>Fournier <EVENT eid="e55" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a entrada de dinheiro excecional <EVENT eid="e2258" class="OCCURRENCE" stem="acarretar" aspect="NONE" tense="C" polarity="POS" pos="OTHER">acarretaria</EVENT> <EVENT eid="e2254" class="STATE" stem="dividendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dividendos</EVENT> neste <TIMEX3 tid="t163" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">ano</TIMEX3> quase duas vezes <EVENT eid="e2257" class="STATE" stem="maior" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">maiores</EVENT> do que no <TIMEX3 tid="t167" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">ano passado</TIMEX3>.</s>
+
+<s>Se os acionistas <EVENT eid="e59" class="I_ACTION" stem="evitar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">evitarem</EVENT> <EVENT eid="e60" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> à Paribas, <EVENT eid="e61" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> ele, podem <EVENT eid="e62" class="I_STATE" stem="esperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">esperar</EVENT> <EVENT eid="e170" class="STATE" stem="dividendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dividendos</EVENT> fortes novamente no <TIMEX3 tid="t169" type="DATE" value="1990" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">próximo ano</TIMEX3>.</s>
+
+<s>Os analistas <EVENT eid="e64" class="REPORTING" stem="observar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">observaram</EVENT> que nos <TIMEX3 tid="t173" type="DURATION" value="P20Y" temporalFunction="true" functionInDocument="NONE" endPoint="t152">últimos 20 anos</TIMEX3> Fournier <EVENT eid="e65" class="OCCURRENCE" stem="construir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">construiu</EVENT> a sua empresa através de <EVENT eid="e66" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> astutas no mercado de ações e já <EVENT eid="e68" class="I_ACTION" stem="repelir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">repeliu</EVENT> pelo menos três <EVENT eid="e69" class="I_ACTION" stem="tentativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tentativas</EVENT> de <EVENT eid="e174" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT>.</s>
+<s>Desta vez, porém, alguns analistas <EVENT eid="e71" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acham</EVENT> que ele pode <EVENT eid="e177" class="I_STATE" stem="enfrentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">enfrentar</EVENT> uma verdadeira <EVENT eid="e72" class="OCCURRENCE" stem="batalha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">batalha</EVENT>.</s>
+
+<s>"Sem um inesperado "<EVENT eid="e179" class="OCCURRENCE" stem="coup" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">coup</EVENT> de théâtre", não <EVENT eid="e74" class="PERCEPTION" stem="ver" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">vejo</EVENT> o que possa <EVENT eid="e76" class="I_ACTION" stem="bloquear" aspect="NONE" tense="INF" polarity="POS" pos="VERB">bloquear</EVENT> a <EVENT eid="e178" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> da Paribas", <EVENT eid="e77" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Philippe de Cholet, analista da corretora Cholet-Dupont &amp; Cie. De Cholet <EVENT eid="e79" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a maior <EVENT eid="e181" class="I_STATE" stem="esperança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">esperança</EVENT> de Fournier era de alguma forma <EVENT eid="e81" class="I_ACTION" stem="persuadir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">persuadir</EVENT> as autoridades reguladoras a <EVENT eid="e83" class="I_ACTION" stem="bloquear" aspect="NONE" tense="INF" polarity="POS" pos="VERB">bloquear</EVENT> a <EVENT eid="e84" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>.</s>
+<s>A Paribas ainda precisa do aval da Comission des Opérations de Bourse, uma agência governamental de regulação, mas os analistas <EVENT eid="e87" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que é considerado <EVENT eid="e1991" class="STATE" stem="provável" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">provável</EVENT>.</s>
+
+<s>Fournier <EVENT eid="e89" class="REPORTING" stem="observar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">observou</EVENT> também que a Navigation Mixte se <EVENT eid="e90" class="OCCURRENCE" stem="juntar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">juntou</EVENT> ao núcleo de acionistas da Paribas quando a Paribas foi <EVENT eid="e92" class="OCCURRENCE" stem="privatizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">privatizada</EVENT> em <TIMEX3 tid="t1994" type="DATE" value="1987" temporalFunction="false" functionInDocument="NONE">1987</TIMEX3>, e <EVENT eid="e93" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <TIMEX3 tid="t1995" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">agora</TIMEX3> <EVENT eid="e94" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> pouco menos de 5% das ações da Paribas.</s>
+<s>Quando <EVENT eid="e95" class="I_STATE" stem="perceber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">percebeu</EVENT> que as intenções da Paribas não eram <EVENT eid="e1998" class="STATE" stem="amigável" aspect="NONE" tense="PII" polarity="NEG" pos="ADJECTIVE">amigáveis</EVENT>, <EVENT eid="e96" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele, mas antes de a <EVENT eid="e97" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> ser <EVENT eid="e99" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">lançada</EVENT>, <EVENT eid="e100" class="I_ACTION" stem="procurar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">procurou</EVENT> <EVENT eid="e101" class="I_ACTION" stem="autorização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">autorização</EVENT> para <EVENT eid="e103" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aumentar</EVENT> a sua participação na Paribas para acima de 10%.</s>
+<s>A <EVENT eid="e104" class="OCCURRENCE" stem="petição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">petição</EVENT> ainda está <EVENT eid="e105" class="OCCURRENCE" stem="pendente" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">pendente</EVENT>, mas Fournier <EVENT eid="e106" class="OCCURRENCE" stem="desprezar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desprezou</EVENT> a probabilidade de ele <EVENT eid="e107" class="I_ACTION" stem="organizar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">organizar</EVENT> uma <EVENT eid="e108" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública de aquisição por sua própria conta à muito maior Paribas.</s>
+
+<s>Uma grande questão agora é o papel provável dos aliados de Fournier.</s>
+<s>Fournier <EVENT eid="e111" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as grandes instituições que detêm quase 50% do capital da Navigation Mixte o <EVENT eid="e113" class="OCCURRENCE" stem="apoiar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">apoiam</EVENT> todas fortemente, mas alguns analistas <EVENT eid="e114" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que não <EVENT eid="e2002" class="I_STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">têm</EVENT> tanta certeza.</s>
+<s>A Allianz, por exemplo, já <EVENT eid="e115" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> nos <EVENT eid="e116" class="OCCURRENCE" stem="comentário" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comentários</EVENT> oficiais até agora que se <EVENT eid="e118" class="STATE" stem="manter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">manterá</EVENT> neutra.</s>
+<s>A Paribas é o banco francês principal da Allianz.</s>
+
+<s>A Paribas <EVENT eid="e120" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> <TIMEX3 tid="t2003" type="DATE" value="1989-10-23" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">segunda-feira</TIMEX3> que <EVENT eid="e121" class="I_STATE" stem="pretender" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pretende</EVENT> <EVENT eid="e122" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> ações para <EVENT eid="e124" class="OCCURRENCE" stem="elevar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">elevar</EVENT> a sua participação na Navigation Mixte para os <EVENT eid="e2008" class="STATE" stem="66,7%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">66,7%</EVENT>, desde os <EVENT eid="e2009" class="STATE" stem="18,7%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">18,7%</EVENT> que já <EVENT eid="e126" class="OCCURRENCE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT>.</s>
+<s><EVENT eid="e129" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Espera</EVENT>-se que a <EVENT eid="e127" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT> da participação adicional de 48% <EVENT eid="e2010" class="STATE" stem="custar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">custe</EVENT> mais de 11 mil milhões de francos (1,77 mil milhões de dólares).</s>
+
+<s>A Paribas <EVENT eid="e130" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que vai <EVENT eid="e131" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">oferecer</EVENT> 1.850 francos (296,95 dólares) por cada ação da Navigation Mixte que <EVENT eid="e132" class="STATE" stem="gozar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">goze</EVENT> de direitos a dividendos completos, e 1.800 francos por cada uma de um bloco de ações <EVENT eid="e133" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">emitidas</EVENT> a <TIMEX3 tid="t2011" type="DATE" value="1989-07-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">1 de julho</TIMEX3>, que <EVENT eid="e134" class="OCCURRENCE" stem="receber" aspect="NONE" tense="FI" polarity="POS" pos="VERB">receberão</EVENT> apenas dividendos parciais neste <TIMEX3 tid="t2012" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t152">ano</TIMEX3>.</s>
+<s>Alternativamente, vai <EVENT eid="e135" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">oferecer</EVENT> três ações da Paribas por uma ação da Navigation Mixte.</s>
+<s>A oferta da Paribas avalia a Navigation Mixte em cerca de 23 mil milhões de francos, dependendo do número de warrants da Navigation Mixte que forem convertidos em ações durante a batalha de aquisição.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e34" relatedToTime="t153" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e27" relatedToTime="t153" task="A"/>
+<TLINK lid="l3" relType="VAGUE" eventID="e30" relatedToTime="t153" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e47" relatedToTime="t157" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e47" relatedToTime="t162" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e55" relatedToTime="t163" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e55" relatedToTime="t167" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e61" relatedToTime="t169" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e62" relatedToTime="t169" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e94" relatedToTime="t1995" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e94" relatedToTime="t1994" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e93" relatedToTime="t1995" task="A"/>
+<TLINK lid="l13" relType="AFTER" eventID="e93" relatedToTime="t1994" task="A"/>
+<TLINK lid="l14" relType="AFTER" eventID="e122" relatedToTime="t2003" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e120" relatedToTime="t2003" task="A"/>
+<TLINK lid="l16" relType="AFTER" eventID="e124" relatedToTime="t2003" task="A"/>
+<TLINK lid="l17" relType="AFTER" eventID="e131" relatedToTime="t2011" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e131" relatedToTime="t2012" task="A"/>
+<TLINK lid="l19" relType="AFTER" eventID="e130" relatedToTime="t2011" task="A"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e130" relatedToTime="t2012" task="A"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e3" relatedToTime="t152" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e1" relatedToTime="t152" task="B"/>
+<TLINK lid="l23" relType="AFTER" eventID="e10" relatedToTime="t152" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e16" relatedToTime="t152" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e17" relatedToTime="t152" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e18" relatedToTime="t152" task="B"/>
+<TLINK lid="l27" relType="AFTER" eventID="e34" relatedToTime="t152" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e27" relatedToTime="t152" task="B"/>
+<TLINK lid="l29" relType="AFTER" eventID="e30" relatedToTime="t152" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e42" relatedToTime="t152" task="B"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e36" relatedToTime="t152" task="B"/>
+<TLINK lid="l32" relType="AFTER" eventID="e38" relatedToTime="t152" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e43" relatedToTime="t152" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e47" relatedToTime="t152" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e53" relatedToTime="t152" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e51" relatedToTime="t152" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e55" relatedToTime="t152" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e61" relatedToTime="t152" task="B"/>
+<TLINK lid="l39" relType="AFTER" eventID="e62" relatedToTime="t152" task="B"/>
+<TLINK lid="l40" relType="OVERLAP" eventID="e71" relatedToTime="t152" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e79" relatedToTime="t152" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e77" relatedToTime="t152" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e74" relatedToTime="t152" task="B"/>
+<TLINK lid="l44" relType="VAGUE" eventID="e84" relatedToTime="t152" task="B"/>
+<TLINK lid="l45" relType="VAGUE" eventID="e178" relatedToTime="t152" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e87" relatedToTime="t152" task="B"/>
+<TLINK lid="l47" relType="OVERLAP" eventID="e94" relatedToTime="t152" task="B"/>
+<TLINK lid="l48" relType="BEFORE" eventID="e93" relatedToTime="t152" task="B"/>
+<TLINK lid="l49" relType="VAGUE" eventID="e103" relatedToTime="t152" task="B"/>
+<TLINK lid="l50" relType="BEFORE" eventID="e100" relatedToTime="t152" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e97" relatedToTime="t152" task="B"/>
+<TLINK lid="l52" relType="BEFORE" eventID="e96" relatedToTime="t152" task="B"/>
+<TLINK lid="l53" relType="VAGUE" eventID="e108" relatedToTime="t152" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e114" relatedToTime="t152" task="B"/>
+<TLINK lid="l55" relType="BEFORE" eventID="e111" relatedToTime="t152" task="B"/>
+<TLINK lid="l56" relType="BEFORE" eventID="e115" relatedToTime="t152" task="B"/>
+<TLINK lid="l57" relType="OVERLAP-OR-AFTER" eventID="e118" relatedToTime="t152" task="B"/>
+<TLINK lid="l58" relType="AFTER" eventID="e122" relatedToTime="t152" task="B"/>
+<TLINK lid="l59" relType="BEFORE" eventID="e120" relatedToTime="t152" task="B"/>
+<TLINK lid="l60" relType="AFTER" eventID="e124" relatedToTime="t152" task="B"/>
+<TLINK lid="l61" relType="OVERLAP" eventID="e129" relatedToTime="t152" task="B"/>
+<TLINK lid="l62" relType="AFTER" eventID="e127" relatedToTime="t152" task="B"/>
+<TLINK lid="l63" relType="AFTER" eventID="e131" relatedToTime="t152" task="B"/>
+<TLINK lid="l64" relType="BEFORE" eventID="e130" relatedToTime="t152" task="B"/>
+<TLINK lid="l65" relType="AFTER" eventID="e135" relatedToTime="t152" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e87" eventID="e77" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e18" eventID="e17" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e129" eventID="e120" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e7" eventID="e1" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e105" eventID="e96" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e61" eventID="e55" task="C"/>
+<TLINK lid="l7c" relType="VAGUE" relatedToEvent="e49" eventID="e47" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP-OR-AFTER" relatedToEvent="e43" eventID="e36" task="C"/>
+<TLINK lid="l9c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e36" eventID="e27" task="C"/>
+<TLINK lid="l10c" relType="VAGUE" relatedToEvent="e55" eventID="e49" task="C"/>
+<TLINK lid="l11c" relType="VAGUE" relatedToEvent="e89" eventID="e87" task="C"/>
+<TLINK lid="l12c" relType="VAGUE" relatedToEvent="e47" eventID="e43" task="C"/>
+<TLINK lid="l13c" relType="VAGUE" relatedToEvent="e27" eventID="e18" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e130" eventID="e129" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e17" eventID="e7" task="C"/>
+<TLINK lid="l16c" relType="BEFORE" relatedToEvent="e135" eventID="e130" task="C"/>
+<TLINK lid="l17c" relType="VAGUE" relatedToEvent="e64" eventID="e61" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e77" eventID="e71" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e96" eventID="e89" task="C"/>
+<TLINK lid="l20c" relType="AFTER" relatedToEvent="e115" eventID="e111" task="C"/>
+<TLINK lid="l21c" relType="OVERLAP" relatedToEvent="e71" eventID="e64" task="C"/>
+</TempEval>

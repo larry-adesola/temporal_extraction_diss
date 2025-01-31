@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0014
+= 891026
+891026-0014.
+Notícias de Dividendos:
+@ Avon Rent-a-Car &amp; Truck Corp.
+<TIMEX3 tid="t30" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+AVON
+DIVIDENDS (DIV)
+
+<s>A Avon Rent-a-Car &amp; Truck Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT> um dividendo de um warrant por cada três ações ordinárias.</s>
+<s>Atualmente, a Avon, sediada em Santa Monica, na Califórnia, <EVENT eid="e5" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> 3,3 milhões de ações ordinárias em circulação.</s>
+<s>Cerca de 1,1 milhões de warrants Classe C foram <EVENT eid="e7" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emitidos</EVENT>, <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a empresa.</s>
+<s>Cada um dos warrants Classe C vai <EVENT eid="e10" class="STATE" stem="permitir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">permitir</EVENT> aos titulares <EVENT eid="e12" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">comprarem</EVENT> uma ação ordinária por 5,50 dólares.</s>
+<s>Os warrant podem ser <EVENT eid="e14" class="OCCURRENCE" stem="exercer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">exercidos</EVENT> até <TIMEX3 tid="t31" type="DURATION" value="P90D" temporalFunction="false" functionInDocument="NONE">90 dias</TIMEX3> após a sua data de <EVENT eid="e32" class="OCCURRENCE" stem="emissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">emissão</EVENT>.</s>
+<s>A Avon também <EVENT eid="e17" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que vai <EVENT eid="e18" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">emitir</EVENT> mais 243.677 warrants Classe C para os titulares de warrants Classe A, Classe B e não classificados.</s>
+<s>A emissão dos warrants será na razão de um terço de warrant por cada warrant exercido.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1" relatedToTime="t30" task="B"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e5" relatedToTime="t30" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e8" relatedToTime="t30" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e12" relatedToTime="t30" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e17" relatedToTime="t30" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e17" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e14" eventID="e10" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP-OR-AFTER" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

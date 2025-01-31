@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+VOA<TIMEX3 tid="t64" type="DATE" value="1998-03-05" temporalFunction="false" functionInDocument="CREATION_TIME">19980305</TIMEX3>.1800.2603
+REPORTAGEM
+
+
+<s>O <EVENT eid="e354" class="OCCURRENCE" stem="dia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">Dia</EVENT> Internacional da Mulher é no <TIMEX3 tid="t66" type="DATE" value="1998-03-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t64">próximo domingo, dia 8 de março</TIMEX3>.</s>
+<s>Um dos focos principais do Dia Internacional da Mulher são as <EVENT eid="e2" class="STATE" stem="dificuldade" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">dificuldades</EVENT> das mulheres afegãs.</s>
+<s>Estão a ser  <EVENT eid="e3" class="I_ACTION" stem="organizar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">organizados</EVENT> <EVENT eid="e67" class="OCCURRENCE" stem="evento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eventos</EVENT> especiais pela Comissão Europeia e por nações individuais na Europa, na América do Norte e noutras partes do mundo.</s>
+<s>Lisa Schlein relata de Genebra.</s>
+
+<s>O Afeganistão tem estado em <EVENT eid="e355" class="STATE" stem="guerra" aspect="NONE" tense="PPIC" polarity="POS" pos="NOUN">guerra</EVENT> durante <TIMEX3 tid="t70" type="DURATION" value="P20Y" temporalFunction="false" functionInDocument="NONE">vinte anos</TIMEX3>, <EVENT eid="e6" class="I_ACTION" stem="levar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">levando</EVENT> a que uma grande parte da população masculina do país esteja <EVENT eid="e72" class="STATE" stem="morto" aspect="NONE" tense="PC" polarity="POS" pos="ADJECTIVE">morta</EVENT> ou <EVENT eid="e356" class="STATE" stem="em" aspect="NONE" tense="PC" polarity="POS" pos="PREPOSITION">no</EVENT> exílio.</s>
+<s>As Nações Unidas <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que as mulheres e as crianças <EVENT eid="e8" class="STATE" stem="constituir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">constituem</EVENT> cerca de setenta e cinco por cento da população afegã.</s>
+<s>Uma refugiada afegã na Suíça, Homira Atimadi, é uma alta funcionária de um grupo chamado Grupo Internacional de Trabalho sobre as Mulheres Afegãs.</s>
+<s>O grupo possui filiais no Paquistão, Irão, Europa, Austrália e América do Norte.</s>
+<s>Atimadi <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que as mulheres afegãs têm sido <EVENT eid="e74" class="STATE" stem="vítima" aspect="NONE" tense="PPIC" polarity="POS" pos="NOUN">vítimas</EVENT> de graves <EVENT eid="e75" class="OCCURRENCE" stem="violação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">violações</EVENT> dos direitos humanos durante <TIMEX3 tid="t77" type="DURATION" value="P20Y" temporalFunction="true" functionInDocument="NONE" endPoint="t64">os últimos vinte anos</TIMEX3> e <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que não <EVENT eid="e13" class="I_STATE" stem="ver" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">vê</EVENT> <EVENT eid="e78" class="ASPECTUAL" stem="fim" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fim</EVENT> ao <EVENT eid="e79" class="STATE" stem="sofrimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sofrimento</EVENT>.</s>
+<s>Ela <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que sob o governo fundamentalista dos Talibãs a segurança é <EVENT eid="e80" class="STATE" stem="melhor" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">melhor</EVENT>, mas tudo o resto é <EVENT eid="e81" class="STATE" stem="pior" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">pior</EVENT>.</s>
+
+<s>As Mulheres já não se <EVENT eid="e18" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tornam</EVENT> <EVENT eid="e82" class="STATE" stem="vítima" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vítimas</EVENT> de <EVENT eid="e20" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT> armados, mas não têm o <EVENT eid="e85" class="I_STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direito</EVENT> ao <EVENT eid="e21" class="OCCURRENCE" stem="trabalho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">trabalho</EVENT>.</s>
+<s>E <TIMEX3 tid="t87" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t64">hoje</TIMEX3>, o direito ao trabalho é <EVENT eid="e90" class="STATE" stem="igual" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">igual</EVENT> ao direito à sobrevivência.</s>
+
+<s>Atimadi <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que a <EVENT eid="e24" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> <EVENT eid="e25" class="I_ACTION" stem="criar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">criou</EVENT> uma nação de viúvas.</s>
+<s>As mulheres <EVENT eid="e26" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tornaram</EVENT>-se o único <EVENT eid="e27" class="STATE" stem="suporte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">suporte</EVENT> das suas famílias.</s>
+<s>No entanto, os talibãs <EVENT eid="e28" class="I_ACTION" stem="proibir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">proibiram</EVENT>-nas de <EVENT eid="e29" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">trabalhar</EVENT>.</s>
+<s><EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Diz</EVENT> que isto <EVENT eid="e31" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">coloca</EVENT> a própria existência das famílias das mulheres <EVENT eid="e358" class="STATE" stem="em" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">em</EVENT> risco.</s>
+<s><EVENT eid="e34" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Diz</EVENT> que as <EVENT eid="e35" class="OCCURRENCE" stem="dificuldade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dificuldades</EVENT> das mulheres em áreas urbanas são <EVENT eid="e94" class="STATE" stem="maior" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">maiores</EVENT> do que as que existem nas zonas rurais do país.</s>
+<s>Nas cidades, como a capital Cabul, as mulheres estão totalmente <EVENT eid="e95" class="I_STATE" stem="dependente" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">dependentes</EVENT> da <EVENT eid="e38" class="OCCURRENCE" stem="ajuda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ajuda</EVENT> internacional para <EVENT eid="e353" class="STATE" stem="sobreviver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">sobreviver</EVENT>.</s>
+<s>Atimadi <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que as mulheres de Cabul <EVENT eid="e351" class="STATE" stem="simbolizar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">simbolizam</EVENT> o sofrimento de todas as mulheres do Afeganistão.</s>
+
+<s>O <EVENT eid="e96" class="I_STATE" stem="objetivo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">objetivo</EVENT> não é só <EVENT eid="e97" class="OCCURRENCE" stem="trazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">trazer</EVENT> o foco sobre o direito das mulheres à educação, ao acesso ao trabalho, mas também <EVENT eid="e45" class="OCCURRENCE" stem="olhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">olhar</EVENT> para além disso e <EVENT eid="e46" class="OCCURRENCE" stem="olhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">olhar</EVENT> para a raiz destes problemas.</s>
+<s>Estes são apenas os sintomas dos problemas que se <EVENT eid="e48" class="I_ACTION" stem="deparar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">deparam</EVENT> ao Afeganistão.</s>
+<s>Para que as mulheres do Afeganistão sejam <EVENT eid="e352" class="I_STATE" stem="capaz" aspect="NONE" tense="PC" polarity="POS" pos="ADJECTIVE">capazes</EVENT> de <EVENT eid="e51" class="OCCURRENCE" stem="perceber" aspect="NONE" tense="INF" polarity="POS" pos="VERB">perceber</EVENT> os seus direitos, tem de haver <EVENT eid="e101" class="STATE" stem="condição" aspect="NONE" tense="INF" polarity="POS" pos="NOUN">condições</EVENT> de paz e justiça.</s>
+
+<s>Atimadi <EVENT eid="e55" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que esse é o <EVENT eid="e359" class="STATE" stem="foco" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">foco</EVENT> principal do seu grupo: a paz e a justiça.</s>
+<s><EVENT eid="e57" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Diz</EVENT> que o seu grupo está a <EVENT eid="e104" class="I_ACTION" stem="apelar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">apelar</EVENT> aos indivíduos, à comunidade internacional e aos combatentes e ao povo do Afeganistão para <EVENT eid="e60" class="ASPECTUAL" stem="parar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">pararem</EVENT> o <EVENT eid="e105" class="OCCURRENCE" stem="derrame" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">derrame</EVENT> de sangue que <EVENT eid="e61" class="I_ACTION" stem="assolar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">assola</EVENT> o país.</s>
+<s>Lisa Schlein para a VOA News, em Genebra.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP-OR-AFTER" eventID="e6" relatedToTime="t70" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e13" relatedToTime="t77" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e10" relatedToTime="t77" task="A"/>
+<TLINK lid="l4" relType="OVERLAP-OR-AFTER" eventID="e12" relatedToTime="t77" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e6" relatedToTime="t64" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e8" relatedToTime="t64" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e7" relatedToTime="t64" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e13" relatedToTime="t64" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e10" relatedToTime="t64" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e12" relatedToTime="t64" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e15" relatedToTime="t64" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e18" relatedToTime="t64" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e23" relatedToTime="t64" task="B"/>
+<TLINK lid="l14" relType="BEFORE-OR-OVERLAP" eventID="e24" relatedToTime="t64" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e26" relatedToTime="t64" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e30" relatedToTime="t64" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e34" relatedToTime="t64" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e40" relatedToTime="t64" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e55" relatedToTime="t64" task="B"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e57" relatedToTime="t64" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP-OR-AFTER" relatedToEvent="e26" eventID="e23" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e90" eventID="e18" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e57" eventID="e55" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e7" eventID="e355" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e48" eventID="e97" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e40" eventID="e95" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l8c" relType="VAGUE" relatedToEvent="e97" eventID="e40" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e23" eventID="e90" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e352" eventID="e48" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e34" eventID="e30" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e28" eventID="e26" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e55" eventID="e352" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP-OR-AFTER" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e2" eventID="e354" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e95" eventID="e34" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e3" eventID="e2" task="C"/>
+<TLINK lid="l18c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e30" eventID="e28" task="C"/>
+</TempEval>

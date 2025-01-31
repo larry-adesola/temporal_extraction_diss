@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0056
+= 891102
+891102-0056.
+Dossier de Negócios - Elco Industries Inc.:
+@ Produtora de Parafusos Espera que Lucro Líquido
+@ Em 90 Fique abaixo das Previsões
+<TIMEX3 tid="t22" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+ELCN
+
+
+<s>A Elco Industries Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> que o lucro líquido do <TIMEX3 tid="t28" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" endPoint="t27">ano</TIMEX3> <EVENT eid="e26" class="OCCURRENCE" stem="findar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">findo</EVENT> em <TIMEX3 tid="t27" type="DATE" value="1990-06-30" temporalFunction="false" functionInDocument="NONE">30 de junho de 1990</TIMEX3> <EVENT eid="e19" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PC" polarity="POS" pos="VERB">caia</EVENT> abaixo da estimativa recente de um analista de 1,65 dólares por ação.</s>
+
+<s>A Rockford, Illinois, fabricante de parafusos, também <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e6" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e8" class="REPORTING" stem="anunciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anunciar</EVENT> vendas para <TIMEX3 tid="t30" type="DATE" value="P1Y" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">o ano fiscal corrente</TIMEX3> que estão "ligeiramente acima" das vendas do <TIMEX3 tid="t32" type="DATE" value="P1Y" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">ano fiscal de 1989</TIMEX3> de <EVENT eid="e138" class="STATE" stem="155" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">155</EVENT> milhões de dólares.</s>
+<s>A companhia <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua unidade industrial <EVENT eid="e11" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> a <EVENT eid="e33" class="STATE" stem="enfrentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">enfrentar</EVENT> <EVENT eid="e136" class="STATE" stem="pressão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pressões</EVENT> sobre as margens e menor <EVENT eid="e137" class="STATE" stem="procura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">procura</EVENT>.</s>
+
+<s>No <TIMEX3 tid="t35" type="DATE" value="P1Y" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t32">ano fiscal de 1989</TIMEX3>, a Elco <EVENT eid="e15" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ganhou</EVENT> 7,8 milhões de dólares, ou 1,65 dólares por ação.</s>
+<s>As ações da companhia <EVENT eid="e16" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> <TIMEX3 tid="t37" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">ontem</TIMEX3> 1,125 dólares para os <EVENT eid="e36" class="STATE" stem="13.625" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">13,625</EVENT> dólares em trocas diretas.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t27" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e2" relatedToTime="t28" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e1" relatedToTime="t27" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t28" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e19" relatedToTime="t27" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e19" relatedToTime="t28" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e6" relatedToTime="t30" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e6" relatedToTime="t32" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e5" relatedToTime="t30" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e5" relatedToTime="t32" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e8" relatedToTime="t30" task="A"/>
+<TLINK lid="l12" relType="AFTER" eventID="e8" relatedToTime="t32" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e15" relatedToTime="t35" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e16" relatedToTime="t37" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e2" relatedToTime="t22" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e1" relatedToTime="t22" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e19" relatedToTime="t22" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e6" relatedToTime="t22" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e5" relatedToTime="t22" task="B"/>
+<TLINK lid="l20" relType="AFTER" eventID="e8" relatedToTime="t22" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e10" relatedToTime="t22" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e11" relatedToTime="t22" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e15" relatedToTime="t22" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e16" relatedToTime="t22" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e16" eventID="e15" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e10" eventID="e5" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

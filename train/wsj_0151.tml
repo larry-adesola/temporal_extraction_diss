@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0040
+= 891102
+891102-0040.
+Dossier de Negócios - Intelogic Trace Inc.:
+@ Acionista Vende Participação de 18%
+@ Numa Compra de 9,9 Milhões
+<TIMEX3 tid="t53" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+IT DPC
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+
+
+<s>A Intelogic Trace Inc., de Santo António, no Texas, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">comprou</EVENT> 2,7 milhões de ações, ou cerca de 18% do seu capital social a um acionista por 3,625 dólares por ação, ou 9,9 milhões de dólares.</s>
+
+<s>A <EVENT eid="e3" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativa</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">aumenta</EVENT> a <EVENT eid="e81" class="STATE" stem="participação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">participação</EVENT> do presidente do conselho de administração da Intelogic, Asher Edelman, para 20% de 16,2% e pode <EVENT eid="e6" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudar</EVENT> a <EVENT eid="e8" class="I_ACTION" stem="evitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">evitar</EVENT> que Martin Ackerman <EVENT eid="e10" class="OCCURRENCE" stem="deitar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">deite</EVENT> a mão à empresa de serviços informáticos.</s>
+<s>Ackerman já está a <EVENT eid="e13" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e15" class="OCCURRENCE" stem="expulsar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expulsar</EVENT> Edelman da presidência do conselho de administração da Datapoint Corp., uma subsidiária da Intelogic.</s>
+
+<s>A <EVENT eid="e16" class="OCCURRENCE" stem="ação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ação</EVENT> <EVENT eid="e17" class="OCCURRENCE" stem="acontecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aconteceu</EVENT> <TIMEX3 tid="t60" type="DURATION" value="P1D" temporalFunction="false" functionInDocument="NONE">um dia</TIMEX3> depois de um <EVENT eid="e57" class="REPORTING" stem="anúncio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">anúncio</EVENT> da Intelogic de que <EVENT eid="e18" class="OCCURRENCE" stem="manter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">manterá</EVENT> um banco de investimento para <EVENT eid="e20" class="OCCURRENCE" stem="explorar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">explorar</EVENT> alternativas "para <EVENT eid="e22" class="OCCURRENCE" stem="maximizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">maximizar</EVENT> o valor dos acionistas", incluindo a possível <EVENT eid="e23" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> da empresa.</s>
+
+<s>Na Bolsa de Valores de Nova Iorque de <TIMEX3 tid="t58" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t53">ontem</TIMEX3>, as ações da Intelogic <EVENT eid="e24" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 37,5 cêntimos para <EVENT eid="e182" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">fecharem</EVENT> nos 2,75 dólares.</s>
+
+<s>Edelman <EVENT eid="e27" class="REPORTING" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusou</EVENT>-se a <EVENT eid="e29" class="REPORTING" stem="especificar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">especificar</EVENT> o que <EVENT eid="e30" class="OCCURRENCE" stem="provocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">provocou</EVENT> as <EVENT eid="e31" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativas</EVENT> recentes, <EVENT eid="e32" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> que <EVENT eid="e33" class="I_ACTION" stem="servir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">servem</EVENT> apenas para <EVENT eid="e34" class="OCCURRENCE" stem="beneficiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">beneficiar</EVENT> os acionistas quando "a empresa <EVENT eid="e183" class="STATE" stem="ir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">vai</EVENT> de vento em poupa".</s>
+<s><EVENT eid="e61" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Acrescentou</EVENT>: "Isto não <EVENT eid="e39" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> nada a ver com Marty Ackerman e não se <EVENT eid="e41" class="I_ACTION" stem="destinar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">destina</EVENT>, em particular, a <EVENT eid="e43" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tornar</EVENT> a empresa de capital fechado".</s>
+
+<s>Mas Ackerman <EVENT eid="e44" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e64" class="OCCURRENCE" stem="recompra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recompra</EVENT> de ações e o preço <EVENT eid="e45" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">pago</EVENT> acima do valor de mercado <EVENT eid="e46" class="I_ACTION" stem="provar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">provam</EVENT> que Edelman anda <EVENT eid="e48" class="I_STATE" stem="receoso" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">receoso</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e23" relatedToTime="t60" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e182" relatedToTime="t58" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e24" relatedToTime="t58" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e2" relatedToTime="t53" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e1" relatedToTime="t53" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e6" relatedToTime="t53" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e4" relatedToTime="t53" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e3" relatedToTime="t53" task="B"/>
+<TLINK lid="l9" relType="AFTER" eventID="e10" relatedToTime="t53" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e13" relatedToTime="t53" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e23" relatedToTime="t53" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e182" relatedToTime="t53" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e24" relatedToTime="t53" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e27" relatedToTime="t53" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e32" relatedToTime="t53" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e31" relatedToTime="t53" task="B"/>
+<TLINK lid="l17" relType="OVERLAP-OR-AFTER" eventID="e43" relatedToTime="t53" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e61" relatedToTime="t53" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e39" relatedToTime="t53" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e44" relatedToTime="t53" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e45" relatedToTime="t53" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e17" eventID="e13" task="C"/>
+<TLINK lid="l2c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e44" eventID="e61" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e24" eventID="e17" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e13" eventID="e4" task="C"/>
+<TLINK lid="l6c" relType="VAGUE" relatedToEvent="e27" eventID="e24" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e61" eventID="e27" task="C"/>
+</TempEval>

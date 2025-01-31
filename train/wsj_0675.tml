@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891030-0020
+= 891030
+891030-0020.
+O Que Faz Notícia --
+@ Negócios e Finanças
+<TIMEX3 tid="t138" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+
+
+<s>O program <EVENT eid="e143" class="STATE" stem="trading" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">trading</EVENT> está a ser <EVENT eid="e2" class="OCCURRENCE" stem="conter" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">contido</EVENT> por mais empresas de valores, mas <EVENT eid="e3" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT>-se que os grandes investidores institucionais <EVENT eid="e5" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">continuem</EVENT> a <EVENT eid="e144" class="OCCURRENCE" stem="prática" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prática</EVENT>, <EVENT eid="e7" class="OCCURRENCE" stem="perturbar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">perturbando</EVENT> o mercado acionário.</s>
+<s><EVENT eid="e319" class="OCCURRENCE" stem="ceder" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Cedendo</EVENT> à <EVENT eid="e10" class="OCCURRENCE" stem="crítica" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crítica</EVENT>, a Bear Stearns, a Morgan Stanley e a Oppenheimer <EVENT eid="e160" class="OCCURRENCE" stem="juntar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">juntaram</EVENT>-se à PaineWebber na <EVENT eid="e13" class="OCCURRENCE" stem="suspensão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">suspensão</EVENT> dos <EVENT eid="e147" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócios</EVENT> da arbitragem automática de índices para benefício próprio.</s>
+<s>Ainda assim, <EVENT eid="e16" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT>-se que os fundos de índices de ações <EVENT eid="e18" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">continuem</EVENT> a <EVENT eid="e19" class="ASPECTUAL" stem="lançar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">lançar</EVENT> grandes <EVENT eid="e146" class="OCCURRENCE" stem="programa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">programas</EVENT> pelo mercado.</s>
+
+<s>Várias empresas na Bolsa de Valores de Nova Iorque estão a <EVENT eid="e22" class="OCCURRENCE" stem="organizar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">organizar</EVENT>-se para se <EVENT eid="e195" class="I_ACTION" stem="queixar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">queixarem</EVENT> do program <EVENT eid="e145" class="OCCURRENCE" stem="trading" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">trading</EVENT> e do papel da Bolsa nele.</s>
+<s>O <EVENT eid="e28" class="OCCURRENCE" stem="esforço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">esforço</EVENT> está a ser <EVENT eid="e29" class="STATE" stem="liderar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">liderado</EVENT> pela Contel.</s>
+
+---
+
+<s>Os gastos pessoais <EVENT eid="e30" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 0,2% em <TIMEX3 tid="t139" type="DATE" value="1989-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">setembro</TIMEX3>, o menor ganho num ano.</s>
+<s>O abrandamento <EVENT eid="e222" class="I_ACTION" stem="levantar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">levanta</EVENT> <EVENT eid="e33" class="I_ACTION" stem="questão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">questões</EVENT> sobre a <EVENT eid="e292" class="STATE" stem="força" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">força</EVENT> da economia porque os gastos <EVENT eid="e35" class="OCCURRENCE" stem="alimentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alimentaram</EVENT> grande parte do <EVENT eid="e232" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> do PIB no <TIMEX3 tid="t237" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">terceiro trimestre</TIMEX3>.</s>
+<s>Entretanto, os rendimentos pessoais <EVENT eid="e36" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 0,3%.</s>
+
+<s>Os proprietários de fábricas estão a <EVENT eid="e37" class="OCCURRENCE" stem="comprar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">comprar</EVENT> novas máquinas a um ritmo saudável neste <TIMEX3 tid="t259" type="DATE" value="1989-FA" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">outono</TIMEX3>, <EVENT eid="e39" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> os fabricantes de máquinas-ferramentas.</s>
+<s>Mas as fracas vendas de carros <EVENT eid="e40" class="ASPECTUAL" stem="levantar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">levantam</EVENT> <EVENT eid="e41" class="I_ACTION" stem="questão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">questões</EVENT> sobre a <EVENT eid="e42" class="OCCURRENCE" stem="procura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">procura</EVENT> <TIMEX3 tid="t301" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">futura</TIMEX3> no setor automóvel.</s>
+
+---
+
+<s>A unidade Gulf Power da Southern pode <EVENT eid="e326" class="I_ACTION" stem="confessar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">confessar</EVENT>-se culpada <TIMEX3 tid="t311" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">esta semana</TIMEX3> das <EVENT eid="e45" class="I_ACTION" stem="acusação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acusações</EVENT> de que <EVENT eid="e46" class="OCCURRENCE" stem="desviar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desviou</EVENT> ilegalmente dinheiro da companhia para políticos através de terceiros.</s>
+<s>O <EVENT eid="e50" class="OCCURRENCE" stem="pacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pacto</EVENT> provisório <EVENT eid="e51" class="ASPECTUAL" stem="resolver" aspect="NONE" tense="C" polarity="POS" pos="VERB">resolveria</EVENT> parte de uma grande <EVENT eid="e53" class="OCCURRENCE" stem="investigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investigação</EVENT> à empresa com sede em Atlanta no <TIMEX3 tid="t370" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">ano passado</TIMEX3>.</s>
+
+---
+
+<s>A LIN Broadcasting e a BellSouth <EVENT eid="e54" class="OCCURRENCE" stem="melhorar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">melhoraram</EVENT> o seu <EVENT eid="e371" class="I_ACTION" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> de <EVENT eid="e56" class="OCCURRENCE" stem="fundir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fundir</EVENT> as companhias de telemóveis, <EVENT eid="e396" class="I_ACTION" stem="oferecer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">oferecendo</EVENT> aos acionistas da LIN um <EVENT eid="e372" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamento</EVENT> especial de 42 dólares por ação.</s>
+<s>Mas o novo <EVENT eid="e59" class="OCCURRENCE" stem="pacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pacto</EVENT> <EVENT eid="e60" class="ASPECTUAL" stem="acarretar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">acarretará</EVENT> uma enorme <EVENT eid="e417" class="STATE" stem="dívida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dívida</EVENT> para a nova empresa e pode mesmo assim não <EVENT eid="e62" class="I_ACTION" stem="conseguir" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">conseguir</EVENT> <EVENT eid="e65" class="OCCURRENCE" stem="parar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">parar</EVENT> a pretendente rival McCaw Celluar.</s>
+
+---
+
+<s>A Unisys <EVENT eid="e66" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> uma <EVENT eid="e67" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perda</EVENT> de 648,2 milhões de dólares para <TIMEX3 tid="t457" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t138">o terceiro trimestre</TIMEX3>, como consequência de ter <EVENT eid="e68" class="OCCURRENCE" stem="agir" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">agido</EVENT> rapidamente ao <EVENT eid="e69" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">iniciar</EVENT> <EVENT eid="e70" class="OCCURRENCE" stem="amortização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">amortizações</EVENT> de vários problemas e <EVENT eid="e71" class="OCCURRENCE" stem="preparar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">preparar</EVENT>-se para uma <EVENT eid="e490" class="OCCURRENCE" stem="reviravolta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reviravolta</EVENT>.</s>
+<s>Mas alguns analistas <EVENT eid="e72" class="I_STATE" stem="ignorar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">ignoram</EVENT> até que ponto a <EVENT eid="e73" class="OCCURRENCE" stem="recuperação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recuperação</EVENT> será <EVENT eid="e689" class="STATE" stem="forte" aspect="NONE" tense="FI" polarity="POS" pos="ADJECTIVE">forte</EVENT>.</s>
+
+---
+
+<s>A RJR Nabisco <EVENT eid="e74" class="OCCURRENCE" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e76" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> três negócios de guloseimas à Nestlé por 370 milhões de dólares.</s>
+<s>O <EVENT eid="e532" class="I_ACTION" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> <EVENT eid="e78" class="I_ACTION" stem="ajudar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">ajuda</EVENT> a RJR a <EVENT eid="e79" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> dívidas e <EVENT eid="e80" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">aumenta</EVENT> a quota de 7% da Nestlé do mercado americano de guloseimas para os 12%.</s>
+
+---
+
+<s>A GM e a Ford <EVENT eid="e81" class="I_STATE" stem="dever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">devem</EVENT> <EVENT eid="e83" class="OCCURRENCE" stem="avançar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">avançar</EVENT> coladas uma à outra nos mercados para <EVENT eid="e87" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> participações rivais de 15% na Jaguar.</s>
+<s>A GM <EVENT eid="e88" class="REPORTING" stem="confirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">confirmou</EVENT> que <EVENT eid="e89" class="OCCURRENCE" stem="receber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recebeu</EVENT> <EVENT eid="e553" class="I_ACTION" stem="permissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">permissão</EVENT> antitrust para <EVENT eid="e91" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> a sua participação.</s>
+
+---
+
+<s>A Sansui Electric <EVENT eid="e93" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e95" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> uma participação de 51% à Polly Peck da Grã-Bretanha por 110 milhões de dólares.</s>
+<s>Mesmo assim, os analistas <EVENT eid="e97" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que o acordo não <EVENT eid="e613" class="REPORTING" stem="sugerir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">sugere</EVENT> que o Japão se está a <EVENT eid="e100" class="I_ACTION" stem="abrir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">abrir</EVENT> a mais <EVENT eid="e101" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisições</EVENT> de empresas estrangeiras.</s>
+
+---
+
+<s>A Kellogg <EVENT eid="e102" class="ASPECTUAL" stem="suspender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">suspendeu</EVENT> a <EVENT eid="e638" class="OCCURRENCE" stem="construção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">construção</EVENT> de uma fábrica de cereais de mil milhões de dólares, <EVENT eid="e105" class="REPORTING" stem="indicar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">indicando</EVENT> uma <EVENT eid="e651" class="STATE" stem="visão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visão</EVENT> pessimista do fabricante de cereais, que tem vindo a <EVENT eid="e106" class="OCCURRENCE" stem="perder" aspect="NONE" tense="INF" polarity="POS" pos="VERB">perder</EVENT> quota de mercado.</s>
+
+---
+
+<s>As seguradoras podem <EVENT eid="e107" class="I_ACTION" stem="ver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ver</EVENT> <EVENT eid="e109" class="OCCURRENCE" stem="pedido" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pedidos</EVENT> totalizando cerca de <EVENT eid="e690" class="STATE" stem="mil" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">mil</EVENT> milhões de dólares por causa do <EVENT eid="e668" class="OCCURRENCE" stem="terramoto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">terramoto</EVENT> de São Francisco, muito menos do que os <EVENT eid="e691" class="STATE" stem="4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">4</EVENT> mil milhões de dólares do <EVENT eid="e671" class="OCCURRENCE" stem="furacão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">furacão</EVENT> Hugo.</s>
+
+---
+
+<s>A Nashua <EVENT eid="e111" class="OCCURRENCE" stem="reforçar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reforçou</EVENT> o seu <EVENT eid="e555" class="I_ACTION" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> anti-OPAs depois de <EVENT eid="e113" class="REPORTING" stem="anunciar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">anunciar</EVENT> que uma empresa holandesa está a <EVENT eid="e114" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e116" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> até 25% da empresa de fotocopiadoras de New Hampshire.</s>
+
+---
+
+<s>A Mobil vai <EVENT eid="e117" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">reduzir</EVENT> o seu grupo nos EUA de exploração e produção de petróleo e gás em até 15% como parte de uma <EVENT eid="e554" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> da empresa.</s>
+
+<s>---
+
+Mercados ---
+
+Ações: Volume 170.330.000 ações.</s>
+<s>Dow Jones indústria 2.596,72, desceu 17,01; transporte 1190,43, desceu 14,76; serviços 215,86, subiu 0,19.</s>
+
+<s>Obrigações: Shearson Lehman Hutton Treasury index 3406,31, desceu 19,29.</s>
+
+<s>Matérias-Primas: Dow Jones futures index 129,49, subiu 0,27, spot index 130,80, desceu 0,24.</s>
+
+<s>Dólar: 141,65 ienes, desceu 0,45; 1,8300 marcos, desceu 0,0100.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e30" relatedToTime="t139" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e37" relatedToTime="t259" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e39" relatedToTime="t259" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e45" relatedToTime="t311" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e68" relatedToTime="t457" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e67" relatedToTime="t457" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e66" relatedToTime="t457" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e69" relatedToTime="t457" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e3" relatedToTime="t138" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e143" relatedToTime="t138" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e5" relatedToTime="t138" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e147" relatedToTime="t138" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e18" relatedToTime="t138" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e16" relatedToTime="t138" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e145" relatedToTime="t138" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e30" relatedToTime="t138" task="B"/>
+<TLINK lid="l17" relType="BEFORE-OR-OVERLAP" eventID="e37" relatedToTime="t138" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e39" relatedToTime="t138" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e45" relatedToTime="t138" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e396" relatedToTime="t138" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e371" relatedToTime="t138" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e68" relatedToTime="t138" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e67" relatedToTime="t138" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e66" relatedToTime="t138" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e69" relatedToTime="t138" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e74" relatedToTime="t138" task="B"/>
+<TLINK lid="l27" relType="AFTER" eventID="e76" relatedToTime="t138" task="B"/>
+<TLINK lid="l28" relType="AFTER" eventID="e79" relatedToTime="t138" task="B"/>
+<TLINK lid="l29" relType="OVERLAP-OR-AFTER" eventID="e78" relatedToTime="t138" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e532" relatedToTime="t138" task="B"/>
+<TLINK lid="l31" relType="AFTER" eventID="e80" relatedToTime="t138" task="B"/>
+<TLINK lid="l32" relType="AFTER" eventID="e87" relatedToTime="t138" task="B"/>
+<TLINK lid="l33" relType="AFTER" eventID="e83" relatedToTime="t138" task="B"/>
+<TLINK lid="l34" relType="OVERLAP" eventID="e81" relatedToTime="t138" task="B"/>
+<TLINK lid="l35" relType="AFTER" eventID="e91" relatedToTime="t138" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e93" relatedToTime="t138" task="B"/>
+<TLINK lid="l37" relType="AFTER" eventID="e95" relatedToTime="t138" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e97" relatedToTime="t138" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e107" relatedToTime="t138" task="B"/>
+<TLINK lid="l40" relType="OVERLAP" eventID="e114" relatedToTime="t138" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e555" relatedToTime="t138" task="B"/>
+<TLINK lid="l42" relType="OVERLAP" eventID="e116" relatedToTime="t138" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP-OR-AFTER" relatedToEvent="e36" eventID="e222" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e74" eventID="e72" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e326" eventID="e40" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e111" eventID="e107" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e78" eventID="e74" task="C"/>
+<TLINK lid="l6c" relType="VAGUE" relatedToEvent="e107" eventID="e102" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e222" eventID="e30" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e51" eventID="e326" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e22" eventID="e16" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP-OR-AFTER" relatedToEvent="e30" eventID="e29" task="C"/>
+<TLINK lid="l11c" relType="VAGUE" relatedToEvent="e117" eventID="e111" task="C"/>
+<TLINK lid="l12c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e39" eventID="e36" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e16" eventID="e160" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e81" eventID="e78" task="C"/>
+<TLINK lid="l15c" relType="BEFORE" relatedToEvent="e60" eventID="e54" task="C"/>
+<TLINK lid="l16c" relType="BEFORE" relatedToEvent="e72" eventID="e66" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e160" eventID="e2" task="C"/>
+<TLINK lid="l18c" relType="VAGUE" relatedToEvent="e54" eventID="e51" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP-OR-AFTER" relatedToEvent="e66" eventID="e60" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e88" eventID="e81" task="C"/>
+<TLINK lid="l21c" relType="VAGUE" relatedToEvent="e93" eventID="e88" task="C"/>
+<TLINK lid="l22c" relType="VAGUE" relatedToEvent="e102" eventID="e97" task="C"/>
+<TLINK lid="l23c" relType="OVERLAP" relatedToEvent="e29" eventID="e22" task="C"/>
+<TLINK lid="l24c" relType="OVERLAP" relatedToEvent="e40" eventID="e39" task="C"/>
+<TLINK lid="l25c" relType="BEFORE" relatedToEvent="e97" eventID="e93" task="C"/>
+</TempEval>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0059
+= 891102
+891102-0059.
+Dossier Internacional - N.V. DSM:
+@ Lucro Subiu 63% no Terceiro Trimestre
+@ Devido a Impostos Mais Baixos
+<TIMEX3 tid="t33" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+EUROP N.DSM
+EARNINGS (ERN)
+
+
+<s>A N.V. DSM <EVENT eid="e1" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informou</EVENT> que o lucro líquido no <TIMEX3 tid="t36" type="TIME" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">terceiro trimestre</TIMEX3> <EVENT eid="e2" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 63%, já que a empresa <EVENT eid="e73" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> <EVENT eid="e3" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargos</EVENT> extraordinários substancialmente menores para <EVENT eid="e5" class="OCCURRENCE" stem="acomodar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">acomodar</EVENT> um programa de reestruturação.</s>
+
+<s>O grupo químico holandês <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e7" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido obtido foi de <EVENT eid="e74" class="STATE" stem="235" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">235</EVENT> milhões de florins (113,2 milhões de dólares), ou 6,70 florins por ação, face a <EVENT eid="e75" class="STATE" stem="144" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">144</EVENT> milhões de florins, ou 4,10 florins por ação, <TIMEX3 tid="t43" type="DATE" value="1988" mod="APPROX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">há um ano</TIMEX3>.</s>
+
+<s>A empresa estatal DSM <EVENT eid="e8" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> <EVENT eid="e9" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargos</EVENT> extraordinários no <TIMEX3 tid="t45" type="TIME" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">último trimestre</TIMEX3> de oito milhões de florins, principalmente para <EVENT eid="e10" class="REPORTING" stem="refletir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">refletir</EVENT> <EVENT eid="e47" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perdas</EVENT> momentâneas ligadas à <EVENT eid="e12" class="OCCURRENCE" stem="eliminação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eliminação</EVENT> de algumas fábricas.</s>
+<s>Os <EVENT eid="e14" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargos</EVENT> foram <EVENT eid="e15" class="OCCURRENCE" stem="compensar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">compensados</EVENT> em parte por um <EVENT eid="e48" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganho</EVENT> com a <EVENT eid="e17" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> da divisão de construção da empresa.</s>
+
+<s>No <TIMEX3 tid="t49" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">ano passado</TIMEX3>, a DSM <EVENT eid="e19" class="OCCURRENCE" stem="gastar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">gastou</EVENT> 71 milhões de florins em <EVENT eid="e20" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargos</EVENT> extraordinários para o programa de reestruturação e outras transações.</s>
+
+<s>O <EVENT eid="e51" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> dos salários também foi <EVENT eid="e22" class="OCCURRENCE" stem="impulsionar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">impulsionado</EVENT> pela capacidade da empresa de <EVENT eid="e24" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reduzir</EVENT> os gastos de financiamento líquido pela metade, para cerca de <EVENT eid="e76" class="STATE" stem="15" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">15</EVENT> milhões de florins.</s>
+<s>Além disso, os impostos holandeses substancialmente mais baixos <EVENT eid="e26" class="OCCURRENCE" stem="ajudar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ajudaram</EVENT> a empresa a <EVENT eid="e27" class="ASPECTUAL" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> os seus gastos fiscais em baixo relativamente ao crescimento dos lucros, a empresa <EVENT eid="e29" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT>.</s>
+
+<s>As vendas, contudo, pouco se <EVENT eid="e31" class="OCCURRENCE" stem="alterar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alteraram</EVENT>, ficando-se pelos 2,46 mil milhões de florins, em comparação aos 2,42 mil milhões de florins.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e3" relatedToTime="t36" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e1" relatedToTime="t36" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e73" relatedToTime="t36" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e6" relatedToTime="t43" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e7" relatedToTime="t43" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e9" relatedToTime="t45" task="A"/>
+<TLINK lid="l7" relType="VAGUE" eventID="e47" relatedToTime="t45" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e8" relatedToTime="t45" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e20" relatedToTime="t49" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e19" relatedToTime="t49" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e3" relatedToTime="t33" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e1" relatedToTime="t33" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e73" relatedToTime="t33" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e6" relatedToTime="t33" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e7" relatedToTime="t33" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e9" relatedToTime="t33" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e47" relatedToTime="t33" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e8" relatedToTime="t33" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e48" relatedToTime="t33" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e14" relatedToTime="t33" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e17" relatedToTime="t33" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e20" relatedToTime="t33" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e19" relatedToTime="t33" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e26" relatedToTime="t33" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e29" relatedToTime="t33" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e26" eventID="e22" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e19" eventID="e15" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e8" eventID="e6" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e31" eventID="e26" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e22" eventID="e19" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e15" eventID="e8" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e6" eventID="e1" task="C"/>
+</TempEval>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891102-0069
+= 891102
+891102-0069.
+Young's Market Co. prestes a fundir-se
+<TIMEX3 tid="t15" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM
+LOS ANGELES
+
+
+<s>A Young's Market Co., um vendedor por grosso de bebidas espirituosas, vinhos e outras mercadorias, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que se vai <EVENT eid="e2" class="OCCURRENCE" stem="fundir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">fundir</EVENT> com uma nova empresa <EVENT eid="e3" class="OCCURRENCE" stem="formar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">formada</EVENT> pela família Underwood, que controla a Young's.</s>
+
+<s>Sob os termos do <EVENT eid="e11" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>, os acionistas que não sejam os Underwoods <EVENT eid="e5" class="OCCURRENCE" stem="receber" aspect="NONE" tense="FI" polarity="POS" pos="VERB">receberão</EVENT> 3.500 dólares por ação quando o negócio se <EVENT eid="e6" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">fechar</EVENT>, o que é <EVENT eid="e8" class="OCCURRENCE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">esperado</EVENT> em <TIMEX3 tid="t13" type="DATE" value="1989-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t15">dezembro</TIMEX3>.</s>
+<s>A família Underwood <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os detentores de mais de uma maioria das ações da companhia <EVENT eid="e10" class="OCCURRENCE" stem="consentir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">consentiram</EVENT> a <EVENT eid="e14" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> por escrito.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e8" relatedToTime="t13" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e11" relatedToTime="t13" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e1" relatedToTime="t15" task="B"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e8" relatedToTime="t15" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e11" relatedToTime="t15" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e9" relatedToTime="t15" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e9" eventID="e5" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

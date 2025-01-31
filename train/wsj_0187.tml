@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891102-0003
+= 891102
+891102-0003.
+Internacional:
+@ Finlândia, Grandes Credores
+@ Vão Criar Companhia
+@ Para Terminar Barcos
+<TIMEX3 tid="t33" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+EUROP CCL
+BANKRUPTCIES (BCY)
+TRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA)
+STOCKHOLM
+
+<s>O governo finlandês e os principais credores do estaleiro falido Waertsilae Marine Industries Oy <EVENT eid="e1" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordaram</EVENT>, por princípio, em <EVENT eid="e2" class="OCCURRENCE" stem="formar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">formar</EVENT> uma nova empresa para <EVENT eid="e3" class="OCCURRENCE" stem="completar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">completar</EVENT> a maioria dos atrasos em 15 barcos do estaleiro problemático.</s>
+
+<s>A nova empresa <EVENT eid="e4" class="I_ACTION" stem="tentar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">tentará</EVENT> <EVENT eid="e5" class="OCCURRENCE" stem="limitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">limitar</EVENT> as perdas do estaleiro, <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> os participantes.</s>
+<s>"A situação é que o tribunal de falências vai <EVENT eid="e7" class="OCCURRENCE" stem="sair" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">sair</EVENT> do negócio da construção naval.</s>
+<s>Tudo será <EVENT eid="e8" class="OCCURRENCE" stem="tratar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">tratado</EVENT> pela nova empresa", <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Christian Andersson, vice-presidente executivo da Oy Waertsilae, ex-empresa-mãe da Waertsilae Marine.</s>
+
+<s>Quando a posse estiver <EVENT eid="e10" class="OCCURRENCE" stem="finalizar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">finalizada</EVENT>, a nova empresa <EVENT eid="e40" class="ASPECTUAL" stem="entrar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">entrará</EVENT> em <EVENT eid="e41" class="OCCURRENCE" stem="conversação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversações</EVENT> com entidades nomeadas pelo estado para <EVENT eid="e12" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> ou <EVENT eid="e43" class="OCCURRENCE" stem="alugar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">alugar</EVENT> as instalações dos estaleiros da Waertsilae Marine.</s>
+
+<s>Aos subcontratados será <EVENT eid="e13" class="I_ACTION" stem="oferecer" aspect="NONE" tense="FI" polarity="POS" pos="VERB">oferecido</EVENT> um <EVENT eid="e44" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> e <EVENT eid="e14" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT>-se uma <EVENT eid="e45" class="OCCURRENCE" stem="transição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transição</EVENT> rápida para a nova gerência para <EVENT eid="e15" class="I_ACTION" stem="evitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">evitar</EVENT> um <EVENT eid="e46" class="OCCURRENCE" stem="êxodo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">êxodo</EVENT> de trabalhadores qualificados dos dois grandes estaleiros da Waertsilae Marine, <EVENT eid="e16" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> funcionários do governo.</s>
+
+<s>Segundo um acordo <EVENT eid="e17" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">assinado</EVENT> <TIMEX3 tid="t35" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">ontem</TIMEX3>, o governo e o Union Bank da Finlândia devem <EVENT eid="e18" class="OCCURRENCE" stem="vir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vir</EVENT> a ser os principais acionistas da nova sociedade, cada qual <EVENT eid="e20" class="OCCURRENCE" stem="injetar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">injetando</EVENT> 100 milhões de coroas finlandesas (23,5 milhões de dólares).</s>
+<s>A Oy Waertsilae deve <EVENT eid="e21" class="OCCURRENCE" stem="contribuir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">contribuir</EVENT> com 200 milhões de coroas, a maior parte das quais como dívida subordinada, e <EVENT eid="e22" class="OCCURRENCE" stem="obter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">obter</EVENT> uma participação minoritária na nova empresa.</s>
+
+<s><EVENT eid="e24" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Espera</EVENT>-se que os clientes <EVENT eid="e23" class="STATE" stem="detentor" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">detentores</EVENT> de contratos para os navios não entregues da Waertsilae Marine <EVENT eid="e25" class="OCCURRENCE" stem="subscrever" aspect="NONE" tense="PC" polarity="POS" pos="VERB">subscrevam</EVENT> a maior parte dos restantes 170 milhões de coroas em ações, <EVENT eid="e27" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> funcionários do governo.</s>
+
+<s>O maior credor da Waertsilae Marine é a Carnival Cruise Lines Inc., sediada em Miami.</s>
+<s>A Carnival, que <EVENT eid="e28" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> três navios <EVENT eid="e227" class="STATE" stem="encomendar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">encomendados</EVENT> à Waertsilae Marine, <EVENT eid="e232" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apresentou</EVENT> queixas de danos de 1.5 mil milhões de dólares ao tribunal de falências nesta <TIMEX3 tid="t37" type="DATE" value="1989-W44" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">semana</TIMEX3>.</s>
+
+<s>O <EVENT eid="e50" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> de falência da Waertsilae Marine <EVENT eid="e32" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> <TIMEX3 tid="t36" type="DATE" value="1989-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t33">terça-feira</TIMEX3> num tribunal de Helsínquia.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e18" relatedToTime="t35" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e28" relatedToTime="t37" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e32" relatedToTime="t36" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t33" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e6" relatedToTime="t33" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e9" relatedToTime="t33" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e41" relatedToTime="t33" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e12" relatedToTime="t33" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e16" relatedToTime="t33" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e13" relatedToTime="t33" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e14" relatedToTime="t33" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e18" relatedToTime="t33" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e22" relatedToTime="t33" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e23" relatedToTime="t33" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e27" relatedToTime="t33" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e24" relatedToTime="t33" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e28" relatedToTime="t33" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e32" relatedToTime="t33" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e32" eventID="e232" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e40" eventID="e9" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e7" eventID="e6" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e13" eventID="e40" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e232" eventID="e27" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e27" eventID="e21" task="C"/>
+<TLINK lid="l8c" relType="VAGUE" relatedToEvent="e18" eventID="e13" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e9" eventID="e7" task="C"/>
+<TLINK lid="l10c" relType="VAGUE" relatedToEvent="e21" eventID="e18" task="C"/>
+</TempEval>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891030-0130
+= 891030
+891030-0130.
+Crane Co. Detém 8,9%
+@ Da Milton Roy Corp.,
+@ Pode Procurar Controlo
+<TIMEX3 tid="t85" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CR MRC
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+NEW YORK
+
+
+<s>A Crane Co. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> uma participação de 8,9% na Milton Roy Corp., um fabricante de instrumentos de análise, e pode <EVENT eid="e4" class="I_STATE" stem="procurar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">procurar</EVENT> o <EVENT eid="e80" class="STATE" stem="controlo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">controlo</EVENT> da empresa.</s>
+
+<s>A Crane, um fabricante de produtos de engenharia para a indústria aeroespacial, construção, defesa e outros usos, <EVENT eid="e8" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fez</EVENT> a <EVENT eid="e9" class="REPORTING" stem="revelação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">revelação</EVENT> num documento <EVENT eid="e81" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="PPA" polarity="POS" pos="NOUN">enviado</EVENT> à Securities and Exchange Commission.</s>
+
+<s>No documento <EVENT eid="e10" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="PPA" polarity="POS" pos="NOUN">enviado</EVENT>, a Crane <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que, <TIMEX3 tid="t84" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">no passado</TIMEX3>, <EVENT eid="e12" class="I_STATE" stem="considerar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">considerou</EVENT> <EVENT eid="e13" class="I_ACTION" stem="procurar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">procurar</EVENT> o <EVENT eid="e87" class="STATE" stem="controlo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">controlo</EVENT> da Milton Roy, de St. Petersburg, na Flórida, através de uma <EVENT eid="e14" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT> ou <EVENT eid="e15" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de aquisição e que <EVENT eid="e16" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e18" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">continuar</EVENT> a <EVENT eid="e20" class="I_ACTION" stem="avaliar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">avaliar</EVENT> uma <EVENT eid="e21" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> <TIMEX3 tid="t88" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">de vez em quando</TIMEX3>.</s>
+<s>Os funcionários da Crane não <EVENT eid="e25" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">responderam</EVENT> aos <EVENT eid="e89" class="OCCURRENCE" stem="telefonema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">telefonemas</EVENT> a <EVENT eid="e27" class="I_ACTION" stem="pedir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pedir</EVENT> <EVENT eid="e28" class="OCCURRENCE" stem="comentário" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comentários</EVENT>.</s>
+
+<s>A Crane detém 504.200 ações da Milton Roy, incluindo 254.200 <EVENT eid="e30" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">compradas</EVENT> entre <TIMEX3 tid="t91" type="DATE" value="1989-09-14" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">14 de setembro</TIMEX3> e <TIMEX3 tid="t92" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">quinta-feira</TIMEX3> por entre 15,50 e 16,75 dólares cada.</s>
+<s>Na Bolsa de Valores de Nova Iorque, na <TIMEX3 tid="t94" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">sexta-feira</TIMEX3>, as ações da Milton Roy <EVENT eid="e31" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 2 dólares para os <EVENT eid="e95" class="STATE" stem="18,375" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">18,375</EVENT> dólares cada, enquanto a Crane <EVENT eid="e33" class="OCCURRENCE" stem="descer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desceu</EVENT> 1,125 dólares, para os <EVENT eid="e96" class="STATE" stem="21,125" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">21,125</EVENT> dólares por ação.</s>
+
+<s>John M. McNamara, diretor financeiro da Milton Roy, <EVENT eid="e34" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a empresa não <EVENT eid="e35" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> nenhum <EVENT eid="e36" class="I_STATE" stem="comentário" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">comentário</EVENT> sobre o documento <EVENT eid="e37" class="OCCURRENCE" stem="submeter" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">submetido</EVENT> pela Crane.</s>
+
+<s>A Milton Roy <EVENT eid="e38" class="OCCURRENCE" stem="defender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">defendeu</EVENT>-se <TIMEX3 tid="t100" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">recentemente</TIMEX3> de ofertas não solicitadas da Thermo Electron Corp., um fabricante de produtos biomédicos de Waltham, Massachusetts.</s>
+<s>A Milton Roy <EVENT eid="e40" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> em <TIMEX3 tid="t101" type="DATE" value="1989-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">maio</TIMEX3> que foi <EVENT eid="e41" class="I_ACTION" stem="abordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">abordada</EVENT> para uma possível <EVENT eid="e42" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> pela Thermo Electron, que <EVENT eid="e43" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e45" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> a linha da Milton Roy de cromatografia líquida por 22 milhões de dólares em <TIMEX3 tid="t104" type="DATE" value="1990-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">fevereiro</TIMEX3>.</s>
+<s>A Thermo Electron <EVENT eid="e47" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adquiriu</EVENT> cerca de 6% das ações ordinárias da Milton Roy, antes de <EVENT eid="e49" class="OCCURRENCE" stem="desistir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">desistir</EVENT> e <EVENT eid="e50" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">reduzir</EVENT> a sua participação no <TIMEX3 tid="t105" type="DATE" value="1989-09" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">início de setembro</TIMEX3>.</s>
+
+<s>O Grupo Gabelli <EVENT eid="e52" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> a <EVENT eid="e53" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> a sua participação da Milton Roy em <TIMEX3 tid="t108" type="DATE" value="1989-07" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">julho</TIMEX3> e <EVENT eid="e54" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> 14,6%, segundo um <EVENT eid="e109" class="REPORTING" stem="registo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">registo</EVENT> <TIMEX3 tid="t110" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">recente</TIMEX3> na SEC.</s>
+<s>Não <EVENT eid="e56" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">colocou</EVENT> <EVENT eid="e58" class="I_ACTION" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">propostas</EVENT> de <EVENT eid="e112" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT> ao conselho de administração.</s>
+
+<s>No <TIMEX3 tid="t113" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t85">início deste mês</TIMEX3>, a Milton Roy <EVENT eid="e59" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assinou</EVENT> uma carta de <EVENT eid="e61" class="I_STATE" stem="intenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">intenção</EVENT> em <EVENT eid="e63" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> a Custom Automated Systems Inc., de Orange, na Califórnia, e a sua empresa irmã, a Environmental Testing Co., em Aurora, no Colorado.</s>
+<s>As companhias são empresas de testes de emissões de automóveis.</s>
+
+<s>Sob os termos, a Milton Roy vai <EVENT eid="e65" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">pagar</EVENT> 4 milhões de dólares iniciais pelas <EVENT eid="e66" class="OCCURRENCE" stem="operação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">operações</EVENT> e <EVENT eid="e67" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamentos</EVENT> adicionais durante <TIMEX3 tid="t114" type="DURATION" value="P4Y" temporalFunction="true" functionInDocument="NONE" beginPoint="t85">os próximos quatro anos</TIMEX3> com base no desempenho dos ganhos das empresas.</s>
+
+<s>Nos <TIMEX3 tid="t115" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">nove meses</TIMEX3>, a Milton Roy <EVENT eid="e72" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ganhou</EVENT> 6,6 milhões de dólares, ou 1,18 dólares por ação, com <EVENT eid="e118" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> de 94,3 milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e21" relatedToTime="t84" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e21" relatedToTime="t88" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e18" relatedToTime="t84" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e18" relatedToTime="t88" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e16" relatedToTime="t84" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e16" relatedToTime="t88" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e13" relatedToTime="t84" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e13" relatedToTime="t88" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e15" relatedToTime="t84" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e15" relatedToTime="t88" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e11" relatedToTime="t84" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e11" relatedToTime="t88" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e30" relatedToTime="t91" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e30" relatedToTime="t92" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e43" relatedToTime="t104" task="A"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e43" relatedToTime="t101" task="A"/>
+<TLINK lid="l17" relType="BEFORE-OR-OVERLAP" eventID="e42" relatedToTime="t104" task="A"/>
+<TLINK lid="l18" relType="AFTER" eventID="e42" relatedToTime="t101" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e45" relatedToTime="t104" task="A"/>
+<TLINK lid="l20" relType="AFTER" eventID="e45" relatedToTime="t101" task="A"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e47" relatedToTime="t105" task="A"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e54" relatedToTime="t110" task="A"/>
+<TLINK lid="l23" relType="OVERLAP-OR-AFTER" eventID="e54" relatedToTime="t108" task="A"/>
+<TLINK lid="l24" relType="OVERLAP" eventID="e109" relatedToTime="t110" task="A"/>
+<TLINK lid="l25" relType="OVERLAP-OR-AFTER" eventID="e109" relatedToTime="t108" task="A"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e52" relatedToTime="t110" task="A"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e52" relatedToTime="t108" task="A"/>
+<TLINK lid="l28" relType="AFTER" eventID="e63" relatedToTime="t113" task="A"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e65" relatedToTime="t114" task="A"/>
+<TLINK lid="l30" relType="OVERLAP" eventID="e72" relatedToTime="t115" task="A"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e118" relatedToTime="t115" task="A"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e2" relatedToTime="t85" task="B"/>
+<TLINK lid="l33" relType="OVERLAP" eventID="e4" relatedToTime="t85" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e1" relatedToTime="t85" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e8" relatedToTime="t85" task="B"/>
+<TLINK lid="l36" relType="AFTER" eventID="e21" relatedToTime="t85" task="B"/>
+<TLINK lid="l37" relType="AFTER" eventID="e18" relatedToTime="t85" task="B"/>
+<TLINK lid="l38" relType="OVERLAP" eventID="e16" relatedToTime="t85" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e13" relatedToTime="t85" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e15" relatedToTime="t85" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e11" relatedToTime="t85" task="B"/>
+<TLINK lid="l42" relType="OVERLAP" eventID="e27" relatedToTime="t85" task="B"/>
+<TLINK lid="l43" relType="OVERLAP" eventID="e89" relatedToTime="t85" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e30" relatedToTime="t85" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e34" relatedToTime="t85" task="B"/>
+<TLINK lid="l46" relType="OVERLAP" eventID="e35" relatedToTime="t85" task="B"/>
+<TLINK lid="l47" relType="BEFORE" eventID="e43" relatedToTime="t85" task="B"/>
+<TLINK lid="l48" relType="OVERLAP" eventID="e42" relatedToTime="t85" task="B"/>
+<TLINK lid="l49" relType="OVERLAP-OR-AFTER" eventID="e45" relatedToTime="t85" task="B"/>
+<TLINK lid="l50" relType="BEFORE" eventID="e47" relatedToTime="t85" task="B"/>
+<TLINK lid="l51" relType="OVERLAP" eventID="e54" relatedToTime="t85" task="B"/>
+<TLINK lid="l52" relType="OVERLAP" eventID="e109" relatedToTime="t85" task="B"/>
+<TLINK lid="l53" relType="BEFORE" eventID="e52" relatedToTime="t85" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e56" relatedToTime="t85" task="B"/>
+<TLINK lid="l55" relType="AFTER" eventID="e63" relatedToTime="t85" task="B"/>
+<TLINK lid="l56" relType="AFTER" eventID="e65" relatedToTime="t85" task="B"/>
+<TLINK lid="l57" relType="BEFORE" eventID="e72" relatedToTime="t85" task="B"/>
+<TLINK lid="l58" relType="BEFORE" eventID="e118" relatedToTime="t85" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e65" eventID="e59" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e25" eventID="e11" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e59" eventID="e56" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e52" eventID="e47" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e72" eventID="e65" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e56" eventID="e52" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e40" eventID="e38" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e38" eventID="e34" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e31" eventID="e30" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e47" eventID="e40" task="C"/>
+<TLINK lid="l12c" relType="AFTER" relatedToEvent="e30" eventID="e25" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e34" eventID="e31" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

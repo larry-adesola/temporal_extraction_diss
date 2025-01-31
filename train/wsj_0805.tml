@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891027-0090
+= 891027
+891027-0090.
+Notícias de Dividendos:
+@ CMS Energy Corp.
+<TIMEX3 tid="t13" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CMS
+DIVIDENDS (DIV)
+EARNINGS (ERN)
+
+
+<s>A CMS Energy Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a gestão <EVENT eid="e3" class="I_ACTION" stem="recomendar" aspect="NONE" tense="C" polarity="POS" pos="VERB">recomendaria</EVENT> ao conselho de administração <TIMEX3 tid="t14" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">hoje</TIMEX3> que o dividendo sobre as ações ordinárias seja <EVENT eid="e5" class="OCCURRENCE" stem="reestabelecer" aspect="NONE" tense="PC" polarity="POS" pos="VERB">reestabelecido</EVENT> a um "nível modesto" no <TIMEX3 tid="t77" type="DATE" value="1989-11-01" mod="ON_OR_AFTER" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">final deste ano</TIMEX3>.</s>
+<s>A empresa de energia de Dearborn, no Michigan, <EVENT eid="e6" class="ASPECTUAL" stem="parar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">parou</EVENT> de <EVENT eid="e7" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> dividendos no <TIMEX3 tid="t69" type="DATE" value="1984-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">terceiro trimestre de 1984</TIMEX3> devido a <EVENT eid="e8" class="OCCURRENCE" stem="problema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">problemas</EVENT> na sua central nuclear de Midland.</s>
+<s>Além disso, a CMS <EVENT eid="e10" class="REPORTING" stem="publicar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">publicou</EVENT> resultados para <TIMEX3 tid="t15" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">o terceiro trimestre</TIMEX3> de <EVENT eid="e144" class="STATE" stem="68,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">68,2</EVENT> milhões de dólares, ou 83 cêntimos por ação, <EVENT eid="e121" class="STATE" stem="subir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">subindo</EVENT> dos <EVENT eid="e145" class="STATE" stem="66,8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">66,8</EVENT> milhões de dólares, ou 81 cêntimos por ação, de <TIMEX3 tid="t21" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t15">há um ano</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1" relatedToTime="t77" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t14" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e7" relatedToTime="t69" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e10" relatedToTime="t21" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e10" relatedToTime="t15" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t13" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e7" relatedToTime="t13" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e10" relatedToTime="t13" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e10" eventID="e6" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e6" eventID="e1" task="C"/>
+</TempEval>

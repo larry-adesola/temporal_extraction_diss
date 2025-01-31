@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891102-0022
+= 891102
+891102-0022.
+Dossier de Negócios - Meridian National Corp.:
+@ McAlpines Adquire 10,2%
+@ Das Ações Ordinárias por 1 Milhão de Dólares
+<TIMEX3 tid="t21" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MRCO
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A Meridian National Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="vender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">vendeu</EVENT> 750.000 ações ordinárias ao grupo da família McAlpine, por 1 milhão de dólares, ou 1,35 dólares por ação.</s>
+<s>A <EVENT eid="e4" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> <EVENT eid="e5" class="OCCURRENCE" stem="representar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">representa</EVENT> 10,2% das ações em circulação da Meridian.</s>
+
+<s>A família McAlpine, que <EVENT eid="e6" class="OCCURRENCE" stem="operar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">opera</EVENT> uma série de empresas multinacionais, incluindo uma empresa de engenharia e construção sediada em Londres, também <EVENT eid="e7" class="OCCURRENCE" stem="emprestar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emprestou</EVENT> 500.000 dólares à Meridian Nacional.</s>
+<s>Esse montante é <EVENT eid="e22" class="STATE" stem="convertível" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">convertível</EVENT> em ações ordinárias da Meridian a 2 dólares por ação durante <TIMEX3 tid="t23" type="DURATION" value="P1Y" temporalFunction="false" functionInDocument="NONE">o período de um ano</TIMEX3>.</s>
+<s>O empréstimo pode ser <EVENT eid="e10" class="OCCURRENCE" stem="prorrogar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">prorrogado</EVENT> pelo grupo McAlpine por <TIMEX3 tid="t25" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" beginPoint="t21">mais um ano</TIMEX3> com um <EVENT eid="e12" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> do preço de <EVENT eid="e27" class="OCCURRENCE" stem="conversão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversão</EVENT> para 2,50 dólares por ação.</s>
+
+<s>A <EVENT eid="e14" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de ações à família McAlpine, juntamente com a recente <EVENT eid="e15" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de 750.000 ações da Meridian à Haden MacLellan Holding PLC de Surrey, na Inglaterra, e uma recente <EVENT eid="e16" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública <EVENT eid="e17" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentaram</EVENT> o património líquido da Meridian para 8,5 milhões de dólares, <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> William Feniger, diretor geral da Toledo, a filial de Ohio da Meridian.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e12" relatedToTime="t25" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e2" relatedToTime="t21" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e1" relatedToTime="t21" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e4" relatedToTime="t21" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e12" relatedToTime="t21" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e17" relatedToTime="t21" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e14" relatedToTime="t21" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e18" relatedToTime="t21" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e15" relatedToTime="t21" task="B"/>
+<TLINK lid="l1c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e10" eventID="e22" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e22" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e18" eventID="e10" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e7" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

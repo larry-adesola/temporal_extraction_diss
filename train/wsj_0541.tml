@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0160
+= 891030
+891030-0160.
+Automatic Data Processing
+<TIMEX3 tid="t17" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+AUD
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+ROSELAND, N.J.
+
+
+<s>A Automatic Data Processing Inc. <EVENT eid="e1" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="POS" pos="VERB">planeia</EVENT> <EVENT eid="e3" class="OCCURRENCE" stem="resgatar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resgatar</EVENT> em <TIMEX3 tid="t18" type="DATE" value="1989-11-16" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">16 de novembro</TIMEX3> os seus 150 milhões de dólares de obrigações convertíveis a 6,5% <EVENT eid="e19" class="STATE" stem="dever" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">devidas</EVENT> até <TIMEX3 tid="t20" type="DATE" value="2011-03-01" temporalFunction="false" functionInDocument="NONE">1 de março de 2011</TIMEX3>.</s>
+
+<s>A empresa de serviços informáticos <EVENT eid="e4" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">pagará</EVENT> 1.059,04 dólares por cada 1.000 dólares em valor nominal de débito.</s>
+<s>O preço de conversão das obrigações é de 41,725 dólares por ação.</s>
+<s>Na Bolsa de Valores de Nova Iorque de <TIMEX3 tid="t21" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">sexta-feira</TIMEX3>, a Automatic Data <EVENT eid="e6" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos <EVENT eid="e22" class="STATE" stem="46,50" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">46,50</EVENT> dólares por ação, descendo 2,25 dólares.</s>
+
+<s>Se toda a dívida for <EVENT eid="e7" class="OCCURRENCE" stem="converter" aspect="NONE" tense="FC" polarity="POS" pos="VERB">convertida</EVENT> em ações ordinárias, a Automatic Data vai <EVENT eid="e8" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">emitir</EVENT> cerca de 3,6 milhões de ações; na <TIMEX3 tid="t24" type="DATE" value="1989-10-23" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">segunda-feira passada</TIMEX3>, a empresa <EVENT eid="e25" class="STATE" stem="ter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">tinha</EVENT> cerca de 73 milhões de ações em circulação.</s>
+
+<s>A Automatic Data está a <EVENT eid="e9" class="OCCURRENCE" stem="resgatar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">resgatar</EVENT> as obrigações, porque o custo depois de impostos dos juros sobre os títulos é superior ao rendimento dos dividendos das ações ordinárias, <EVENT eid="e14" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um porta-voz.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t20" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t18" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e6" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e25" relatedToTime="t24" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e1" relatedToTime="t17" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e4" relatedToTime="t17" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e6" relatedToTime="t17" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e25" relatedToTime="t17" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e14" relatedToTime="t17" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e8" eventID="e6" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e14" eventID="e8" task="C"/>
+</TempEval>

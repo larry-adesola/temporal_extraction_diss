@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0014
+= 891102
+891102-0014.
+A Xerox Vai Despedir 300
+@ Em Unidade de Seguros Pessoais
+<TIMEX3 tid="t19" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+XRX
+
+<s>A Xerox Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> aos empregados da sua subsidiária de seguros pessoais Crum &amp; Forster que vai <EVENT eid="e2" class="OCCURRENCE" stem="demitir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">demitir</EVENT> cerca de 300 pessoas, ou 25% do pessoal.</s>
+
+<s>Uma porta-voz da Crum &amp; Forster <EVENT eid="e3" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os empregados foram <EVENT eid="e4" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informados</EVENT> no <TIMEX3 tid="t21" type="DATE" value="1989-W44" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">início desta semana</TIMEX3> que numerosas funções do pessoal para as linhas de seguros pessoais iam ser <EVENT eid="e6" class="STATE" stem="centralizar" aspect="NONE" tense="IR-PII+INF" polarity="POS" pos="VERB">centralizadas</EVENT> como parte de uma iniciativa para diminuir as despesas.</s>
+
+<s>Ela <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e82" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medida</EVENT> <EVENT eid="e8" class="OCCURRENCE" stem="levar" aspect="NONE" tense="C" polarity="POS" pos="VERB">levaria</EVENT> a um encargo depois de impostos de menos de 4 milhões de dólares a serem <EVENT eid="e10" class="OCCURRENCE" stem="distribuir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">distribuídos</EVENT> ao longo dos <TIMEX3 tid="t23" type="DURATION" value="P9M" temporalFunction="true" functionInDocument="NONE" beginPoint="t19">próximos três trimestres</TIMEX3>.</s>
+<s>Em comparação, durante os <TIMEX3 tid="t24" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">primeiros nove meses</TIMEX3>, a Xerox <EVENT eid="e11" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ganhou</EVENT> 492 milhões de dólares, ou 4,55 dólares por ação, sobre uma receita de 12,97 mil milhões de dólares.</s>
+
+<s>Os lucros nos negócios de serviços financeiros da Xerox na verdade <EVENT eid="e12" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentaram</EVENT> ligeiramente, mas isso foi em grande parte porque os ganhos de capital na Crum &amp; Forster <EVENT eid="e13" class="OCCURRENCE" stem="compensar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">compensaram</EVENT> os pagamentos às vítimas do furacão Hugo e as reservas criadas para cobrir pagamentos futuros.</s>
+
+<s>O seguro de imóveis e acidentes tem sido um negócio <EVENT eid="e109" class="STATE" stem="difícil" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">difícil</EVENT> nos <TIMEX3 tid="t25" type="DURATION" value="PXM" temporalFunction="false" functionInDocument="NONE">últimos trimestres</TIMEX3>, já que a fixação de preços tem sido brutal e os <EVENT eid="e17" class="OCCURRENCE" stem="desastre" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desastres</EVENT> naturais como o furacão <EVENT eid="e127" class="OCCURRENCE" stem="Hugo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">Hugo</EVENT> e o <EVENT eid="e29" class="OCCURRENCE" stem="terramoto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">terramoto</EVENT> da Califórnia <EVENT eid="e18" class="I_ACTION" stem="resultar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">resultaram</EVENT> em <EVENT eid="e126" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamentos</EVENT> enormes.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e4" relatedToTime="t21" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e3" relatedToTime="t21" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e8" relatedToTime="t23" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e7" relatedToTime="t23" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e82" relatedToTime="t23" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e11" relatedToTime="t24" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e18" relatedToTime="t25" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e1" relatedToTime="t19" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e4" relatedToTime="t19" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e3" relatedToTime="t19" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e8" relatedToTime="t19" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e7" relatedToTime="t19" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e82" relatedToTime="t19" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e11" relatedToTime="t19" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e12" relatedToTime="t19" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e18" relatedToTime="t19" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e109" eventID="e12" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e7" eventID="e3" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e11" eventID="e7" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>

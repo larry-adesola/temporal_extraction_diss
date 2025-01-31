@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+CNN<TIMEX3 tid="t31" type="DATE" value="1998-01-26" temporalFunction="false" functionInDocument="CREATION_TIME">19980126</TIMEX3>.1600.1104
+REPORTAGEM
+
+
+<s>Grandes <EVENT eid="e35" class="OCCURRENCE" stem="corte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cortes</EVENT> de empregos na AT&amp;T.</s>
+<s>O gigante das telecomunicações de longa distância está a <EVENT eid="e1" class="OCCURRENCE" stem="eliminar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">eliminar</EVENT> até dezoito mil postos, a <EVENT eid="e38" class="OCCURRENCE" stem="congelar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">congelar</EVENT> os salários dos executivos e a <EVENT eid="e3" class="OCCURRENCE" stem="abanar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">abanar</EVENT> a gerência.</s>
+<s>As <EVENT eid="e39" class="ASPECTUAL" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudanças</EVENT> fazem parte de uma <EVENT eid="e40" class="I_ACTION" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativa</EVENT> de <EVENT eid="e41" class="OCCURRENCE" stem="redução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reduções</EVENT> de custos em 1,6 mil milhões de dólares para <EVENT eid="e4" class="OCCURRENCE" stem="revitalizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">revitalizar</EVENT> a sua posição no negócio das telecomunicações.</s>
+<s>Anteriormente, a AT&amp;T <EVENT eid="e7" class="REPORTING" stem="anunciar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">anunciara</EVENT> uma <EVENT eid="e42" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> de dezoito por cento nos <EVENT eid="e43" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> do <TIMEX3 tid="t32" type="DURATION" value="1997-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">quarto trimestre</TIMEX3>.</s>
+<s>A equipa de vendas da empresa <EVENT eid="e9" class="I_ACTION" stem="aplaudir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aplaudiu</EVENT> o <EVENT eid="e205" class="OCCURRENCE" stem="abanão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abanão</EVENT>.</s>
+
+<s>Não é algo a que não estejamos <EVENT eid="e206" class="STATE" stem="habituar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">habituados</EVENT> na indústria.</s>
+<s>Mas <EVENT eid="e14" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acho</EVENT> que <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">agora</TIMEX3>, para a AT&amp;T e as pessoas daqui, é bastante <EVENT eid="e46" class="STATE" stem="preocupante" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">preocupante</EVENT> como bem pode imaginar.</s>
+
+<s>Quero dizer, olhe para as ações.</s>
+<s>Sabe, desde que ele está <EVENT eid="e172" class="STATE" stem="aqui" aspect="NONE" tense="PI" polarity="POS" pos="ADVERB">aqui</EVENT> as ações <EVENT eid="e22" class="OCCURRENCE" stem="disparar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">dispararam</EVENT>, portanto, sim, <EVENT eid="e48" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acho</EVENT> que está a <EVENT eid="e24" class="OCCURRENCE" stem="fazer" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">fazer</EVENT> a coisa certa.</s>
+
+<s><EVENT eid="e25" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Acho</EVENT> bem que eles estejam finalmente a <EVENT eid="e27" class="OCCURRENCE" stem="reduzir" aspect="PROGRESSIVE" tense="PC" polarity="POS" pos="VERB">reduzir</EVENT> o pessoal da gerência, sabe, porque há muita gente <EVENT eid="e50" class="STATE" stem="desaproveitar" aspect="NONE" tense="PPA" polarity="POS" pos="NOUN">desaproveitada</EVENT>.</s>
+
+<s>Boas <EVENT eid="e51" class="REPORTING" stem="notícia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">notícias</EVENT> para a AT&amp;T <TIMEX3 tid="t33" type="DATE" value="1998-01-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">hoje</TIMEX3>.</s>
+<s><EVENT eid="e29" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Acho</EVENT> que é <EVENT eid="e204" class="STATE" stem="excelente" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">excelente</EVENT> para a empresa.</s>
+
+<s>Mas os investidores estão a <EVENT eid="e30" class="I_ACTION" stem="avaliar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">avaliar</EVENT> as <EVENT eid="e52" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudanças</EVENT> com cautela, as ações da AT&amp;T <EVENT eid="e53" class="OCCURRENCE" stem="baixar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">baixaram</EVENT> quase quatro para os sessenta e um e meio.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e42" relatedToTime="t32" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e7" relatedToTime="t32" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e14" relatedToTime="t34" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e39" relatedToTime="t31" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e42" relatedToTime="t31" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e7" relatedToTime="t31" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e206" relatedToTime="t31" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e14" relatedToTime="t31" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e48" relatedToTime="t31" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e25" relatedToTime="t31" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e29" relatedToTime="t31" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e52" relatedToTime="t31" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e39" eventID="e35" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e29" eventID="e51" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e7" eventID="e39" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e51" eventID="e25" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e206" eventID="e9" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e25" eventID="e48" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e14" eventID="e206" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e30" eventID="e29" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e9" eventID="e7" task="C"/>
+</TempEval>

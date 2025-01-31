@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891101-0102
+= 891101
+891101-0102.
+Notícias de Dividendos:
+@ Unifirst Corp.
+<TIMEX3 tid="t13" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+UNF
+DIVIDENDS (DIV)
+EARNINGS (ERN)
+
+<s>A UniFirst Corp. <EVENT eid="e1" class="I_ACTION" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT> uma <EVENT eid="e1989" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT> das ações de 2 para 1.</s>
+<s>A empresa de serviços de vestuário de Wilmington, no Massachusetts, também <EVENT eid="e2" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentou</EVENT> o seu dividendo trimestral em 20% para três cêntimos por ação depois da <EVENT eid="e1990" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT>.</s>
+<s>O dividendo era anteriormente de <EVENT eid="e2066" class="STATE" stem="cinco" aspect="NONE" tense="PII" polarity="POS" pos="OTHER">cinco</EVENT> cêntimos por ação.</s>
+<s>A diluição e o dividendo trimestral serão <EVENT eid="e1995" class="STATE" stem="pagar" aspect="NONE" tense="FI" polarity="POS" pos="ADJECTIVE">pagos</EVENT> a <TIMEX3 tid="t17" type="DATE" value="1990-01-03" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">3 de janeiro</TIMEX3> segundo o registo de <TIMEX3 tid="t18" type="DATE" value="1989-11-16" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">16 de novembro</TIMEX3>, <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a companhia.</s>
+<s>A <EVENT eid="e2044" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT> vai <EVENT eid="e5" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">aumentar</EVENT> o número de ações em circulação para cerca de 10,2 milhões.</s>
+<s>Paralelamente, a UniFirst <EVENT eid="e6" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informou</EVENT> que o lucro líquido <EVENT eid="e7" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 21% para os 3 milhões de dólares, ou 29 cêntimos por ação depois da <EVENT eid="e2065" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT>, para <TIMEX3 tid="t20" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">o quarto trimestre</TIMEX3> <EVENT eid="e9" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">terminado</EVENT> em <TIMEX3 tid="t19" type="DATE" value="1989-08-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">26 de agosto</TIMEX3>.</s>
+<s><TIMEX3 tid="t2096" type="DATE" value="1988-11-01" mod="APPROX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">Um ano antes</TIMEX3> a UniFirst <EVENT eid="e10" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ganhou</EVENT> 2,4 milhões de dólares, ou 24 cêntimos por ação depois da <EVENT eid="e1994" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT>.</s>
+<s>As vendas <EVENT eid="e12" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> para os 52,4 milhões de dólares desde os 50,1 milhões.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e4" relatedToTime="t17" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e4" relatedToTime="t18" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e6" relatedToTime="t20" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e6" relatedToTime="t19" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e7" relatedToTime="t20" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e7" relatedToTime="t19" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e10" relatedToTime="t2096" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e2" relatedToTime="t13" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e4" relatedToTime="t13" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e6" relatedToTime="t13" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e7" relatedToTime="t13" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e10" relatedToTime="t13" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e12" relatedToTime="t13" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e4" eventID="e2066" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e10" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e12" eventID="e10" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e5" eventID="e4" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e2066" eventID="e2" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e6" eventID="e5" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e2" eventID="e1" task="C"/>
+</TempEval>

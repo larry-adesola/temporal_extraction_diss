@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+APW19980227.0494
+REPORTAGEM
+<TIMEX3 tid="t142" type="TIME" value="1998-02-27T08:17:00" temporalFunction="false" functionInDocument="CREATION_TIME">02/27/1998 08:17:00</TIMEX3>
+
+w2399 Cx1f wstm-
+r i Cx13  Cx11  BC-Russia-Ukraine 1stLd-Writethru   02-27 0647
+Russia, Ukraine sign plan, Yeltsin claims progress in major
+disputes QL
+UR Eds: UPDATES throughout with joint statement of two presidents,
+UPGRADES attribution, CORRECTS in graf 14 that An-70 is cargo
+plane. QL
+UR By ANNA DOLGOV QC
+UR Associated Press Writer QC
+
+
+<s>Moscovo (AP) - Os presidentes Leonid Kuchma da Ucrânia e Boris Yeltsin da Rússia <EVENT eid="e1" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assinaram</EVENT> um plano de cooperação económica <TIMEX3 tid="t2297" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t142">sexta-feira</TIMEX3>, e Ieltsin <EVENT eid="e2" class="I_ACTION" stem="afirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afirmou</EVENT> que <EVENT eid="e3" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">resolveram</EVENT> problemas ainda mais prementes.</s>
+<s>A Rússia e a Ucrânia têm culturas e línguas similares, e a Ucrânia foi <EVENT eid="e4" class="OCCURRENCE" stem="governar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">governada</EVENT> desde Moscovo durante <TIMEX3 tid="t154" type="DURATION" value="PXE" temporalFunction="false" functionInDocument="NONE">séculos</TIMEX3>.</s>
+<s>Mas embora os dois vizinhos eslavos se vejam como parceiros naturais, as relações entre eles desde a <EVENT eid="e8" class="OCCURRENCE" stem="dissolução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dissolução</EVENT> da União Soviética têm sido <EVENT eid="e10" class="OCCURRENCE" stem="atormentar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">atormentadas</EVENT> por uma série de <EVENT eid="e11" class="OCCURRENCE" stem="disputa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">disputas</EVENT> - bases da Marinha no Mar Negro, problemas de fronteira e as dívidas de gás natural da Ucrânia.</s>
+<s>``<EVENT eid="e12" class="OCCURRENCE" stem="cobrir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Cobrimos</EVENT> toda a lista de perguntas e <EVENT eid="e15" class="OCCURRENCE" stem="discutir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">discutimos</EVENT> como vamos <EVENT eid="e16" class="OCCURRENCE" stem="lidar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">lidar</EVENT> com elas'', <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Yeltsin <EVENT eid="e17" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> a agência de notícias ITAR-Tass.</s>
+<s>``Devo <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dizer</EVENT>> que já não há problemas por resolver.</s>
+<s><EVENT eid="e22" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Resolvemo</EVENT>-los todos.''</s>
+<s>Mas a sua declaração arrebatadora não continha pormenores, e não deu nenhuma indicação de como os <EVENT eid="e28" class="OCCURRENCE" stem="conflito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conflitos</EVENT> possam ser <EVENT eid="e29" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resolvidos</EVENT>.</s>
+<s>A sua solução <EVENT eid="e32" class="I_STATE" stem="exigir" aspect="NONE" tense="C" polarity="POS" pos="VERB">exigiria </EVENT> um <EVENT eid="e34" class="OCCURRENCE" stem="compromisso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compromisso</EVENT> entre os parlamentos dos dois países.</s>
+<s>Uma das principais <EVENT eid="e37" class="OCCURRENCE" stem="divergência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">divergências</EVENT> diz respeito a um tratado político amplo que pede a demarcação das fronteiras, que os dois presidentes <EVENT eid="e41" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assinaram</EVENT> em <TIMEX3 tid="t143" type="DATE" value="1997-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t142">maio passado</TIMEX3>.</s>
+<s>Na prática, o tratado resume-se ao reconhecimento russo da soberania e fronteiras da Ucrânia, e o parlamento ucraniano já o <EVENT eid="e43" class="OCCURRENCE" stem="ratificar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ratificou</EVENT>.</s>
+<s>No entanto, a Rússia <EVENT eid="e44" class="I_ACTION" stem="atrasar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atrasou</EVENT> a <EVENT eid="e45" class="OCCURRENCE" stem="ratificação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ratificação</EVENT>, <EVENT eid="e46" class="I_ACTION" stem="tentar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">tentando</EVENT> <EVENT eid="e48" class="OCCURRENCE" stem="associar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">associá</EVENT>-la a um <EVENT eid="e49" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> que <EVENT eid="e50" class="I_ACTION" stem="permitir" aspect="NONE" tense="C" polarity="POS" pos="VERB">permitiria</EVENT> à marinha russa <EVENT eid="e53" class="OCCURRENCE" stem="usar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">usar</EVENT> uma base naval na península da Crimeia, na Ucrânia, por <TIMEX3 tid="t2300" type="DURATION" value="P20Y" mod="EQUAL_OR_MORE" temporalFunction="false" functionInDocument="NONE">pelo menos mais 20 anos</TIMEX3>.</s>
+<s>Na sua declaração conjunta <EVENT eid="e55" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">emitida</EVENT> após as <EVENT eid="e56" class="OCCURRENCE" stem="conversação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversações</EVENT>, Yeltsin e Kuchma <EVENT eid="e58" class="I_ACTION" stem="apelar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apelaram</EVENT> à <EVENT eid="e59" class="OCCURRENCE" stem="ratificação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ratificação</EVENT> tão rápida quanto possível do tratado, <EVENT eid="e61" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> que iria <EVENT eid="e62" class="OCCURRENCE" stem="criar" aspect="NONE" tense="IR-C+INF" polarity="POS" pos="VERB">criar</EVENT> uma ``base jurídica sólida'' para relações bilaterais e <EVENT eid="e64" class="OCCURRENCE" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudar</EVENT> a estabilidade na Europa.</s>
+<s>Kuchma <EVENT eid="e65" class="I_ACTION" stem="assegurar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assegurou</EVENT> a Yeltsin que a Ucrânia não iria <EVENT eid="e66" class="OCCURRENCE" stem="aderir" aspect="NONE" tense="IR-C+INF" polarity="NEG" pos="VERB">aderir</EVENT> à NATO, <EVENT eid="e69" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> o porta-voz de Yeltsin Sergei Yastrzhembsky, <EVENT eid="e156" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> a agência de notícias Interfax.</s>
+<s>A liderança russa tem-se <EVENT eid="e71" class="I_ACTION" stem="opor" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">oposto</EVENT> firmemente à <EVENT eid="e72" class="OCCURRENCE" stem="expansão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">expansão</EVENT> da aliança ocidental à Europa de Leste.</s>
+<s>Na sua declaração conjunta, <EVENT eid="e74" class="OCCURRENCE" stem="divulgar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">divulgada</EVENT> pelo Kremlin, os dois líderes também se <EVENT eid="e75" class="I_ACTION" stem="comprometer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">comprometeram</EVENT> a <EVENT eid="e77" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">pedirem</EVENT> a opinião um do outro regularmente sobre as suas abordagens para as relações com a NATO e, em particular, a sua ação no âmbito do programa da NATO de Parceria para a Paz.</s>
+<s>No <TIMEX3 tid="t146" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t142">ano passado</TIMEX3>, as autoridades russas <EVENT eid="e82" class="OCCURRENCE" stem="criticar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">criticaram</EVENT> a Ucrânia pela <EVENT eid="e83" class="OCCURRENCE" stem="realização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">realização</EVENT> de <EVENT eid="e84" class="OCCURRENCE" stem="exercício" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">exercícios</EVENT> navais conjuntos com a NATO no Mar Negro - uma área que Moscovo considera o seu próprio território.</s>
+<s>Kuchma tem <EVENT eid="e86" class="REPORTING" stem="dizer" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">dito</EVENT> repetidamente que a Ucrânia se <EVENT eid="e87" class="STATE" stem="manter" aspect="NONE" tense="C" polarity="POS" pos="VERB">manteria</EVENT> neutra no futuro próximo.</s>
+<s>Yeltsin e Kuchma também <EVENT eid="e89" class="I_ACTION" stem="apelar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apelaram</EVENT> ao <EVENT eid="e90" class="OCCURRENCE" stem="desenvolvimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desenvolvimento</EVENT> das relações estagnadas entre os membros da Comunidade dos Estados Independentes, uma coligação pouco coesa de ex-repúblicas soviéticas.</s>
+<s>No <TIMEX3 tid="t149" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t142">passado</TIMEX3>, a Rússia <EVENT eid="e92" class="I_ACTION" stem="afirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afirmou</EVENT> frequentemente que a Ucrânia estava a <EVENT eid="e93" class="OCCURRENCE" stem="minar" aspect="PROGRESSIVE" tense="PII" polarity="POS" pos="VERB">minar</EVENT> os esforços para uma cooperação mais estreita na CEI.</s>
+<s>Um dos principais objetivos da <EVENT eid="e98" class="OCCURRENCE" stem="visita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visita</EVENT> estatal de <TIMEX3 tid="t150" type="DURATION" value="P4D" temporalFunction="false" functionInDocument="NONE">quatro dias</TIMEX3> de Kuchma foi a <EVENT eid="e158" class="OCCURRENCE" stem="assinatura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assinatura</EVENT> de um programa económico de 10 anos que <EVENT eid="e99" class="I_ACTION" stem="visar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">visa</EVENT> <EVENT eid="e101" class="OCCURRENCE" stem="duplicar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">duplicar</EVENT> o volume de negócios das duas nações, que <EVENT eid="e102" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> para os 14 mil milhões de dólares no <TIMEX3 tid="t2303" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t142">ano passado</TIMEX3>, 2,5 mil milhões menos que em <TIMEX3 tid="t152" type="DATE" value="1996" temporalFunction="false" functionInDocument="NONE">1996</TIMEX3>.</s>
+<s>Os dois presidentes <EVENT eid="e105" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assinaram</EVENT> na <TIMEX3 tid="t151" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t142">sexta-feira</TIMEX3> o plano, que <EVENT eid="e106" class="I_ACTION" stem="apelar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">apela</EVENT> à <EVENT eid="e107" class="OCCURRENCE" stem="cooperação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cooperação</EVENT> nas indústrias da metalurgia, combustíveis, energia, construção de aviões, mísseis, espaço e química.</s>
+<s>Um grande projecto é a <EVENT eid="e111" class="OCCURRENCE" stem="fabricação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fabricação</EVENT> conjunta de aviões de carga An-70, <EVENT eid="e112" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> o comunicado do Kremlin.</s>
+<s>O programa também <EVENT eid="e113" class="I_ACTION" stem="apelar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">apela</EVENT> à <EVENT eid="e114" class="OCCURRENCE" stem="coordenação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">coordenação</EVENT> das reformas económicas e à <EVENT eid="e116" class="OCCURRENCE" stem="melhoria" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">melhoria</EVENT> conjunta dos programas sociais nos dois países, onde muitas pessoas <EVENT eid="e118" class="OCCURRENCE" stem="empobrecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">empobreceram</EVENT> durante o caos pós-soviético de <EVENT eid="e119" class="OCCURRENCE" stem="transição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transição</EVENT> para o capitalismo.</s>
+<s>Kuchma <EVENT eid="e121" class="I_STATE" stem="planear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">planeou</EVENT> ainda <EVENT eid="e123" class="OCCURRENCE" stem="visitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">visitar</EVENT> o gigante russo de Gás, a Gazprom, provavelmente para <EVENT eid="e125" class="OCCURRENCE" stem="discutir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">discutir</EVENT> a dívida de 1,2 mil milhões de dólares da Ucrânia à empresa.</s>
+<s>(pvs/vi/ji)</s>
+
+(PROFILE
+(WS SL:BC-Russia-Ukraine, 1st Ld-Writethru; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-02-27-98 0817EST</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e53" relatedToTime="t2300" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e46" relatedToTime="t2300" task="A"/>
+<TLINK lid="l3" relType="BEFORE-OR-OVERLAP" eventID="e49" relatedToTime="t2300" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e83" relatedToTime="t146" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e102" relatedToTime="t152" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e102" relatedToTime="t150" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e102" relatedToTime="t2303" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e106" relatedToTime="t151" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e18" relatedToTime="t142" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e20" relatedToTime="t142" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e53" relatedToTime="t142" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e46" relatedToTime="t142" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e49" relatedToTime="t142" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e61" relatedToTime="t142" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e58" relatedToTime="t142" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e56" relatedToTime="t142" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e64" relatedToTime="t142" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e156" relatedToTime="t142" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e69" relatedToTime="t142" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e83" relatedToTime="t142" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e86" relatedToTime="t142" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e87" relatedToTime="t142" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e89" relatedToTime="t142" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e102" relatedToTime="t142" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e106" relatedToTime="t142" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e112" relatedToTime="t142" task="B"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e113" relatedToTime="t142" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e121" relatedToTime="t142" task="B"/>
+<TLINK lid="l1c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e89" eventID="e86" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e71" eventID="e69" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e10" eventID="e4" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e37" eventID="e32" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e113" eventID="e112" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e105" eventID="e158" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e22" eventID="e20" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e86" eventID="e82" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e121" eventID="e113" task="C"/>
+<TLINK lid="l10c" relType="VAGUE" relatedToEvent="e112" eventID="e105" task="C"/>
+<TLINK lid="l11c" relType="AFTER" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e20" eventID="e17" task="C"/>
+<TLINK lid="l13c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e44" eventID="e43" task="C"/>
+<TLINK lid="l14c" relType="AFTER" relatedToEvent="e82" eventID="e75" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e58" eventID="e44" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e29" eventID="e22" task="C"/>
+<TLINK lid="l17c" relType="BEFORE" relatedToEvent="e158" eventID="e92" task="C"/>
+<TLINK lid="l18c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e17" eventID="e10" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP-OR-AFTER" relatedToEvent="e43" eventID="e37" task="C"/>
+<TLINK lid="l20c" relType="AFTER" relatedToEvent="e92" eventID="e89" task="C"/>
+<TLINK lid="l21c" relType="AFTER" relatedToEvent="e32" eventID="e29" task="C"/>
+<TLINK lid="l22c" relType="BEFORE" relatedToEvent="e69" eventID="e58" task="C"/>
+<TLINK lid="l23c" relType="OVERLAP" relatedToEvent="e75" eventID="e71" task="C"/>
+</TempEval>

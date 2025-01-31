@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0064
+= 891102
+891102-0064.
+Dossier Internacional - Reed International PLC:
+@ Lucro Líquido de 6 Meses
+@ Caiu 5% para os 141,9 Milhões de Dólares
+<TIMEX3 tid="t23" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+U. REE
+EARNINGS (ERN)
+
+
+<s>A Reed International PLC <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e2014" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido para <TIMEX3 tid="t31" type="DURATION" value="P6M" temporalFunction="true" functionInDocument="NONE" endPoint="t25">os seis meses</TIMEX3> <EVENT eid="e2" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">terminados</EVENT> em <TIMEX3 tid="t25" type="DATE" value="1989-10-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">1 de outubro</TIMEX3> <EVENT eid="e3" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 5%, para os 89,7 milhões de libras (141,9 milhões de dólares), ou 16 pence por ação, face a 94,8 milhões de libras (149,9 milhões de dólares), ou 17,3 pence por ação.</s>
+
+<s>A produtora britânica de papel, embalagens e publicações <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o lucro das linhas de continuação <EVENT eid="e7" class="I_ACTION" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 10% para os 118 milhões de libras, face a 130,6 milhões de libras.</s>
+
+<s>Embora não tenha havido <EVENT eid="e2000" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="PPCC" polarity="NEG" pos="NOUN">ganhos</EVENT> ou <EVENT eid="e2001" class="OCCURRENCE" stem="perda" aspect="NONE" tense="PPCC" polarity="NEG" pos="NOUN">perdas</EVENT> momentâneos no <TIMEX3 tid="t26" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">último trimestre</TIMEX3>, houve um <EVENT eid="e2003" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">ganho</EVENT> momentâneo de 18 milhões de libras no <TIMEX3 tid="t27" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">período de 1988</TIMEX3>.</s>
+<s>E embora não tenha havido <EVENT eid="e2005" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="PPCC" polarity="NEG" pos="NOUN">lucros</EVENT> <TIMEX3 tid="t28" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">este ano</TIMEX3> vindos de <EVENT eid="e10" class="OCCURRENCE" stem="operação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">operações</EVENT> descontinuadas, no <TIMEX3 tid="t29" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">ano passado</TIMEX3> <EVENT eid="e12" class="OCCURRENCE" stem="contribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contribuíram</EVENT> 34 milhões de libras, antes de <EVENT eid="e2008" class="OCCURRENCE" stem="imposto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">impostos</EVENT>.</s>
+
+<s>O lucro antes de impostos <EVENT eid="e14" class="I_ACTION" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 3,7% para os 128 milhões de libras desde os 133 milhões de libras e ficou <EVENT eid="e2009" class="STATE" stem="abaixo" aspect="NONE" tense="PPI" polarity="POS" pos="ADVERB">abaixo</EVENT> das expetativas dos analistas de 130 a 135 milhões de libras, mas as ações <EVENT eid="e15" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 6 pence para os 388 pence no início das <EVENT eid="e16" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> de <TIMEX3 tid="t30" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">ontem</TIMEX3> na bolsa de Londres.</s>
+
+<s>A Reed está a <EVENT eid="e18" class="OCCURRENCE" stem="pagar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">pagar</EVENT> dividendos de 4,6 pence, 15% <EVENT eid="e2124" class="STATE" stem="acima" aspect="NONE" tense="NONE" polarity="POS" pos="ADVERB">acima</EVENT> dos 4 pence de <TIMEX3 tid="t2127" type="DATE" value="1988-11-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">há um ano</TIMEX3>.</s>
+
+<s>As vendas <EVENT eid="e19" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 20% para os 722 milhões de libras.</s>
+
+<s>Os lucros foram <EVENT eid="e20" class="OCCURRENCE" stem="prejudicar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prejudicados</EVENT> pela <EVENT eid="e2136" class="OCCURRENCE" stem="alienação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alienação</EVENT> de operações durante a sua <EVENT eid="e2140" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT>, <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a Reed.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e1" relatedToTime="t31" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e1" relatedToTime="t25" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e2003" relatedToTime="t26" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e2003" relatedToTime="t27" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e2000" relatedToTime="t26" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e2000" relatedToTime="t27" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e2001" relatedToTime="t26" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e2001" relatedToTime="t27" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e16" relatedToTime="t30" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e14" relatedToTime="t30" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e15" relatedToTime="t30" task="A"/>
+<TLINK lid="l12" relType="AFTER" eventID="e18" relatedToTime="t2127" task="A"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e1" relatedToTime="t23" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e4" relatedToTime="t23" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e7" relatedToTime="t23" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e2003" relatedToTime="t23" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e2000" relatedToTime="t23" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e2001" relatedToTime="t23" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e16" relatedToTime="t23" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e14" relatedToTime="t23" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e15" relatedToTime="t23" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e18" relatedToTime="t23" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e19" relatedToTime="t23" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e22" relatedToTime="t23" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e22" eventID="e19" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e14" eventID="e12" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e2003" eventID="e4" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP-OR-AFTER" relatedToEvent="e19" eventID="e18" task="C"/>
+<TLINK lid="l6c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e18" eventID="e14" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e12" eventID="e2003" task="C"/>
+</TempEval>

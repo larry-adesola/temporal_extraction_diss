@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+VOA<TIMEX3 tid="t105" type="DATE" value="1998-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">19980303</TIMEX3>.1600.2745
+REPORTAGEM
+
+<s>Embora a <EVENT eid="e1" class="OCCURRENCE" stem="expansão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">expansão</EVENT> da Internet tenha sido uma <EVENT eid="e2" class="OCCURRENCE" stem="bênção" aspect="NONE" tense="PPCC" polarity="POS" pos="NOUN">bênção</EVENT> para os investigadores, os estudantes e os que são apenas curiosos, as novas <EVENT eid="e131" class="OCCURRENCE" stem="oportunidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oportunidades</EVENT> <EVENT eid="e3" class="REPORTING" stem="mencionar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">mencionadas</EVENT> por Gates estão também a ser <EVENT eid="e4" class="OCCURRENCE" stem="usar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">usadas</EVENT> por alguns personagens bastante desagradáveis.
+</s>
+<s>Um relatório recente <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que houve um <EVENT eid="e7" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">aumento</EVENT> dramático no <EVENT eid="e102" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> dos grupos de ódio nos Estados Unidos em relação ao <TIMEX3 tid="t168" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t105">ano passado</TIMEX3>.</s>
+<s>E muitos deles estão a <EVENT eid="e10" class="OCCURRENCE" stem="utilizar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">utilizar</EVENT> a Internet para <EVENT eid="e12" class="OCCURRENCE" stem="difundir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">difundir</EVENT> mensagens de superioridade racial.</s>
+<s>Jim Teple, da VOA, conta os pormenores desde o nosso departamento de notícias do sudeste.</s>
+
+<s>O Southern Poverty Law Center, um grupo de observação dos direitos civis sediado em Montgomery, no Alabama, tem vindo a <EVENT eid="e107" class="OCCURRENCE" stem="observar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">observar</EVENT> desde há muito tempo grupos como o Ku Klux Klan.</s>
+<s><TIMEX3 tid="t109" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t105">Mais recentemente</TIMEX3>, tem <EVENT eid="e18" class="I_ACTION" stem="acompanhar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">acompanhado</EVENT> o <EVENT eid="e110" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> do movimento de milícias e grupos religiosos que pregam uma mensagem de supremacia branca e de anti-semitismo.</s>
+<s>O novo estudo escrito por Mark Potach, que edita o relatório de informações de segurança do Southern Poverty Law Center, <EVENT eid="e25" class="I_ACTION" stem="advertir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">adverte</EVENT> que estes grupos <EVENT eid="e26" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceram</EVENT> rapidamente no <TIMEX3 tid="t111" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t105">ano passado</TIMEX3>, principalmente pelo <EVENT eid="e27" class="OCCURRENCE" stem="recrutamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recrutamento</EVENT> de membros mais jovens.</s>
+<s>Potach <EVENT eid="e28" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que o <EVENT eid="e113" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> é <EVENT eid="e112" class="STATE" stem="surpreendente" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">surpreendente</EVENT> dado que a participação em grupos de ódio geralmente diminui durante os períodos de prosperidade económica.</s>
+
+<s>De facto, <EVENT eid="e34" class="PERCEPTION" stem="ver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">vimos</EVENT> os números relativos aos grupos de ódio <EVENT eid="e37" class="OCCURRENCE" stem="cair" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cair</EVENT> durante <TIMEX3 tid="t115" type="DATE" value="199" temporalFunction="false" functionInDocument="NONE">os anos noventa</TIMEX3>, mas <TIMEX3 tid="t116" type="DATE" value="1998" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t111">este ano</TIMEX3> <EVENT eid="e38" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentaram</EVENT> vinte por cento, uma <EVENT eid="e39" class="OCCURRENCE" stem="subida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">subida</EVENT> bastante dramática.</s>
+
+<s>Mark Potach <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que mais de quatrocentos grupos de ódio foram <EVENT eid="e42" class="OCCURRENCE" stem="identificar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">identificados</EVENT> e muitos estão a <EVENT eid="e43" class="I_STATE" stem="ver" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">ver</EVENT> cada vez mais <EVENT eid="e118" class="I_STATE" stem="sucesso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sucesso</EVENT> no <EVENT eid="e45" class="OCCURRENCE" stem="recrutamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recrutamento</EVENT> de membros mais jovens através da <EVENT eid="e46" class="OCCURRENCE" stem="utilização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">utilização</EVENT> de páginas de Internet e da <EVENT eid="e48" class="OCCURRENCE" stem="promoção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">promoção</EVENT> de música rock racista.</s>
+
+<s>A Internet certamente <EVENT eid="e49" class="I_STATE" stem="ajudar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ajudou</EVENT> os vendedores do ódio a <EVENT eid="e52" class="OCCURRENCE" stem="organizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">organizar</EVENT>-se e a <EVENT eid="e54" class="STATE" stem="sentir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">sentir</EVENT> que fazem parte de uma comunidade maior, mesmo se eles são, essencialmente, sabe, pessoas zangadas sentadas nos seus quartos sozinhas.</s>
+<s>Além disso, a música racista do poder branco <EVENT eid="e60" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tornou</EVENT>-se bastante popular em certas faixas da população.f</s>
+<s>Há mais de cinquenta mil CDs <EVENT eid="e61" class="OCCURRENCE" stem="vender" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">vendidos</EVENT> por <TIMEX3 tid="t120" type="SET" value="P1Y" temporalFunction="false" functionInDocument="NONE">ano</TIMEX3>, com letras que são bastante inacreditáveis.</s>
+
+<s>Muitos desses novos membros estão a <EVENT eid="e63" class="OCCURRENCE" stem="juntar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">juntar</EVENT>-se a ramos locais do chamado Movimento da Identidade Cristã, que cita as escrituras bíblicas como base para a crença na supremacia branca e no anti-semitismo.</s>
+<s>Mark Potach <EVENT eid="e67" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que esses membros também são <EVENT eid="e68" class="OCCURRENCE" stem="atrair" aspect="NONE" tense="PI" polarity="POS" pos="VERB">atraídos</EVENT> intensamente por fantasias apocalípticas.</s>
+
+<s>A <EVENT eid="e72" class="I_STATE" stem="aproximação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aproximação</EVENT> do <TIMEX3 tid="t121" type="DATE" value="2000" temporalFunction="false" functionInDocument="NONE">ano 2000</TIMEX3> fez muitos desses grupos estar numa espécie de <EVENT eid="e132" class="OCCURRENCE" stem="frenesim" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">frenesim</EVENT> do milénio.</s>
+<s>Eles <EVENT eid="e74" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acreditam</EVENT>, ou pelo menos muitos deles <EVENT eid="e75" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acreditam</EVENT> que se estão a <EVENT eid="e76" class="I_STATE" stem="aproximar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">aproximar</EVENT> da <EVENT eid="e123" class="OCCURRENCE" stem="batalha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">batalha</EVENT> do Armagedão, em que serão confrontados com o tipo de forças satânicas que estão a <EVENT eid="e77" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e80" class="OCCURRENCE" stem="dominar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dominar</EVENT> o mundo.</s>
+
+<s>Potach <EVENT eid="e81" class="REPORTING" stem="notar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">nota</EVENT> que os grupos mais antigos e mais tradicionais, como o Ku Klux Klan, também estão a <EVENT eid="e82" class="OCCURRENCE" stem="abrir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">abrir</EVENT> novos ramos locais, em parte graças à sua <EVENT eid="e124" class="I_STATE" stem="capacidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">capacidade</EVENT> de <EVENT eid="e87" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">utilizar</EVENT> tecnologias novas como a Internet.</s>
+<s>O FBI <EVENT eid="e89" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que <EVENT eid="e90" class="OCCURRENCE" stem="receber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recebeu</EVENT> mais de oito mil <EVENT eid="e125" class="REPORTING" stem="relato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relatos</EVENT> de <EVENT eid="e93" class="OCCURRENCE" stem="crime" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crimes</EVENT> de grupos de ódio no <TIMEX3 tid="t126" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t105">ano passado</TIMEX3>.</s>
+<s>As autoridades policiais <EVENT eid="e94" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que esses relatórios provavelmente vão <EVENT eid="e97" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">aumentar</EVENT>, já que que os departamentos de polícia estão <TIMEX3 tid="t129" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t105">agora</TIMEX3> a <EVENT eid="e98" class="ASPECTUAL" stem="começar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">começar</EVENT> a <EVENT eid="e130" class="REPORTING" stem="relatar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">relatar</EVENT> os <EVENT eid="e100" class="OCCURRENCE" stem="crime" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crimes</EVENT> de ódio com mais precisão do que <EVENT eid="e101" class="REPORTING" stem="relatar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">relatavam</EVENT> no <TIMEX3 tid="t133" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t105">passado</TIMEX3>.</s>
+<s>Jim Teple, VOA News, Miami.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP-OR-AFTER" eventID="e6" relatedToTime="t168" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e7" relatedToTime="t168" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e37" relatedToTime="t116" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e37" relatedToTime="t115" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e39" relatedToTime="t116" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e39" relatedToTime="t115" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e34" relatedToTime="t116" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e34" relatedToTime="t115" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e61" relatedToTime="t120" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e125" relatedToTime="t126" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e89" relatedToTime="t126" task="A"/>
+<TLINK lid="l12" relType="AFTER" eventID="e94" relatedToTime="t133" task="A"/>
+<TLINK lid="l13" relType="BEFORE-OR-OVERLAP" eventID="e94" relatedToTime="t129" task="A"/>
+<TLINK lid="l14" relType="OVERLAP-OR-AFTER" eventID="e98" relatedToTime="t133" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e98" relatedToTime="t129" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e101" relatedToTime="t133" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e101" relatedToTime="t129" task="A"/>
+<TLINK lid="l18" relType="OVERLAP-OR-AFTER" eventID="e130" relatedToTime="t133" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e130" relatedToTime="t129" task="A"/>
+<TLINK lid="l20" relType="AFTER" eventID="e97" relatedToTime="t133" task="A"/>
+<TLINK lid="l21" relType="OVERLAP-OR-AFTER" eventID="e97" relatedToTime="t129" task="A"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e4" relatedToTime="t105" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e6" relatedToTime="t105" task="B"/>
+<TLINK lid="l24" relType="BEFORE-OR-OVERLAP" eventID="e7" relatedToTime="t105" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e10" relatedToTime="t105" task="B"/>
+<TLINK lid="l26" relType="OVERLAP" eventID="e28" relatedToTime="t105" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e37" relatedToTime="t105" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e39" relatedToTime="t105" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e34" relatedToTime="t105" task="B"/>
+<TLINK lid="l30" relType="OVERLAP" eventID="e43" relatedToTime="t105" task="B"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e46" relatedToTime="t105" task="B"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e40" relatedToTime="t105" task="B"/>
+<TLINK lid="l33" relType="BEFORE-OR-OVERLAP" eventID="e49" relatedToTime="t105" task="B"/>
+<TLINK lid="l34" relType="BEFORE-OR-OVERLAP" eventID="e60" relatedToTime="t105" task="B"/>
+<TLINK lid="l35" relType="BEFORE-OR-OVERLAP" eventID="e61" relatedToTime="t105" task="B"/>
+<TLINK lid="l36" relType="OVERLAP" eventID="e67" relatedToTime="t105" task="B"/>
+<TLINK lid="l37" relType="AFTER" eventID="e77" relatedToTime="t105" task="B"/>
+<TLINK lid="l38" relType="OVERLAP" eventID="e75" relatedToTime="t105" task="B"/>
+<TLINK lid="l39" relType="OVERLAP" eventID="e74" relatedToTime="t105" task="B"/>
+<TLINK lid="l40" relType="AFTER" eventID="e80" relatedToTime="t105" task="B"/>
+<TLINK lid="l41" relType="OVERLAP" eventID="e87" relatedToTime="t105" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e125" relatedToTime="t105" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e89" relatedToTime="t105" task="B"/>
+<TLINK lid="l44" relType="BEFORE-OR-OVERLAP" eventID="e94" relatedToTime="t105" task="B"/>
+<TLINK lid="l45" relType="OVERLAP" eventID="e98" relatedToTime="t105" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e101" relatedToTime="t105" task="B"/>
+<TLINK lid="l47" relType="OVERLAP-OR-AFTER" eventID="e130" relatedToTime="t105" task="B"/>
+<TLINK lid="l48" relType="AFTER" eventID="e97" relatedToTime="t105" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e34" eventID="e28" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e94" eventID="e89" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e10" eventID="e6" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e61" eventID="e60" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e60" eventID="e49" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e18" eventID="e107" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e89" eventID="e81" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e6" eventID="e3" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e28" eventID="e25" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e40" eventID="e34" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e49" eventID="e40" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e81" eventID="e74" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e132" eventID="e67" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e67" eventID="e63" task="C"/>
+<TLINK lid="l15c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e25" eventID="e18" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e74" eventID="e132" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e63" eventID="e61" task="C"/>
+</TempEval>

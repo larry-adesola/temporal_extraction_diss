@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980418.0210
+REPORTAGEM
+<TIMEX3 tid="t28" type="TIME" value="1998-04-18T06:07:00" temporalFunction="false" functionInDocument="CREATION_TIME">04/18/1998 06:07:00</TIMEX3>
+w1416 Cx1f wstm-
+r i Cx13  Cx11  BC-Hungary-Astronaut     04-18 0248
+BC-Hungary-Astronaut
+O primeiro e único astronauta húngaro vai viver para os Estados Unidos
+
+
+<s>Budapeste, Hungria (AP) - Cansado de ser marginalizado, o astronauta húngaro Bertalan Farkas vai <EVENT eid="e2" class="OCCURRENCE" stem="partir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">partir</EVENT> para os Estados Unidos para <EVENT eid="e3" class="OCCURRENCE" stem="começar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">começar</EVENT> uma nova carreira, <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele no <TIMEX3 tid="t31" type="DATE" value="1998-04-18" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">sábado</TIMEX3>.</s>
+<s>``Aos 48 é muito cedo para me reformar'', <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um Farkas em boa forma física no programa da manhã do canal de televisão estatal.</s>
+<s>Com o astronauta americano Jon McBride, Farkas <EVENT eid="e8" class="OCCURRENCE" stem="fundar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fundou</EVENT> uma joint venture americano-húngara <EVENT eid="e9" class="STATE" stem="chamar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">chamada</EVENT> Orion 1980, que produz tecnologia relacionada com viagens espaciais.</s>
+<s>Farkas <EVENT eid="e11" class="OCCURRENCE" stem="deslocar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">deslocar-se-á</EVENT> para a sede da empresa nos EUA.</s>
+<s>Farkas, um capitão da Força Aérea, foi <EVENT eid="e12" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">enviado</EVENT> para o espaço a bordo da Soyuz 36 a <TIMEX3 tid="t33" type="DATE" value="1980-05-26" temporalFunction="false" functionInDocument="NONE">26 de maio de 1980</TIMEX3>.</s>
+<s><EVENT eid="e14" class="OCCURRENCE" stem="passar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Passou</EVENT> <TIMEX3 tid="t34" type="DURATION" value="P6D" temporalFunction="true" functionInDocument="NONE" beginPoint="t33">seis dias</TIMEX3> a bordo da nave espacial Salyut 6 com três astronautas soviéticos, Valery Kubasov, Leonid Popov e Valery Riumin.</s>
+<s>McBride, de 54 anos, de Lewisburg, na Virgínia Ocidental, fez <EVENT eid="e2000" class="STATE" stem="parte" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">parte</EVENT> de uma tripulação de sete pessoas a bordo do Orbiter Challenger em <TIMEX3 tid="t35" type="DATE" value="1984-10" temporalFunction="false" functionInDocument="NONE">outubro de 1984</TIMEX3> e mais tarde <EVENT eid="e15" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">trabalhou</EVENT> como administrador adjunto para as relações com o Congresso da Nasa.</s>
+<s>Farkas <EVENT eid="e16" class="I_ACTION" stem="manifestar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manifestou</EVENT> a <EVENT eid="e2003" class="I_STATE" stem="esperança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">esperança</EVENT> de <TIMEX3 tid="t36" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">um dia</TIMEX3> <EVENT eid="e17" class="ASPECTUAL" stem="seguir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">seguir</EVENT> as pegadas do colega astronauta John Glenn, que aos 77 está prestes a <EVENT eid="e21" class="OCCURRENCE" stem="ir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ir</EVENT> de novo para o espaço.</s>
+<s>A <TIMEX3 tid="t37" type="DATE" value="1995-05-22" temporalFunction="false" functionInDocument="NONE">22 de maio de 1995</TIMEX3>, Farkas foi <EVENT eid="e22" class="I_ACTION" stem="nomear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">nomeado</EVENT> brigadeiro, e no <TIMEX3 tid="t38" type="DATE" value="1996" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">ano seguinte</TIMEX3>, foi <EVENT eid="e23" class="I_ACTION" stem="nomear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">nomeado</EVENT> adido militar na Embaixada da Hungria, em Washington.</s>
+<s>No entanto, <EVENT eid="e24" class="OCCURRENCE" stem="apanhar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">apanhado</EVENT> pela polícia de trânsito de Washington em <TIMEX3 tid="t39" type="DATE" value="1997-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">dezembro</TIMEX3> por <EVENT eid="e25" class="OCCURRENCE" stem="conduzir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">conduzir</EVENT> sob a influência de álcool, Farkas foi <EVENT eid="e26" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">enviado</EVENT> para casa e <EVENT eid="e27" class="OCCURRENCE" stem="reformar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reformou</EVENT>-se.</s>
+<s>(ab/dc)</s>
+
+(PROFILE
+(WS SL:BC-Hungary-Astronaut; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-04-18-98 0607EDT</s>
+
+
+<TLINK lid="l1" relType="OVERLAP-OR-AFTER" eventID="e2" relatedToTime="t31" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e4" relatedToTime="t31" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e21" relatedToTime="t36" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e22" relatedToTime="t37" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e22" relatedToTime="t38" task="A"/>
+<TLINK lid="l6" relType="OVERLAP-OR-AFTER" eventID="e2" relatedToTime="t28" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e4" relatedToTime="t28" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e7" relatedToTime="t28" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e9" relatedToTime="t28" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e8" relatedToTime="t28" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e11" relatedToTime="t28" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e21" relatedToTime="t28" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e22" relatedToTime="t28" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e26" eventID="e22" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e2000" eventID="e14" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e14" eventID="e12" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e16" eventID="e2000" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e7" eventID="e4" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l8c" relType="VAGUE" relatedToEvent="e22" eventID="e16" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>

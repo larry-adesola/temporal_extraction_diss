@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0167
+= 891102
+891102-0167.
+Estatuto de Isenção de Impostos Aceite
+Para Certas Importações de Relógios
+<TIMEX3 tid="t36" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MONETARY NEWS, FOREIGN EXCHANGE, TRADE (MON)
+EXECUTIVE (EXE)
+WASHINGTON
+
+
+<s>A Casa Branca <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o presidente Bush <EVENT eid="e2" class="I_ACTION" stem="aprovar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aprovou</EVENT> a <EVENT eid="e25" class="STATE" stem="isenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">isenção</EVENT> de impostos para a importação de certos tipos de relógios que não são <EVENT eid="e3" class="OCCURRENCE" stem="produzir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">produzidos</EVENT> em "quantidades significativas" nos EUA, nas Ilhas Virgens e noutros territórios dos EUA.</s>
+
+<s>A <EVENT eid="e26" class="OCCURRENCE" stem="ação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ação</EVENT> <EVENT eid="e5" class="OCCURRENCE" stem="vir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">veio</EVENT> em resposta a uma petição <EVENT eid="e6" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">apresentada</EVENT> pela Timex Inc. para mudar a pauta aduaneira americana para as importações vindas de países em desenvolvimento.</s>
+<s>Anteriormente, às importações de relógios era <EVENT eid="e10" class="I_ACTION" stem="negar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">negada</EVENT> esta <EVENT eid="e29" class="STATE" stem="isenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">isenção</EVENT> de impostos.</s>
+
+<s>A Timex tinha <EVENT eid="e11" class="OCCURRENCE" stem="solicitar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">solicitado</EVENT> a isenção de impostos para muitos tipos de relógios, cobertos por 58 categorias diferentes nas pautas aduaneiras americanas.</s>
+<s>A Casa Branca <EVENT eid="e13" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que Bush <EVENT eid="e14" class="I_ACTION" stem="decidir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">decidiu</EVENT> <EVENT eid="e15" class="OCCURRENCE" stem="conceder" aspect="NONE" tense="INF" polarity="POS" pos="VERB">conceder</EVENT> isenção de impostos para 18 categorias, mas <EVENT eid="e16" class="I_ACTION" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusou</EVENT> esta <EVENT eid="e31" class="STATE" stem="isenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">isenção</EVENT> para outros tipos de relógios "por causa do potencial prejuízo para os produtores de relógios localizados nos EUA e nas Ilhas Virgens."</s>
+
+<s>A Timex é um dos principais <EVENT eid="e32" class="STATE" stem="produtor" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">produtores</EVENT> e <EVENT eid="e33" class="STATE" stem="vendedor" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">vendedores</EVENT> americanos de relógios, incluindo relógios de baixo custo a pilhas montados nas Filipinas e noutras nações em desenvolvimento, abrangidos pelas pautas aduaneiras americanas.</s>
+
+<s>Funcionários americanos do comércio <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que as Filipinas e a Tailândia seriam os principais <EVENT eid="e123" class="STATE" stem="beneficiado" aspect="NONE" tense="C" polarity="POS" pos="NOUN">beneficiados</EVENT> da <EVENT eid="e34" class="OCCURRENCE" stem="ação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ação</EVENT> do presidente.</s>
+
+<s>As importações dos tipos de relógios que <TIMEX3 tid="t38" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t36">agora</TIMEX3> vão ser <EVENT eid="e39" class="STATE" stem="cobrir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">cobertos</EVENT> pela isenção de impostos <EVENT eid="e23" class="I_ACTION" stem="totalizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">totalizaram</EVENT> cerca de 37,3 milhões de dólares em <TIMEX3 tid="t37" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3>, uma parcela relativamente pequena dos 1,5 mil milhões de dólares de importações americanas de relógios nesse ano, <EVENT eid="e40" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> um assessor da representante do comércio dos EUA Carla Hills.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e40" relatedToTime="t37" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e40" relatedToTime="t38" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e1" relatedToTime="t36" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e5" relatedToTime="t36" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e13" relatedToTime="t36" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e22" relatedToTime="t36" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e40" relatedToTime="t36" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e32" eventID="e13" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e22" eventID="e32" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e13" eventID="e11" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e23" eventID="e22" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e11" eventID="e10" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e10" eventID="e5" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

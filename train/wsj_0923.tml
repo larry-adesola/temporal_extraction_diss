@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0136
+= 891026
+891026-0136.
+Kyle Technology Planeia Venda
+<TIMEX3 tid="t16" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+KYLE
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+ROISEBURG, Ore.
+
+<s>A Kyle Technology Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que um investidor de Seattle <EVENT eid="e2" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assinou</EVENT> uma carta de <EVENT eid="e4" class="I_STATE" stem="intenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">intenções</EVENT> de <EVENT eid="e6" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> a companhia por cerca de 3,1 milhões de dólares, ou 1,20 dólares por ação.</s>
+
+<s>O investidor, Donald A. Wright, <EVENT eid="e7" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="POS" pos="VERB">planeia</EVENT> <EVENT eid="e9" class="OCCURRENCE" stem="gerir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">gerir</EVENT> a companhia, <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um porta-voz da Kyle.</s>
+
+<s>A <EVENT eid="e11" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> foi <EVENT eid="e12" class="I_ACTION" stem="aprovar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aprovada</EVENT> pelo conselho de administração da Kyle, mas <EVENT eid="e13" class="I_STATE" stem="exigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">exige</EVENT> a <EVENT eid="e14" class="I_ACTION" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT> dos acionistas da empresa.</s>
+<s>A Kyle fabrica componentes eletrónicos.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1" relatedToTime="t16" task="B"/>
+<TLINK lid="l2" relType="AFTER" eventID="e6" relatedToTime="t16" task="B"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e7" relatedToTime="t16" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e10" relatedToTime="t16" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e12" eventID="e10" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e10" eventID="e1" task="C"/>
+</TempEval>

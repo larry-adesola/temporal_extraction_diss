@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980213.1310
+REPORTAGEM
+<TIMEX3 tid="t109" type="TIME" value="1998-02-13T14:26:00" temporalFunction="false" functionInDocument="CREATION_TIME">02/13/1998 14:26:00</TIMEX3>
+w2112 Cx1f wstm-
+r i Cx13  Cx11  BC-Australia-Republic 4thLd-Writethru   02-13 0603
+BC-Australia-Republic, 4th Ld-Writethru,0602
+Convenção constitucional vota pela república e contra ligações à monarquia britânica
+UR Eds: ADDS 2 grafs at end with reaction from former prime minister
+Paul Keating QL
+UR AP Photo CANB101,102,103 QL
+UR By ALAN THORNHILL QC
+UR Associated Press Writer QC
+
+
+<s>Camberra, Austrália (AP) - <EVENT eid="e1" class="OCCURRENCE" stem="virar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Virando</EVENT> as costas a <TIMEX3 tid="t110" type="DURATION" value="P210Y" temporalFunction="false" functionInDocument="NONE">210 anos</TIMEX3> de lealdade para com a família real britânica, uma convenção constitucional <EVENT eid="e2" class="OCCURRENCE" stem="votar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">votou</EVENT> esmagadoramente <TIMEX3 tid="t111" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t109">sexta-feira</TIMEX3> para <EVENT eid="e4" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> da Austrália uma república com o seu próprio presidente.</s>
+<s>O primeiro-ministro John Howard, ele próprio um monárquico, <EVENT eid="e5" class="I_ACTION" stem="prometer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prometeu</EVENT> <EVENT eid="e7" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">colocar</EVENT> a <EVENT eid="e8" class="OCCURRENCE" stem="questão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">questão</EVENT> em <EVENT eid="e9" class="OCCURRENCE" stem="referendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">referendo</EVENT> nacional no <TIMEX3 tid="t112" type="DATE" value="1999" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t109">próximo ano</TIMEX3>, após os delegados da convenção terem <EVENT eid="e10" class="OCCURRENCE" stem="votar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">votado</EVENT> 89-52 a favor de uma república, com 11 abstenções.</s>
+<s><EVENT eid="e12" class="OCCURRENCE" stem="ecoar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Ecoaram</EVENT> <EVENT eid="e11" class="OCCURRENCE" stem="aplauso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aplausos</EVENT> espontâneos pela câmara e pelas galerias públicas quando a <EVENT eid="e13" class="OCCURRENCE" stem="votação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">votação</EVENT> crucial <EVENT eid="e14" class="OCCURRENCE" stem="passar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">passou</EVENT> por uma ampla margem.</s>
+<s>``Eu <EVENT eid="e15" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">quero</EVENT> um <EVENT eid="e16" class="OCCURRENCE" stem="referendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">referendo</EVENT>'', <EVENT eid="e17" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Howard.</s>
+<s>``Ao povo australiano é <EVENT eid="e18" class="I_STATE" stem="dever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">devida</EVENT> a oportunidade de <EVENT eid="e19" class="OCCURRENCE" stem="expressar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expressar</EVENT> uma opinião sobre isto''.</s>
+<s>``Seria uma <EVENT eid="e21" class="OCCURRENCE" stem="farsa" aspect="NONE" tense="C" polarity="POS" pos="NOUN">farsa</EVENT> em termos de senso comum da democracia australiana se essa <EVENT eid="e23" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> não fosse <EVENT eid="e24" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PIC" polarity="NEG" pos="VERB">colocada</EVENT> ao povo australiano'', <EVENT eid="e25" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Howard.</s>
+<s>Mesmo dentro do seu próprio gabinete, Howard está a <EVENT eid="e26" class="ASPECTUAL" stem="ficar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">ficar</EVENT> cada vez mais <EVENT eid="e27" class="OCCURRENCE" stem="isolar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">isolado</EVENT> na sua posição monárquica.</s>
+<s>O tesoureiro Peter Costello, o ministro do Meio Ambiente Robert Hill e o procurador-geral Daryl Williams <EVENT eid="e28" class="OCCURRENCE" stem="votar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">votaram</EVENT> todos para <EVENT eid="e30" class="OCCURRENCE" stem="apoiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apoiar</EVENT> a República <TIMEX3 tid="t114" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t109">sexta-feira</TIMEX3>.</s>
+<s>``Esta convenção será <EVENT eid="e31" class="PERCEPTION" stem="ver" aspect="NONE" tense="FI" polarity="POS" pos="VERB">vista</EVENT> como um ponto de viragem na nossa história'', <EVENT eid="e32" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a porta-voz do Movimento Republicano Australiano Maria Delahunty.</s>
+<s>Os republicanos <EVENT eid="e33" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">esperam</EVENT> <EVENT eid="e35" class="OCCURRENCE" stem="ter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ter</EVENT> um presidente australiano à <EVENT eid="e36" class="OCCURRENCE" stem="abertura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abertura</EVENT> dos Jogos Olímpicos de <TIMEX3 tid="t121" type="DATE" value="2000" temporalFunction="false" functionInDocument="NONE">2000</TIMEX3> e o 100º aniversário da federação australiana.</s>
+<s><EVENT eid="e37" class="I_ACTION" stem="apelar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Apelando</EVENT> para uma constituição <EVENT eid="e257" class="OCCURRENCE" stem="alterar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">alterada</EVENT>, com um novo preâmbulo, a ser <EVENT eid="e41" class="OCCURRENCE" stem="escrever" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">escrita</EVENT> por poetas australianos, a republicana Janet Holmes a Court <EVENT eid="e115" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT>: ``<EVENT eid="e42" class="OCCURRENCE" stem="precisar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Precisamos</EVENT> do cheiro a eucalipto nisto, e a sensação de poeira vermelha''.</s>
+<s>Os monárquicos <EVENT eid="e43" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">esperam</EVENT> <EVENT eid="e45" class="OCCURRENCE" stem="derrotar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">derrotar</EVENT> a República no <EVENT eid="e46" class="OCCURRENCE" stem="referendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">referendo</EVENT>.</s>
+<s>``A falsa <EVENT eid="e48" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> <EVENT eid="e49" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">terminou</EVENT> e claramente a <EVENT eid="e50" class="OCCURRENCE" stem="campanha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">campanha</EVENT> para o referendo real já <EVENT eid="e51" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT>,'' <EVENT eid="e52" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Kerry Jones, presidente dos Australianos para uma Monarquia Constitucional.</s>
+<s>``Bem podemos <EVENT eid="e53" class="OCCURRENCE" stem="dizer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dizer</EVENT> «Deus <EVENT eid="e57" class="OCCURRENCE" stem="salvar" aspect="NONE" tense="PC" polarity="NEG" pos="VERB">salve</EVENT> a rainha», pois nada salvará a República'', <EVENT eid="e58" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um indignado David Mitchell, delegado dos monárquicos.</s>
+<s>``A ideia de uma república <EVENT eid="e319" class="OCCURRENCE" stem="cair" aspect="NONE" tense="FI" polarity="POS" pos="VERB">cairá</EVENT> por <EVENT eid="e60" class="STATE" stem="terra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">terra</EVENT> pela graça de Deus Todo-Poderoso''.</s>
+<s>As sondagens têm <EVENT eid="e62" class="REPORTING" stem="mostrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mostrado</EVENT> que o <EVENT eid="e63" class="OCCURRENCE" stem="apoio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apoio</EVENT> público à república está a <EVENT eid="e64" class="OCCURRENCE" stem="aumentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">aumentar</EVENT>, <EVENT eid="e65" class="OCCURRENCE" stem="passar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">passando</EVENT> de cerca de <EVENT eid="e460" class="STATE" stem="35" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">35</EVENT> por cento <TIMEX3 tid="t117" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t109">há vários anos</TIMEX3>, para cerca de <EVENT eid="e461" class="STATE" stem="51" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">51</EVENT> por cento <TIMEX3 tid="t358" type="DATE" value="1998" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t109">este ano</TIMEX3>, à medida que o sentimento pró-monárquico <EVENT eid="e66" class="OCCURRENCE" stem="diminuir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diminui</EVENT>.</s>
+<s>A Austrália é <EVENT eid="e374" class="STATE" stem="independente" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">independente</EVENT> desde <TIMEX3 tid="t118" type="DATE" value="1901" temporalFunction="false" functionInDocument="NONE">1901</TIMEX3>, mas, como muitos países da Commonwealth, ainda <EVENT eid="e67" class="OCCURRENCE" stem="reconhecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">reconhece</EVENT> o monarca britânico como chefe de Estado.</s>
+<s>Howard <EVENT eid="e68" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a rainha Isabel II se tem <EVENT eid="e69" class="OCCURRENCE" stem="mostrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mostrado</EVENT> muito interessada na <EVENT eid="e387" class="OCCURRENCE" stem="convenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">convenção</EVENT>.</s>
+<s>``Ela, posso <EVENT eid="e70" class="I_ACTION" stem="garantir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">garantir</EVENT>-vos, pelo que tenho <EVENT eid="e72" class="REPORTING" stem="ouvir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ouvido</EVENT>, está a <EVENT eid="e73" class="OCCURRENCE" stem="seguir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">seguir</EVENT> a <EVENT eid="e74" class="OCCURRENCE" stem="coisa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">coisa</EVENT> muito de perto e é <EVENT eid="e75" class="STATE" stem="de" aspect="NONE" tense="PI" polarity="POS" pos="PREPOSITION">da</EVENT> opinião de que é um <EVENT eid="e76" class="OCCURRENCE" stem="assunto" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">assunto</EVENT> nosso.</s>
+<s>``Não é nenhum segredo que para mim ela é <EVENT eid="e78" class="I_ACTION" stem="indicado" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">indicada</EVENT>... ela é uma democrata do século XX, <EVENT eid="e79" class="I_STATE" stem="entender" aspect="NONE" tense="PI" polarity="POS" pos="VERB">entende</EVENT> que o papel da coroa na Austrália está <EVENT eid="e82" class="OCCURRENCE" stem="em" aspect="NONE" tense="PI" polarity="POS" pos="PREPOSITION">nas</EVENT> mãos do povo australiano, como tem <EVENT eid="e85" class="STATE" stem="estar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estado</EVENT> desde <TIMEX3 tid="t119" type="DURATION" value="P100Y" mod="LESS_THAN" temporalFunction="false" functionInDocument="NONE">há quase cem anos</TIMEX3>''.</s>
+<s>O modelo para uma república, <EVENT eid="e86" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">aprovado</EVENT> com <EVENT eid="e87" class="OCCURRENCE" stem="objeção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">objeções</EVENT> amargas pelos que <EVENT eid="e88" class="OCCURRENCE" stem="defender" aspect="NONE" tense="PI" polarity="POS" pos="VERB">defendem</EVENT> a eleição direta de um presidente, é que as nomeações presidenciais sejam feitas com a participação do público e que o candidato vencedor seja decidido por uma maioria de dois terços do Parlamento.</s>
+<s>O ex-primeiro-ministro Paul Keating, que <EVENT eid="e95" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">colocou</EVENT> a questão da República no centro das atenções na sua <EVENT eid="e97" class="OCCURRENCE" stem="campanha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">campanha</EVENT> mal sucedida de <TIMEX3 tid="t120" type="DATE" value="1996" temporalFunction="false" functionInDocument="NONE">1996</TIMEX3> para a reeleição, <EVENT eid="e98" class="OCCURRENCE" stem="congratular" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">congratulou</EVENT>-se com o <EVENT eid="e99" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultado</EVENT>.</s>
+<s>``Este é um passo importante no caminho de a Austrália afirmar a sua plena soberania, e reconhecimento devido de que a monarquia não pode mais servir-nos de forma adequada'', disse Keating.</s>
+
+(PROFILE
+(WS SL:BC-Australia-Republic, 4th Ld-Writethru; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-02-13-98 1426EST</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e4" relatedToTime="t110" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e4" relatedToTime="t111" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e35" relatedToTime="t121" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e64" relatedToTime="t358" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e64" relatedToTime="t117" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e65" relatedToTime="t358" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e65" relatedToTime="t117" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e85" relatedToTime="t119" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e99" relatedToTime="t120" task="A"/>
+<TLINK lid="l10" relType="VAGUE" eventID="e4" relatedToTime="t109" task="B"/>
+<TLINK lid="l11" relType="BEFORE-OR-OVERLAP" eventID="e15" relatedToTime="t109" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e17" relatedToTime="t109" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e25" relatedToTime="t109" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e26" relatedToTime="t109" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e31" relatedToTime="t109" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e32" relatedToTime="t109" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e35" relatedToTime="t109" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e115" relatedToTime="t109" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e52" relatedToTime="t109" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e51" relatedToTime="t109" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e48" relatedToTime="t109" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e53" relatedToTime="t109" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e58" relatedToTime="t109" task="B"/>
+<TLINK lid="l24" relType="AFTER" eventID="e319" relatedToTime="t109" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e64" relatedToTime="t109" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e65" relatedToTime="t109" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e68" relatedToTime="t109" task="B"/>
+<TLINK lid="l28" relType="OVERLAP" eventID="e69" relatedToTime="t109" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e72" relatedToTime="t109" task="B"/>
+<TLINK lid="l30" relType="OVERLAP" eventID="e75" relatedToTime="t109" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e85" relatedToTime="t109" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e99" relatedToTime="t109" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e18" eventID="e17" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e374" eventID="e62" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e5" eventID="e2" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e58" eventID="e52" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e319" eventID="e58" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e32" eventID="e28" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e98" eventID="e86" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e62" eventID="e319" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e52" eventID="e43" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e68" eventID="e374" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e79" eventID="e73" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e86" eventID="e79" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e25" eventID="e18" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e33" eventID="e32" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e73" eventID="e68" task="C"/>
+<TLINK lid="l16c" relType="BEFORE" relatedToEvent="e17" eventID="e11" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e115" eventID="e33" task="C"/>
+<TLINK lid="l18c" relType="AFTER" relatedToEvent="e11" eventID="e5" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e28" eventID="e27" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e43" eventID="e115" task="C"/>
+<TLINK lid="l21c" relType="OVERLAP" relatedToEvent="e27" eventID="e25" task="C"/>
+</TempEval>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0153
+= 891026
+891026-0153.
+Diversified Investment Group
+<TIMEX3 tid="t27" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DING STSS
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+PHILADELPHIA
+
+<s>A Diversified Investment Group Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> ser <EVENT eid="e4" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">comprada</EVENT> pela Star States Corp. por ações <EVENT eid="e5" class="OCCURRENCE" stem="avaliar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">avaliadas</EVENT> em 13,75 dólares por ação, ou cerca de 24,4 milhões de dólares.</s>
+
+<s>A Diversified, a holding da Fidelity Federal Savings &amp; Loan Association, <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e7" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> também <EVENT eid="e8" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dá</EVENT> à Star States a <EVENT eid="e9" class="I_STATE" stem="opção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">opção</EVENT> de <EVENT eid="e11" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> 588.300 das 1.774.326 ações em circulação da Diversified "sob certas circunstâncias".</s>
+
+<s>A <EVENT eid="e12" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> <EVENT eid="e13" class="OCCURRENCE" stem="dar" aspect="NONE" tense="C" polarity="POS" pos="VERB">daria</EVENT> à Star States, sediada em Wilmington, no estado de Delaware, <EVENT eid="e25" class="STATE" stem="acesso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acesso</EVENT> ao mercado da Pensilvânia.</s>
+
+<s>O <EVENT eid="e16" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> está <EVENT eid="e26" class="I_STATE" stem="sujeito" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">sujeito</EVENT> a <EVENT eid="e17" class="OCCURRENCE" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT> regulatória e à <EVENT eid="e18" class="OCCURRENCE" stem="resolução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resolução</EVENT> de processos judiciais <EVENT eid="e20" class="OCCURRENCE" stem="mover" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">movidos</EVENT> por certos acionistas da Diversified relacionados com a <EVENT eid="e22" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT> proposta.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t27" task="B"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t27" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e6" relatedToTime="t27" task="B"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e8" relatedToTime="t27" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e7" relatedToTime="t27" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e11" relatedToTime="t27" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e13" relatedToTime="t27" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e12" relatedToTime="t27" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e16" relatedToTime="t27" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e26" eventID="e13" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e13" eventID="e6" task="C"/>
+</TempEval>

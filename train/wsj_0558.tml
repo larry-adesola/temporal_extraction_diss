@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891030-0142
+= 891030
+891030-0142.
+Aetna Life &amp; Casualty
+@ Lucro Baixou 22%
+@ No terceiro trimestre
+<TIMEX3 tid="t43" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+AET
+EARNINGS (ERN)
+INSURANCE (INS)
+HARTFORD, Conn.
+
+
+<s>O resultado líquido da Aetna Life &amp; Casualty Co. no <TIMEX3 tid="t44" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">terceiro trimestre</TIMEX3> <EVENT eid="e1" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 22% para os <EVENT eid="e92" class="STATE" stem="182,6" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">182,6</EVENT> milhões de dólares, ou 1,63 dólares por ação, refletindo os <EVENT eid="e47" class="STATE" stem="dano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">danos</EVENT> do furacão Hugo e os <EVENT eid="e3" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> mais baixos para algumas das maiores divisões da empresa.</s>
+
+<s>As <EVENT eid="e48" class="STATE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perdas</EVENT> por catástrofe <EVENT eid="e4" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reduziram</EVENT> o lucro líquido da Aetna em 50 milhões de dólares, incluindo 36 milhões de dólares por causa do Hugo.</s>
+<s>As <EVENT eid="e50" class="STATE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perdas</EVENT> por catástrofe no <TIMEX3 tid="t49" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">ano passado</TIMEX3> totalizaram 5 mil milhões de dólares quando o <EVENT eid="e7" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido foi de 235,5 milhões de dólares, ou 2,07 dólares por ação.</s>
+<s>Os <EVENT eid="e8" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> do <TIMEX3 tid="t52" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">ano anterior</TIMEX3> foram <EVENT eid="e9" class="I_ACTION" stem="recalcular" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recalculados</EVENT> para <EVENT eid="e11" class="I_STATE" stem="refletir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">refletir</EVENT> uma <EVENT eid="e12" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudança</EVENT> contabilística.</s>
+
+<s>A seguradora <EVENT eid="e13" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">iniciou</EVENT> o <EVENT eid="e54" class="OCCURRENCE" stem="processamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processamento</EVENT> de <EVENT eid="e14" class="OCCURRENCE" stem="pedido" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pedidos</EVENT> relativos ao <EVENT eid="e55" class="OCCURRENCE" stem="terramoto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">terramoto</EVENT> do Norte da Califórnia de <TIMEX3 tid="t57" type="DATE" value="1989-WXX" mod="EQUAL_OR_LESS" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">há quase duas semanas</TIMEX3>.</s>
+<s>Mas porque estes pedidos são mais difíceis de avaliar e têm <EVENT eid="e18" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">chegado</EVENT> mais lentamente, a empresa não <EVENT eid="e19" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> nenhuma <EVENT eid="e20" class="I_STATE" stem="estimativa" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">estimativa</EVENT> do <EVENT eid="e21" class="STATE" stem="impacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">impacto</EVENT> do <EVENT eid="e60" class="OCCURRENCE" stem="terramoto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">terramoto</EVENT> nos <EVENT eid="e22" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> do <TIMEX3 tid="t61" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">quarto trimestre</TIMEX3>.</s>
+
+<s>Na Bolsa de Valores de Nova Iorque, na <TIMEX3 tid="t63" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">sexta-feira</TIMEX3>, a Aetna <EVENT eid="e24" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos <EVENT eid="e64" class="STATE" stem="60" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">60</EVENT> dólares, caindo 50 cêntimos.</s>
+
+<s>No <TIMEX3 tid="t65" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">último trimestre</TIMEX3>, a Aetna <EVENT eid="e67" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um <EVENT eid="e25" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> de 23 milhões de dólares na sua linha de imóveis e automóveis, em comparação com o <EVENT eid="e68" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> de 33 milhões de dólares do <TIMEX3 tid="t69" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t65">ano passado</TIMEX3>.</s>
+<s>O lucro da sua divisão de seguros comerciais <EVENT eid="e28" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 30% para os 59 milhões de dólares, refletindo maiores <EVENT eid="e70" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perdas</EVENT> por catástrofe e a <EVENT eid="e71" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> de preços no mercado de propriedades e acidentes de <TIMEX3 tid="t73" type="DURATION" value="P3Y" mod="LESS_THAN" temporalFunction="false" functionInDocument="NONE">quase três anos</TIMEX3>.</s>
+
+<s>No entanto, a divisão da Aetna de seguros para empresas, que inclui o seu negócio de seguros de saúde de grupo, <EVENT eid="e34" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um aumento do <EVENT eid="e74" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> de 34% para os 106 milhões de dólares.</s>
+
+<s>Os <EVENT eid="e35" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> do <TIMEX3 tid="t75" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">terceiro trimestre</TIMEX3> incluíram <EVENT eid="e76" class="STATE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganhos</EVENT> líquidos de capital realizados de 48 milhões de dólares, que <EVENT eid="e89" class="STATE" stem="incluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">incluíram</EVENT> 27 milhões de dólares com a <EVENT eid="e39" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> da Federated Investors em <TIMEX3 tid="t80" type="DATE" value="1989-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">agosto</TIMEX3> e um crédito fiscal de 15 milhões de dólares.</s>
+
+<s>Nos <TIMEX3 tid="t81" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">nove meses</TIMEX3>, o resultado líquido <EVENT eid="e42" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentou</EVENT> 4,3% para os <EVENT eid="e90" class="STATE" stem="525,8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">525,8</EVENT> milhões de dólares ou 4,67 dólares por ação, desde os <EVENT eid="e91" class="STATE" stem="504,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">504,2</EVENT> milhões de dólares, ou 4,41 dólares por ação, no <TIMEX3 tid="t85" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">ano passado</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e3" relatedToTime="t44" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1" relatedToTime="t44" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e50" relatedToTime="t49" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e12" relatedToTime="t52" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e8" relatedToTime="t52" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e19" relatedToTime="t61" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e18" relatedToTime="t61" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e22" relatedToTime="t61" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e24" relatedToTime="t63" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e67" relatedToTime="t69" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e67" relatedToTime="t65" task="A"/>
+<TLINK lid="l12" relType="AFTER" eventID="e25" relatedToTime="t69" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e25" relatedToTime="t65" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e71" relatedToTime="t73" task="A"/>
+<TLINK lid="l15" relType="AFTER" eventID="e28" relatedToTime="t73" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e70" relatedToTime="t73" task="A"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e39" relatedToTime="t75" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e39" relatedToTime="t80" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e76" relatedToTime="t75" task="A"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e76" relatedToTime="t80" task="A"/>
+<TLINK lid="l21" relType="OVERLAP" eventID="e35" relatedToTime="t75" task="A"/>
+<TLINK lid="l22" relType="AFTER" eventID="e35" relatedToTime="t80" task="A"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e42" relatedToTime="t81" task="A"/>
+<TLINK lid="l24" relType="AFTER" eventID="e42" relatedToTime="t85" task="A"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e3" relatedToTime="t43" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e1" relatedToTime="t43" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e48" relatedToTime="t43" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e50" relatedToTime="t43" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e12" relatedToTime="t43" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e8" relatedToTime="t43" task="B"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e19" relatedToTime="t43" task="B"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e18" relatedToTime="t43" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e22" relatedToTime="t43" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e24" relatedToTime="t43" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e67" relatedToTime="t43" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e25" relatedToTime="t43" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e71" relatedToTime="t43" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e28" relatedToTime="t43" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e70" relatedToTime="t43" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e74" relatedToTime="t43" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e34" relatedToTime="t43" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e39" relatedToTime="t43" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e76" relatedToTime="t43" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e35" relatedToTime="t43" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e42" relatedToTime="t43" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e34" eventID="e28" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e42" eventID="e35" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e19" eventID="e13" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e9" eventID="e50" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e50" eventID="e4" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e67" eventID="e24" task="C"/>
+<TLINK lid="l7c" relType="VAGUE" relatedToEvent="e13" eventID="e9" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e24" eventID="e19" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e28" eventID="e67" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e35" eventID="e34" task="C"/>
+</TempEval>

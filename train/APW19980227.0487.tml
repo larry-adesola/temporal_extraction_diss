@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980227.0487
+REPORTAGEM
+<TIMEX3 tid="t69" type="TIME" value="1998-02-27T08:09:00" temporalFunction="false" functionInDocument="CREATION_TIME">02/27/1998 08:09:00</TIMEX3>
+w2392 Cx1f wstm-
+u i Cx13  Cx11  BC-Israel-Rabin     02-27 0300
+BC-Israel-Rabin,0300
+Amiga do assassino de Rabin lamentou ter rezado pela morte de Rabin
+UR By DANNA HARMAN QC
+UR Associated Press Writer QC
+
+
+<s>Jerusalém (AP) - <EVENT eid="e1" class="OCCURRENCE" stem="prestar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Prestando</EVENT> declarações em sua própria defesa, uma amiga do assassino de Yitzhak Rabin <EVENT eid="e2" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> <TIMEX3 tid="t70" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t69">sexta-feira</TIMEX3> que <EVENT eid="e3" class="I_STATE" stem="lamentar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">lamentava</EVENT> ter <EVENT eid="e4" class="I_ACTION" stem="chamar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">chamado</EVENT> ao primeiro-ministro um <EVENT eid="e7" class="STATE" stem="traidor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">traidor</EVENT> e ter <EVENT eid="e8" class="I_ACTION" stem="rezar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">rezado</EVENT> pela sua <EVENT eid="e9" class="OCCURRENCE" stem="morte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">morte</EVENT>.</s>
+<s>Margalit Har-Shefi, de 22 anos, <EVENT eid="e10" class="I_ACTION" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT>-se inocente de <EVENT eid="e12" class="I_ACTION" stem="acusação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acusações</EVENT> de que ela se <EVENT eid="e13" class="I_ACTION" stem="abster" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">absteve</EVENT> de <EVENT eid="e15" class="REPORTING" stem="divulgar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">divulgar</EVENT> o <EVENT eid="e16" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> de Yigal Amir de <EVENT eid="e17" class="OCCURRENCE" stem="matar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">matar</EVENT> Rabin.</s>
+<s>Ela <EVENT eid="e18" class="OCCURRENCE" stem="prestar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prestou</EVENT> declarações durante <TIMEX3 tid="t71" type="DURATION" value="PT4H" mod="MORE_THAN" temporalFunction="false" functionInDocument="NONE">mais de quatro horas</TIMEX3> na <TIMEX3 tid="t72" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t69">sexta-feira</TIMEX3>, num tribunal de Tel Aviv.</s>
+<s>Amir, de 27 anos, está a <EVENT eid="e19" class="STATE" stem="cumprir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">cumprir</EVENT> uma sentença de prisão perpétua pelo <EVENT eid="e20" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassínio</EVENT> de <TIMEX3 tid="t73" type="DATE" value="1995-11" temporalFunction="false" functionInDocument="NONE">novembro de 1995</TIMEX3> de Rabin num <EVENT eid="e21" class="OCCURRENCE" stem="comício" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comício</EVENT> de paz em Tel Aviv.</s>
+<s>Reportagens de jornais <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que Amir estava <EVENT eid="e23" class="I_STATE" stem="apaixonado" aspect="NONE" tense="PII" polarity="POS" pos="ADJECTIVE">apaixonado</EVENT> por Har-Shefi e podia estar a <EVENT eid="e24" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="INF" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e25" class="OCCURRENCE" stem="impressionar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">impressioná</EVENT>-la quando <EVENT eid="e26" class="OCCURRENCE" stem="matar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">matou</EVENT> o primeiro-ministro.</s>
+<s>Har-Shefi <EVENT eid="e27" class="I_ACTION" stem="reconhecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reconheceu</EVENT> que <EVENT eid="e28" class="I_ACTION" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> durante o interrogatório policial que Rabin era um <EVENT eid="e29" class="STATE" stem="traidor" aspect="NONE" tense="PII" polarity="POS" pos="NOUN">traidor</EVENT> e que <EVENT eid="e30" class="I_ACTION" stem="rezar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">rezava</EVENT> que ele tivesse um <EVENT eid="e33" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataque</EVENT> cardíaco e <EVENT eid="e34" class="OCCURRENCE" stem="morrer" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">morresse</EVENT>.</s>
+<s>Ela <EVENT eid="e35" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e36" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinato</EVENT> de Rabin foi ``uma mancha negra em Israel'', <EVENT eid="e37" class="REPORTING" stem="relatar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">relataram</EVENT> a rádio de Israel e a rádio do Exército de Israel.</s>
+<s>Har-Shefi <EVENT eid="e38" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e39" class="PERCEPTION" stem="ouvir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ouviu</EVENT> Amir <EVENT eid="e40" class="OCCURRENCE" stem="falar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">falar</EVENT> sobre a <EVENT eid="e41" class="OCCURRENCE" stem="morte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">morte</EVENT> de Rabin, mas não <EVENT eid="e42" class="REPORTING" stem="avisar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">avisou</EVENT> a polícia porque não <EVENT eid="e43" class="I_STATE" stem="acreditar" aspect="NONE" tense="PII" polarity="NEG" pos="VERB">acreditava</EVENT> que ele estivesse a <EVENT eid="e44" class="OCCURRENCE" stem="falar" aspect="PROGRESSIVE" tense="PIC" polarity="POS" pos="VERB">falar</EVENT> a sério.</s>
+<s>Em vez disso, ela <EVENT eid="e45" class="OCCURRENCE" stem="acorrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acorreu</EVENT> ao rabino da sua comunidade na povoação judaica de Beit El na Cisjordânia e <EVENT eid="e46" class="REPORTING" stem="contar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contou</EVENT>-lhe as <EVENT eid="e47" class="OCCURRENCE" stem="declaração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declarações</EVENT> de Amir.</s>
+<s>O rabino <EVENT eid="e48" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e49" class="I_ACTION" stem="considerar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">considerou</EVENT> o <EVENT eid="e50" class="OCCURRENCE" stem="discurso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">discurso</EVENT> sobre o <EVENT eid="e51" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinato</EVENT> de Rabin um ``<EVENT eid="e52" class="STATE" stem="absurdo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">absurdo</EVENT>'' e <EVENT eid="e53" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os judeus estão <EVENT eid="e54" class="I_STATE" stem="proibir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">proibidos</EVENT> de se matarem uns aos outros, <EVENT eid="e56" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> os relatórios de rádio.</s>
+<s>Har-Shefi <EVENT eid="e57" class="OCCURRENCE" stem="descrever" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">descreveu</EVENT> Amir como um ``pensador original,'' e também delirante e um mentiroso.</s>
+<s>Ela também <EVENT eid="e58" class="I_ACTION" stem="negar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">negou</EVENT> as <EVENT eid="e59" class="I_ACTION" stem="acusação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acusações</EVENT> <EVENT eid="e60" class="I_ACTION" stem="fazer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">feitas</EVENT> pelo irmão de Amir, Hagai, de que ela se  <EVENT eid="e61" class="OCCURRENCE" stem="juntar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">juntara</EVENT> a um movimento secreto anti-árabe.</s>
+<s>Ela <EVENT eid="e62" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e63" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deu</EVENT> aos irmãos Amir informações falsas sobre a localização de um esconderijo de armas e munições quando lhe <EVENT eid="e64" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediram</EVENT> para <EVENT eid="e65" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudar</EVENT> a <EVENT eid="e66" class="OCCURRENCE" stem="organizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">organizar</EVENT> tal movimento.</s>
+
+(PROFILE
+(WS SL:BC-Israel-Rabin; CT:i;
+(REG:MEST;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:AFRI;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-02-27-98 0809EST</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t70" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e4" relatedToTime="t70" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e18" relatedToTime="t71" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e18" relatedToTime="t72" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e2" relatedToTime="t69" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e4" relatedToTime="t69" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e16" relatedToTime="t69" task="B"/>
+<TLINK lid="l8" relType="BEFORE-OR-OVERLAP" eventID="e12" relatedToTime="t69" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e15" relatedToTime="t69" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e18" relatedToTime="t69" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e24" relatedToTime="t69" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e22" relatedToTime="t69" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e28" relatedToTime="t69" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e37" relatedToTime="t69" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e35" relatedToTime="t69" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e43" relatedToTime="t69" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e40" relatedToTime="t69" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e38" relatedToTime="t69" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e42" relatedToTime="t69" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e46" relatedToTime="t69" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e53" relatedToTime="t69" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e49" relatedToTime="t69" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e48" relatedToTime="t69" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e56" relatedToTime="t69" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e50" relatedToTime="t69" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e60" relatedToTime="t69" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e63" relatedToTime="t69" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e62" relatedToTime="t69" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e65" relatedToTime="t69" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e58" eventID="e57" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e45" eventID="e38" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e62" eventID="e58" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e27" eventID="e22" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e18" eventID="e10" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e56" eventID="e45" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e38" eventID="e35" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e22" eventID="e19" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e35" eventID="e27" task="C"/>
+<TLINK lid="l10c" relType="AFTER" relatedToEvent="e10" eventID="e2" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e19" eventID="e18" task="C"/>
+<TLINK lid="l12c" relType="VAGUE" relatedToEvent="e57" eventID="e56" task="C"/>
+</TempEval>

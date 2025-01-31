@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+ABC<TIMEX3 tid="t52" type="DATE" value="1998-01-14" temporalFunction="false" functionInDocument="CREATION_TIME">19980114</TIMEX3>.1830.1611 REPORTAGEM
+
+
+<s>Em Washington, <TIMEX3 tid="t53" type="DATE" value="1998-01-14" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t52">hoje</TIMEX3>, a Federal Aviation Administration <EVENT eid="e1" class="OCCURRENCE" stem="publicar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">publicou</EVENT> gravações do controlo de tráfego aéreo da <TIMEX3 tid="t54" type="TIME" value="1998-XX-XXTNI" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t52">noite</TIMEX3> em que o voo TWA800 <EVENT eid="e2" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT>.</s>
+<s>Não há nada de novo sobre a razão por que o avião <EVENT eid="e3" class="OCCURRENCE" stem="explodir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">explodiu</EVENT>, mas você não pode perder este momento.</s>
+<s>Lisa Stark, da ABC, conta a história.</s>
+
+
+<s>Não havia nenhum <EVENT eid="e236" class="OCCURRENCE" stem="sinal" aspect="NONE" tense="PII" polarity="NEG" pos="NOUN">sinal</EVENT> de problemas na última <EVENT eid="e10" class="OCCURRENCE" stem="conversa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversa</EVENT> entre os controladores e o piloto da TWA Steven Snyder</s>
+
+
+<s>A subida do TWA oitocentos <EVENT eid="e13" class="STATE" stem="manter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">mantém</EVENT> uma altitude de quinze mil.</s>
+
+<s>A subida acentuada do TWA oitocentos <EVENT eid="e15" class="STATE" stem="manter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">mantém</EVENT> quinze mil, a deixar os três mil.</s>
+
+
+
+<s>Mas <TIMEX3 tid="t58" type="DURATION" value="PT1M30S" temporalFunction="false" functionInDocument="NONE">um minuto e meio</TIMEX3> depois, um piloto de um voo próximo <EVENT eid="e18" class="REPORTING" stem="avisar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">avisa</EVENT> os controloadores.</s>
+
+
+<s>Ah, acabamos de <EVENT eid="e19" class="PERCEPTION" stem="ver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ver</EVENT> uma <EVENT eid="e20" class="OCCURRENCE" stem="explosão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">explosão</EVENT> à frente de nós aqui a dezasseis mil pés ou algo parecido.</s>
+<s>Pura e simplesmente <EVENT eid="e21" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT>.</s>
+
+
+<s>O controlador no centro de Boston <EVENT eid="e22" class="I_ACTION" stem="tentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tenta</EVENT> <EVENT eid="e24" class="OCCURRENCE" stem="levantar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">levantar</EVENT> o TWA oitocentos.</s>
+
+
+<s>TWA oitocentos, se <EVENT eid="e26" class="PERCEPTION" stem="ouvir" aspect="NONE" tense="FC" polarity="POS" pos="VERB">ouvirem</EVENT> o centro, <EVENT eid="e60" class="OCCURRENCE" stem="responder" aspect="NONE" tense="IMP" polarity="POS" pos="VERB">respondam</EVENT>.</s>
+
+
+<s>Não há <EVENT eid="e61" class="OCCURRENCE" stem="resposta" aspect="NONE" tense="PI" polarity="NEG" pos="NOUN">resposta</EVENT>.</s>
+
+
+<s>Mais tarde, o controlador <EVENT eid="e28" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pede</EVENT> mais detalhes ao piloto da Eastwind.</s>
+
+
+<s>Ah, sim, senhor.</s>
+<s>Ele <EVENT eid="e30" class="OCCURRENCE" stem="explodir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">explodiu</EVENT> no ar, e então <EVENT eid="e33" class="PERCEPTION" stem="ver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">vimos</EVENT> duas bolas de fogo a <EVENT eid="e34" class="OCCURRENCE" stem="descer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">descerem</EVENT> até à água, e havia uma grande fumaça, <EVENT eid="e36" class="OCCURRENCE" stem="subir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">subindo</EVENT> a partir daí.</s>
+
+
+<s>A certa altura, quando se <EVENT eid="e38" class="I_STATE" stem="tornar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tornou</EVENT> claro que os controladores não conseguiam <EVENT eid="e235" class="OCCURRENCE" stem="contactar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">contactar</EVENT> o avião, alguém <EVENT eid="e43" class="OCCURRENCE" stem="rezar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">rezou</EVENT> uma oração.</s>
+
+
+<s>TWA oitocentos, centro</s>
+
+
+<s>Acho que foi ele.</s>
+
+
+<s>Acho que sim.</s>
+
+
+<s>Deus o abençoe.</s>
+
+
+<s>Lisa Stark ABC News Washington</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t53" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e2" relatedToTime="t54" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e18" relatedToTime="t58" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e2" relatedToTime="t52" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e18" relatedToTime="t52" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e19" relatedToTime="t52" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e21" relatedToTime="t52" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e22" relatedToTime="t52" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e33" relatedToTime="t52" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e34" relatedToTime="t52" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e36" relatedToTime="t52" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e43" relatedToTime="t52" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e38" relatedToTime="t52" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e61" eventID="e60" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e15" eventID="e13" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e28" eventID="e61" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e60" eventID="e22" task="C"/>
+<TLINK lid="l8c" relType="VAGUE" relatedToEvent="e43" eventID="e30" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e13" eventID="e236" task="C"/>
+<TLINK lid="l10c" relType="AFTER" relatedToEvent="e19" eventID="e18" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e21" eventID="e19" task="C"/>
+</TempEval>
+

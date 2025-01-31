@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0016
+= 891026
+891026-0016.
+Notícias de Dividendos:
+@ Oneida Ltd.
+<TIMEX3 tid="t15" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+OCQ
+DIVIDENDS (DIV)
+
+
+<s>A Oneida Ltd. <EVENT eid="e1" class="OCCURRENCE" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT> um dividendo de 10%, a <EVENT eid="e24" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> a <TIMEX3 tid="t16" type="DATE" value="1989-12-15" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t15">15 de dezembro</TIMEX3> para ações de registo de <TIMEX3 tid="t17" type="DATE" value="1989-11-17" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t15">17 de novembro</TIMEX3>.</s>
+<s>O fabricante de bens de consumo, serviços alimentares e produtos industriais de Oneida, em Nova Iorque, também <EVENT eid="e3" class="OCCURRENCE" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT> um dividendo trimestral de 12 cêntimos por ação, com as mesmas datas de pagamento e registo.</s>
+<s>O dividendo <EVENT eid="e4" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">pago</EVENT> sobre as ações ordinárias também se <EVENT eid="e6" class="STATE" stem="aplicar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">aplica</EVENT> às novas ações, <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a companhia.</s>
+<s>A iniciativa recompensa os acionistas e deve <EVENT eid="e8" class="OCCURRENCE" stem="melhorar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">melhorar</EVENT> a liquidez das ações, <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a Oneida.</s>
+<s>A empresa <EVENT eid="e11" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> cerca de 8,8 milhões de ações.</s>
+<s>Na Bolsa de Valores de Nova Iorque de <TIMEX3 tid="t63" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t15">ontem</TIMEX3>, as ações da Oneida <EVENT eid="e12" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos 18,375 dólares por ação, inalteradas.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e12" relatedToTime="t63" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e7" relatedToTime="t15" task="B"/>
+<TLINK lid="l3" relType="AFTER" eventID="e4" relatedToTime="t15" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e10" relatedToTime="t15" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e11" relatedToTime="t15" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e12" relatedToTime="t15" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e7" eventID="e3" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e11" eventID="e10" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e10" eventID="e7" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP-OR-AFTER" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0085
+= 891026
+891026-0085.
+Westinghouse
+@ Vê Grandes Lucros
+@ No Próximo Ano
+@ ---
+@ Impulso nas Margens Operacionais,
+@ Previsão de Crescimento da Empresa
+@ Em Dois Dígitos Por Ação
+@ ----
+@ Por Gregory Stricharchuk
+@ Repórter do Wall Street Journal
+<TIMEX3 tid="t118" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+WX
+ELECTRICAL COMPONENTS AND EQUIPMENT (ELQ)
+NEW YORK
+
+
+<s>A Westinghouse Electric Corp., <EVENT eid="e1" class="OCCURRENCE" stem="capitalizar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">capitalizando</EVENT> sobre um grande programa de reestruturação, <EVENT eid="e3" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> margens operacionais de mais de 10% e um <EVENT eid="e117" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> do lucro de dois dígitos por ação no <TIMEX3 tid="t119" type="DATE" value="1990" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">próximo ano</TIMEX3>, <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> oficiais superiores a analistas de valores daqui.</s>
+
+<s>John C. Marous, presidente do conselho de administração e diretor geral, também <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a empresa <EVENT eid="e7" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> que as vendas dos negócios contínuos <EVENT eid="e12" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">aumentem</EVENT> 8,5% ao ano durante <TIMEX3 tid="t121" type="DURATION" value="P3Y" temporalFunction="true" functionInDocument="NONE" beginPoint="t118">os próximos três anos</TIMEX3>.</s>
+
+<s>Em <TIMEX3 tid="t122" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3>, a companhia <EVENT eid="e13" class="OCCURRENCE" stem="faturar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">faturou</EVENT> 822,8 milhões de dólares, ou 5,66 dólares por ação, com vendas de 12,49 mil milhões de dólares.</s>
+
+<s>Desde <TIMEX3 tid="t126" type="DATE" value="1983" temporalFunction="false" functionInDocument="NONE">1983</TIMEX3>, a Westinghouse <EVENT eid="e15" class="OCCURRENCE" stem="livrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">livrou</EVENT>-se de 70 empresas que não <EVENT eid="e17" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="NEG" pos="VERB">esperava</EVENT> que <EVENT eid="e20" class="OCCURRENCE" stem="produzir" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">produzissem</EVENT> margens operacionais de 10%, ao mesmo tempo <EVENT eid="e22" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">adquirindo</EVENT> 55 empresas.</s>
+
+<s>Só nos <TIMEX3 tid="t127" type="DURATION" value="P20M" temporalFunction="true" functionInDocument="NONE" endPoint="t118">últimos 20 meses</TIMEX3>, Paul E. Lego, presidente e diretor de operações, <EVENT eid="e24" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a alienação de 300 milhões de dólares em empresas de crescimento lento e lucros baixos foi mais do que <EVENT eid="e467" class="OCCURRENCE" stem="compensar" aspect="NONE" tense="PPI" polarity="POS" pos="OTHER">compensada</EVENT> pelos 600 milhões de dólares em aquisições rentáveis.</s>
+
+<s>A Westinghouse <EVENT eid="e31" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e33" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atingir</EVENT> os seus objetivos empresariais apesar de um abrandamento na economia.</s>
+<s>Mesmo que o produto interno bruto seja <EVENT eid="e130" class="STATE" stem="nulo" aspect="NONE" tense="PC" polarity="POS" pos="ADJECTIVE">nulo</EVENT> ou <EVENT eid="e468" class="STATE" stem="em" aspect="NONE" tense="PC" polarity="POS" pos="PREPOSITION">no</EVENT> intervalo de crescimento dos 2% a 2,5%, "podemos <EVENT eid="e37" class="OCCURRENCE" stem="lidar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">lidar</EVENT> com isso", <EVENT eid="e39" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Marous.</s>
+<s>O PIB é o valor total da produção do país de bens e serviços.</s>
+
+<s>Um ponto bom é o negócio de geração de eletricidade da empresa, que está a <EVENT eid="e44" class="OCCURRENCE" stem="passar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">passar</EVENT> por uma fase de <EVENT eid="e134" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> pela primeira vez em <TIMEX3 tid="t136" type="DURATION" value="PXY" temporalFunction="false" functionInDocument="NONE">anos</TIMEX3>.</s>
+<s>Marous <EVENT eid="e47" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o negócio vai <EVENT eid="e49" class="OCCURRENCE" stem="conseguir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">conseguir</EVENT> vendas maiores <TIMEX3 tid="t137" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">este ano</TIMEX3> do que o objetivo alvo da empresa de 8,5%.</s>
+
+<s>Apesar de a Westinghouse não ter <EVENT eid="e138" class="STATE" stem="ter" aspect="NONE" tense="INFFC" polarity="NEG" pos="VERB">tido</EVENT> uma <EVENT eid="e51" class="OCCURRENCE" stem="encomenda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encomenda</EVENT> de centrais nucleares por serviços públicos americanos desde <TIMEX3 tid="t141" type="DURATION" value="P1E" mod="APPROX" temporalFunction="false" functionInDocument="NONE">há cerca de uma década</TIMEX3>, o excesso de capacidade está a <EVENT eid="e52" class="ASPECTUAL" stem="começar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">começar</EVENT> a <EVENT eid="e54" class="OCCURRENCE" stem="diminuir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">diminuir</EVENT>.</s>
+<s>Lego <EVENT eid="e55" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a empresa <EVENT eid="e56" class="I_STATE" stem="prever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">prevê</EVENT> a <EVENT eid="e142" class="I_STATE" stem="necessidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">necessidade</EVENT> de um grande <EVENT eid="e57" class="OCCURRENCE" stem="impulso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">impulso</EVENT> na capacidade de nova geração ao longo dos <TIMEX3 tid="t144" type="DURATION" value="199" temporalFunction="false" functionInDocument="NONE">anos 90</TIMEX3>.</s>
+
+<s>A Westinghouse também está bem <EVENT eid="e58" class="I_STATE" stem="posicionar" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">posicionada</EVENT> para <EVENT eid="e60" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> turbinas a vapor e fábricas de turbinas a gás a produtores de energia independentes.</s>
+<s>A capacidade da empresa para responder às necessidades de energia em todo o mundo será <EVENT eid="e65" class="OCCURRENCE" stem="reforçar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">reforçada</EVENT> através de uma <EVENT eid="e66" class="OCCURRENCE" stem="joint venture" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">joint venture</EVENT> <EVENT eid="e146" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">anunciada</EVENT> <TIMEX3 tid="t145" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">recentemente</TIMEX3> com a Mitsubishi Heavy Industries, <EVENT eid="e68" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Lego.</s>
+
+<s>Ele <EVENT eid="e69" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o segmento de energia independente podia <EVENT eid="e70" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">crescer</EVENT> para <EVENT eid="e73" class="OCCURRENCE" stem="fornecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fornecer</EVENT> até 50% da capacidade de geração a curto prazo, <EVENT eid="e74" class="REPORTING" stem="acrescentar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">acrescentando</EVENT>: "<EVENT eid="e75" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Esperamos</EVENT> <EVENT eid="e77" class="OCCURRENCE" stem="atender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atender</EVENT> uma fatia significativa deste mercado."</s>
+
+<s>A Westinghouse também <EVENT eid="e79" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> que as suas vendas internacionais <TIMEX3 tid="t147" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">em breve</TIMEX3> <EVENT eid="e81" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">aumentem</EVENT> para <EVENT eid="e469" class="STATE" stem="25%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">25%</EVENT> do total das vendas da empresa face a <EVENT eid="e152" class="STATE" stem="20%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">20%</EVENT> no <TIMEX3 tid="t150" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">ano passado</TIMEX3>.</s>
+<s>A empresa está a <EVENT eid="e82" class="OCCURRENCE" stem="negociar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">negociar</EVENT> com os soviéticos para <EVENT eid="e84" class="OCCURRENCE" stem="construir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">construir</EVENT> uma fábrica de camiões frigoríficos Thermo King que <EVENT eid="e85" class="OCCURRENCE" stem="produzir" aspect="NONE" tense="C" polarity="POS" pos="VERB">produziria</EVENT> cerca de 10.000 unidades por ano.</s>
+
+<s>Marous <EVENT eid="e87" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Westinghouse <EVENT eid="e154" class="STATE" stem="deter" aspect="NONE" tense="C" polarity="POS" pos="VERB">deteria</EVENT> 70% da instalação.</s>
+<s>O <EVENT eid="e466" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>, que <EVENT eid="e89" class="I_STATE" stem="envolver" aspect="NONE" tense="FI" polarity="POS" pos="VERB">envolverá</EVENT> um <EVENT eid="e90" class="OCCURRENCE" stem="investimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investimento</EVENT> inicial de 20 milhões de dólares, foi <EVENT eid="e91" class="OCCURRENCE" stem="finalizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">finalizado</EVENT> com um <EVENT eid="e155" class="OCCURRENCE" stem="aperto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aperto</EVENT> de mão, <EVENT eid="e93" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT>.</s>
+
+<s>Os funcionários da empresa <EVENT eid="e94" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> também que qualquer lucro com a <EVENT eid="e95" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> da participação de 55% da Westinghouse na joint-venture de transmissão e distribuição com a empresa suíça de Asea Brown Boveri será <EVENT eid="e101" class="OCCURRENCE" stem="compensar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">compensado</EVENT> por um encargo de reestruturação no <TIMEX3 tid="t157" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">quarto trimestre</TIMEX3>.</s>
+<s>Os executivos não <EVENT eid="e102" class="OCCURRENCE" stem="revelar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">revelaram</EVENT> o tamanho do lucro esperado.</s>
+
+<s>As despesas de capital em <TIMEX3 tid="t158" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3> vão <EVENT eid="e105" class="OCCURRENCE" stem="subir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">subir</EVENT> um pouco, <EVENT eid="e106" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Marous, desde uma <EVENT eid="e161" class="I_STATE" stem="estimativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estimativa</EVENT> de <EVENT eid="e470" class="STATE" stem="470" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">470</EVENT> milhões de dólares <TIMEX3 tid="t163" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t118">este ano</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e3" relatedToTime="t119" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e4" relatedToTime="t119" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e12" relatedToTime="t121" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e6" relatedToTime="t121" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e7" relatedToTime="t121" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e13" relatedToTime="t122" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e17" relatedToTime="t126" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e24" relatedToTime="t127" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e47" relatedToTime="t137" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e52" relatedToTime="t141" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e138" relatedToTime="t141" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e55" relatedToTime="t144" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e57" relatedToTime="t144" task="A"/>
+<TLINK lid="l14" relType="AFTER" eventID="e68" relatedToTime="t145" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e79" relatedToTime="t147" task="A"/>
+<TLINK lid="l16" relType="AFTER" eventID="e79" relatedToTime="t150" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e94" relatedToTime="t157" task="A"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e95" relatedToTime="t157" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e105" relatedToTime="t158" task="A"/>
+<TLINK lid="l20" relType="AFTER" eventID="e105" relatedToTime="t163" task="A"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e106" relatedToTime="t158" task="A"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e106" relatedToTime="t163" task="A"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e3" relatedToTime="t118" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e4" relatedToTime="t118" task="B"/>
+<TLINK lid="l25" relType="AFTER" eventID="e12" relatedToTime="t118" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e6" relatedToTime="t118" task="B"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e7" relatedToTime="t118" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e13" relatedToTime="t118" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e17" relatedToTime="t118" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e24" relatedToTime="t118" task="B"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e31" relatedToTime="t118" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e39" relatedToTime="t118" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e47" relatedToTime="t118" task="B"/>
+<TLINK lid="l34" relType="OVERLAP" eventID="e52" relatedToTime="t118" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e138" relatedToTime="t118" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e55" relatedToTime="t118" task="B"/>
+<TLINK lid="l37" relType="AFTER" eventID="e57" relatedToTime="t118" task="B"/>
+<TLINK lid="l38" relType="AFTER" eventID="e60" relatedToTime="t118" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e68" relatedToTime="t118" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e75" relatedToTime="t118" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e69" relatedToTime="t118" task="B"/>
+<TLINK lid="l42" relType="OVERLAP" eventID="e79" relatedToTime="t118" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e87" relatedToTime="t118" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e93" relatedToTime="t118" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e94" relatedToTime="t118" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e95" relatedToTime="t118" task="B"/>
+<TLINK lid="l47" relType="AFTER" eventID="e105" relatedToTime="t118" task="B"/>
+<TLINK lid="l48" relType="BEFORE" eventID="e106" relatedToTime="t118" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e87" eventID="e82" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e6" eventID="e4" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e82" eventID="e79" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e31" eventID="e24" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e68" eventID="e58" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e93" eventID="e87" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e58" eventID="e55" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e55" eventID="e138" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e94" eventID="e93" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e39" eventID="e31" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e15" eventID="e13" task="C"/>
+<TLINK lid="l12c" relType="VAGUE" relatedToEvent="e106" eventID="e102" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e79" eventID="e69" task="C"/>
+<TLINK lid="l14c" relType="AFTER" relatedToEvent="e13" eventID="e6" task="C"/>
+<TLINK lid="l15c" relType="AFTER" relatedToEvent="e138" eventID="e47" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e47" eventID="e44" task="C"/>
+<TLINK lid="l17c" relType="BEFORE" relatedToEvent="e24" eventID="e15" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e69" eventID="e68" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e102" eventID="e94" task="C"/>
+</TempEval>

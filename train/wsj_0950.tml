@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0108
+= 891026
+891026-0108.
+GM Hughes
+@ Lucro Caiu 22%
+@ No Terceiro Trimestre
+@ ---
+@ Resultado Líquido da GMAC Deslizou 3,1%;
+@ Electronic Data Systems
+@ Diz que Lucros Subiram 16%
+@ ----
+@ Por Neal Templin
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t73" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+GM GME GMH
+AUTOMOBILES (AUT)
+EARNINGS (ERN)
+
+<s>A grande unidade de defesa e eletrónica automóvel da General Motors Corp., a GM Hughes Electronics, <EVENT eid="e2" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o lucro líquido <EVENT eid="e3" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 22% no <TIMEX3 tid="t74" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">terceiro trimestre</TIMEX3>, refletindo a diminuição das despesas militares e a queda de <EVENT eid="e75" class="OCCURRENCE" stem="produção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">produção</EVENT> de veículos da GM.</s>
+
+<s>Entretanto, o resultado líquido do braço financeiro da GM, a General Motors Acceptance Corp., <EVENT eid="e8" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 3,1%.</s>
+<s>Em contrapartida, a Electronic Data Systems Corp., a subsidiária da GM de processamento de dados, <EVENT eid="e10" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentou</EVENT> o resultado líquido em 16%.</s>
+
+<s>A GM <EVENT eid="e11" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> com menos 1,875 dólares nos <EVENT eid="e78" class="STATE" stem="44,875" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">44,875</EVENT> dólares nas <EVENT eid="e79" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> da Bolsa de Valores de Nova Iorque <TIMEX3 tid="t80" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">ontem</TIMEX3>.</s>
+<s>Os <EVENT eid="e82" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> das ações ordinárias da GM, refletindo o desempenho dos <EVENT eid="e14" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócios</EVENT> principais de automóveis da GM, serão <EVENT eid="e15" class="I_ACTION" stem="divulgar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">divulgados</EVENT> <TIMEX3 tid="t81" type="TIME" value="1989-10-26TMO" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">hoje de manhã</TIMEX3>.</s>
+<s>As ações GM classe H, que representam um juro em dividendos nas receitas da Hughes, <EVENT eid="e17" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos <EVENT eid="e83" class="STATE" stem="29" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">29</EVENT> dólares, subindo 25 cêntimos na Bolsa de Nova Iorque.</s>
+<s>As GM Classe E, que representam um juro em dividendos no lucro da EDS, <EVENT eid="e19" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 75 cêntimos para os <EVENT eid="e86" class="STATE" stem="52,25" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">52,25</EVENT> dólares na Bolsa de Nova Iorque.</s>
+
+<s>A <EVENT eid="e20" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> de lucros da GM Hughes Electronics é um sinal de tempos difíceis, tanto nos negócios de defesa da Hughes Aircraft Co. como nos negócios automóveis da GM na América do Norte, que são um cliente primário da parte Delco Electronics Corp. da unidade da GM Hughes.</s>
+
+<s>O lucro na unidade <EVENT eid="e24" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> para os <EVENT eid="e393" class="STATE" stem="110,6" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">110,6</EVENT> milhões de dólares, ou 37 cêntimos por ação, desde os <EVENT eid="e394" class="STATE" stem="142,4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">142,4 milhões</EVENT> de dólares, ou 45 cêntimos por ação, principalmente por causa de um <EVENT eid="e91" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargo</EVENT> excecional de 24 milhões de dólares associado ao <EVENT eid="e93" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> da Hughes <EVENT eid="e26" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">anunciado</EVENT> anteriormente para <EVENT eid="e28" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reduzir</EVENT> os postos de trabalho em pelo menos 6.000 pessoas até ao <TIMEX3 tid="t96" type="DATE" value="1989" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">fim do ano</TIMEX3>.</s>
+<s>Porém, mesmo excluindo o encargo, o resultado líquido <EVENT eid="e32" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 5%.</s>
+
+<s>Além disso, a produção de veículos norte-americana da GM <EVENT eid="e35" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 8,4% desde <TIMEX3 tid="t97" type="DATE" value="1988-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">há um ano</TIMEX3>, o que <EVENT eid="e36" class="OCCURRENCE" stem="prejudicar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prejudicou</EVENT> os lucros da Delco Electronics, <EVENT eid="e37" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um porta-voz da companhia.</s>
+<s>Essa <EVENT eid="e99" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> refletiu-se na receita da unidade da GM Hughes, que <EVENT eid="e39" class="OCCURRENCE" stem="recuar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recuou</EVENT> para os <EVENT eid="e395" class="STATE" stem="2,58" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,58</EVENT> mil milhões de dólares desde os <EVENT eid="e396" class="STATE" stem="2,63" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,63</EVENT> mil milhões de dólares.</s>
+
+<s>Nos <TIMEX3 tid="t105" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">nove meses</TIMEX3>, o resultado líquido da GM Hughes <EVENT eid="e40" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 6,6% para os <EVENT eid="e397" class="STATE" stem="486,6" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">486,6</EVENT> milhões de dólares, ou 1,48 dólares por ação, desde os <EVENT eid="e398" class="STATE" stem="521" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">521</EVENT> milhões de dólares, ou 1,58 dólares por ação.</s>
+<s>A receita <EVENT eid="e41" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 3,5%, para os <EVENT eid="e399" class="STATE" stem="8,47" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">8,47</EVENT> mil milhões de dólares desde os <EVENT eid="e400" class="STATE" stem="8,18" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">8,18</EVENT> mil milhões de dólares.</s>
+
+<s>Na GMAC, o resultado líquido <EVENT eid="e42" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 3,1% para os <EVENT eid="e401" class="STATE" stem="234,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">234,5</EVENT> milhões de dólares desde os <EVENT eid="e402" class="STATE" stem="241,9" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">241,9</EVENT> milhões de dólares.</s>
+<s>A unidade financeira <EVENT eid="e43" class="I_ACTION" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> a <EVENT eid="e118" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> ao <EVENT eid="e403" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> dos custos dos empréstimos em comparação com <TIMEX3 tid="t120" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">o ano anterior</TIMEX3>.</s>
+<s>A GMAC <EVENT eid="e45" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o negócio de financiamento e leasing automóvel <EVENT eid="e48" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> 35% nos E.U.A., em grande parte por causa dos incentivos aos comerciantes e clientes <EVENT eid="e49" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">utilizados</EVENT> para <EVENT eid="e51" class="OCCURRENCE" stem="estimular" aspect="NONE" tense="INF" polarity="POS" pos="VERB">estimular</EVENT> as vendas.</s>
+<s>Os lucros da GMAC são combinados com os ganhos do resto dos negócios da GM e atribuídos às ações ordinárias tradicionais da empresa.</s>
+
+<s>Nos <TIMEX3 tid="t126" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">primeiros nove meses</TIMEX3>, os lucros da GMAC <EVENT eid="e57" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 8%, para os <EVENT eid="e404" class="STATE" stem="859,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">859,5</EVENT> milhões de dólares desde os <EVENT eid="e405" class="STATE" stem="930,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">930,2</EVENT> milhões de dólares.</s>
+
+<s>Na EDS, o lucro do <TIMEX3 tid="t129" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t73">terceiro trimestre</TIMEX3> <EVENT eid="e58" class="OCCURRENCE" stem="saltar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">saltou</EVENT> 16% para um recorde de <EVENT eid="e406" class="STATE" stem="110,9" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">110,9</EVENT> milhões de dólares, ou 93 cêntimos por ação, desde os <EVENT eid="e407" class="STATE" stem="95,9" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">95,9</EVENT> milhões de dólares, ou 79 cêntimos por ação.</s>
+<s>A receita <EVENT eid="e60" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 12%, para os <EVENT eid="e408" class="STATE" stem="1,37" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">1,37</EVENT> mil milhões de dólares desde os <EVENT eid="e409" class="STATE" stem="1,22" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">1,22</EVENT> mil milhões de dólares.</s>
+
+<s>Nos <TIMEX3 tid="t144" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">nove meses</TIMEX3>, a EDS <EVENT eid="e61" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fez</EVENT> 315,8 milhões de dólares, ou 2,62 dólares por ação, subindo 13% dos <EVENT eid="e410" class="STATE" stem="280,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">280,7</EVENT> milhões de dólares, ou 2,30 dólares por ação.</s>
+<s>A receita <EVENT eid="e62" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 14%, para os <EVENT eid="e411" class="STATE" stem="4,03" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">4,03 mil</EVENT> milhões de dólares desde os <EVENT eid="e412" class="STATE" stem="3,54" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">3,54</EVENT> mil milhões de dólares.</s>
+<s>A receita das contas não GM foi <EVENT eid="e413" class="STATE" stem="45%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">45%</EVENT> do total dos negócios da EDS nos <TIMEX3 tid="t151" type="DURATION" value="P9M" temporalFunction="true" functionInDocument="NONE" endPoint="t73">últimos nove meses</TIMEX3>, em comparação com <EVENT eid="e150" class="STATE" stem="40%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">40%</EVENT> <TIMEX3 tid="t152" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE">um ano antes</TIMEX3>.</s>
+<s>A companhia <EVENT eid="e67" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e68" class="I_STATE" stem="pretender" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pretende</EVENT> <EVENT eid="e70" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> a receita não GM para pelo menos <EVENT eid="e414" class="STATE" stem="50%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">50%</EVENT> do seu volume total de negócios até ao <TIMEX3 tid="t155" type="DATE" value="1990" mod="END" temporalFunction="false" functionInDocument="NONE">fim de 1990</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t74" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e3" relatedToTime="t74" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e79" relatedToTime="t80" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e11" relatedToTime="t80" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e93" relatedToTime="t96" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e91" relatedToTime="t96" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e24" relatedToTime="t96" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e37" relatedToTime="t97" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e35" relatedToTime="t97" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e40" relatedToTime="t105" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e118" relatedToTime="t120" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e57" relatedToTime="t126" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e61" relatedToTime="t144" task="A"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e68" relatedToTime="t155" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e70" relatedToTime="t155" task="A"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e67" relatedToTime="t155" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e2" relatedToTime="t73" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e3" relatedToTime="t73" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e8" relatedToTime="t73" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e10" relatedToTime="t73" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e79" relatedToTime="t73" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e11" relatedToTime="t73" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e17" relatedToTime="t73" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e19" relatedToTime="t73" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e20" relatedToTime="t73" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e93" relatedToTime="t73" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e91" relatedToTime="t73" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e24" relatedToTime="t73" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e32" relatedToTime="t73" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e37" relatedToTime="t73" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e35" relatedToTime="t73" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e99" relatedToTime="t73" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e40" relatedToTime="t73" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e41" relatedToTime="t73" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e42" relatedToTime="t73" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e118" relatedToTime="t73" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e51" relatedToTime="t73" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e49" relatedToTime="t73" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e48" relatedToTime="t73" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e45" relatedToTime="t73" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e57" relatedToTime="t73" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e60" relatedToTime="t73" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e61" relatedToTime="t73" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e62" relatedToTime="t73" task="B"/>
+<TLINK lid="l45" relType="OVERLAP" eventID="e68" relatedToTime="t73" task="B"/>
+<TLINK lid="l46" relType="AFTER" eventID="e70" relatedToTime="t73" task="B"/>
+<TLINK lid="l47" relType="BEFORE" eventID="e67" relatedToTime="t73" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e58" eventID="e57" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e37" eventID="e32" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e61" eventID="e60" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e17" eventID="e15" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e62" eventID="e61" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e60" eventID="e58" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP-OR-AFTER" relatedToEvent="e19" eventID="e17" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e42" eventID="e41" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e41" eventID="e40" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e40" eventID="e99" task="C"/>
+<TLINK lid="l12c" relType="BEFORE" relatedToEvent="e43" eventID="e42" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e15" eventID="e11" task="C"/>
+<TLINK lid="l14c" relType="AFTER" relatedToEvent="e99" eventID="e37" task="C"/>
+<TLINK lid="l15c" relType="AFTER" relatedToEvent="e8" eventID="e2" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e413" eventID="e62" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e20" eventID="e19" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e45" eventID="e43" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e32" eventID="e24" task="C"/>
+<TLINK lid="l20c" relType="BEFORE" relatedToEvent="e11" eventID="e10" task="C"/>
+<TLINK lid="l21c" relType="OVERLAP" relatedToEvent="e24" eventID="e20" task="C"/>
+<TLINK lid="l22c" relType="VAGUE" relatedToEvent="e67" eventID="e413" task="C"/>
+</TempEval>

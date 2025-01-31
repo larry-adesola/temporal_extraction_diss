@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891027-0127
+= 891027
+891027-0127.
+Fundos de Investimento:
+@ Investidores Removem Milhares de Milhão De Fundos Especulativos
+@ ----
+@ Por Michael Siconolfi
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t173" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+TROW
+MUTUAL AND MONEY-MARKET FUNDS (FND)
+BOND MARKET NEWS (BON)
+NEW YORK
+
+
+<s>Os dólares de milhares de milhões de investidores estão a <EVENT eid="e2" class="OCCURRENCE" stem="derramar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">derramar</EVENT>-se dos fundos de investimento em obrigações especulativas do país, <EVENT eid="e3" class="OCCURRENCE" stem="comprometer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">comprometendo</EVENT> um dos pilares de apoio do mercado especulativo já de si cambaleante.</s>
+
+<s>Só na <TIMEX3 tid="t174" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">semana passada</TIMEX3>, um montante espetacular de 1,6 mil milhões de dólares dólares <EVENT eid="e7" class="OCCURRENCE" stem="sair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">saiu</EVENT> dos fundos especulativos, ou quase 5% dos seus ativos totais, <EVENT eid="e167" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">de acordo com</EVENT> estimativas da Dalbar Financial Services Inc., uma empresa de pesquisa de Boston.</s>
+
+<s>Nos <TIMEX3 tid="t175" type="DURATION" value="P2M" temporalFunction="true" functionInDocument="NONE" endPoint="t173">últimos dois meses</TIMEX3>, os 88 fundos especulativos do país <EVENT eid="e9" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perderam</EVENT> um total de cerca de 6 mil milhões de dólares - mais de 15% dos ativos - através de <EVENT eid="e168" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> ou <EVENT eid="e169" class="OCCURRENCE" stem="transferência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transferências</EVENT> de participações em fundos especulativos, <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz a Dalbar</EVENT>.</s>
+<s>Fez as estimativas baseando-se em dados coligidos a partir de mais de uma dúzia de grandes fundos especulativos.</s>
+
+<s><EVENT eid="e16" class="OCCURRENCE" stem="entrevista" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">Entrevistas</EVENT> com os três grandes grupos de fundos - a Fidelity Investments, o Vanguard Group Inc. e a T. Rowe Price Associates Inc. - <EVENT eid="e17" class="REPORTING" stem="confirmar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">confirmam</EVENT> a <EVENT eid="e170" class="OCCURRENCE" stem="tendência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tendência</EVENT>.</s>
+<s>Os seus fundos especulativos em conjunto <EVENT eid="e19" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tiveram</EVENT> saídas líquidas no valor total de quase 500 milhões de dólares, ou cerca de 13% dos seus ativos em fundos especulativos, nos <TIMEX3 tid="t176" type="DURATION" value="P2M" temporalFunction="true" functionInDocument="NONE" endPoint="t173">últimos dois meses</TIMEX3>.</s>
+
+<s>Alguns gestores de fundos <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que a publicidade negativa tem <EVENT eid="e24" class="OCCURRENCE" stem="agravar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">agravado</EVENT> a preocupação dos investidores sobre as <TIMEX3 tid="t185" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">recentes</TIMEX3> <EVENT eid="e179" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">quedas</EVENT> dos preços das obrigações especulativas.</s>
+<s>"As pessoas têm andado a ver título de jornal após título de jornal após título de jornal e a dizer: 'Já não aguento mais - vou desistir'", <EVENT eid="e37" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Kurt Brouwer da Brouwer &amp; Janachowski, um consultor de investimentos de São Francisco.</s>
+
+<s>Os <EVENT eid="e38" class="OCCURRENCE" stem="levantamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">levantamentos</EVENT> podem <EVENT eid="e39" class="STATE" stem="indicar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">indicar</EVENT> <EVENT eid="e41" class="STATE" stem="problema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">problemas</EVENT> no mercado especulativo de 200 mil milhões de dólares.</s>
+<s>Se as <EVENT eid="e43" class="OCCURRENCE" stem="saída" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">saídas</EVENT> pesadas <EVENT eid="e44" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">continuarem</EVENT>, os gestores de fundos irão <EVENT eid="e46" class="I_ACTION" stem="enfrentar" aspect="NONE" tense="IR-FI+INF" polarity="POS" pos="VERB">enfrentar</EVENT> uma crescente <EVENT eid="e180" class="STATE" stem="pressão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pressão</EVENT> para <EVENT eid="e49" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> algumas das suas obrigações especulativas para <EVENT eid="e51" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> aos investidores em fuga nas <TIMEX3 tid="t186" type="DURATION" value="PXW" temporalFunction="true" functionInDocument="NONE" beginPoint="t173">próximas semanas</TIMEX3>.</s>
+<s>Essa <EVENT eid="e53" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> pode <EVENT eid="e54" class="OCCURRENCE" stem="corroer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">corroer</EVENT> os preços das obrigações especulativas de alto rendimento, já <EVENT eid="e57" class="OCCURRENCE" stem="enfraquecer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">enfraquecidas</EVENT> por uma <EVENT eid="e182" class="OCCURRENCE" stem="sucessão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sucessão</EVENT> de problemas no crédito às empresas.</s>
+
+<s>Os grupos de fundos de investimento não <EVENT eid="e58" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">perderam</EVENT> o controlo de grande parte do dinheiro que saiu, <EVENT eid="e61" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Louis Harvey, presidente da Dalbar.</s>
+<s>Os funcionários dos fundos de investimento <EVENT eid="e62" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que os investidores <EVENT eid="e63" class="OCCURRENCE" stem="transferir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">transferiram</EVENT> a maior parte dele para contas suas no mercado monetário e, em menor medida, para fundos de obrigações do governo.</s>
+<s>Assim, o <EVENT eid="e66" class="OCCURRENCE" stem="impacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">impacto</EVENT> sobre a indústria de fundos de investimento de 950 mil milhões de dólares na globalidade provavelmente será leve.</s>
+
+<s>Mas são prováveis tremores no mercado de obrigações especulativas, que <EVENT eid="e70" class="OCCURRENCE" stem="ajudar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ajudou</EVENT> a <EVENT eid="e72" class="I_ACTION" stem="financiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">financiar</EVENT> a <EVENT eid="e73" class="OCCURRENCE" stem="explosão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">explosão</EVENT> de OPAs dos <TIMEX3 tid="t196" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">últimos anos</TIMEX3>.</s>
+<s>Os fundos de investimento estão entre os maiores detentores de obrigações especulativas, sendo responsáveis por mais de um quarto de todo o mercado de alto rendimento e alto risco.</s>
+<s>Os 88 fundos de investimento que investem exclusivamente em obrigações especulativas detêm ativos de cerca de 32 mil milhões de dólares.</s>
+<s>Outros fundos detêm também um punhado de obrigações especulativas.</s>
+
+<s>Os 1,5 mil milhões de dólares do Fidelity High Income Fund tiveram uma <EVENT eid="e82" class="OCCURRENCE" stem="saída" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">saída</EVENT> líquida de 150 milhões de dólares nos <TIMEX3 tid="t198" type="DURATION" value="P2M" mod="BEFORE" temporalFunction="true" functionInDocument="NONE" endPoint="t173">últimos dois meses</TIMEX3>.</s>
+<s>Cerca de 60 milhões de dólares <EVENT eid="e83" class="OCCURRENCE" stem="fluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fluíram</EVENT> para fora apenas na <TIMEX3 tid="t199" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">última semana</TIMEX3>, o <EVENT eid="e188" class="STATE" stem="dobro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dobro</EVENT> do <EVENT eid="e190" class="STATE" stem="nível" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nível</EVENT> da <TIMEX3 tid="t201" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t200">semana seguinte</TIMEX3>, no seguimento do <EVENT eid="e189" class="OCCURRENCE" stem="aperto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aperto</EVENT> de crédito da Campeau Corp. no <TIMEX3 tid="t200" type="DATE" value="1989-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">mês passado</TIMEX3>.</s>
+<s>Cerca de 98% do dinheiro que saiu foi <EVENT eid="e86" class="OCCURRENCE" stem="transferir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">transferido</EVENT> para outros fundos da Fidelity, <EVENT eid="e87" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Neal Litvack, um vice-presidente do departamento de marketing da Fidelity, com a maioria <EVENT eid="e89" class="OCCURRENCE" stem="ir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">indo</EVENT> para os fundos do mercado monetário.</s>
+
+<s>"Você recebe uma notícia, ela atua, você tem resgates fortes naquele dia e nos dois dias seguintes - em seguida, volta ao normal", <EVENT eid="e96" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Litvack.</s>
+<s>O fundo, com um numerário de mais de 10%, tem "<EVENT eid="e98" class="OCCURRENCE" stem="cumprir" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">cumprido</EVENT> todos os <EVENT eid="e2524" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgates</EVENT> sem ter de <EVENT eid="e102" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">vender</EVENT> nada", <EVENT eid="e104" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Litvack.</s>
+<s><EVENT eid="e105" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Acrescenta</EVENT>: "O nosso fundo tem tido <EVENT eid="e195" class="STATE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receitas</EVENT> líquidas (positivas) <TIMEX3 tid="t2332" type="SET" value="P1M" temporalFunction="false" functionInDocument="NONE" quant="EVERY">todos os meses</TIMEX3> durante <TIMEX3 tid="t204" type="DURATION" value="P3Y" temporalFunction="true" functionInDocument="NONE">os últimos três anos</TIMEX3> - até <TIMEX3 tid="t205" type="DATE" value="1989-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">este mês</TIMEX3>".</s>
+
+<s>O High Yield Bond Portfolio de mil milhões de dólares da Vanguard <EVENT eid="e109" class="PERCEPTION" stem="ver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">viu</EVENT> 161 milhões de dólares <EVENT eid="e110" class="OCCURRENCE" stem="sair" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">saírem</EVENT> desde <TIMEX3 tid="t206" type="DATE" value="1989-09" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">o início de setembro</TIMEX3>; desses, 14 milhões de dólares <EVENT eid="e208" class="OCCURRENCE" stem="escoar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">escoaram</EVENT> só na <TIMEX3 tid="t210" type="DATE" value="1989-10-13" temporalFunction="true" functionInDocument="NONE">sexta-feira, 13 de outubro</TIMEX3>.</s>
+<s>Ainda assim, dois terços da <EVENT eid="e2371" class="OCCURRENCE" stem="saída" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">saída</EVENT> foram <EVENT eid="e112" class="OCCURRENCE" stem="dirigir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">dirigidos</EVENT> para outras carteiras da Vanguard, <EVENT eid="e113" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Brian Mattes, vice-presidente.</s>
+<s>O fundo <EVENT eid="e116" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> <TIMEX3 tid="t211" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">agora</TIMEX3> um numerário de cerca de 15%.</s>
+
+<s>No T. Rowe Price High Yield Fund de 932 milhões de dólares, os investidores <EVENT eid="e117" class="OCCURRENCE" stem="levantar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">levantaram</EVENT> cerca de 182 milhões de dólares nos <TIMEX3 tid="t213" type="DURATION" value="P2M" temporalFunction="true" functionInDocument="NONE" endPoint="t173">últimos dois meses</TIMEX3>.</s>
+<s>Esses <EVENT eid="e118" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgates</EVENT>, a maioria dos quais foi <EVENT eid="e119" class="OCCURRENCE" stem="transferir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">transferida</EVENT> para outros fundos da T. Rowe Price, seguiram-se a poucas <EVENT eid="e121" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudanças</EVENT> nas vendas do fundo neste <TIMEX3 tid="t214" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">ano</TIMEX3>, até <TIMEX3 tid="t216" type="DATE" value="1989-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">agosto</TIMEX3>.</s>
+<s>"Todo o <EVENT eid="e124" class="OCCURRENCE" stem="espetáculo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">espetáculo</EVENT> aconteceu nos <TIMEX3 tid="t217" type="DURATION" value="P2M" temporalFunction="true" functionInDocument="NONE" endPoint="t173">últimos dois meses</TIMEX3>", <EVENT eid="e125" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Steven Norwitz, um vice-presidente.</s>
+
+<s>Os titulares de fundos especulativos mal <EVENT eid="e127" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fizeram</EVENT> lucro <TIMEX3 tid="t1997" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">este ano</TIMEX3>, já que os pagamentos de juros altos mal <EVENT eid="e129" class="OCCURRENCE" stem="conseguir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">conseguiram</EVENT> compensar o declínio dos preços.</s>
+<s>Até de <TIMEX3 tid="t1998" type="DATE" value="1989-10-19" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">19 de outubro</TIMEX3>, os fundos de alto rendimento <EVENT eid="e1992" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tiveram</EVENT> uma média de 0,85% de retorno total (a alteração dos preços acrescida dos dividendos dos fundos de ações), <EVENT eid="e1993" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">de acordo com</EVENT> a Lipper Analytical Services Inc.</s>
+<s>Isso é ainda inferior aos 4,35% de retorno total do Merrill Lynch High-Yield Index.</s>
+
+<s>O fundo especulativo da Fidelity <EVENT eid="e133" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 2,08% neste <TIMEX3 tid="t2000" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">ano</TIMEX3> até <TIMEX3 tid="t2001" type="DATE" value="1989-10-19" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">19 de outubro</TIMEX3>, <EVENT eid="e134" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Lipper; o fundo da Vanguard <EVENT eid="e135" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 1,84%; e o fundo da T. Rowe Price <EVENT eid="e137" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 0,66%.</s>
+
+<s>As pessoas que <TIMEX3 tid="t2003" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE">ainda</TIMEX3> <EVENT eid="e138" class="STATE" stem="permanecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permanecem</EVENT> em fundos especulativos podem ser <EVENT eid="e142" class="STATE" stem="atingir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atingidas</EVENT> de novo, <EVENT eid="e143" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> alguns analistas e especialistas de fundos.</s>
+<s>Muitos fundos nas <TIMEX3 tid="t2004" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t173">últimas semanas e meses</TIMEX3> têm estado a <EVENT eid="e144" class="OCCURRENCE" stem="vender" aspect="PROGRESSIVE" tense="PPIC" polarity="POS" pos="VERB">vender</EVENT> as suas emissões de obrigações especulativas de maior qualidade, tais como a RJR Nabisco, para <EVENT eid="e146" class="OCCURRENCE" stem="obter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">obter</EVENT> <EVENT eid="e2523" class="STATE" stem="financiamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">financiamento</EVENT> para <EVENT eid="e149" class="OCCURRENCE" stem="satisfazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">satisfazer</EVENT> os <EVENT eid="e150" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgates</EVENT> <EVENT eid="e1994" class="I_STATE" stem="esperar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">esperados</EVENT>.</s>
+
+<s>Os fundos podem ser <EVENT eid="e152" class="I_ACTION" stem="forçar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">forçados</EVENT> a <EVENT eid="e155" class="I_ACTION" stem="aceitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aceitar</EVENT> <EVENT eid="e1995" class="STATE" stem="preço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preços</EVENT> mais baixos se <EVENT eid="e157" class="I_ACTION" stem="expandir" aspect="NONE" tense="FC" polarity="POS" pos="VERB">expandirem</EVENT> as <EVENT eid="e1996" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> aos valores de devedores menos dignos de crédito.</s>
+<s>E então, os valores dos ativos dos fundos podem <EVENT eid="e160" class="OCCURRENCE" stem="mergulhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">mergulhar</EVENT> mais do que até agora.</s>
+
+<s>Diz Michael Hirsch, diretor de investimentos do Republic National Bank e gerente do FundTrust Group em Nova Iorque: "É uma bomba-relógio à espera de rebentar".</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e167" relatedToTime="t174" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e168" relatedToTime="t175" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e11" relatedToTime="t175" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e179" relatedToTime="t185" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e22" relatedToTime="t185" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e44" relatedToTime="t186" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e51" relatedToTime="t186" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e49" relatedToTime="t186" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e70" relatedToTime="t196" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e195" relatedToTime="t205" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e195" relatedToTime="t2332" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e195" relatedToTime="t204" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e105" relatedToTime="t205" task="A"/>
+<TLINK lid="l14" relType="AFTER" eventID="e105" relatedToTime="t2332" task="A"/>
+<TLINK lid="l15" relType="AFTER" eventID="e105" relatedToTime="t204" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e109" relatedToTime="t210" task="A"/>
+<TLINK lid="l17" relType="OVERLAP-OR-AFTER" eventID="e109" relatedToTime="t206" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e116" relatedToTime="t211" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e121" relatedToTime="t214" task="A"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e121" relatedToTime="t216" task="A"/>
+<TLINK lid="l21" relType="AFTER" eventID="e125" relatedToTime="t217" task="A"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e1992" relatedToTime="t1998" task="A"/>
+<TLINK lid="l23" relType="AFTER" eventID="e1993" relatedToTime="t1998" task="A"/>
+<TLINK lid="l24" relType="BEFORE-OR-OVERLAP" eventID="e135" relatedToTime="t2001" task="A"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e135" relatedToTime="t2000" task="A"/>
+<TLINK lid="l26" relType="BEFORE-OR-OVERLAP" eventID="e133" relatedToTime="t2001" task="A"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e133" relatedToTime="t2000" task="A"/>
+<TLINK lid="l28" relType="AFTER" eventID="e134" relatedToTime="t2001" task="A"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e134" relatedToTime="t2000" task="A"/>
+<TLINK lid="l30" relType="OVERLAP" eventID="e138" relatedToTime="t2003" task="A"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e143" relatedToTime="t2003" task="A"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e1994" relatedToTime="t2004" task="A"/>
+<TLINK lid="l33" relType="OVERLAP" eventID="e144" relatedToTime="t2004" task="A"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e167" relatedToTime="t173" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e168" relatedToTime="t173" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e11" relatedToTime="t173" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e179" relatedToTime="t173" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e22" relatedToTime="t173" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e37" relatedToTime="t173" task="B"/>
+<TLINK lid="l40" relType="AFTER" eventID="e44" relatedToTime="t173" task="B"/>
+<TLINK lid="l41" relType="AFTER" eventID="e51" relatedToTime="t173" task="B"/>
+<TLINK lid="l42" relType="AFTER" eventID="e49" relatedToTime="t173" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e61" relatedToTime="t173" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e62" relatedToTime="t173" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e70" relatedToTime="t173" task="B"/>
+<TLINK lid="l46" relType="BEFORE-OR-OVERLAP" eventID="e89" relatedToTime="t173" task="B"/>
+<TLINK lid="l47" relType="BEFORE" eventID="e87" relatedToTime="t173" task="B"/>
+<TLINK lid="l48" relType="BEFORE" eventID="e96" relatedToTime="t173" task="B"/>
+<TLINK lid="l49" relType="BEFORE" eventID="e102" relatedToTime="t173" task="B"/>
+<TLINK lid="l50" relType="BEFORE" eventID="e104" relatedToTime="t173" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e195" relatedToTime="t173" task="B"/>
+<TLINK lid="l52" relType="BEFORE" eventID="e105" relatedToTime="t173" task="B"/>
+<TLINK lid="l53" relType="BEFORE" eventID="e109" relatedToTime="t173" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e113" relatedToTime="t173" task="B"/>
+<TLINK lid="l55" relType="OVERLAP" eventID="e116" relatedToTime="t173" task="B"/>
+<TLINK lid="l56" relType="BEFORE" eventID="e121" relatedToTime="t173" task="B"/>
+<TLINK lid="l57" relType="BEFORE" eventID="e125" relatedToTime="t173" task="B"/>
+<TLINK lid="l58" relType="BEFORE" eventID="e1992" relatedToTime="t173" task="B"/>
+<TLINK lid="l59" relType="BEFORE" eventID="e1993" relatedToTime="t173" task="B"/>
+<TLINK lid="l60" relType="BEFORE" eventID="e135" relatedToTime="t173" task="B"/>
+<TLINK lid="l61" relType="BEFORE" eventID="e133" relatedToTime="t173" task="B"/>
+<TLINK lid="l62" relType="BEFORE" eventID="e134" relatedToTime="t173" task="B"/>
+<TLINK lid="l63" relType="OVERLAP" eventID="e138" relatedToTime="t173" task="B"/>
+<TLINK lid="l64" relType="BEFORE" eventID="e143" relatedToTime="t173" task="B"/>
+<TLINK lid="l65" relType="BEFORE-OR-OVERLAP" eventID="e1994" relatedToTime="t173" task="B"/>
+<TLINK lid="l66" relType="BEFORE-OR-OVERLAP" eventID="e144" relatedToTime="t173" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e134" eventID="e1992" task="C"/>
+<TLINK lid="l2c" relType="VAGUE" relatedToEvent="e143" eventID="e134" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e96" eventID="e87" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e46" eventID="e39" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e66" eventID="e62" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e62" eventID="e61" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e19" eventID="e17" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e70" eventID="e66" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e37" eventID="e22" task="C"/>
+<TLINK lid="l10c" relType="VAGUE" relatedToEvent="e160" eventID="e152" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e22" eventID="e19" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e7" eventID="e2" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e39" eventID="e37" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e104" eventID="e96" task="C"/>
+<TLINK lid="l15c" relType="AFTER" relatedToEvent="e1992" eventID="e127" task="C"/>
+<TLINK lid="l16c" relType="AFTER" relatedToEvent="e117" eventID="e116" task="C"/>
+<TLINK lid="l17c" relType="AFTER" relatedToEvent="e127" eventID="e125" task="C"/>
+<TLINK lid="l18c" relType="BEFORE" relatedToEvent="e125" eventID="e118" task="C"/>
+<TLINK lid="l19c" relType="AFTER" relatedToEvent="e109" eventID="e105" task="C"/>
+<TLINK lid="l20c" relType="BEFORE" relatedToEvent="e54" eventID="e46" task="C"/>
+<TLINK lid="l21c" relType="BEFORE" relatedToEvent="e152" eventID="e144" task="C"/>
+<TLINK lid="l22c" relType="OVERLAP" relatedToEvent="e116" eventID="e113" task="C"/>
+<TLINK lid="l23c" relType="AFTER" relatedToEvent="e61" eventID="e54" task="C"/>
+<TLINK lid="l24c" relType="OVERLAP" relatedToEvent="e83" eventID="e82" task="C"/>
+<TLINK lid="l25c" relType="BEFORE" relatedToEvent="e11" eventID="e7" task="C"/>
+<TLINK lid="l26c" relType="OVERLAP" relatedToEvent="e118" eventID="e117" task="C"/>
+<TLINK lid="l27c" relType="BEFORE" relatedToEvent="e113" eventID="e109" task="C"/>
+<TLINK lid="l28c" relType="BEFORE" relatedToEvent="e105" eventID="e104" task="C"/>
+<TLINK lid="l29c" relType="OVERLAP-OR-AFTER" relatedToEvent="e144" eventID="e143" task="C"/>
+<TLINK lid="l30c" relType="BEFORE" relatedToEvent="e87" eventID="e83" task="C"/>
+</TempEval>

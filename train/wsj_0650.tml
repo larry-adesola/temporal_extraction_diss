@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891030-0048
+= 891030
+891030-0048.
+Obrigações da Sun Microsystems
+<TIMEX3 tid="t18" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">    10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+SUNW
+BOND MARKET NEWS (BON)
+MOUNTAIN VIEW, Calif.
+
+
+<s>A Sun Microsystems Inc., uma fabricante de computadores, <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> a <EVENT eid="e13" class="STATE" stem="eficácia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eficácia</EVENT> da sua declaração de registo por 125 milhões de dólares dos 6,375%  de obrigações convertíveis a <EVENT eid="e12" class="OCCURRENCE" stem="vencer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vencer</EVENT> a <TIMEX3 tid="t14" type="DATE" value="1999-10-15" temporalFunction="false" functionInDocument="NONE">15 de outubro de 1999</TIMEX3>.</s>
+
+<s>A empresa <EVENT eid="e3" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as obrigações estão a ser <EVENT eid="e5" class="OCCURRENCE" stem="emitir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">emitidas</EVENT> a um preço de emissão de 849 dólares por cada 1.000 dólares da quantia emprestada e são <EVENT eid="e17" class="STATE" stem="convertível" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">convertíveis</EVENT> em qualquer momento antes do <EVENT eid="e16" class="OCCURRENCE" stem="vencimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vencimento</EVENT> a um preço de conversão de 25 dólares por ação.</s>
+
+<s>As obrigações estão disponíveis através da Goldman, Sachs &amp; Co.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1" relatedToTime="t14" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t18" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e3" relatedToTime="t18" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e3" eventID="e1" task="C"/>
+</TempEval>

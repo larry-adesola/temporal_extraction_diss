@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TempEval>
+
+
+VOA<TIMEX3 tid="t2078" type="DATE" value="1998-03-03T23:00" temporalFunction="true" functionInDocument="CREATION_TIME">19980303</TIMEX3>.1600.0917
+REPORTAGEM
+
+<s>As forças de segurança da Nigéria entraram em <EVENT eid="e1" class="OCCURRENCE" stem="confronto" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">confronto</EVENT> em Lagos com manifestantes anti-governo que <EVENT eid="e2" class="OCCURRENCE" stem="protestar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">protestavam</EVENT> contra a solicitação de o líder militar, Sani Abacha, se <EVENT eid="e3" class="I_ACTION" stem="candidatar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">candidatar</EVENT> a presidente.</s>
+<s>Entretanto, como <EVENT eid="e2104" class="REPORTING" stem="relatar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">relata</EVENT> o correspondente da VOA na África Ocidental Purnell Murdock, os apoiantes do general Abacha <EVENT eid="e4" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começaram</EVENT> uma <EVENT eid="e2008" class="OCCURRENCE" stem="manifestação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">manifestação</EVENT> de <TIMEX3 tid="t25" type="DURATION" value="P2D" temporalFunction="false" functionInDocument="NONE">dois dias</TIMEX3> na capital, Abuja, para <EVENT eid="e6" class="OCCURRENCE" stem="exortar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">exortá</EVENT>-lo a <EVENT eid="e7" class="OCCURRENCE" stem="concorrer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">concorrer</EVENT> às eleições deste <TIMEX3 tid="t26" type="DATE" value="1998" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t2078">ano</TIMEX3>.</s>
+
+<s>A rádio estatal da Nigéria <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que milhares de pessoas se <EVENT eid="e9" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começaram</EVENT> a <EVENT eid="e10" class="OCCURRENCE" stem="reunir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reunir</EVENT> na capital Abuja <TIMEX3 tid="t2221" type="DATE" value="1998-03-03" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t2078">terça-feira de manhã</TIMEX3> para a <EVENT eid="e2079" class="OCCURRENCE" stem="manifestação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">manifestação</EVENT> de <TIMEX3 tid="t28" type="DURATION" value="P2D" temporalFunction="false" functionInDocument="NONE">dois dias</TIMEX3> com o intuito de <EVENT eid="e2109" class="I_ACTION" stem="apoiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apoiar</EVENT> a <EVENT eid="e2114" class="STATE" stem="candidatura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">candidatura</EVENT> do general Sani Abacha.</s>
+<s>Os organizadores <EVENT eid="e2120" class="REPORTING" stem="afirmar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">afirmam</EVENT> que <EVENT eid="e2123" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">esperam</EVENT> que <TIMEX3 tid="t29" type="DURATION" value="P2D" temporalFunction="false" functionInDocument="NONE">os dois dias</TIMEX3> de música, dança, e discursos <EVENT eid="e13" class="OCCURRENCE" stem="atrair" aspect="NONE" tense="PC" polarity="POS" pos="VERB">atraiam</EVENT> cerca de dois milhões de pessoas.</s>
+<s>Mas, enquanto os apoiantes do líder militar se <EVENT eid="e14" class="OCCURRENCE" stem="juntar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">juntavam</EVENT> no norte do país, a polícia <EVENT eid="e15" class="OCCURRENCE" stem="agir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">agiu</EVENT> na capital comercial do sul da Nigéria, Lagos, para <EVENT eid="e16" class="OCCURRENCE" stem="dispersar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dispersar</EVENT> uma <EVENT eid="e2058" class="OCCURRENCE" stem="manifestação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">manifestação</EVENT> de protesto <EVENT eid="e2176" class="OCCURRENCE" stem="convocar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">convocada</EVENT> pela oposição política.</s>
+<s>Embora o general Abacha não tenha <EVENT eid="e18" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPCC" polarity="NEG" pos="VERB">anunciado</EVENT> publicamente a sua <EVENT eid="e2181" class="STATE" stem="candidatura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">candidatura</EVENT>, muitas pessoas <EVENT eid="e2183" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acreditam</EVENT> que uma <EVENT eid="e2184" class="STATE" stem="presidência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">presidência</EVENT> de Abacha é uma conclusão precipitada.</s>
+<s>Alguns analistas <EVENT eid="e2185" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que o <EVENT eid="e2186" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultado</EVENT> de um <EVENT eid="e2187" class="OCCURRENCE" stem="confronto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">confronto</EVENT> entre a polícia e os grupos políticos anti-Abacha será um <EVENT eid="e2188" class="STATE" stem="teste" aspect="NONE" tense="FI" polarity="POS" pos="NOUN">teste</EVENT> à determinação da oposição.</s>
+<s>Purnell Murdock, VOA News.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e4" relatedToTime="t25" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e4" relatedToTime="t26" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e2104" relatedToTime="t25" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e2104" relatedToTime="t26" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e9" relatedToTime="t2221" task="A"/>
+<TLINK lid="l6" relType="BEFORE-OR-OVERLAP" eventID="e9" relatedToTime="t28" task="A"/>
+<TLINK lid="l7" relType="OVERLAP-OR-AFTER" eventID="e8" relatedToTime="t2221" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e8" relatedToTime="t28" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e2123" relatedToTime="t29" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e4" relatedToTime="t2078" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e2104" relatedToTime="t2078" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e9" relatedToTime="t2078" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e8" relatedToTime="t2078" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e2123" relatedToTime="t2078" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e2176" relatedToTime="t2078" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e2183" relatedToTime="t2078" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e18" relatedToTime="t2078" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e2185" relatedToTime="t2078" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e2185" eventID="e2183" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e15" eventID="e2120" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e8" eventID="e4" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e2120" eventID="e8" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e2183" eventID="e15" task="C"/>
+</TempEval>

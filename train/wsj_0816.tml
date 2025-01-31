@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0078
+= 891027
+891027-0078.
+Mercados de quinta-feira:
+@ Dados de Resultados
+@ Causam
+@ Queda das Ações
+@ ---
+@ Indústria Cai 39,55;
+@ Obrigações Deslizam, mas Dólar
+@ Sobe em Relação à Libra
+@ ----
+@ Por Douglas R. Sease
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t94" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MONETARY NEWS, FOREIGN EXCHANGE, TRADE (MON)
+STOCK INDEXES (NDX)
+STOCK MARKET, OFFERINGS (STK)
+FINANCIAL, ACCOUNTING, LEASING (FIN)
+BOND MARKET NEWS (BON)
+FOREIGN-EXCHANGE MARKETS (FRX)
+TREASURY DEPARTMENT (TRE)
+
+
+<s>Alguns relatórios sobre lucros péssimos <EVENT eid="e2" class="OCCURRENCE" stem="afligir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afligiram</EVENT> o mercado de ações, mas os preços das obrigações <EVENT eid="e89" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> apenas ligeiramente, e o dólar <EVENT eid="e6" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> um pouco em relação à maioria das principais moedas.</s>
+
+<s>O Dow Jones Industrial Average <EVENT eid="e8" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 39,55 pontos, para os <EVENT eid="e90" class="STATE" stem="2.613,73" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2.613,73</EVENT>, na transação de ativos.</s>
+<s>As obrigações do tesouro a longo prazo <EVENT eid="e11" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">terminaram</EVENT> um pouco mais acima.</s>
+<s>O dólar <EVENT eid="e13" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> modestamente em relação ao marco e ao iene, mas <EVENT eid="e15" class="OCCURRENCE" stem="disparar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disparou</EVENT> em relação à libra na sequência da <EVENT eid="e17" class="OCCURRENCE" stem="demissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">demissão</EVENT> do chanceler britânico das Finanças, Nigel Lawson.</s>
+
+<s>Os analistas <EVENT eid="e18" class="I_ACTION" stem="queixar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">queixaram</EVENT>-se de os resultados das empresas no <TIMEX3 tid="t176" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">terceiro trimestre</TIMEX3> não terem sido muito <EVENT eid="e135" class="STATE" stem="bom" aspect="NONE" tense="INFFC" polarity="NEG" pos="ADJECTIVE">bons</EVENT>, mas o efeito <EVENT eid="e20" class="OCCURRENCE" stem="sentir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sentiu</EVENT>-se de forma particularmente forte <TIMEX3 tid="t95" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">ontem</TIMEX3>.</s>
+<s>A Compaq Computer <EVENT eid="e21" class="OCCURRENCE" stem="descer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desceu</EVENT> a pique 8,625 dólares por ação, para os <EVENT eid="e96" class="STATE" stem="100" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">100</EVENT> dólares, e <EVENT eid="e22" class="OCCURRENCE" stem="puxar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">puxou</EVENT> as outras ações de tecnologia mais para baixo depois de <EVENT eid="e24" class="REPORTING" stem="apresentar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">apresentar</EVENT> <EVENT eid="e98" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> abaixo do esperado após o mercado acionário ter <EVENT eid="e27" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">fechado</EVENT> na <TIMEX3 tid="t99" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">quarta-feira</TIMEX3>.</s>
+<s><TIMEX3 tid="t100" type="TIME" value="1989-10-26" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">Mais tarde ontem</TIMEX3> os fabricantes principais de automóveis do país <EVENT eid="e28" class="OCCURRENCE" stem="contribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contribuíram</EVENT> para a melancolia quando <EVENT eid="e30" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciaram</EVENT> todos que os seus principais negócios automóveis <EVENT eid="e101" class="OCCURRENCE" stem="sofrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sofreram</EVENT> prejuízos líquidos no <TIMEX3 tid="t103" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">terceiro trimestre</TIMEX3>.</s>
+
+<s>Os <EVENT eid="e32" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> menos que robustos para <TIMEX3 tid="t104" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">o terceiro trimestre</TIMEX3> vieram no meio de <EVENT eid="e105" class="I_STATE" stem="preocupação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preocupações</EVENT> renovadas sobre a <EVENT eid="e106" class="STATE" stem="volatilidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">volatilidade</EVENT> dos preços das ações e o <EVENT eid="e34" class="STATE" stem="papel" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">papel</EVENT> do program trading, assistido por computador.</s>
+<s>Tomadas em conjunto, as <EVENT eid="e107" class="STATE" stem="preocupação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preocupações</EVENT> <EVENT eid="e37" class="OCCURRENCE" stem="provocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">provocaram</EVENT> uma <EVENT eid="e109" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> generalizada de ações.</s>
+<s>O número de ações na Bolsa de Valores de Nova Iorque cujo preço <EVENT eid="e38" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> <TIMEX3 tid="t110" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">ontem</TIMEX3> excedeu as 1.000, uma medida chave do sentimento subjacente entre os analistas técnicos.</s>
+
+<s>Embora o governo tenha <EVENT eid="e43" class="REPORTING" stem="dizer" aspect="NONE" tense="PPCC" polarity="POS" pos="VERB">dito</EVENT> que a economia <EVENT eid="e44" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> cerca de 2,5% no <TIMEX3 tid="t112" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">terceiro trimestre</TIMEX3>, de acordo com as <EVENT eid="e113" class="I_STATE" stem="expetativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">expetativas</EVENT>, os analistas estão cada vez mais a <EVENT eid="e47" class="I_ACTION" stem="prever" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">prever</EVENT> um <EVENT eid="e114" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> muito mais lento - e portanto mais <EVENT eid="e48" class="OCCURRENCE" stem="deceção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">deceções</EVENT> quanto aos lucros das empresas - para <TIMEX3 tid="t116" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">o quarto trimestre</TIMEX3>.</s>
+
+<s>"Há muito mais <EVENT eid="e49" class="OCCURRENCE" stem="revisão" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">revisões</EVENT> para baixo das <EVENT eid="e50" class="OCCURRENCE" stem="previsão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">previsões</EVENT> dos resultados do que <EVENT eid="e51" class="OCCURRENCE" stem="revisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">revisões</EVENT> para cima", <EVENT eid="e52" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Abby Joseph Cohen, estratega de mercado da Drexel Burnham Lambert.</s>
+<s>"As pessoas estão a <EVENT eid="e53" class="OCCURRENCE" stem="questionar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">questionar</EVENT> os lucros das empresas como um pilar de apoio do mercado de capitais".</s>
+
+<s>O mercado de obrigações não foi <EVENT eid="e117" class="OCCURRENCE" stem="abalar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">abalado</EVENT> pelas estatísticas económicas.</s>
+<s>Enquanto que os investidores em obrigações teriam <EVENT eid="e118" class="I_STATE" stem="preferir" aspect="NONE" tense="CC" polarity="POS" pos="VERB">preferido</EVENT> que o <EVENT eid="e119" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> fosse um pouco mais <EVENT eid="e134" class="STATE" stem="lento" aspect="NONE" tense="PIC" polarity="POS" pos="ADJECTIVE">lento</EVENT>, <EVENT eid="e60" class="OCCURRENCE" stem="regozijar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">regozijaram</EVENT>-se com as medidas de inflação nos dados que mostraram os preços a <EVENT eid="e63" class="OCCURRENCE" stem="subir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">subir</EVENT> a uma modesta taxa anual de 2,9%.</s>
+<s>Esse é outro pequeno <EVENT eid="e65" class="I_ACTION" stem="incentivo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">incentivo</EVENT> para a Reserva Federal <EVENT eid="e120" class="OCCURRENCE" stem="baixar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">baixar</EVENT> as taxas de juro nas <TIMEX3 tid="t121" type="DURATION" value="PXW" temporalFunction="true" functionInDocument="NONE" beginPoint="t94">próximas semanas</TIMEX3>, <EVENT eid="e68" class="I_ACTION" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluíram</EVENT> eles.</s>
+
+<s>Na <EVENT eid="e123" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividade</EVENT> de mercado principal:
+
+Os preços das ações <EVENT eid="e70" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> acentuadamente na transação de ativos.</s>
+
+<s>O volume na Bolsa de Valores de Nova Iorque <EVENT eid="e73" class="OCCURRENCE" stem="totalizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">totalizou</EVENT> 175,2 milhões de ações.</s>
+<s>As ações em queda na Bolsa de Nova Iorque <EVENT eid="e75" class="OCCURRENCE" stem="ultrapassar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ultrapassaram</EVENT> as que subiram em 1.141 para 406.</s>
+
+<s>Os preços das obrigações estiveram por pouco mais <EVENT eid="e124" class="STATE" stem="alto" aspect="NONE" tense="PPI" polarity="POS" pos="ADJECTIVE">altos</EVENT>.</s>
+<s>O benchmark das obrigações do tesouro a 30 anos <EVENT eid="e76" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> uma fração.</s>
+<s>O rendimento sobre as obrigações foi de 7,88%.</s>
+
+<s>O dólar <EVENT eid="e80" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> modestamente em relação às principais moedas.</s>
+<s>No final da atividade da Bolsa de Nova Iorque o dólar estava <EVENT eid="e136" class="STATE" stem="em" aspect="NONE" tense="PII" polarity="POS" pos="PREPOSITION">nos</EVENT> 1,8400 marcos e 142,10 ienes em comparação com os 1,8353 marcos e 141,52 ienes de <TIMEX3 tid="t130" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">quarta-feira</TIMEX3>.</s>
+<s>O dólar <EVENT eid="e85" class="OCCURRENCE" stem="disparar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disparou</EVENT> em relação à libra, que estava nos <EVENT eid="e132" class="STATE" stem="1,5765" aspect="NONE" tense="PII" polarity="POS" pos="OTHER">1,5765</EVENT> dólares em comparação com os <EVENT eid="e133" class="STATE" stem="1,6145" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">1,6145</EVENT> dólares de <TIMEX3 tid="t131" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">quarta-feira</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e27" relatedToTime="t99" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e30" relatedToTime="t103" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e30" relatedToTime="t100" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e28" relatedToTime="t103" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e28" relatedToTime="t100" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e32" relatedToTime="t104" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e38" relatedToTime="t110" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e43" relatedToTime="t116" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e43" relatedToTime="t112" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e6" relatedToTime="t94" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e89" relatedToTime="t94" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e13" relatedToTime="t94" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e27" relatedToTime="t94" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e30" relatedToTime="t94" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e28" relatedToTime="t94" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e32" relatedToTime="t94" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e38" relatedToTime="t94" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e43" relatedToTime="t94" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e52" relatedToTime="t94" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e63" relatedToTime="t94" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e70" relatedToTime="t94" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e76" relatedToTime="t94" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e80" relatedToTime="t94" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e70" eventID="e68" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e37" eventID="e32" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e13" eventID="e11" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e136" eventID="e80" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e75" eventID="e73" task="C"/>
+<TLINK lid="l6c" relType="VAGUE" relatedToEvent="e32" eventID="e28" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e124" eventID="e75" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e73" eventID="e70" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e52" eventID="e43" task="C"/>
+<TLINK lid="l11c" relType="AFTER" relatedToEvent="e43" eventID="e38" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e117" eventID="e53" task="C"/>
+<TLINK lid="l13c" relType="VAGUE" relatedToEvent="e8" eventID="e2" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e53" eventID="e52" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e76" eventID="e124" task="C"/>
+<TLINK lid="l16c" relType="BEFORE" relatedToEvent="e21" eventID="e18" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e60" eventID="e117" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e85" eventID="e136" task="C"/>
+<TLINK lid="l19c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e28" eventID="e21" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e68" eventID="e60" task="C"/>
+<TLINK lid="l21c" relType="AFTER" relatedToEvent="e18" eventID="e13" task="C"/>
+<TLINK lid="l22c" relType="BEFORE" relatedToEvent="e38" eventID="e37" task="C"/>
+</TempEval>

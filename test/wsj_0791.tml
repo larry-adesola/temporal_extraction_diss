@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0104
+= 891027
+891027-0104.
+Norwood Talvez Faça Oferta
+@ Para Adquirir Ações da Phoenix Technologies
+<TIMEX3 tid="t44" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+PTEC
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+WASHINGTON
+
+<s>A Norwood Partners Limited Partnership de Boston <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que pode <EVENT eid="e2" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> uma <EVENT eid="e4" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública a algumas ou todas as ações ordinárias da Phoenix Technologies Ltd.</s>
+
+<s>A Phoenix, sediada em Norwood, no Massachusetts, um fabricante de software para computadores pessoais outrora com grandes ambições, <EVENT eid="e6" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> <EVENT eid="e33" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízos</EVENT> substanciais nos <TIMEX3 tid="t46" type="DURATION" value="P2Q" temporalFunction="true" functionInDocument="NONE" endPoint="t44">últimos dois trimestres</TIMEX3>.</s>
+<s>As suas ações, que chegaram a estar nos <EVENT eid="e36" class="STATE" stem="18,75" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">18,75</EVENT> por ação, têm sido <EVENT eid="e7" class="OCCURRENCE" stem="negociar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">negociadas</EVENT> abaixo de <EVENT eid="e38" class="STATE" stem="4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">4</EVENT> dólares por ação <TIMEX3 tid="t47" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">recentemente</TIMEX3>.</s>
+<s><TIMEX3 tid="t48" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">Ontem</TIMEX3> <EVENT eid="e8" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos <EVENT eid="e41" class="STATE" stem="4,375" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">4,375</EVENT> dólares por ação, subindo 1,125 dólares, no <EVENT eid="e9" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> OTC.</s>
+
+<s>Num documento enviado à Securities and Exchange Commission, a Norwood <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que é parte de um grupo que <EVENT eid="e12" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> 525.546 ações ordinárias da Phoenix Technologies, ou uma participação de 5,3%.</s>
+
+<s>A Norwood não <EVENT eid="e14" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">fez</EVENT> "nenhum <EVENT eid="e43" class="OCCURRENCE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> pormenorizado", mas <EVENT eid="e16" class="OCCURRENCE" stem="envolver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">envolveu</EVENT>-se em <EVENT eid="e17" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> com outros acionistas, <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> o processo.</s>
+<s>A Phoenix <EVENT eid="e21" class="I_ACTION" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusou</EVENT>-se a <EVENT eid="e23" class="OCCURRENCE" stem="comentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comentar</EVENT>.</s>
+
+<s>A Norwood é <EVENT eid="e24" class="STATE" stem="controlar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">controlada</EVENT> por Daniel L. Barnett e A. Paul Reese, ambos funcionários da Oasis Capital Management Inc., sediada em Boston, uma pequena empresa de gestão de dinheiro.</s>
+<s>Também <EVENT eid="e25" class="STATE" stem="envolver" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">envolvido</EVENT> no grupo está Robert F. Angelo, ex-vice-presidente sénior das operações de campo da Phoenix, que <EVENT eid="e29" class="OCCURRENCE" stem="deixar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deixou</EVENT> a Phoenix no <TIMEX3 tid="t49" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">início de outubro</TIMEX3>.</s>
+<s>Angelo foi <EVENT eid="e30" class="I_ACTION" stem="descrever" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">descrito</EVENT> no documento como um <EVENT eid="e170" class="STATE" stem="consultor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">consultor</EVENT> da Oasis.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e6" relatedToTime="t46" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e33" relatedToTime="t46" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e9" relatedToTime="t48" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e8" relatedToTime="t48" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e29" relatedToTime="t49" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e2" relatedToTime="t44" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e4" relatedToTime="t44" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e1" relatedToTime="t44" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e6" relatedToTime="t44" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e33" relatedToTime="t44" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e9" relatedToTime="t44" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e8" relatedToTime="t44" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e12" relatedToTime="t44" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e11" relatedToTime="t44" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e43" relatedToTime="t44" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e20" relatedToTime="t44" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e14" relatedToTime="t44" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e17" relatedToTime="t44" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e21" relatedToTime="t44" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e29" relatedToTime="t44" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e24" eventID="e21" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e7" eventID="e6" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e25" eventID="e24" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e20" eventID="e11" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e30" eventID="e25" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e21" eventID="e20" task="C"/>
+</TempEval>

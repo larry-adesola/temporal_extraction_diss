@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0181
+= 891030
+891030-0181.
+Firma Holandesa Procura
+@ Comprar até 25%
+@ Das Ações da Nashua
+@ ----
+@ Por Lawrence Ingrassia
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t76" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+NSH
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+NASHUA, N.H.
+
+
+<s>A Nashua Corp., segundo <EVENT eid="e1" class="OCCURRENCE" stem="rumor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">rumores</EVENT> um potencial alvo de aquisição desde <TIMEX3 tid="t77" type="DURATION" value="P6M" temporalFunction="false" functionInDocument="NONE">há seis meses</TIMEX3>, <EVENT eid="e3" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que uma empresa holandesa <EVENT eid="e4" class="I_ACTION" stem="procurar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">procurou</EVENT> <EVENT eid="e5" class="I_ACTION" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT> dos EUA para <EVENT eid="e7" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> até 25% das ações da Nashua.</s>
+
+<s>A Nashua <EVENT eid="e8" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">respondeu</EVENT> imediatamente, <EVENT eid="e9" class="OCCURRENCE" stem="reforçar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">reforçando</EVENT> um plano anti-OPAs e <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> que vai <EVENT eid="e11" class="OCCURRENCE" stem="recomprar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">recomprar</EVENT> até um milhão das suas ações, ou 10,4% dos 9,6 milhões em circulação.</s>
+
+<s>A Nashua, cujo negócio principal é vender fotocopiadoras, aparelhos de fax e consumíveis relacionados, <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Reiss &amp; Co. B.V. da Holanda <EVENT eid="e16" class="OCCURRENCE" stem="submeter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">submeteu</EVENT> um <EVENT eid="e17" class="I_ACTION" stem="pedido" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pedido</EVENT> à Federal Trade Commission sob a legislação Hart-Scott-Rodino de <EVENT eid="e18" class="I_STATE" stem="permissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">permissão</EVENT> para <EVENT eid="e20" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> mais de 15 milhões de dólares das ações da Nashua mas menos de 25%.</s>
+
+<s>Anteriormente, uma filial da Unicorp Canadá tinha <EVENT eid="e21" class="REPORTING" stem="divulgar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">divulgado</EVENT> uma participação inferior a 5% na Nashua, <EVENT eid="e80" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">de acordo com</EVENT> Daniel M. Junius, tesoureiro da Nashua.</s>
+
+<s>As ações da Nashua têm <EVENT eid="e23" class="OCCURRENCE" stem="oscilar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">oscilado</EVENT> acentuadamente com as especulações de aquisição, <EVENT eid="e26" class="OCCURRENCE" stem="subir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">subindo</EVENT> até um recorde <TIMEX3 tid="t88" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">anual</TIMEX3> de <EVENT eid="e268" class="STATE" stem="42,875" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">42,875</EVENT> dólares por ação em <TIMEX3 tid="t89" type="DATE" value="1989-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">junho</TIMEX3> desde os <EVENT eid="e82" class="STATE" stem="29,75" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">29,75</EVENT> dólares em <TIMEX3 tid="t90" type="DATE" value="1989-03" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">março</TIMEX3>.</s>
+
+<s>Mas a companhia tem <EVENT eid="e91" class="STATE" stem="ter" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">tido</EVENT> <EVENT eid="e27" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> fracos até agora <TIMEX3 tid="t92" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">neste ano</TIMEX3>, com os <EVENT eid="e249" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> a <EVENT eid="e28" class="OCCURRENCE" stem="cair" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">caírem</EVENT> 43% para os <EVENT eid="e270" class="STATE" stem="13,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">13,7</EVENT> milhões de dólares, ou 1,43 dólares por ação, com um declínio de 4% na <EVENT eid="e266" class="STATE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receita</EVENT> para os <EVENT eid="e269" class="STATE" stem="713,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">713,5</EVENT> milhões de dólares durante <TIMEX3 tid="t100" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">os primeiros nove meses</TIMEX3> do <TIMEX3 tid="t1000" type="DATE" value="1989" temporalFunction="true" anchorTimeID="t76">ano</TIMEX3>.</s>
+
+<s>As suas ações <EVENT eid="e30" class="OCCURRENCE" stem="colapsar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">colapsaram</EVENT> <TIMEX3 tid="t101" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">recentemente</TIMEX3>, <EVENT eid="e31" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">fechando</EVENT> <TIMEX3 tid="t103" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">sexta-feira</TIMEX3> inalteradas nos 29 dólares por ação na Bolsa de Valores de Nova Iorque; a esse preço, a empresa tem um valor de mercado de aproximadamente 278,4 milhões de dólares.</s>
+<s>A Nashua <EVENT eid="e35" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> o <EVENT eid="e104" class="I_ACTION" stem="pedido" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pedido</EVENT> da Reiss depois de o <EVENT eid="e105" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> <EVENT eid="e38" class="ASPECTUAL" stem="fechar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">fechar</EVENT>.</s>
+
+<s>Junius <EVENT eid="e39" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e106" class="I_STATE" stem="intenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">intenção</EVENT> da Nashua "é <EVENT eid="e41" class="STATE" stem="permanecer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">permanecer</EVENT> uma empresa independente de capital público".</s>
+<s>A companhia <EVENT eid="e42" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e43" class="OCCURRENCE" stem="alterar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alterou</EVENT> o seu plano de direitos dos acionistas, <EVENT eid="e45" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">reduzindo</EVENT> para 10% desde os 20% o nível de apropriação por terceiros que provocaria a emissão aos outros acionistas de direitos em adquirir ações ordinárias adicionais da Nashua a metade do preço.</s>
+
+<s>Além disso, o conselho de administração da empresa <EVENT eid="e53" class="I_ACTION" stem="autorizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">autorizou</EVENT> a <EVENT eid="e54" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT> de até um milhão de ações adicionais.</s>
+<s>No âmbito de um <EVENT eid="e107" class="STATE" stem="programa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">programa</EVENT> <EVENT eid="e56" class="I_ACTION" stem="aprovar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">aprovado</EVENT> pela empresa em <TIMEX3 tid="t109" type="DATE" value="1987" temporalFunction="false" functionInDocument="NONE">1987</TIMEX3> que não especificava uma quantidade de ações, a Nashua tinha <EVENT eid="e59" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">comprado</EVENT> 481.000 ações a <TIMEX3 tid="t111" type="DATE" value="1989-09-29" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">29 de setembro</TIMEX3>.</s>
+
+<s>Alex Henderson, um analista da Prudential-Bache Securities, <EVENT eid="e60" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que, embora o desempenho da Nashua neste <TIMEX3 tid="t112" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t76">ano</TIMEX3> tenha sido "<EVENT eid="e113" class="STATE" stem="atroz" aspect="NONE" tense="PPCC" polarity="POS" pos="ADJECTIVE">atroz</EVENT>", a empresa, no entanto, é atraente enquanto "candidato clássico a cisão porque não há nenhuma semelhança entre os seus [quatro] negócios".</s>
+<s>Ele <EVENT eid="e65" class="I_ACTION" stem="estimar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estimou</EVENT> o <EVENT eid="e114" class="STATE" stem="valor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">valor</EVENT> da ruptura em 55 dólares por ação.</s>
+<s>Além de vender fotocopiadoras fabricadas no Japão e aparelhos de fax na Europa e consumíveis para fotocopiadoras nos EUA, a Nashua tem outras três grandes empresas: rótulos e fitas, discos de armazenamento de dados para computadores e photofinish por correio.</s>
+
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e4" relatedToTime="t77" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e3" relatedToTime="t77" task="A"/>
+<TLINK lid="l3" relType="VAGUE" eventID="e7" relatedToTime="t77" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e26" relatedToTime="t90" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e26" relatedToTime="t88" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e26" relatedToTime="t89" task="A"/>
+<TLINK lid="l7" relType="VAGUE" eventID="e27" relatedToTime="t100" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e27" relatedToTime="t92" task="A"/>
+<TLINK lid="l9" relType="BEFORE-OR-OVERLAP" eventID="e27" relatedToTime="t1000" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e91" relatedToTime="t100" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e91" relatedToTime="t92" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e91" relatedToTime="t1000" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e28" relatedToTime="t100" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e28" relatedToTime="t92" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e28" relatedToTime="t1000" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e31" relatedToTime="t103" task="A"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e31" relatedToTime="t101" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e59" relatedToTime="t111" task="A"/>
+<TLINK lid="l19" relType="AFTER" eventID="e59" relatedToTime="t109" task="A"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e60" relatedToTime="t112" task="A"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e4" relatedToTime="t76" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e3" relatedToTime="t76" task="B"/>
+<TLINK lid="l23" relType="AFTER" eventID="e7" relatedToTime="t76" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e10" relatedToTime="t76" task="B"/>
+<TLINK lid="l25" relType="AFTER" eventID="e11" relatedToTime="t76" task="B"/>
+<TLINK lid="l26" relType="AFTER" eventID="e20" relatedToTime="t76" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e15" relatedToTime="t76" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e80" relatedToTime="t76" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e26" relatedToTime="t76" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e27" relatedToTime="t76" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e91" relatedToTime="t76" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e28" relatedToTime="t76" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e31" relatedToTime="t76" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e38" relatedToTime="t76" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e35" relatedToTime="t76" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e39" relatedToTime="t76" task="B"/>
+<TLINK lid="l37" relType="OVERLAP" eventID="e41" relatedToTime="t76" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e42" relatedToTime="t76" task="B"/>
+<TLINK lid="l39" relType="AFTER" eventID="e54" relatedToTime="t76" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e59" relatedToTime="t76" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e60" relatedToTime="t76" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e59" eventID="e53" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e60" eventID="e59" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e39" eventID="e35" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e15" eventID="e8" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e65" eventID="e60" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e42" eventID="e39" task="C"/>
+<TLINK lid="l7c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e30" eventID="e91" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e8" eventID="e3" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e91" eventID="e23" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e53" eventID="e42" task="C"/>
+<TLINK lid="l11c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e35" eventID="e30" task="C"/>
+<TLINK lid="l12c" relType="AFTER" relatedToEvent="e21" eventID="e15" task="C"/>
+<TLINK lid="l13c" relType="VAGUE" relatedToEvent="e23" eventID="e21" task="C"/>
+</TempEval>

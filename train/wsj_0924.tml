@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0134
+= 891026
+891026-0134.
+Plano de Direitos da Dominion Textile
+<TIMEX3 tid="t23" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+T.DTX
+EARNINGS (ERN)
+MONTREAL
+
+
+<s>Os acionistas da Dominion Textile Inc. <EVENT eid="e1" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aprovaram</EVENT> um plano de direitos dos acionista na <EVENT eid="e2" class="OCCURRENCE" stem="reunião" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reunião</EVENT> anual.</s>
+
+<s>A medida anti-OPAs <EVENT eid="e4" class="ASPECTUAL" stem="entrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">entrou</EVENT> em vigor a <TIMEX3 tid="t24" type="DATE" value="1989-08-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">9 de agosto</TIMEX3> <EVENT eid="e25" class="I_STATE" stem="depender" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dependendo</EVENT> da <EVENT eid="e5" class="OCCURRENCE" stem="ratificação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ratificação</EVENT> por parte dos acionistas.</s>
+<s>Foram <EVENT eid="e7" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emitidos</EVENT> direitos ligados às ações ordinárias da empresa que são <EVENT eid="e8" class="OCCURRENCE" stem="acionar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acionados</EVENT> se um licitante hostil <EVENT eid="e10" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="FC" polarity="POS" pos="VERB">adquirir</EVENT> mais de 20% das ações em circulação.</s>
+<s>Uma vez <EVENT eid="e11" class="OCCURRENCE" stem="acionar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">acionados</EVENT>, os direitos <EVENT eid="e27" class="I_STATE" stem="permitir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permitem</EVENT> aos acionistas <EVENT eid="e13" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> ações adicionais a 50% do <EVENT eid="e29" class="STATE" stem="preço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preço</EVENT> de mercado <TIMEX3 tid="t34" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE">então</TIMEX3> vigente, ou, ao critério do conselho de administração, <EVENT eid="e16" class="OCCURRENCE" stem="receber" aspect="NONE" tense="INF" polarity="POS" pos="VERB">receber</EVENT> valores ou ativos.</s>
+
+<s>Separadamente, a Dominion Textile <EVENT eid="e18" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> uma <EVENT eid="e47" class="STATE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receita</EVENT> líquida de 4,7 milhões de dólares canadianos (4 milhões de dólares), ou 12 cêntimos canadianos por ação, para <TIMEX3 tid="t36" type="DATE" value="1989-Q1" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">o primeiro trimestre fiscal</TIMEX3> findo a <TIMEX3 tid="t38" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">30 de setembro</TIMEX3>.</s>
+<s>A empresa <EVENT eid="e41" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> uma perda líquida de <EVENT eid="e48" class="STATE" stem="2,3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,3</EVENT> milhões de dólares canadianos, ou 14 cêntimos canadianos por ação, <TIMEX3 tid="t42" type="DATE" value="1988-Q1" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t36">há um ano</TIMEX3>.</s>
+<s>As vendas foram de <EVENT eid="e49" class="STATE" stem="348,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">348,2</EVENT> milhões de dólares canadianos em comparação com os <EVENT eid="e46" class="STATE" stem="307,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">307,2</EVENT> milhões de dólares canadianos no <TIMEX3 tid="t43" type="DATE" value="1988-Q1" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t36">ano anterior</TIMEX3>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e4" relatedToTime="t24" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e13" relatedToTime="t34" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e18" relatedToTime="t36" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e18" relatedToTime="t38" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e41" relatedToTime="t42" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e4" relatedToTime="t23" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e10" relatedToTime="t23" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e13" relatedToTime="t23" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e18" relatedToTime="t23" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e41" relatedToTime="t23" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e27" eventID="e7" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e18" eventID="e27" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e49" eventID="e41" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e41" eventID="e18" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e7" eventID="e4" task="C"/>
+</TempEval>

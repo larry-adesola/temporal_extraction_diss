@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+CNN<TIMEX3 tid="t104" type="DATE" value="1998-02-13T23:00" temporalFunction="false" functionInDocument="CREATION_TIME">19980213</TIMEX3>.2130.0155
+REPORTAGEM
+
+
+<s>O presidente Clinton <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que <EVENT eid="e2" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acredita</EVENT> num possível <EVENT eid="e3" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataque</EVENT> contra o Iraque, apesar das <EVENT eid="e4" class="OCCURRENCE" stem="objeção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">objeções</EVENT> de outros países.</s>
+<s>Steve Hurst conta a história.</s>
+
+<s>A <EVENT eid="e103" class="OCCURRENCE" stem="acumulação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acumulação</EVENT> de forças militares americanas no Golfo Pérsico <EVENT eid="e6" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> em ritmo acelerado, mais aviões se <EVENT eid="e7" class="OCCURRENCE" stem="dirigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dirigem</EVENT> dos Estados Unidos, e há altos funcionários a <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dizer</EVENT> que o presidente do Iraque, Saddam Hussein, pode <EVENT eid="e10" class="I_STATE" stem="esperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">esperar</EVENT> que os <EVENT eid="e13" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT> aéreos violentos <EVENT eid="e15" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">continuem</EVENT> no <TIMEX3 tid="t105" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">futuro</TIMEX3> se ele não <EVENT eid="e17" class="ASPECTUAL" stem="parar" aspect="NONE" tense="FC" polarity="NEG" pos="VERB">parar</EVENT> de <EVENT eid="e19" class="OCCURRENCE" stem="construir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">construir</EVENT> armas biológicas e químicas.</s>
+
+<s>Saddam vai <EVENT eid="e21" class="I_STATE" stem="saber" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">saber</EVENT> pelas nossas <EVENT eid="e22" class="OCCURRENCE" stem="ação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ações</EVENT> e <EVENT eid="e23" class="OCCURRENCE" stem="alerta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alertas</EVENT> que estaremos <EVENT eid="e24" class="I_STATE" stem="preparar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">preparados</EVENT> para <EVENT eid="e26" class="OCCURRENCE" stem="agir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">agir</EVENT> novamente, se tivermos <EVENT eid="e28" class="STATE" stem="prova" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">provas</EVENT> de que está a <EVENT eid="e29" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e31" class="OCCURRENCE" stem="reconstruir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reconstruir</EVENT> as suas armas com capacidade de destruição em massa.</s>
+
+<s>Num momento de diplomacia televisiva, o ministro dos negócios estrangeiros do Iraque <EVENT eid="e34" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">respondeu</EVENT> de Bagdade em <TIMEX3 tid="t111" type="DURATION" value="PT1H" mod="LESS_THAN" temporalFunction="false" functionInDocument="NONE">menos de uma hora</TIMEX3>, <EVENT eid="e35" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> que Washington <EVENT eid="e36" class="OCCURRENCE" stem="violar" aspect="NONE" tense="C" polarity="POS" pos="VERB">violaria</EVENT> o direito internacional se <EVENT eid="e39" class="OCCURRENCE" stem="atacar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">atacasse</EVENT> sem <EVENT eid="e113" class="OCCURRENCE" stem="aprovação" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">aprovação</EVENT> da ONU.</s>
+
+<s>Os Estados Unidos não estão <EVENT eid="e40" class="I_STATE" stem="autorizar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">autorizados</EVENT> a <EVENT eid="e43" class="OCCURRENCE" stem="usar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">usar</EVENT> a força sem <EVENT eid="e45" class="OCCURRENCE" stem="consultar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">consultar</EVENT> o Conselho de Segurança.</s>
+
+<s>O presidente Clinton, entretanto, <EVENT eid="e46" class="REPORTING" stem="desvalorizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desvalorizou</EVENT> as <EVENT eid="e47" class="I_ACTION" stem="advertência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">advertências</EVENT> severas de Moscovo na <TIMEX3 tid="t116" type="DATE" value="1998-02-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">quinta-feira</TIMEX3> de que os <EVENT eid="e117" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT> aéreos americanos contra o Iraque poderiam <EVENT eid="e118" class="OCCURRENCE" stem="causar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">causar</EVENT> sérios <EVENT eid="e50" class="STATE" stem="dano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">danos</EVENT> às relações com o Kremlin.</s>
+
+<s>Estamos a <EVENT eid="e52" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e54" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">encontrar</EVENT> uma solução diplomática.</s>
+<s>E <EVENT eid="e56" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espero</EVENT> que, independentemente do que <EVENT eid="e57" class="OCCURRENCE" stem="acontecer" aspect="NONE" tense="FC" polarity="POS" pos="VERB">acontecer</EVENT> <TIMEX3 tid="t119" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">hoje</TIMEX3>, as nossas relações com a Rússia <EVENT eid="e58" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">continuem</EVENT> a ser <EVENT eid="e120" class="STATE" stem="produtivo" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">produtivas</EVENT> e <EVENT eid="e121" class="STATE" stem="construtivo" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">construtivas</EVENT> e <EVENT eid="e122" class="STATE" stem="forte" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">fortes</EVENT>, porque isso é muito importante para o futuro dos nossos povos.</s>
+
+<s>Uma visão contrária da questão <EVENT eid="e60" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apresentou</EVENT>-se ao presidente quando ele <EVENT eid="e61" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">chegou</EVENT> a Filadélfia, no final do <TIMEX3 tid="t126" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t119">dia</TIMEX3>.</s>
+<s>No entanto, o presidente <EVENT eid="e62" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que Washington vai <EVENT eid="e63" class="OCCURRENCE" stem="usar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">usar</EVENT> da força caso a diplomacia não <EVENT eid="e67" class="I_ACTION" stem="conseguir" aspect="NONE" tense="FC" polarity="NEG" pos="VERB">conseguir</EVENT> <EVENT eid="e128" class="I_ACTION" stem="forçar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">forçar</EVENT> Saddam Hussein a <EVENT eid="e129" class="OCCURRENCE" stem="recuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">recuar</EVENT>.</s>
+<s>O ministro russo dos negócios estrangeiros, entretanto, <EVENT eid="e68" class="I_ACTION" stem="tentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tentou</EVENT> <EVENT eid="e70" class="OCCURRENCE" stem="amenizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">amenizar</EVENT> as duras palavras do seu congénere militar, <EVENT eid="e72" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> na <TIMEX3 tid="t133" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">sexta-feira</TIMEX3> que a Rússia <EVENT eid="e73" class="I_STATE" stem="sentir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">sente</EVENT> <TIMEX3 tid="t135" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">agora</TIMEX3> que os EUA devem <EVENT eid="e74" class="OCCURRENCE" stem="esperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">esperar</EVENT> pelo menos até que o secretário-geral da ONU, Kofi Annan, <EVENT eid="e137" class="OCCURRENCE" stem="visitar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">visite</EVENT> Bagdade, num último esforço de diplomacia.</s>
+<s>Annan não tem nenhuma <EVENT eid="e78" class="OCCURRENCE" stem="viagem" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">viagem</EVENT> <EVENT eid="e141" class="I_STATE" stem="planear" aspect="NONE" tense="PPA" polarity="NEG" pos="VERB">planeada</EVENT> por enquanto.</s>
+<s>Entretanto, a secretária de estado Madeleine Albright, Berger e o secretário da defesa William Cohen <EVENT eid="e80" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciaram</EVENT> <EVENT eid="e144" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">planos</EVENT> de <EVENT eid="e82" class="OCCURRENCE" stem="viajar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">viajar</EVENT> para uma cidade não identificada no coração dos EUA na <TIMEX3 tid="t145" type="DATE" value="1998-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">próxima semana</TIMEX3>, para <EVENT eid="e84" class="I_ACTION" stem="explicar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">explicar</EVENT> ao povo norte-americano exatamente porque é que será <EVENT eid="e146" class="STATE" stem="necessário" aspect="NONE" tense="FI" polarity="POS" pos="ADJECTIVE">necessária</EVENT> força militar se a diplomacia <EVENT eid="e87" class="OCCURRENCE" stem="falhar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">falhar</EVENT>.</s>
+
+<s>Steve Hurst, da CNN, no Departamento de Estado.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e6" relatedToTime="t105" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e10" relatedToTime="t105" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e9" relatedToTime="t105" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e15" relatedToTime="t105" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e35" relatedToTime="t111" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e58" relatedToTime="t119" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e72" relatedToTime="t135" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e72" relatedToTime="t133" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e68" relatedToTime="t135" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e68" relatedToTime="t133" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e74" relatedToTime="t135" task="A"/>
+<TLINK lid="l12" relType="VAGUE" eventID="e74" relatedToTime="t133" task="A"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e144" relatedToTime="t145" task="A"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e80" relatedToTime="t145" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e1" relatedToTime="t104" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e6" relatedToTime="t104" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e10" relatedToTime="t104" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e9" relatedToTime="t104" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e15" relatedToTime="t104" task="B"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e29" relatedToTime="t104" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e35" relatedToTime="t104" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e43" relatedToTime="t104" task="B"/>
+<TLINK lid="l23" relType="AFTER" eventID="e45" relatedToTime="t104" task="B"/>
+<TLINK lid="l24" relType="OVERLAP" eventID="e52" relatedToTime="t104" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e58" relatedToTime="t104" task="B"/>
+<TLINK lid="l26" relType="AFTER" eventID="e63" relatedToTime="t104" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e62" relatedToTime="t104" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e72" relatedToTime="t104" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e68" relatedToTime="t104" task="B"/>
+<TLINK lid="l30" relType="OVERLAP-OR-AFTER" eventID="e74" relatedToTime="t104" task="B"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e141" relatedToTime="t104" task="B"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e144" relatedToTime="t104" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e80" relatedToTime="t104" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e141" eventID="e72" task="C"/>
+<TLINK lid="l2c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e35" eventID="e21" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e21" eventID="e6" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e72" eventID="e62" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e56" eventID="e52" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e62" eventID="e60" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e52" eventID="e46" task="C"/>
+<TLINK lid="l8c" relType="VAGUE" relatedToEvent="e60" eventID="e56" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e46" eventID="e40" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e40" eventID="e35" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e80" eventID="e141" task="C"/>
+</TempEval>

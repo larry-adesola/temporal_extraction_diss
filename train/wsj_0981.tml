@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0077
+= 891026
+891026-0077.
+MGM Grand Vai Pagar
+@ 93 Milhões de Dólares e Ações
+@ Por Local para Resort
+@ ----
+@ Por David J. Jefferson
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t94" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MGMG RAM
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+REAL ESTATE, REITS, LAND DEVELOPMENT (REL)
+CASINOS AND GAMBLING (CNO)
+STOCK MARKET, OFFERINGS (STK)
+BEVERLY HILLS, Calif.
+
+
+<s>A MGM Grand Inc. <EVENT eid="e1" class="I_STATE" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e3" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> 93 milhões dólares e cerca de 1,8 milhões de ações ordinárias para <EVENT eid="e5" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> 117 acres de terra ao longo da faixa de Las Vegas, no Nevada, como um dos locais para o seu resort planeado com um estúdio de cinema e parque de diversões.</s>
+
+<s>Do preço de compra total, 50 milhões de dólares em dinheiro e 30 milhões de dólares em ações (cerca de 1,8 milhões de ações) seriam <EVENT eid="e8" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="C" polarity="POS" pos="VERB">pagos</EVENT> para <EVENT eid="e11" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> o Marina Hotel &amp; Casino de 700 quartos lá existente à Southwest Securities, uma sociedade limitada do Nevada.</s>
+<s>As restantes propriedades a serem <EVENT eid="e13" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">adquiridas</EVENT> são o Tropicana Country Club &amp; Golf Course, um estabelecimento detido em conjunto pela Ramada Inc., de Phoenix, no Arizona, e a família Jaffe, e uma pequena parcela, propriedade do diretor da MGM Grand James D. Aljian.</s>
+
+<s>O preço de compra foi <EVENT eid="e17" class="OCCURRENCE" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgado</EVENT> num folheto preliminar <EVENT eid="e18" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emitido</EVENT> por motivo da oferta prevista da MGM Grand de seis milhões de ações ordinárias.</s>
+<s>A companhia aérea de luxo e empresa de casinos, detida em 98,6% pelo investidor Kirk Kerkorian e a sua Tracinda Corp., <EVENT eid="e22" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> no <TIMEX3 tid="t95" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">início deste mês</TIMEX3> o seu <EVENT eid="e23" class="I_STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> para <EVENT eid="e25" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> as propriedades, mas não <EVENT eid="e26" class="OCCURRENCE" stem="divulgar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">divulgou</EVENT> o preço de compra.</s>
+
+<s>A <EVENT eid="e28" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de ações proposta e a <EVENT eid="e29" class="OCCURRENCE" stem="emissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">emissão</EVENT> de cerca de 1,8 milhões de ações ordinárias por causa da aquisição dos terrenos vai <EVENT eid="e32" class="OCCURRENCE" stem="trazer" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">trazer</EVENT> o total de ações em circulação da MGM Grand para os <EVENT eid="e2189" class="STATE" stem="28,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">28,7 milhões</EVENT>, dos quais 72% serão <EVENT eid="e33" class="STATE" stem="deter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">detidos</EVENT> por Kerkorian e pela Tracinda, <EVENT eid="e100" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">de acordo com</EVENT> o folheto.</s>
+
+<s>No <EVENT eid="e34" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> de balcão, a MGM Grand estava a ser <EVENT eid="e35" class="OCCURRENCE" stem="negociar" aspect="PROGRESSIVE" tense="PII" polarity="POS" pos="VERB">negociada</EVENT> nos 17,50 dólares por ação.</s>
+
+<s><EVENT eid="e38" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Espera</EVENT>-se que as receitas da oferta sejam <EVENT eid="e40" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">utilizadas</EVENT> para <EVENT eid="e41" class="OCCURRENCE" stem="remodelar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">remodelar</EVENT> o Desert Inn Resort da empresa em Las Vegas, para <EVENT eid="e101" class="OCCURRENCE" stem="remodelar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">remodelar</EVENT> alguns aviões da unidade MGM Grand Air, e para <EVENT eid="e43" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> os terrenos para o novo resort.</s>
+<s>A empresa <EVENT eid="e44" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informou</EVENT> que <EVENT eid="e45" class="I_STATE" stem="estimar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">estima</EVENT> que a <EVENT eid="e102" class="OCCURRENCE" stem="remodelação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">remodelação</EVENT> do Desert Inn vá <EVENT eid="e46" class="STATE" stem="custar" aspect="NONE" tense="IR-PC+INF" polarity="POS" pos="VERB">custar</EVENT> cerca de 32 milhões de dólares, e que a <EVENT eid="e103" class="OCCURRENCE" stem="remodelação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">remodelação</EVENT> dos aviões DC-8-62, <EVENT eid="e47" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">feita</EVENT> pela McDonnell Douglas Corp., vá <EVENT eid="e48" class="OCCURRENCE" stem="custar" aspect="NONE" tense="IR-PC+INF" polarity="POS" pos="VERB">custar</EVENT> cerca de 24,5 milhões de dólares.</s>
+
+<s>A MGM Grand <EVENT eid="e49" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a última oferta de ações não vai <EVENT eid="e51" class="OCCURRENCE" stem="cobrir" aspect="NONE" tense="IR-PI+INF" polarity="NEG" pos="VERB">cobrir</EVENT> o <EVENT eid="e2187" class="STATE" stem="custo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">custo</EVENT> de 600 milhões de dólares ou mais da <EVENT eid="e2188" class="OCCURRENCE" stem="construção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">construção</EVENT> do resort e parque de diversões proposto, e <EVENT eid="e54" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> que <EVENT eid="e55" class="I_STATE" stem="precisar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">precisará</EVENT> de <EVENT eid="e57" class="I_ACTION" stem="procurar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">procurar</EVENT> financiamento adicional, seja por meio de empréstimos bancários ou ofertas de obrigações e ações, numa <TIMEX3 tid="t104" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">data posterior</TIMEX3>.</s>
+<s>A <EVENT eid="e63" class="OCCURRENCE" stem="construção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">construção</EVENT> está <EVENT eid="e64" class="STATE" stem="marcar" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">marcada</EVENT> para <EVENT eid="e66" class="ASPECTUAL" stem="começar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">começar</EVENT> no <TIMEX3 tid="t105" type="DATE" value="1991" mod="START" temporalFunction="false" functionInDocument="NONE">início de 1991</TIMEX3>.</s>
+
+<s>O resort irá incluir o MGM Grand Hotel, uma instalação multi-torre semelhante a um castelo que incluirá 5.000 quartos e 85.000 pés quadrados de espaço para casino.</s>
+<s>A instalação será <EVENT eid="e69" class="OCCURRENCE" stem="publicitar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">publicitada</EVENT> para as famílias e os preços dos quartos serão <EVENT eid="e107" class="STATE" stem="entre" aspect="NONE" tense="FI" polarity="POS" pos="PREPOSITION">entre</EVENT> os 35 dólares e os 55 por noite, <EVENT eid="e70" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a MGM Grand.</s>
+
+<s>O folheto não <EVENT eid="e71" class="STATE" stem="incluir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">inclui</EVENT> muitos pormenores sobre o estúdio e parque de diversões, embora alguns desenhos conceptuais, <EVENT eid="e75" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">lançados</EVENT> <TIMEX3 tid="t108" type="DATE" value="1989-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t94">este mês</TIMEX3>, <EVENT eid="e76" class="REPORTING" stem="mostrar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">mostrem</EVENT> que pode <EVENT eid="e77" class="STATE" stem="apresentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apresentar</EVENT> várias áreas "temáticas" semelhantes às encontradas em parques construídos pela Walt Disney Co.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e23" relatedToTime="t95" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e22" relatedToTime="t95" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e25" relatedToTime="t95" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e54" relatedToTime="t104" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e49" relatedToTime="t104" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e57" relatedToTime="t104" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e64" relatedToTime="t105" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e66" relatedToTime="t105" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e3" relatedToTime="t94" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e1" relatedToTime="t94" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e5" relatedToTime="t94" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e8" relatedToTime="t94" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e11" relatedToTime="t94" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e13" relatedToTime="t94" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e23" relatedToTime="t94" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e22" relatedToTime="t94" task="B"/>
+<TLINK lid="l17" relType="VAGUE" eventID="e25" relatedToTime="t94" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e100" relatedToTime="t94" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e34" relatedToTime="t94" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e35" relatedToTime="t94" task="B"/>
+<TLINK lid="l21" relType="AFTER" eventID="e43" relatedToTime="t94" task="B"/>
+<TLINK lid="l22" relType="AFTER" eventID="e40" relatedToTime="t94" task="B"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e38" relatedToTime="t94" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e44" relatedToTime="t94" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e47" relatedToTime="t94" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e54" relatedToTime="t94" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e49" relatedToTime="t94" task="B"/>
+<TLINK lid="l28" relType="AFTER" eventID="e57" relatedToTime="t94" task="B"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e64" relatedToTime="t94" task="B"/>
+<TLINK lid="l30" relType="AFTER" eventID="e66" relatedToTime="t94" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e70" relatedToTime="t94" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e71" eventID="e69" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e17" eventID="e13" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e64" eventID="e49" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e49" eventID="e44" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e38" eventID="e35" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP-OR-AFTER" relatedToEvent="e13" eventID="e8" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP-OR-AFTER" relatedToEvent="e44" eventID="e38" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e35" eventID="e32" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e22" eventID="e17" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e32" eventID="e22" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

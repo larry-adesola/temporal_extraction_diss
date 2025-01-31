@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0174
+= 891030
+891030-0174.
+Ações da Crossland Savings Afundam-se com Firma
+@ A Recomendar Suspensão de Dividendos
+@ ----
+@ Por Udayan Gupta
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t84" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CRL
+DIVIDENDS (DIV)
+FINANCIAL, ACCOUNTING, LEASING (FIN)
+EARNINGS (ERN)
+NEW YORK
+
+
+<s>As ações do Crossland Savings Bank <EVENT eid="e1" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> depois de a gestão ter <EVENT eid="e4" class="I_ACTION" stem="recomendar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">recomendado</EVENT> uma <EVENT eid="e82" class="OCCURRENCE" stem="suspensão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">suspensão</EVENT> de pagamentos de dividendos de ações ordinárias e preferenciais, porque a Crossland pode não <EVENT eid="e6" class="I_STATE" stem="satisfazer" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">satisfazer</EVENT> os novos <EVENT eid="e9" class="STATE" stem="critério" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">critérios</EVENT> de capital governamentais em vigor a <TIMEX3 tid="t85" type="DATE" value="1989-12-07" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">7 de dezembro</TIMEX3>.</s>
+
+<s>Na Bolsa de Valores de Nova Iorque na <TIMEX3 tid="t86" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">sexta-feira</TIMEX3>, a Crossland <EVENT eid="e11" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos <EVENT eid="e87" class="STATE" stem="5,25" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">5,25</EVENT> dólares, descendo 1,875 dólares, uma queda de 26%.</s>
+
+<s>Um porta-voz <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a caixa de poupanças pode não se <EVENT eid="e13" class="I_ACTION" stem="qualificar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">qualificar</EVENT> para os <EVENT eid="e16" class="STATE" stem="requisito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">requisitos</EVENT> de capital porque, sob as orientações propostas, os seus 380 milhões de dólares de ações preferenciais não <EVENT eid="e18" class="I_STATE" stem="satisfazer" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">satisfazem</EVENT> os <EVENT eid="e20" class="STATE" stem="critério" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">critérios</EVENT> de "capital de base" definidos no âmbito do novo Financial Institutions Reform, Recovery and Enforcement Act de <TIMEX3 tid="t89" type="DATE" value="1989" temporalFunction="false" functionInDocument="NONE">1989</TIMEX3>.</s>
+<s>Ele <EVENT eid="e22" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> que as diretrizes finais a ser <EVENT eid="e25" class="OCCURRENCE" stem="publicar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">publicadas</EVENT> no <TIMEX3 tid="t191" type="DATE" value="1989-11" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">início de novembro</TIMEX3> <EVENT eid="e26" class="STATE" stem="determinar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">determinarão</EVENT> se o banco está em <EVENT eid="e27" class="STATE" stem="conformidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conformidade</EVENT>.</s>
+
+<s>A Crossland <EVENT eid="e29" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e30" class="OCCURRENCE" stem="manter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manteve</EVENT> três bancos de investimento para a <EVENT eid="e32" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">ajudarem</EVENT> a <EVENT eid="e34" class="I_ACTION" stem="desenvolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">desenvolver</EVENT> e <EVENT eid="e35" class="I_ACTION" stem="implementar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">implementar</EVENT> um <EVENT eid="e91" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> de reestruturação financeira.</s>
+<s>Não <EVENT eid="e36" class="OCCURRENCE" stem="identificar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">identificou</EVENT> os bancos.</s>
+
+<s>Além disso, a Crossland <EVENT eid="e39" class="REPORTING" stem="relatar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">relatou</EVENT> um <EVENT eid="e40" class="STATE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> no <TIMEX3 tid="t92" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">terceiro trimestre</TIMEX3> de 175,5 milhões de dólares, ou 13,44 dólares por ação, face ao <EVENT eid="e94" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido de 27,1 milhões de dólares, ou 1,16 dólares por ação, de <TIMEX3 tid="t95" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">há um ano</TIMEX3>.</s>
+<s>Um fator importante no <EVENT eid="e43" class="STATE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> do <TIMEX3 tid="t98" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">terceiro trimestre</TIMEX3> foi a <EVENT eid="e97" class="OCCURRENCE" stem="depreciação" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">depreciação</EVENT> de 143,6 milhões de dólares de goodwill.</s>
+
+<s>O porta-voz <EVENT eid="e45" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as orientações propostas <EVENT eid="e47" class="I_ACTION" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fizeram</EVENT> com que a Crossland <EVENT eid="e49" class="OCCURRENCE" stem="rever" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">revisse</EVENT> os seus objetivos de negócio e, consequentemente, <EVENT eid="e50" class="OCCURRENCE" stem="depreciar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">depreciasse</EVENT> o valor patrimonial de algumas aquisições anteriores.</s>
+<s>A Crossland <EVENT eid="e52" class="OCCURRENCE" stem="registar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">registou</EVENT> 20 milhões de dólares adicionais em <EVENT eid="e100" class="STATE" stem="reserva" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reservas</EVENT> para crédito malparado no <TIMEX3 tid="t105" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">terceiro trimestre</TIMEX3>.</s>
+
+<s>O <EVENT eid="e110" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">lucro</EVENT> líquido de juros para <TIMEX3 tid="t104" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">o terceiro trimestre</TIMEX3> caiu para os <EVENT eid="e120" class="STATE" stem="35,6" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">35,6</EVENT> milhões de dólares face aos <EVENT eid="e121" class="STATE" stem="70,1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">70,1</EVENT> milhão de dólares de <TIMEX3 tid="t111" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">há um ano</TIMEX3>.</s>
+<s>No entanto, o rendimento não proveniente de juros <EVENT eid="e55" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> para os <EVENT eid="e122" class="STATE" stem="23,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">23,5</EVENT> milhões de dólares face a <EVENT eid="e123" class="STATE" stem="22" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">22</EVENT> milhões de dólares.</s>
+<s>No <TIMEX3 tid="t116" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">terceiro trimestre</TIMEX3> as origens dos empréstimos <EVENT eid="e57" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> drasticamente para os <EVENT eid="e124" class="STATE" stem="663" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">663</EVENT> milhões de dólares face aos <EVENT eid="e125" class="STATE" stem="mil" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">mil</EVENT> milhões de dólares de <TIMEX3 tid="t122" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">há um ano</TIMEX3>.</s>
+
+<s>A Standard &amp; Poor's Corp. <EVENT eid="e58" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reduziu</EVENT> o rating das ações preferenciais da Crossland de B- para CC e <EVENT eid="e60" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">colocou</EVENT>-o sob CreditWatch para uma possível descida adicional.</s>
+<s>Também <EVENT eid="e61" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">colocou</EVENT> em CreditWatch para possível descida outros valores, incluindo o rating de BB-/B dos certificados de depósito da Crossland e o rating B das suas obrigações de capital subordinadas sénior.</s>
+<s>Cerca de 518 milhões de dólares de dívida são afetados.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e11" relatedToTime="t86" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e12" relatedToTime="t89" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e22" relatedToTime="t191" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e40" relatedToTime="t95" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e40" relatedToTime="t92" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e39" relatedToTime="t95" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e39" relatedToTime="t92" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e43" relatedToTime="t98" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e57" relatedToTime="t116" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e57" relatedToTime="t122" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e11" relatedToTime="t84" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e12" relatedToTime="t84" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e22" relatedToTime="t84" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e29" relatedToTime="t84" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e91" relatedToTime="t84" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e40" relatedToTime="t84" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e39" relatedToTime="t84" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e43" relatedToTime="t84" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e45" relatedToTime="t84" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e55" relatedToTime="t84" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e57" relatedToTime="t84" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e58" eventID="e57" task="C"/>
+<TLINK lid="l2c" relType="VAGUE" relatedToEvent="e39" eventID="e36" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e120" eventID="e52" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e36" eventID="e29" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e57" eventID="e55" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e52" eventID="e45" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e97" eventID="e39" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e61" eventID="e58" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP-OR-AFTER" relatedToEvent="e55" eventID="e120" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e29" eventID="e22" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e45" eventID="e97" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e22" eventID="e12" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e11" eventID="e1" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>
+

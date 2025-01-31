@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891101-0032
+= 891101
+891101-0032.
+Dossier Internacional - Coates Brothers PLC:
+@ Orkem Oferece $ 7,43 Dólares por Ação
+@ Por Participações que não Possui
+<TIMEX3 tid="t39" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+F.ORK EUROP U.CTB
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+CHEMICALS, PLASTICS (CHM)
+
+
+<s>A Orkem S.A., um fabricante de produtos químicos controlado pelo estado francês, está a <EVENT eid="e1" class="OCCURRENCE" stem="fazer" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">fazer</EVENT> uma <EVENT eid="e2" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> amigável de 470 pence (7,43 dólares) por ação aos 59,2% de ações do grupo químico de especialidade do Reino Unido, a Coates Brothers PLC, que ainda não <EVENT eid="e3" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">possui</EVENT>, <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> os dois lados.</s>
+
+<s>A <EVENT eid="e6" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>, que avalia toda a Coates em 301 milhões de libras, já foi <EVENT eid="e8" class="I_ACTION" stem="aceitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aceite</EVENT> pelos executivos da Coates e por outros acionistas que possuem 12,4% da empresa.</s>
+<s>Os <EVENT eid="e10" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordos</EVENT> <EVENT eid="e11" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dão</EVENT> à Orkem uma <EVENT eid="e42" class="STATE" stem="participação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">participação</EVENT> de 53,2% na empresa e o controlo desta.</s>
+
+<s>A Orkem e a Coates <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> <TIMEX3 tid="t50" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t39">quarta-feira passada</TIMEX3> que as duas estavam a <EVENT eid="e13" class="I_STATE" stem="considerar" aspect="PROGRESSIVE" tense="PII" polarity="POS" pos="VERB">considerar</EVENT> uma <EVENT eid="e14" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT>, através da filial britânica da Orkem, a Orkem Coatings U.K. Ltd.</s>
+
+<s>A Orkem, o terceiro maior grupo químico da França, <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e16" class="OCCURRENCE" stem="financiar" aspect="NONE" tense="C" polarity="POS" pos="VERB">financiaria</EVENT> a <EVENT eid="e18" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> com recursos internos.</s>
+<s>A <EVENT eid="e19" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> seria seguida de uma <EVENT eid="e45" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> da unidade da Orkem do Reino Unido, incluindo a <EVENT eid="e22" class="OCCURRENCE" stem="adição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">adição</EVENT> de negócios da Orkem relacionados e possivelmente novas <EVENT eid="e24" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisições</EVENT>.</s>
+<s>A Orkem <EVENT eid="e25" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que no futuro <EVENT eid="e26" class="I_ACTION" stem="procurar" aspect="NONE" tense="C" polarity="POS" pos="VERB">procuraria</EVENT> <EVENT eid="e29" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> uma <EVENT eid="e30" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública de ações nos seus negócios no Reino Unido.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e12" relatedToTime="t50" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e15" relatedToTime="t50" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e18" relatedToTime="t50" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e2" relatedToTime="t39" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e5" relatedToTime="t39" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e1" relatedToTime="t39" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e6" relatedToTime="t39" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e11" relatedToTime="t39" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e12" relatedToTime="t39" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e15" relatedToTime="t39" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e18" relatedToTime="t39" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e24" relatedToTime="t39" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e26" relatedToTime="t39" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e29" relatedToTime="t39" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e25" relatedToTime="t39" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e25" eventID="e19" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e19" eventID="e12" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>

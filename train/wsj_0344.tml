@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TempEval>
+
+WSJ891101-0020
+= 891101
+891101-0020.
+Editora Contrata
+@ Consultor Financeiro
+@ Para Pesar Alternativas
+<TIMEX3 tid="t40" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+PSSP
+EARNINGS (ERN)
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+LOS ANGELES
+
+
+<s>A Price Stern Sloan Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="contratar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contratou</EVENT> uma firma de investimento bancário para a <EVENT eid="e4" class="I_ACTION" stem="auxiliar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">auxiliar</EVENT> a <EVENT eid="e5" class="OCCURRENCE" stem="avaliar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">avaliar</EVENT> as alternativas de reestruturação ou fusão e <EVENT eid="e6" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um <EVENT eid="e7" class="STATE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido de 8,1 milhões de dólares, ou 2,14 dólares por ação, para <TIMEX3 tid="t41" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">o terceiro trimestre</TIMEX3> findo a <TIMEX3 tid="t42" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">30 de setembro</TIMEX3>.</s>
+
+<s>Estes resultados <EVENT eid="e62" class="STATE" stem="contrapor" aspect="NONE" tense="PI" polarity="POS" pos="VERB">contrapõem</EVENT>-se a um <EVENT eid="e58" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido de 1,8 milhões de dólares, ou 44 cêntimos por ação, para <TIMEX3 tid="t46" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">o período homólogo do ano passado</TIMEX3>.</s>
+<s>O <EVENT eid="e11" class="STATE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> deste <TIMEX3 tid="t47" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">trimestre</TIMEX3> inclui <EVENT eid="e13" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargos</EVENT> antes de impostos de 4,9 milhões com a proposta de encerrar a subsidiária britânica problemática da empresa, e 3,7 milhões de outras depreciações que a companhia <EVENT eid="e17" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que eram esporádicas e sobretudo relacionados com o inventário, adiantamentos aos autores e custos de pré-publicação.</s>
+<s>A empresa editorial <EVENT eid="e21" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e22" class="OCCURRENCE" stem="manter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manteve</EVENT> o banco de investimentos de Donaldson, Lufkin &amp; Jenrette Securities Inc. a <EVENT eid="e23" class="OCCURRENCE" stem="atuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atuar</EVENT> como seu conselheiro financeiro, <EVENT eid="e24" class="I_ACTION" stem="auxiliar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">auxiliando</EVENT> na <EVENT eid="e25" class="OCCURRENCE" stem="avaliação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">avaliação</EVENT> de diversas alternativas financeiras e estratégicas, incluindo o refinanciamento da dívida, o aumento de capital, a recapitalização, uma fusão ou venda da empresa.</s>
+
+<s>A empresa também <EVENT eid="e30" class="OCCURRENCE" stem="manter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">manteve</EVENT> o advogado Martin P. Levin, um diretor da empresa e ex-chefe do Times-Mirror Publishing Group, como conselheiro.</s>
+
+<s>As vendas líquidas no <TIMEX3 tid="t49" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">terceiro trimestre deste ano</TIMEX3> foram <EVENT eid="e59" class="STATE" stem="de" aspect="NONE" tense="PPI" polarity="POS" pos="PREPOSITION">de</EVENT> 14 milhões de dólares, abaixo dos <EVENT eid="e60" class="STATE" stem="21,4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">21,4</EVENT> milhões de dólares do <TIMEX3 tid="t53" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">ano passado</TIMEX3>.</s>
+<s>A empresa <EVENT eid="e31" class="I_ACTION" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> a <EVENT eid="e32" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> em parte à <EVENT eid="e54" class="OCCURRENCE" stem="exclusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">exclusão</EVENT> das vendas britânicas da empresa dos números relativos ao ano em curso, como resultado do <EVENT eid="e56" class="STATE" stem="estatuto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estatuto</EVENT> da filial de operação possivelmente descontinuada e em parte a <EVENT eid="e55" class="STATE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> mais baixas em determinadas contas-chave nacionais e estrangeiras.</s>
+<s>As vendas no Reino Unido para <TIMEX3 tid="t58" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">o trimestre homólogo do ano passado</TIMEX3> foram <EVENT eid="e61" class="STATE" stem="de" aspect="NONE" tense="PPI" polarity="POS" pos="PREPOSITION">de</EVENT> cerca de 3 milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e6" relatedToTime="t41" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e6" relatedToTime="t42" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t41" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1" relatedToTime="t42" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e7" relatedToTime="t41" task="A"/>
+<TLINK lid="l6" relType="BEFORE-OR-OVERLAP" eventID="e7" relatedToTime="t42" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e13" relatedToTime="t47" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e17" relatedToTime="t47" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e11" relatedToTime="t47" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e6" relatedToTime="t40" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e1" relatedToTime="t40" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e7" relatedToTime="t40" task="B"/>
+<TLINK lid="l13" relType="BEFORE-OR-OVERLAP" eventID="e13" relatedToTime="t40" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e17" relatedToTime="t40" task="B"/>
+<TLINK lid="l15" relType="BEFORE-OR-OVERLAP" eventID="e11" relatedToTime="t40" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e21" relatedToTime="t40" task="B"/>
+<TLINK lid="l17" relType="BEFORE-OR-OVERLAP" eventID="e55" relatedToTime="t40" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e59" eventID="e30" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e62" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e30" eventID="e21" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e31" eventID="e59" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e61" eventID="e31" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e21" eventID="e11" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e11" eventID="e62" task="C"/>
+</TempEval>

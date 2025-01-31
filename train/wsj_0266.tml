@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891101-0099
+= 891101
+891101-0099.
+Cartas ao Editor:
+@ Inovadores Ignorados
+<TIMEX3 tid="t34" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MUTUAL AND MONEY-MARKET FUNDS (FND)
+
+
+<s>Fiquei <EVENT eid="e41" class="I_STATE" stem="satisfazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">satisfeito</EVENT> ao <EVENT eid="e2" class="I_ACTION" stem="notar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">notar</EVENT> que o vosso item de <TIMEX3 tid="t42" type="DATE" value="1989-10-23" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t34">23 de outubro</TIMEX3> sobre o último século <EVENT eid="e3" class="OCCURRENCE" stem="reconhecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reconheceu</EVENT> o conceito de fundo de dinheiro como um dos acontecimentos importantes do século passado.</s>
+<s>Na verdade, <TIMEX3 tid="t39" type="DURATION" value="P2Y" mod="APPROX" temporalFunction="false" functionInDocument="NONE" endPoint="t42">há cerca de dois anos</TIMEX3>, o jornal <EVENT eid="e4" class="OCCURRENCE" stem="listar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">listou</EVENT> a <EVENT eid="e5" class="ASPECTUAL" stem="criação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">criação</EVENT> do fundo de dinheiro como um dos 10 eventos mais importantes do mundo das finanças no <TIMEX3 tid="t40" type="DATE" value="19XX" temporalFunction="false" functionInDocument="NONE">século XX</TIMEX3>.</s>
+<s>Mas o Fundo de Reserva, o fundo de dinheiro mais importante da América, não foi <EVENT eid="e9" class="OCCURRENCE" stem="mencionar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">mencionado</EVENT>, nem o foram os criadores do conceito de fundo de dinheiro, Harry Brown e eu.</s>
+<s>Nós <EVENT eid="e11" class="OCCURRENCE" stem="criar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">criámos</EVENT> os <EVENT eid="e29" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgates</EVENT> por telefone, os dividendos diários, a <EVENT eid="e30" class="OCCURRENCE" stem="eliminação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eliminação</EVENT> total dos certificados de ações e os <EVENT eid="e31" class="OCCURRENCE" stem="preço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preços</EVENT> constantes de 1 dólar por ação, todos os quais foram dolorosamente <EVENT eid="e15" class="I_ACTION" stem="pensar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pensados</EVENT> e não o resultado de algum <EVENT eid="e32" class="STATE" stem="descuido" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">descuido</EVENT> por parte da SEC.</s>
+
+<s>
+BRUCE R. BENT
+
+Presidente
+
+O Fundo de Reserva
+
+Nova Iorque</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e15" relatedToTime="t34" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e11" eventID="e9" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e9" eventID="e4" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e4" eventID="e41" task="C"/>
+</TempEval>

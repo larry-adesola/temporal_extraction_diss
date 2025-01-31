@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TempEval>
+
+
+WSJ891101-0018
+= 891101
+891101-0018.
+Dossier de Negócios - Cilcorp Inc.:
+@ Alguns Ativos Vão Ser Adquiridos
+@ À Hunter Environmental
+<TIMEX3 tid="t30" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CER HESI
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+<s>Cilcorp Inc., de Peoria, no Illinois, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e3" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> os negócios de serviços de consultoria e análise ambiental da Hunter Environmental Services Inc. de Southport, no Connecticut.</s>
+<s>A companhia detentora de serviços <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Hunter <EVENT eid="e7" class="OCCURRENCE" stem="receber" aspect="NONE" tense="FI" polarity="POS" pos="VERB">receberá</EVENT> pelo negócio 390.000 ações de uma nova série de ações preferenciais convertíveis da Cilcorp com o valor nominal de 38 milhões de dólares.</s>
+<s>A Cilcorp também vai <EVENT eid="e8" class="I_ACTION" stem="assumir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">assumir</EVENT> 22 milhões de dólares da <EVENT eid="e36" class="STATE" stem="dívida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dívida</EVENT> existente da Hunter.</s>
+<s>Como parte do <EVENT eid="e37" class="I_ACTION" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>, a Cilcorp <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e11" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">pagará</EVENT> à Hunter 4 milhões de dólares em troca de acordos de não concorrência.</s>
+
+<s>A Cilcorp <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os negócios a serem <EVENT eid="e16" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">adquiridos</EVENT> <EVENT eid="e38" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tiveram</EVENT> uma <EVENT eid="e39" class="OCCURRENCE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receita</EVENT> de 76 milhões de dólares no <TIMEX3 tid="t33" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" endPoint="t32">ano</TIMEX3> findo a <TIMEX3 tid="t32" type="DATE" value="1989-03-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">31 de março</TIMEX3>.</s>
+
+<s>Separadamente, a Cilcorp <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e19" class="I_STATE" stem="pretender" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pretende</EVENT> <EVENT eid="e20" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> até 1,4 milhões de ações, ou 10% das suas ações ordinárias em circulação, de tempos a tempos no mercado aberto e através de transações negociadas em privado.</s>
+
+<s>A empresa, que <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">atualmente</TIMEX3> <EVENT eid="e26" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> 13,5 milhões de ações ordinárias em circulação, <EVENT eid="e27" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que não <EVENT eid="e28" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> <EVENT eid="e41" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">planos</EVENT> específicos para as ações.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e16" relatedToTime="t33" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e16" relatedToTime="t32" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e38" relatedToTime="t33" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e38" relatedToTime="t32" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e15" relatedToTime="t33" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e15" relatedToTime="t32" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e26" relatedToTime="t34" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e41" relatedToTime="t34" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e28" relatedToTime="t34" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e27" relatedToTime="t34" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e2" relatedToTime="t30" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e6" relatedToTime="t30" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e3" relatedToTime="t30" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e1" relatedToTime="t30" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e37" relatedToTime="t30" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e10" relatedToTime="t30" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e11" relatedToTime="t30" task="B"/>
+<TLINK lid="l18" relType="AFTER" eventID="e16" relatedToTime="t30" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e38" relatedToTime="t30" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e15" relatedToTime="t30" task="B"/>
+<TLINK lid="l21" relType="AFTER" eventID="e20" relatedToTime="t30" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e19" relatedToTime="t30" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e18" relatedToTime="t30" task="B"/>
+<TLINK lid="l24" relType="OVERLAP" eventID="e26" relatedToTime="t30" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e41" relatedToTime="t30" task="B"/>
+<TLINK lid="l26" relType="OVERLAP" eventID="e28" relatedToTime="t30" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e27" relatedToTime="t30" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e27" eventID="e18" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

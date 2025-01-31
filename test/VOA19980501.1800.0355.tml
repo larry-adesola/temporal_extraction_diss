@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+VOA<TIMEX3 tid="t18" type="DATE" value="1998-05-01" temporalFunction="false" functionInDocument="CREATION_TIME">19980501</TIMEX3>.1800.0355 REPORTAGEM
+
+
+<s>O primeiro-ministro israelita Benjamin Netanyahu <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que ainda <EVENT eid="e2" class="STATE" stem="existir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">existem</EVENT> <EVENT eid="e21" class="STATE" stem="lacuna" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lacunas</EVENT> consideráveis entre as posições israelitas e as palestinas antes das <EVENT eid="e22" class="OCCURRENCE" stem="conversação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversações</EVENT> na <TIMEX3 tid="t19" type="DATE" value="1998-W19" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t18">próxima semana</TIMEX3> em Londres.</s>
+<s>Ele e o líder palestino Yasser Arafat <EVENT eid="e3" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">encontraram</EVENT>-se em separado na <TIMEX3 tid="t20" type="DATE" value="1998-05-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t18">segunda-feira</TIMEX3> com a secretária de estado americana Madeleine Albright.</s>
+<s>Numa <EVENT eid="e61" class="OCCURRENCE" stem="conferência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conferência</EVENT> de imprensa com o vice-presidente americano Al Gore, em Jerusalém, Netanyahu <EVENT eid="e4" class="I_ACTION" stem="sugerir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sugeriu</EVENT> que Israel poderia estar <EVENT eid="e24" class="I_STATE" stem="dispor" aspect="NONE" tense="INF+PPA" polarity="POS" pos="VERB">disposto</EVENT> a <EVENT eid="e25" class="OCCURRENCE" stem="ceder" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ceder</EVENT> um pouco sobre as questões que estão a <EVENT eid="e6" class="I_ACTION" stem="impedir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">impedir</EVENT> a <EVENT eid="e26" class="STATE" stem="paz" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">paz</EVENT>, mas ele <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e8" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> um <EVENT eid="e27" class="OCCURRENCE" stem="esforço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">esforço</EVENT> igual dos palestinos.</s>
+
+<s>Se Israel for <EVENT eid="e9" class="I_ACTION" stem="convidar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">convidado</EVENT> a <EVENT eid="e10" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> compromissos em questões que são vitais para as suas preocupações de segurança, então temos de <EVENT eid="e12" class="PERCEPTION" stem="ver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ver</EVENT> um esforço igual do outro lado.</s>
+
+<s>Gore <EVENT eid="e15" class="I_ACTION" stem="apelar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apelou</EVENT> a Israel para <EVENT eid="e16" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">continuar</EVENT> a <EVENT eid="e17" class="OCCURRENCE" stem="correr" aspect="NONE" tense="INF" polarity="POS" pos="VERB">correr</EVENT> <EVENT eid="e29" class="OCCURRENCE" stem="risco" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">riscos</EVENT> pela paz.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t19" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t19" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e22" relatedToTime="t19" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e2" relatedToTime="t18" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e1" relatedToTime="t18" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e22" relatedToTime="t18" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e6" relatedToTime="t18" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e8" relatedToTime="t18" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e7" relatedToTime="t18" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e25" relatedToTime="t18" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e12" relatedToTime="t18" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e16" relatedToTime="t18" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e15" relatedToTime="t18" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e17" relatedToTime="t18" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e4" eventID="e3" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e12" eventID="e4" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e15" eventID="e12" task="C"/>
+</TempEval>

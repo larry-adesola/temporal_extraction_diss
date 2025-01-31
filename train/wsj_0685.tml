@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891030-0010
+= 891030
+891030-0010.
+Aquisição da CNW Completa
+<TIMEX3 tid="t11" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CNW
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+TRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA)
+CHICAGO
+
+<s>A CNW Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a etapa final da <EVENT eid="e3" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> da empresa foi <EVENT eid="e5" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluída</EVENT> com a <EVENT eid="e6" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT> da CNW com uma subsidiária da Chicago &amp; North Western Holdings Corp.</s>
+
+<s>Conforme <EVENT eid="e13" class="REPORTING" stem="relatar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">relatado</EVENT>, a CNW <EVENT eid="e7" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em ser <EVENT eid="e9" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirida</EVENT> por um grupo de investidores liderado pela Blackstone Capital Partners Limited Partnership por 50 dólares por ação, ou cerca de 950 milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e13" relatedToTime="t11" task="B"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t11" task="B"/>
+<TLINK lid="l3" relType="AFTER" eventID="e9" relatedToTime="t11" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e3" relatedToTime="t11" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e7" relatedToTime="t11" task="B"/>
+</TempEval>

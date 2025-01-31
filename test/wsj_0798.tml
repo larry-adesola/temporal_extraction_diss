@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0097
+= 891027
+891027-0097.
+Hudson's Bay Fornece
+@ Termos da Oferta de Direitos
+@ Para Angariar 337 Milhões de Dólares
+<TIMEX3 tid="t49" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+T.HBC
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+TORONTO
+
+
+<s>A Hudson's Bay Co. <EVENT eid="e1" class="OCCURRENCE" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> os termos de uma emissão de direitos anteriormente proposta, que <EVENT eid="e2" class="I_STATE" stem="dever" aspect="NONE" tense="FI" polarity="POS" pos="VERB">deverá</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="angariar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">angariar</EVENT> cerca de 396 milhões de dólares canadianos (337 milhões de dólares americanos) líquidos de despesas.</s>
+
+<s>As receitas da oferta serão <EVENT eid="e7" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">utilizadas</EVENT> para <EVENT eid="e9" class="OCCURRENCE" stem="resgatar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resgatar</EVENT> 264 milhões de dólares canadianos de ações preferenciais e <EVENT eid="e11" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reduzir</EVENT> a dívida de curto prazo, <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a companhia.</s>
+
+<s>O maior operador do Canadá de armazéns <EVENT eid="e13" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e41" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de direitos <EVENT eid="e15" class="I_STATE" stem="permitir" aspect="NONE" tense="FI" polarity="POS" pos="VERB">permitirá</EVENT> aos titulares de ações ordinárias, exceto os residentes na Grã-Bretanha e nos E.U., <EVENT eid="e17" class="OCCURRENCE" stem="subscrever" aspect="NONE" tense="INF" polarity="POS" pos="VERB">subscrever</EVENT> duas novas ações por cada cinco ações detidas por um preço de 31,25 dólares canadianos por ação.</s>
+<s>A data de <EVENT eid="e42" class="OCCURRENCE" stem="registo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">registo</EVENT> é <TIMEX3 tid="t50" type="DATE" value="1989-11-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t49">9 de novembro</TIMEX3>.</s>
+
+<s>A empresa <EVENT eid="e21" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> cerca de 31 milhões de ações ordinárias em circulação.</s>
+<s>Na Bolsa de Toronto, as ações da Hudson's Bay <EVENT eid="e22" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos <EVENT eid="e43" class="STATE" stem="35" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">35</EVENT> dólares canadianos, subindo 12,5 cêntimos.</s>
+
+<s>A Hudson's Bay <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Woodbridge Co., que <EVENT eid="e24" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> <TIMEX3 tid="t51" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t49">atualmente</TIMEX3> cerca de 77% das ações ordinárias, vai <EVENT eid="e25" class="OCCURRENCE" stem="subscrever" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">subscrever</EVENT> a totalidade das ações a que tem direito e todas as ações que não forem compradas por outrem.</s>
+<s>A Woodbridge é uma holding detida pela família Thomson de Toronto.</s>
+
+<s>A Hudson's Bay <EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que vai <EVENT eid="e31" class="OCCURRENCE" stem="resgatar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">resgatar</EVENT> 9,5 milhões de ações preferenciais Série H a <TIMEX3 tid="t52" type="DATE" value="1989-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t49">31 de outubro</TIMEX3> ao preço de 27,75 dólares canadianos cada.</s>
+<s>A <EVENT eid="e33" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medida</EVENT> foi <EVENT eid="e34" class="I_ACTION" stem="aprovar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aprovada</EVENT> numa <EVENT eid="e35" class="OCCURRENCE" stem="reunião" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reunião</EVENT> especial de acionistas <TIMEX3 tid="t53" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t49">ontem</TIMEX3>.</s>
+
+<s>Gary Lukassen, diretor financeiro, <EVENT eid="e36" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e188" class="OCCURRENCE" stem="resgate" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resgate</EVENT> das ações preferenciais, originalmente <EVENT eid="e38" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">emitidas</EVENT> a 25 dólares canadianos cada, <EVENT eid="e39" class="ASPECTUAL" stem="eliminar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">eliminará</EVENT> o <EVENT eid="e40" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamento</EVENT> de dividendos de 17,9 milhões de dólares canadianos por ano.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e23" relatedToTime="t51" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e24" relatedToTime="t51" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e30" relatedToTime="t52" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e33" relatedToTime="t53" task="A"/>
+<TLINK lid="l5" relType="BEFORE-OR-OVERLAP" eventID="e2" relatedToTime="t49" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t49" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e12" relatedToTime="t49" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e7" relatedToTime="t49" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e13" relatedToTime="t49" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e21" relatedToTime="t49" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e22" relatedToTime="t49" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e23" relatedToTime="t49" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e24" relatedToTime="t49" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e30" relatedToTime="t49" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e33" relatedToTime="t49" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e36" relatedToTime="t49" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e12" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e13" eventID="e12" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e23" eventID="e22" task="C"/>
+<TLINK lid="l4c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e21" eventID="e42" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP-OR-AFTER" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e42" eventID="e13" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e36" eventID="e34" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e34" eventID="e30" task="C"/>
+</TempEval>

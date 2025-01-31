@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0155
+= 891026
+891026-0155.
+Tecnologia e Saúde:
+@ A Compaq Computer
+@ Anuncia Subida de 51%
+@ No Resultado Líquido do Terceiro Trimestre
+@ ----
+@ Por Robert Tomsho
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t50" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CPQ
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+EARNINGS (ERN)
+HOUSTON
+
+
+<s>A Compaq Computer Corp. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o seu lucro líquido <EVENT eid="e2" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> 51% no <TIMEX3 tid="t106" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t50">terceiro trimestre</TIMEX3>, <EVENT eid="e3" class="OCCURRENCE" stem="impulsionar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">impulsionado</EVENT> por <EVENT eid="e117" class="STATE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receitas</EVENT> extraordinárias no seu <EVENT eid="e4" class="OCCURRENCE" stem="investimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investimento</EVENT> num fabricante de drives de disquetes e refletindo o <EVENT eid="e52" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> contínuo dos seus <EVENT eid="e7" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócios</EVENT> europeus.</s>
+
+<s>O fabricante de computadores <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o resultado líquido <EVENT eid="e10" class="OCCURRENCE" stem="saltar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">saltou</EVENT> para os <EVENT eid="e118" class="STATE" stem="87" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">87</EVENT> milhões de dólares, ou 2,02 dólares por ação, desde os <EVENT eid="e119" class="STATE" stem="58" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">58</EVENT> milhões de dólares, ou 1,40 dólares por ação, de <TIMEX3 tid="t58" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t106">há um ano</TIMEX3>.</s>
+<s>As vendas <EVENT eid="e12" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentaram</EVENT> 36% para os <EVENT eid="e120" class="STATE" stem="683" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">683</EVENT> milhões de dólares desde os <EVENT eid="e121" class="STATE" stem="502" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">502</EVENT> milhões de dólares.</s>
+<s>Os <EVENT eid="e13" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> do <TIMEX3 tid="t64" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t50">último trimestre</TIMEX3>, no entanto, incluíram um <EVENT eid="e66" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> antes de impostos de 13,7 milhões de dólares, ou 20 cêntimos por ação, no valor contabilístico do <EVENT eid="e16" class="OCCURRENCE" stem="investimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investimento</EVENT> da empresa na Conner Peripherals Inc. e um <EVENT eid="e67" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> de 7,6 milhões de dólares, ou 11 cêntimos por ação, com a <EVENT eid="e17" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de um milhão de ações da Conner.</s>
+
+<s>O resultado líquido para <TIMEX3 tid="t68" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">os nove meses</TIMEX3> foi de <EVENT eid="e122" class="STATE" stem="254" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">254</EVENT> milhões de dólares, ou 5,94 dólares por ação, subindo 56% dos <EVENT eid="e123" class="STATE" stem="163" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">163</EVENT> milhões de dólares, ou 4,06 dólares por ação, de <TIMEX3 tid="t72" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t64">há um ano</TIMEX3>.</s>
+<s>As vendas <EVENT eid="e20" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 50% para os <EVENT eid="e124" class="STATE" stem="2.1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,1</EVENT> mil milhões de dólares desde os <EVENT eid="e125" class="STATE" stem="1.4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">1,4</EVENT> mil milhões.</s>
+<s>O resultado líquido dos <TIMEX3 tid="t247" type="DURATION" value="P9M" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t50">nove meses do ano anterior</TIMEX3> também incluíram um <EVENT eid="e80" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> de 9,7 milhões de dólares, ou 15 cêntimos por ação, no valor contabilístico do <EVENT eid="e81" class="OCCURRENCE" stem="investimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investimento</EVENT> na Conner.</s>
+
+<s>Michael Swavely, presidente da divisão da Compaq na América do Norte, <EVENT eid="e23" class="I_ACTION" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> o <EVENT eid="e24" class="OCCURRENCE" stem="desempenho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desempenho</EVENT> da empresa no <TIMEX3 tid="t82" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t50">terceiro trimestre</TIMEX3> a um <EVENT eid="e25" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> contínuo das vendas internacionais, que representaram 43% das vendas da empresa, um <EVENT eid="e28" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> de 74% em relação ao <TIMEX3 tid="t83" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t82">ano anterior</TIMEX3>.</s>
+
+<s>"Ao longo dos <TIMEX3 tid="t86" type="DURATION" value="P2Y" mod="APPROX" temporalFunction="true" functionInDocument="NONE" beginPoint="t50">próximos dois anos</TIMEX3> não nos <EVENT eid="e29" class="I_STATE" stem="surpreender" aspect="NONE" tense="C" polarity="NEG" pos="VERB">surpreenderia</EVENT> <EVENT eid="e33" class="PERCEPTION" stem="ver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ver</EVENT> as [vendas] na Europa e internacionais <EVENT eid="e34" class="STATE" stem="representar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">representarem</EVENT> 50% das receitas da empresa", <EVENT eid="e35" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele.</s>
+
+<s>Durante <TIMEX3 tid="t87" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t50">o terceiro trimestre</TIMEX3>, a Compaq <EVENT eid="e36" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">comprou</EVENT> uma antiga fábrica da Wang Laboratories em Stirling, na Escócia, que será <EVENT eid="e37" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">utilizada</EVENT> para serviços internacionais e operações de reparação.</s>
+<s>Swavely <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o novo espaço <EVENT eid="e41" class="I_STATE" stem="permitir" aspect="NONE" tense="FI" polarity="POS" pos="VERB">permitirá</EVENT> à Compaq <EVENT eid="e43" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aumentar</EVENT> a capacidade de produção da sua fábrica em Erskine, na Escócia.</s>
+
+<s>Na Bolsa de Valores de Nova Iorque, <TIMEX3 tid="t91" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t50">ontem</TIMEX3>, as ações da Compaq <EVENT eid="e44" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 1,625 dólares para os <EVENT eid="e90" class="STATE" stem="108,625" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">108,625</EVENT> dólares.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t106" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e117" relatedToTime="t106" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t106" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e9" relatedToTime="t58" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e67" relatedToTime="t64" task="A"/>
+<TLINK lid="l6" relType="OVERLAP-OR-AFTER" eventID="e13" relatedToTime="t64" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e17" relatedToTime="t64" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e66" relatedToTime="t64" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e80" relatedToTime="t247" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e28" relatedToTime="t83" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e28" relatedToTime="t82" task="A"/>
+<TLINK lid="l12" relType="AFTER" eventID="e25" relatedToTime="t83" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e25" relatedToTime="t82" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e33" relatedToTime="t86" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e35" relatedToTime="t86" task="A"/>
+<TLINK lid="l16" relType="AFTER" eventID="e37" relatedToTime="t87" task="A"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e36" relatedToTime="t87" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e44" relatedToTime="t91" task="A"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e2" relatedToTime="t50" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e117" relatedToTime="t50" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e1" relatedToTime="t50" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e9" relatedToTime="t50" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e12" relatedToTime="t50" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e67" relatedToTime="t50" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e13" relatedToTime="t50" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e17" relatedToTime="t50" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e66" relatedToTime="t50" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e20" relatedToTime="t50" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e80" relatedToTime="t50" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e28" relatedToTime="t50" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e25" relatedToTime="t50" task="B"/>
+<TLINK lid="l32" relType="AFTER" eventID="e33" relatedToTime="t50" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e35" relatedToTime="t50" task="B"/>
+<TLINK lid="l34" relType="AFTER" eventID="e37" relatedToTime="t50" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e36" relatedToTime="t50" task="B"/>
+<TLINK lid="l36" relType="AFTER" eventID="e43" relatedToTime="t50" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e40" relatedToTime="t50" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e44" relatedToTime="t50" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e44" eventID="e40" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e40" eventID="e36" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e122" eventID="e13" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e80" eventID="e20" task="C"/>
+<TLINK lid="l5c" relType="VAGUE" relatedToEvent="e20" eventID="e122" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e9" eventID="e1" task="C"/>
+<TLINK lid="l7c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e13" eventID="e12" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e35" eventID="e23" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e12" eventID="e9" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e23" eventID="e80" task="C"/>
+<TLINK lid="l11c" relType="AFTER" relatedToEvent="e36" eventID="e35" task="C"/>
+</TempEval>

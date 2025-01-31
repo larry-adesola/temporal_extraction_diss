@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891101-0043
+= 891101
+891101-0043.
+Dossier de Negócios - StatesWest Airlines:
+@ Oferta à Mesa Revogada;
+@ Empresa Vai Continuar a Querer Comprá-la
+<TIMEX3 tid="t40" type="DATE" value="1989-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">11/01/89</TIMEX3>
+WALL STREET JOURNAL (J)
+SWAL MESA
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+<s>A StatesWest Airlines, de Phoenix, no Arizona, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">retirou</EVENT> a sua <EVENT eid="e3" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de <EVENT eid="e5" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> a Mesa Airlines porque a transportadora de Farmington, no Novo México, não <EVENT eid="e6" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">respondeu</EVENT> à sua <EVENT eid="e8" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> até ao <EVENT eid="e9" class="OCCURRENCE" stem="encerramento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encerramento</EVENT> das <EVENT eid="e10" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> de <TIMEX3 tid="t41" type="DATE" value="1989-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">ontem</TIMEX3>, um prazo que a StatesWest tinha <EVENT eid="e11" class="OCCURRENCE" stem="dar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">dado</EVENT> para uma resposta.</s>
+
+<s>No entanto, a StatesWest não vai <EVENT eid="e12" class="ASPECTUAL" stem="desistir" aspect="NONE" tense="IR-PI+INF" polarity="NEG" pos="VERB">desistir</EVENT> de <EVENT eid="e14" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> a Mesa, uma empresa muito maior.</s>
+<s>A StatesWest, que tem uma participação de 7,25% na Mesa, <EVENT eid="e17" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que pode <EVENT eid="e18" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> mais ações da Mesa ou <EVENT eid="e20" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> uma <EVENT eid="e21" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> diretamente aos acionistas da Mesa.</s>
+
+<s>A StatesWest <EVENT eid="e22" class="I_ACTION" stem="propor" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">propusera</EVENT> a <EVENT eid="e23" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> da Mesa por 7 dólares por ação e uma ação de uma nova série de ações preferenciais da StatesWest convertíveis a 6% que ela avalia em 3 dólares por ação.</s>
+<s>Anteriormente, a Mesa tinha <EVENT eid="e26" class="I_STATE" stem="rejeitar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">rejeitado</EVENT> uma <EVENT eid="e27" class="I_ACTION" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> geral da StatesWest para <EVENT eid="e29" class="OCCURRENCE" stem="combinar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">combinar</EVENT> as duas transportadoras de alguma forma.</s>
+
+<s>A StatesWest liga 10 cidades da Califórnia, Arizona e Nevada.</s>
+<s>A Mesa voa para 42 cidades no Novo México, Arizona, Wyoming, Colorado e Texas.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e9" relatedToTime="t41" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e3" relatedToTime="t41" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e5" relatedToTime="t41" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1" relatedToTime="t41" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e8" relatedToTime="t41" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e11" relatedToTime="t41" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e9" relatedToTime="t40" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e3" relatedToTime="t40" task="B"/>
+<TLINK lid="l9" relType="AFTER" eventID="e5" relatedToTime="t40" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e1" relatedToTime="t40" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e8" relatedToTime="t40" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e11" relatedToTime="t40" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e20" relatedToTime="t40" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e21" relatedToTime="t40" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e17" relatedToTime="t40" task="B"/>
+<TLINK lid="l16" relType="AFTER" eventID="e18" relatedToTime="t40" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e26" eventID="e22" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e12" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e22" eventID="e17" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e17" eventID="e12" task="C"/>
+</TempEval>

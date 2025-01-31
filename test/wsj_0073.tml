@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0119
+= 891102
+891102-0119.
+Oferta de Direitos da Integra-A
+<TIMEX3 tid="t21" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+ITGR HWG
+IRVING, Texas
+
+
+<s>A Integra-A Hotel &amp; Restaurant Co. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua <EVENT eid="e1995" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de direitos <EVENT eid="e2044" class="I_STATE" stem="planear" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">planeada</EVENT> para <EVENT eid="e2" class="OCCURRENCE" stem="angariar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">angariar</EVENT> cerca de 9 milhões de dólares foi <EVENT eid="e3" class="I_ACTION" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarada</EVENT> efetiva e a empresa <EVENT eid="e4" class="ASPECTUAL" stem="começar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">começará</EVENT> a <EVENT eid="e1996" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">enviar</EVENT> materiais aos acionistas no <TIMEX3 tid="t23" type="DATE" value="1989-W44" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">final desta semana</TIMEX3>.</s>
+
+<s>Nos termos da <EVENT eid="e1997" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>, os acionistas <EVENT eid="e5" class="OCCURRENCE" stem="receber" aspect="NONE" tense="FI" polarity="POS" pos="VERB">receberão</EVENT> um direito por cada 105 ações ordinárias que <EVENT eid="e6" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">possuem</EVENT>.</s>
+<s>Cada um <EVENT eid="e7" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dá</EVENT> ao acionista o <EVENT eid="e2000" class="I_STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direito</EVENT> de <EVENT eid="e8" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> obrigações com um valor nominal de 100 dólares e uma taxa de juro de 13,5% com vencimento em <TIMEX3 tid="t24" type="DATE" value="1993" temporalFunction="false" functionInDocument="NONE">1993</TIMEX3> e <EVENT eid="e1998" class="I_ACTION" stem="warrant" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">warrants</EVENT> para <EVENT eid="e9" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> 23,5 ações ordinárias a 30 cêntimos por ação.</s>
+<s>Os <EVENT eid="e2001" class="I_STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direitos</EVENT>, que <EVENT eid="e10" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">terminam</EVENT> a <TIMEX3 tid="t25" type="DATE" value="1989-11-21" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">21 de novembro</TIMEX3>, podem ser exercidos por 100 dólares cada.</s>
+
+<s>A Integra, que possui e explora hotéis, <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Hallwood Group Inc. <EVENT eid="e16" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e17" class="OCCURRENCE" stem="exercer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">exercer</EVENT> quaisquer direitos que não sejam <EVENT eid="e18" class="OCCURRENCE" stem="exercer" aspect="NONE" tense="PC" polarity="NEG" pos="VERB">exercidos</EVENT> por outros acionistas.</s>
+<s>A Hallwood, um banco comercial de Cleveland, <EVENT eid="e2002" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> cerca de 11% da Integra.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e4" relatedToTime="t23" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t23" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e9" relatedToTime="t24" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e8" relatedToTime="t24" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e4" relatedToTime="t21" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t21" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e1997" relatedToTime="t21" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e9" relatedToTime="t21" task="B"/>
+<TLINK lid="l9" relType="AFTER" eventID="e8" relatedToTime="t21" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e16" relatedToTime="t21" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e15" relatedToTime="t21" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e10" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e2002" eventID="e15" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e7" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

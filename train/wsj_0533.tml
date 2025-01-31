@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0168
+= 891030
+891030-0168.
+Dois Rivais Licitantes
+@ Estendem Ofertas
+@ Para Comprar a Connaught
+@ ----
+@ Por Suzanne McGee
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t101" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CSESF F.INM Z.CIG CHIR EUROP RHPOY CANDA
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDICAL AND BIOTECHNOLOGY (MTC)
+TORONTO
+
+
+<s>Dois licitantes rivais à Connaught BioSciences <EVENT eid="e1" class="OCCURRENCE" stem="alargar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alargaram</EVENT> as suas <EVENT eid="e2" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ofertas</EVENT> para <EVENT eid="e4" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> o fabricante de vacinas sediado em Toronto na <TIMEX3 tid="t102" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">sexta-feira</TIMEX3>.</s>
+
+<s>O Institut Mérieux S.A., que <EVENT eid="e5" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ofereceu</EVENT> 942 milhões de dólares canadianos (801,2 milhões de dólares americanos), ou 37 dólares canadianos por ação da Connaught, <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que vai <EVENT eid="e7" class="OCCURRENCE" stem="estender" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">estender</EVENT> a sua <EVENT eid="e9" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT>, que <EVENT eid="e108" class="I_STATE" stem="dever" aspect="NONE" tense="PII" polarity="POS" pos="ADJECTIVE">devia</EVENT> <EVENT eid="e109" class="OCCURRENCE" stem="caducar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">caducar</EVENT> na <TIMEX3 tid="t103" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">quinta-feira passada</TIMEX3>, até <TIMEX3 tid="t104" type="DATE" value="1989-11-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">6 de novembro</TIMEX3>.</s>
+
+<s>Uma <EVENT eid="e12" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de 30 dólares canadianos por ação pela Ciba-Geigy Ltd., uma empresa farmacêutica com sede em Basileia, na Suíça, e pela Chiron Corp., sediada na Califórnia, uma empresa de investigação biológica, foi <EVENT eid="e14" class="OCCURRENCE" stem="estender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estendida</EVENT> até <TIMEX3 tid="t107" type="DATE" value="1989-11-16" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">16 de novembro</TIMEX3>.</s>
+<s><EVENT eid="e110" class="I_STATE" stem="dever" aspect="NONE" tense="PII" polarity="POS" pos="VERB">Devia</EVENT> ter <EVENT eid="e111" class="OCCURRENCE" stem="expirar" aspect="NONE" tense="INFC" polarity="POS" pos="VERB">expirado</EVENT> na <TIMEX3 tid="t112" type="TIME" value="1989-10-27TEV" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">sexta-feira</TIMEX3>.</s>
+
+<s>O Merieux <EVENT eid="e17" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> anteriormente que se <EVENT eid="e18" class="I_ACTION" stem="certificar" aspect="NONE" tense="C" polarity="POS" pos="VERB">certificaria</EVENT> de que a sua oferta <EVENT eid="e21" class="ASPECTUAL" stem="permanecer" aspect="NONE" tense="C" polarity="POS" pos="VERB">permaneria</EVENT> <EVENT eid="e116" class="STATE" stem="aberto" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">aberta</EVENT> até uma <EVENT eid="e118" class="I_ACTION" stem="decisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">decisão</EVENT> final das entidades reguladoras canadianas de <EVENT eid="e119" class="I_ACTION" stem="aprovar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aprovar</EVENT> ou não a <EVENT eid="e26" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT>.</s>
+<s>O Mérieux, uma firma de vacinas e investigação biológica com sede em Lyon, na França, é controlado em 50,1% pela empresa estatal Rhone-Poulenc S.A.</s>
+
+<s>O governo canadiano <EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> anteriormente que a proposta do Merieux não <EVENT eid="e32" class="I_STATE" stem="oferecer" aspect="NONE" tense="PII" polarity="NEG" pos="VERB">oferecia</EVENT> "<EVENT eid="e121" class="STATE" stem="benefício" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">benefício</EVENT> líquido" suficiente ao Canadá para ser aprovada, e <EVENT eid="e36" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deu</EVENT> ao Merieux um prazo até <TIMEX3 tid="t122" type="DATE" value="1989-11" mod="MID" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">meados de novembro</TIMEX3> para <EVENT eid="e38" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">enviar</EVENT> informações adicionais.</s>
+
+<s>Os funcionários do Merieux <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> na <TIMEX3 tid="t124" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">semana passada</TIMEX3> que estão "muito <EVENT eid="e125" class="I_STATE" stem="confiante" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">confiantes</EVENT>" de que a oferta será <EVENT eid="e42" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">aprovada</EVENT> assim que <EVENT eid="e43" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">apresentarem</EVENT> os pormenores das suas propostas de investimento às reguladoras federais.</s>
+
+<s>Ambas as <EVENT eid="e46" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ofertas</EVENT> estão sujeitas a aprovações regulamentares e a que sejam obtidas ações suficientes para dar aos licitantes a maioria das ações em circulação da Connaught.</s>
+
+<s>O Institut Mérieux, que já detém uma participação de 12,5% na Connaught, <EVENT eid="e54" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que, ao <EVENT eid="e55" class="ASPECTUAL" stem="encerramento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encerramento</EVENT> das <EVENT eid="e57" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> de <TIMEX3 tid="t127" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">quinta-feira</TIMEX3>, 5.745.188 ações da Connaught e obrigações com o valor nominal de 44,3 milhões dólares canadianos, convertíveis em 1826596 ações ordinárias, tinham sido <EVENT eid="e60" class="OCCURRENCE" stem="entregar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">entregues</EVENT> à sua <EVENT eid="e61" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>.</s>
+<s>No <EVENT eid="e62" class="ASPECTUAL" stem="encerramento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encerramento</EVENT> dos <EVENT eid="e63" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócios</EVENT> na <TIMEX3 tid="t128" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t101">quinta-feira</TIMEX3>, a Ciba-Geigy e a Chiron <EVENT eid="e64" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que 11.580 ações ordinárias haviam sido <EVENT eid="e65" class="OCCURRENCE" stem="entregar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">entregues</EVENT> à sua <EVENT eid="e66" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>.</s>
+<s>No último <EVENT eid="e67" class="REPORTING" stem="relatório" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relatório</EVENT>, a Connaught <EVENT eid="e129" class="STATE" stem="ter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">tinha</EVENT> 21,8 milhões de ações em circulação.</s>
+
+<s>Em separado, o Supremo Tribunal de Ontário <EVENT eid="e68" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que vai <EVENT eid="e69" class="I_ACTION" stem="adiar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">adiar</EVENT> indefinidamente a <EVENT eid="e70" class="STATE" stem="decisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">decisão</EVENT> sobre o processo <EVENT eid="e73" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">lançado</EVENT> pela Universidade de Toronto contra a Connaught em relação à oferta do Mérieux.</s>
+
+<s>Num comunicado preparado pelos advogados da universidade e da Connaught, as <EVENT eid="e78" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">partes</EVENT> disseram que <EVENT eid="e79" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordaram</EVENT> que, como resultado de terem <EVENT eid="e81" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">chegado</EVENT> a um <EVENT eid="e131" class="STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> de investigação de 415 milhões de dólares canadianos, "Não é necessário que haja uma sentença sobre o mérito (do caso) no momento".</s>
+
+<s>Os advogados dos dois lados não estavam imediatamente disponíveis para comentar.</s>
+
+<s>A universidade tinha <EVENT eid="e88" class="I_ACTION" stem="procurar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">procurado</EVENT> uma ação judicial que <EVENT eid="e90" class="I_ACTION" stem="bloquear" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">bloqueasse</EVENT> o conselho de administração da Connaught de <EVENT eid="e92" class="I_ACTION" stem="recomendar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">recomendar</EVENT> ou <EVENT eid="e93" class="I_ACTION" stem="apoiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apoiar</EVENT> uma <EVENT eid="e94" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> à empresa pelo Mérieux.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t102" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e4" relatedToTime="t102" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e6" relatedToTime="t104" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e6" relatedToTime="t103" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e9" relatedToTime="t104" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e9" relatedToTime="t103" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e5" relatedToTime="t104" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e5" relatedToTime="t103" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e12" relatedToTime="t107" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e36" relatedToTime="t122" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e32" relatedToTime="t122" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e30" relatedToTime="t122" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e40" relatedToTime="t124" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e54" relatedToTime="t127" task="A"/>
+<TLINK lid="l15" relType="VAGUE" eventID="e61" relatedToTime="t127" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e55" relatedToTime="t127" task="A"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e64" relatedToTime="t128" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e62" relatedToTime="t128" task="A"/>
+<TLINK lid="l19" relType="BEFORE-OR-OVERLAP" eventID="e66" relatedToTime="t128" task="A"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e2" relatedToTime="t101" task="B"/>
+<TLINK lid="l21" relType="AFTER" eventID="e4" relatedToTime="t101" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e6" relatedToTime="t101" task="B"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e9" relatedToTime="t101" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e5" relatedToTime="t101" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e12" relatedToTime="t101" task="B"/>
+<TLINK lid="l26" relType="OVERLAP" eventID="e21" relatedToTime="t101" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e17" relatedToTime="t101" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e36" relatedToTime="t101" task="B"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e32" relatedToTime="t101" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e30" relatedToTime="t101" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e40" relatedToTime="t101" task="B"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e46" relatedToTime="t101" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e54" relatedToTime="t101" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e61" relatedToTime="t101" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e55" relatedToTime="t101" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e64" relatedToTime="t101" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e62" relatedToTime="t101" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e66" relatedToTime="t101" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e67" relatedToTime="t101" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e129" relatedToTime="t101" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e68" relatedToTime="t101" task="B"/>
+<TLINK lid="l42" relType="OVERLAP" eventID="e79" relatedToTime="t101" task="B"/>
+<TLINK lid="l43" relType="OVERLAP" eventID="e131" relatedToTime="t101" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e78" relatedToTime="t101" task="B"/>
+<TLINK lid="l45" relType="OVERLAP" eventID="e94" relatedToTime="t101" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e88" relatedToTime="t101" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e129" eventID="e64" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e30" eventID="e17" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e110" eventID="e14" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e68" eventID="e129" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e14" eventID="e6" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP-OR-AFTER" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e64" eventID="e54" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e54" eventID="e46" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e40" eventID="e30" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e46" eventID="e40" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e78" eventID="e68" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e17" eventID="e110" task="C"/>
+</TempEval>

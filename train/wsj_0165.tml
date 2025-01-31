@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0026
+= 891102
+891102-0026.
+Dossier de Marketing - Heritage Media Corp:
+@ Firma Prestes a Comprar Resto das Ações
+@ Da Pop Radio numa Troca
+<TIMEX3 tid="t25" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+HTG POPX
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A Heritage Media Corp., de Nova Iorque, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que se <EVENT eid="e2" class="I_ACTION" stem="oferecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ofereceu</EVENT> para <EVENT eid="e3" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> as ações da POP Radio Corp. que ainda não possui numa <EVENT eid="e6" class="OCCURRENCE" stem="troca" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">troca</EVENT> de ações.</s>
+
+<s>A Heritage, que detém 51% dos 3,6 milhões de ações em circulação da POP, <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e10" class="OCCURRENCE" stem="trocar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">trocará</EVENT> uma ação preferencial por cada ação ordinária da POP que ainda não possui.</s>
+<s>Dependendo de quantos warrants e opções forem <EVENT eid="e14" class="OCCURRENCE" stem="exercer" aspect="NONE" tense="FC" polarity="POS" pos="VERB">exercidos</EVENT> antes da <EVENT eid="e29" class="ASPECTUAL" stem="conclusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conclusão</EVENT> da <EVENT eid="e30" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT>, a Heritage <EVENT eid="e15" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="C" polarity="POS" pos="VERB">lançaria</EVENT> entre 1,8 milhões e 2,35 milhões de ações preferenciais, <EVENT eid="e17" class="REPORTING" stem="estimar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estimou</EVENT> um porta-voz da Heritage.</s>
+<s>No mercado de balcão nacional de <TIMEX3 tid="t27" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">ontem</TIMEX3>, a POP <EVENT eid="e18" class="OCCURRENCE" stem="descer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desceu</EVENT> 4 dólares para os 14,75 dólares.</s>
+
+<s>As ações preferenciais, que teriam uma taxa de dividendo de 1,76 dólares por ano, seriam convertíveis em ações ordinárias da Heritage a uma taxa de quatro ações ordinárias por cada ação preferencial.</s>
+<s>A POP Radio, sediada em Nova Iorque, <EVENT eid="e20" class="OCCURRENCE" stem="fornecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">fornece</EVENT>, através de uma rede nacional, dentro de lojas, uma música personalizada, serviços de informação e publicidade que <EVENT eid="e21" class="OCCURRENCE" stem="simular" aspect="NONE" tense="PI" polarity="POS" pos="VERB">simulam</EVENT> a rádio ao vivo.</s>
+<s>A Heritage é proprietária e <EVENT eid="e32" class="OCCURRENCE" stem="operadora" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">operadora</EVENT> de estações de televisão e de rádio e de programas de publicidade e de promoções dentro de lojas.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t25" task="B"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t25" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e3" relatedToTime="t25" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e9" relatedToTime="t25" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e18" eventID="e17" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e9" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e17" eventID="e9" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e32" eventID="e20" task="C"/>
+</TempEval>

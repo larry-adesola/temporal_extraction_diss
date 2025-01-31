@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0039
+= 891102
+891102-0039.
+Dossier de Negócios - Dow Jones &amp; Co.:
+@ Oferta à Telerate @
+É Prolongada até 9 de Novembro
+<TIMEX3 tid="t25" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DJ TLR
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDIA, PUBLISHING, BROADCASTING, ELECTRONIC PUBLISHING (MED)
+
+
+
+<s>A Dow Jones &amp; Co. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_ACTION" stem="estender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estendeu</EVENT> a sua <EVENT eid="e3" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de 18 dólares por ação à Telerate Inc. até às <TIMEX3 tid="t27" type="DATE" value="1989-11-09T17:00" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">5 da tarde de 9 de novembro</TIMEX3>.</s>
+
+<s>A <EVENT eid="e4" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>, no valor de cerca de 576 milhões de dólares para os 33% da Telerate que a Dow Jones ainda não detém, tinha sido <EVENT eid="e8" class="I_ACTION" stem="propor" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">proposta</EVENT> para <EVENT eid="e10" class="OCCURRENCE" stem="expirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expirar</EVENT> a <TIMEX3 tid="t28" type="DATE" value="1989-11-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">6 de novembro</TIMEX3>.</s>
+
+<s>A Dow Jones, que detém cerca de 64 milhões dos 95 milhões das ações em circulação da Telerate, <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que cerca de 24.000 ações foram <EVENT eid="e13" class="OCCURRENCE" stem="cobrir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cobertas</EVENT> pela <EVENT eid="e14" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>.</s>
+
+<s>Os dois administradores independentes da Telerate <EVENT eid="e15" class="OCCURRENCE" stem="rejeitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">rejeitaram</EVENT> a <EVENT eid="e16" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> julgando-a inadequada.</s>
+<s>Na Bolsa de Valores de Nova Iorque, as ações da Telerate <EVENT eid="e18" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos 19,50 dólares, tendo subido 12,5 cêntimos.</s>
+
+<s>A Telerate fornece uma rede eletrónica de informações financeiras.</s>
+<s>A Dow Jones publica o Wall Street Journal, a revista Barron's e jornais locais e oferece serviços de notícias financeiras e de bases de dados informáticas.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1" relatedToTime="t27" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e3" relatedToTime="t27" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e8" relatedToTime="t28" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e4" relatedToTime="t28" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e1" relatedToTime="t25" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e3" relatedToTime="t25" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e8" relatedToTime="t25" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e4" relatedToTime="t25" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e14" relatedToTime="t25" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e12" relatedToTime="t25" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e16" relatedToTime="t25" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e18" relatedToTime="t25" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e15" eventID="e12" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e12" eventID="e8" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e8" eventID="e1" task="C"/>
+
+</TempEval>

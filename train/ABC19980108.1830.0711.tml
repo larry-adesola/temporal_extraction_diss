@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+ABC<TIMEX3 tid="t82" type="DATE" value="1998-01-08" temporalFunction="false" functionInDocument="CREATION_TIME">19980108</TIMEX3>.1830.0711
+REPORTAGEM
+
+
+<s>Por outro lado, esta está a <EVENT eid="e1" class="OCCURRENCE" stem="revelar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">revelar</EVENT>-se outra <TIMEX3 tid="t83" type="DURATION" value="P1W" temporalFunction="false" functionInDocument="NONE">semana</TIMEX3> financeira muito <EVENT eid="e369" class="STATE" stem="mau" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">má</EVENT> para a Ásia.</s>
+<s>O <EVENT eid="e3" class="OCCURRENCE" stem="apoio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apoio</EVENT> financeiro do Banco Mundial e do Fundo Monetário Internacional não estão a <EVENT eid="e4" class="OCCURRENCE" stem="ajudar" aspect="PROGRESSIVE" tense="PI" polarity="NEG" pos="VERB">ajudar</EVENT>.</s>
+<s>Nas <TIMEX3 tid="t85" type="DURATION" value="P1D" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t82">últimas vinte e quatro horas</TIMEX3>, o valor do mercado indonésio <EVENT eid="e7" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> doze por cento.</s>
+<s>A moeda indonésia <EVENT eid="e9" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perdeu</EVENT> vinte e seis por cento do seu valor.</s>
+<s>Em Singapura, as ações <EVENT eid="e10" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atingiram</EVENT> um mínimo de <TIMEX3 tid="t86" type="DURATION" value="P5Y" temporalFunction="false" functionInDocument="NONE">cinco anos</TIMEX3>.</s>
+<s>Nas Filipinas, um mínimo de <TIMEX3 tid="t87" type="DURATION" value="P4Y" temporalFunction="false" functionInDocument="NONE">quatro anos</TIMEX3>.</s>
+<s>E em Hong Kong, uma <EVENT eid="e147" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> de três por cento.</s>
+<s>Mais <EVENT eid="e153" class="OCCURRENCE" stem="problema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">problemas</EVENT> em Hong Kong para um lugar, para uma economia, que muitos especialistas já <EVENT eid="e11" class="I_STATE" stem="achar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">achavam</EVENT> que era <EVENT eid="e376" class="STATE" stem="invencível" aspect="NONE" tense="PII" polarity="POS" pos="ADJECTIVE">invencível</EVENT>.</s>
+<s>Aqui fica o relato de Jim Laurie, da ABC.</s>
+
+
+<s>Não há muito tempo, antes do <EVENT eid="e12" class="OCCURRENCE" stem="domínio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">domínio</EVENT> chinês, as <EVENT eid="e14" class="OCCURRENCE" stem="notícia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">notícias</EVENT> do setor imobiliário aqui eram que o céu era o limite, os preços mais elevados do mundo.</s>
+<s>Assim, quando Wong Kwan <EVENT eid="e16" class="OCCURRENCE" stem="gastar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">gastou</EVENT> setenta milhões de dólares numa casa, <EVENT eid="e17" class="I_STATE" stem="pensar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pensou</EVENT> que era um grande <EVENT eid="e18" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="PII" polarity="POS" pos="NOUN">negócio</EVENT>.</s>
+<s><EVENT eid="e19" class="OCCURRENCE" stem="vender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Vendeu</EVENT> a propriedade a cinco compradores e <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e21" class="OCCURRENCE" stem="duplicar" aspect="NONE" tense="C" polarity="POS" pos="VERB">duplicaria</EVENT> o dinheiro.</s>
+
+<s>Em Hong Kong, o mercada está nas mãos de quem vende.</s>
+
+
+<s><TIMEX3 tid="t196" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t82">Agora</TIMEX3>, com novas <EVENT eid="e26" class="OCCURRENCE" stem="construção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">construções</EVENT> em <EVENT eid="e27" class="ASPECTUAL" stem="andamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">andamento</EVENT>, três dos seus compradores <EVENT eid="e28" class="OCCURRENCE" stem="desistir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desistiram</EVENT>.</s>
+<s>E Wong Kwan terá sorte se <EVENT eid="e30" class="OCCURRENCE" stem="recuperar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">recuperar</EVENT> o investimento.</s>
+<s>Por toda a Hong Kong, o mercado imobiliário <EVENT eid="e32" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT>.</s>
+<s>Pamela Pak <EVENT eid="e33" class="OCCURRENCE" stem="possuir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">possui</EVENT> oito condomínios aqui.</s>
+<s>Pak não consegue <EVENT eid="e34" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">encontrar</EVENT> compradores.</s>
+<s>Ela <EVENT eid="e37" class="REPORTING" stem="estimar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">estima</EVENT> que as suas propriedades, no <EVENT eid="e88" class="STATE" stem="valor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">valor</EVENT> de cento e trinta milhões de dólares em <TIMEX3 tid="t89" type="DATE" value="1997-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t82">outubro</TIMEX3>, <EVENT eid="e91" class="STATE" stem="valer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">valem</EVENT> apenas metade disso <TIMEX3 tid="t90" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t82">agora</TIMEX3>.</s>
+
+
+<s>Eles <EVENT eid="e39" class="I_STATE" stem="acreditar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">acreditavam</EVENT> que estaria sempre a <EVENT eid="e40" class="OCCURRENCE" stem="subir" aspect="PROGRESSIVE" tense="C" polarity="POS" pos="VERB">subir</EVENT>, para sempre.</s>
+<s> Ninguém <EVENT eid="e41" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">acredita</EVENT> mais nisso.</s>
+
+
+<s>De todas as economias da Ásia, Hong Kong é a mais robusta.</s>
+<s>Mas, nos <TIMEX3 tid="t98" type="DURATION" value="P3M" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t82">últimos três meses</TIMEX3>, as ações <EVENT eid="e42" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT>, as taxas de juros <EVENT eid="e43" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> e a <EVENT eid="e44" class="OCCURRENCE" stem="crise" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">crise</EVENT> em toda a Ásia significa que as pessoas não estão a <EVENT eid="e46" class="OCCURRENCE" stem="gastar" aspect="PROGRESSIVE" tense="PI" polarity="NEG" pos="VERB">gastar</EVENT> dinheiro aqui.</s>
+
+
+<s>A taxa de ocupação dos hotéis é de apenas <EVENT eid="e371" class="STATE" stem="trinta" aspect="NONE" tense="PI" polarity="POS" pos="OTHER">trinta</EVENT> por cento.</s>
+<s>Podem-se <EVENT eid="e48" class="OCCURRENCE" stem="obter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">obter</EVENT> <EVENT eid="e50" class="OCCURRENCE" stem="desconto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">descontos</EVENT> de setenta por cento nos centros comerciais.</s>
+<s>Pérolas de três mil dólares por oitocentos dólares.</s>
+<s>Um casaco de lã de duzentos dólares por cinquenta dólares.</s>
+<s>Ainda assim, existem <EVENT eid="e375" class="STATE" stem="pouco" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">poucos</EVENT> compradores.</s>
+<s>E nas grandes corretoras, após <TIMEX3 tid="t99" type="DURATION" value="P10Y" temporalFunction="false" functionInDocument="NONE">dez anos</TIMEX3> de <EVENT eid="e52" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT>, <EVENT eid="e53" class="OCCURRENCE" stem="falar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">fala</EVENT>-se de <EVENT eid="e54" class="OCCURRENCE" stem="demissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">demissões</EVENT>.</s>
+
+
+<s><EVENT eid="e55" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Acho</EVENT> que o clima é bastante <EVENT eid="e374" class="STATE" stem="sombrio" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">sombrio</EVENT>, e <EVENT eid="e56" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acho</EVENT> que não vai <EVENT eid="e59" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">mudar</EVENT> nos <TIMEX3 tid="t100" type="DURATION" value="P2Y" mod="APPROX" temporalFunction="false" functionInDocument="NONE">próximos anos</TIMEX3>.</s>
+
+
+<s>Então, para Hong Kong, é <EVENT eid="e60" class="OCCURRENCE" stem="tempo" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">tempo</EVENT>, como os banqueiros de investimento gostam de dizer, de <EVENT eid="e64" class="OCCURRENCE" stem="reposicionar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reposicionar</EVENT>.</s>
+<s>Para ou <EVENT eid="e65" class="OCCURRENCE" stem="segurar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">segurar</EVENT>-se bem ou <EVENT eid="e66" class="OCCURRENCE" stem="sair" aspect="NONE" tense="INF" polarity="POS" pos="VERB">sair</EVENT>, à medida que grande parte da Ásia <EVENT eid="e67" class="OCCURRENCE" stem="entrar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">entra</EVENT> em <EVENT eid="e368" class="OCCURRENCE" stem="recessão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recessão</EVENT>.</s>
+<s>Jim Laurie, ABC News, Hong Kong.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e7" relatedToTime="t85" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e53" relatedToTime="t99" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e55" relatedToTime="t100" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e59" relatedToTime="t100" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e56" relatedToTime="t100" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e4" relatedToTime="t82" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e7" relatedToTime="t82" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e147" relatedToTime="t82" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e11" relatedToTime="t82" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e17" relatedToTime="t82" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e19" relatedToTime="t82" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e20" relatedToTime="t82" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e40" relatedToTime="t82" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e39" relatedToTime="t82" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e41" relatedToTime="t82" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e53" relatedToTime="t82" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e55" relatedToTime="t82" task="B"/>
+<TLINK lid="l18" relType="AFTER" eventID="e59" relatedToTime="t82" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e56" relatedToTime="t82" task="B"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e67" relatedToTime="t82" task="B"/>
+<TLINK lid="l21" relType="AFTER" eventID="e65" relatedToTime="t82" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e37" eventID="e34" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e376" eventID="e147" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e41" eventID="e39" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e32" eventID="e30" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e19" eventID="e17" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e64" eventID="e55" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e53" eventID="e375" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e39" eventID="e37" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e368" eventID="e64" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e33" eventID="e32" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e55" eventID="e53" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e7" eventID="e4" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP-OR-AFTER" relatedToEvent="e10" eventID="e9" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e48" eventID="e371" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e17" eventID="e14" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e34" eventID="e33" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e9" eventID="e7" task="C"/>
+<TLINK lid="l19c" relType="BEFORE" relatedToEvent="e30" eventID="e28" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e371" eventID="e42" task="C"/>
+</TempEval>

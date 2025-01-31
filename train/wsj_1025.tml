@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0031
+= 891026
+891026-0031.
+Dossier de Negócios - Sotheby's Holdings Inc.:
+@ Prejuízo no Terceiro Trimestre Encolheu
+@ Com Lucro na Receita Operacional
+<TIMEX3 tid="t16" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+BID
+EARNINGS (ERN)
+
+
+<s>A Sotheby's Holdings Inc., a empresa-mãe da casa de leilões Sotheby's, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o seu <EVENT eid="e2" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido no <TIMEX3 tid="t21" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t16">terceiro trimestre</TIMEX3>, sazonalmente fraco, <EVENT eid="e4" class="OCCURRENCE" stem="encolher" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">encolheu</EVENT> desde <TIMEX3 tid="t22" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">há um ano</TIMEX3>, com um <EVENT eid="e5" class="OCCURRENCE" stem="salto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">salto</EVENT> na receita operacional.</s>
+
+<s>A companha sediada em Nova Iorque <EVENT eid="e7" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> um <EVENT eid="e8" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido no <TIMEX3 tid="t36" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t16">terceiro trimestre</TIMEX3> de 5,1 milhões de dólares, ou 10 cêntimos por ação, em comparação com o <EVENT eid="e10" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> de <TIMEX3 tid="t37" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t36">há um ano</TIMEX3> de 6,2 milhões de dólares, ou 12 cêntimos por ação.</s>
+<s>A receita operacional <EVENT eid="e11" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> 54% no <TIMEX3 tid="t38" type="DATE" value="1989-QX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t16">último período</TIMEX3> para os 42,9 milhões de dólares desde os 27,7 milhões de dólares.</s>
+
+<s>A empresa <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que 80% do seu negócio de leilão é geralmente <EVENT eid="e14" class="OCCURRENCE" stem="realizar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">realizado</EVENT> no <TIMEX3 tid="t40" type="SET" value="XXXX-Q2" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41" quant="EVERY">segundo trimestre</TIMEX3> e no <TIMEX3 tid="t41" type="SET" value="XXXX-Q4" temporalFunction="false" functionInDocument="NONE" quant="EVERY">quarto</TIMEX3>, sendo que <TIMEX3 tid="t42" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t16">o trimestre em curso</TIMEX3> <EVENT eid="e43" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> "extremamente bem".</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t21" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e2" relatedToTime="t22" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1" relatedToTime="t22" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e8" relatedToTime="t36" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e8" relatedToTime="t37" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e7" relatedToTime="t36" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e7" relatedToTime="t37" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e10" relatedToTime="t36" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e10" relatedToTime="t37" task="A"/>
+<TLINK lid="l11" relType="VAGUE" eventID="e43" relatedToTime="t40" task="A"/>
+<TLINK lid="l12" relType="VAGUE" eventID="e43" relatedToTime="t41" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e43" relatedToTime="t42" task="A"/>
+<TLINK lid="l14" relType="VAGUE" eventID="e12" relatedToTime="t40" task="A"/>
+<TLINK lid="l15" relType="VAGUE" eventID="e12" relatedToTime="t41" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e12" relatedToTime="t42" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e2" relatedToTime="t16" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e1" relatedToTime="t16" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e8" relatedToTime="t16" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e7" relatedToTime="t16" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e10" relatedToTime="t16" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e43" relatedToTime="t16" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e12" relatedToTime="t16" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e7" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e11" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>

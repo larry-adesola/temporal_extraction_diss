@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0036
+= 891030
+891030-0036.
+Grupo de Investidores Faz
+@ Proposta à Dataproducts;
+@ Procura-se Liquidação
+<TIMEX3 tid="t81" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DPC
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+WOODLAND HILLS, Calif.
+
+
+<s>Uma unidade da DPC Acquisition Partners <EVENT eid="e1" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">lançou</EVENT> uma <EVENT eid="e2" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de aquisição de 10 dólares por ação pelas ações em circulação da Dataproducts Corp. e <EVENT eid="e3" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e4" class="I_ACTION" stem="procurar" aspect="NONE" tense="C" polarity="POS" pos="VERB">procuraria</EVENT> <EVENT eid="e7" class="OCCURRENCE" stem="liquidar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">liquidar</EVENT> o fabricante de computadores e impressoras "<TIMEX3 tid="t80" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t81">o mais rapidamente possível</TIMEX3>", mesmo que a <EVENT eid="e82" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT> não seja <EVENT eid="e10" class="OCCURRENCE" stem="realizar" aspect="NONE" tense="PC" polarity="NEG" pos="VERB">realizada</EVENT>.</s>
+
+<s>A DPC Acquisition é controlada pela Crescott Investment Associates, pelo Wilson Investment Group, pela Kernel Corp. e pela Catalyst Partners.</s>
+<s>O grupo investidor detém 1.534.600 ações ordinárias da Dataproducts, ou uma participação de 7,6%.</s>
+
+<s>A <EVENT eid="e15" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> é baseada em várias condições, incluindo a <EVENT eid="e84" class="OCCURRENCE" stem="obtenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">obtenção</EVENT> de <EVENT eid="e85" class="STATE" stem="financiamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">financiamento</EVENT>.</s>
+<s>A DPC Acquisition <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que tinha <EVENT eid="e19" class="OCCURRENCE" stem="receber" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">recebido</EVENT> uma <EVENT eid="e20" class="I_ACTION" stem="garantia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">garantia</EVENT> razoável do Chase Manhattan Bank N.A. de que o <EVENT eid="e21" class="STATE" stem="financiamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">financiamento</EVENT> pode ser <EVENT eid="e22" class="I_STATE" stem="obter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">obtido</EVENT>.</s>
+
+<s>Num documento <EVENT eid="e24" class="OCCURRENCE" stem="submeter" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">submetido</EVENT> à Securities and Exchange Commission, a DPC Acquisition <EVENT eid="e25" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e26" class="I_STATE" stem="estimar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">estima</EVENT> que <EVENT eid="e27" class="I_STATE" stem="precisar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">precisará</EVENT> de cerca de 215 milhões de dólares para <EVENT eid="e29" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> as ações e <EVENT eid="e30" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> as taxas e despesas relacionadas.</s>
+<s>A DPC Acquisition <EVENT eid="e32" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> que não <EVENT eid="e33" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">iniciou</EVENT> <EVENT eid="e35" class="OCCURRENCE" stem="discussão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">discussões</EVENT> com fontes de financiamento e <EVENT eid="e36" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e37" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">esperava</EVENT> <EVENT eid="e39" class="OCCURRENCE" stem="reembolsar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reembolsar</EVENT> as quantias <EVENT eid="e40" class="OCCURRENCE" stem="emprestar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">emprestadas</EVENT> com o dinheiro da <EVENT eid="e42" class="OCCURRENCE" stem="liquidação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">liquidação</EVENT>.</s>
+
+<s>Os funcionários da Dataproducts <EVENT eid="e43" class="I_ACTION" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusaram</EVENT>-se a <EVENT eid="e45" class="OCCURRENCE" stem="comentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comentar</EVENT> e <EVENT eid="e46" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que ainda não tinham <EVENT eid="e47" class="PERCEPTION" stem="ver" aspect="NONE" tense="MPIC" polarity="NEG" pos="VERB">visto</EVENT> um processo <EVENT eid="e50" class="OCCURRENCE" stem="abrir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">aberto</EVENT> no tribunal federal pela DPC Acquisition que <EVENT eid="e52" class="I_STATE" stem="visar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">visasse</EVENT> <EVENT eid="e54" class="I_STATE" stem="anular" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anular</EVENT> o <EVENT eid="e55" class="STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> de não aquisição entre a DPC Acquisition e a Dataproducts.</s>
+
+<s>No <TIMEX3 tid="t86" type="DATE" value="1989" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t81">início deste ano</TIMEX3>, a DPC Acquisition <EVENT eid="e56" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fez</EVENT> uma <EVENT eid="e57" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de 15 dólares por ação à Dataproducts, que o conselho de administração da Dataproducts <EVENT eid="e58" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> ter <EVENT eid="e59" class="I_ACTION" stem="rejeitar" aspect="NONE" tense="INFC" polarity="POS" pos="VERB">rejeitado</EVENT> por a oferta de 283,7 milhões de dólares não estar totalmente <EVENT eid="e61" class="OCCURRENCE" stem="financiar" aspect="NONE" tense="INFF" polarity="NEG" pos="VERB">financiada</EVENT>.</s>
+<s>A Dataproducts <EVENT eid="e64" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">iniciou</EVENT> entretanto uma <EVENT eid="e88" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT>, e <EVENT eid="e65" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que não está <EVENT eid="e90" class="STATE" stem="a" aspect="NONE" tense="PI" polarity="NEG" pos="PREPOSITION">à</EVENT> venda.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t80" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e4" relatedToTime="t80" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e3" relatedToTime="t80" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e58" relatedToTime="t86" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e57" relatedToTime="t86" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e56" relatedToTime="t86" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e2" relatedToTime="t81" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e4" relatedToTime="t81" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e3" relatedToTime="t81" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e15" relatedToTime="t81" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e18" relatedToTime="t81" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e30" relatedToTime="t81" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e26" relatedToTime="t81" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e29" relatedToTime="t81" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e25" relatedToTime="t81" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e37" relatedToTime="t81" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e33" relatedToTime="t81" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e36" relatedToTime="t81" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e32" relatedToTime="t81" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e43" relatedToTime="t81" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e46" relatedToTime="t81" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e55" relatedToTime="t81" task="B"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e52" relatedToTime="t81" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e47" relatedToTime="t81" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e58" relatedToTime="t81" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e57" relatedToTime="t81" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e56" relatedToTime="t81" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e65" relatedToTime="t81" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e64" eventID="e56" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e43" eventID="e32" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e56" eventID="e43" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e32" eventID="e25" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e25" eventID="e18" task="C"/>
+</TempEval>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+APW19980301.0720
+REPORTAGEM
+<TIMEX3 tid="t122" type="TIME" value="1998-03-01T14:11:00" temporalFunction="false" functionInDocument="CREATION_TIME">03/01/1998 14:11:00</TIMEX3>
+
+w1219 Cx1f wstm- u i Cx13 Cx11 BC-Israel-Lebanon 03-01 0570
+BC-Israel-Lebanon
+Reunidas condições políticas para a retirada israelita do Líbano
+UR Eds: INCORPORATES Israel-Syria; ADDS background and additional comment Sunday QL
+
+
+<s>Jerusalém - As altas autoridades israelitas <EVENT eid="e1" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">enviaram</EVENT> no <TIMEX3 tid="t123" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">domingo</TIMEX3> <EVENT eid="e124" class="I_ACTION" stem="sinal" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sinais</EVENT> novos fortes de que Israel <EVENT eid="e3" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">quer</EVENT> <EVENT eid="e5" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retirar</EVENT>-se do sul do Líbano, onde uma <EVENT eid="e6" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> de atrito cara tem vindo a <EVENT eid="e7" class="I_ACTION" stem="reclamar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reclamar</EVENT> vidas de soldados.</s>
+<s>O primeiro-ministro Benjamin Netanyahu <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ao seu gabinete no <TIMEX3 tid="t125" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">domingo</TIMEX3> que Israel estava <EVENT eid="e1990" class="I_STATE" stem="dispor" aspect="NONE" tense="PII+PPA" polarity="POS" pos="VERB">disposto</EVENT> a <EVENT eid="e10" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retirar</EVENT>-se do sul do Líbano desde que a fronteira norte de Israel possa ficar <EVENT eid="e12" class="OCCURRENCE" stem="seguro" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">segura</EVENT>.</s>
+<s>"Se o governo libanês <EVENT eid="e14" class="OCCURRENCE" stem="cooperar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">cooperar</EVENT> connosco na <EVENT eid="e16" class="I_ACTION" stem="busca" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">busca</EVENT> de soluções adequadas de segurança no sul do Líbano, teremos todo o prazer em <EVENT eid="e18" class="OCCURRENCE" stem="sair" aspect="NONE" tense="INF" polarity="POS" pos="VERB">sair</EVENT> do Líbano no âmbito da implementação da Resolução 425 da ONU", <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Netanyahu aos ministros.</s>
+<s>Essa <EVENT eid="e21" class="OCCURRENCE" stem="resolução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resolução</EVENT> de <TIMEX3 tid="t128" type="DATE" value="1978" temporalFunction="false" functionInDocument="NONE">1978</TIMEX3> <EVENT eid="e22" class="OCCURRENCE" stem="apelar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">apela</EVENT> à <EVENT eid="e23" class="OCCURRENCE" stem="retirada" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">retirada</EVENT> incondicional de Israel da zona auto-declarada de segurança que <EVENT eid="e24" class="STATE" stem="ocupar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">ocupa</EVENT> no sul do Líbano, e à <EVENT eid="e25" class="OCCURRENCE" stem="implantação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">implantação</EVENT> do exército libanês e das forças da ONU para <EVENT eid="e27" class="OCCURRENCE" stem="garantir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">garantir</EVENT> a segurança ao longo da fronteira israelo-libanesa.</s>
+<s>Na <TIMEX3 tid="t127" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">sexta-feira</TIMEX3>, Netanyahu <EVENT eid="e29" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que não <EVENT eid="e30" class="STATE" stem="ter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">tinha</EVENT> "problemas" em <EVENT eid="e32" class="OCCURRENCE" stem="implementar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">implementar</EVENT> a resolução da ONU, desde que Israel <EVENT eid="e33" class="STATE" stem="ter" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">tivesse</EVENT> "as garantias de segurança necessárias".</s>
+<s>O ministro israelita Michael Eitan <EVENT eid="e35" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> no <TIMEX3 tid="t129" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">domingo</TIMEX3> que as <EVENT eid="e36" class="OCCURRENCE" stem="observação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">observações</EVENT> de Netanyahu <EVENT eid="e37" class="OCCURRENCE" stem="marcar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">marcaram</EVENT> uma <EVENT eid="e38" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudança</EVENT> substancial na posição de Israel.</s>
+<s>"Vamos <EVENT eid="e39" class="OCCURRENCE" stem="defender" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">defender</EVENT> o norte da fronteira internacional", <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Eitan, ministro da ciência.</s>
+<s>"Ninguém <EVENT eid="e41" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">quer</EVENT> <EVENT eid="e43" class="STATE" stem="ficar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ficar</EVENT> no Líbano; assim, <EVENT eid="e44" class="I_STATE" stem="pensar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">pensamos</EVENT> que é <EVENT eid="e131" class="I_STATE" stem="melhor" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">melhor</EVENT> <EVENT eid="e46" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">retirarmo</EVENT>-nos."</s>
+<s>Uri Lubrani, o alto oficial de Israel para os assuntos do Líbano, também <EVENT eid="e47" class="REPORTING" stem="sugerir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sugeriu</EVENT> que Israel estava <EVENT eid="e132" class="I_STATE" stem="dispor" aspect="NONE" tense="PII+PPA" polarity="POS" pos="VERB">disposto</EVENT> a <EVENT eid="e49" class="OCCURRENCE" stem="modificar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">modificar</EVENT> os seus objectivos políticos no Líbano.</s>
+<s>"Isto é algo novo... significa que estamos <EVENT eid="e133" class="I_STATE" stem="dispor" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">dispostos</EVENT> a <EVENT eid="e54" class="OCCURRENCE" stem="conversar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">conversar</EVENT> <TIMEX3 tid="t134" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">hoje</TIMEX3> - ponto final - sobre segurança", <EVENT eid="e57" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Lubrani ao Canal 1 de Israel.</s>
+<s>"Temos <EVENT eid="e58" class="OCCURRENCE" stem="evitar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">evitado</EVENT> a questão da paz, a questão da normalização."</s>
+<s>Como o número de mortos no Líbano tem <EVENT eid="e60" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">crescido</EVENT>, o governo israelita tem sido <EVENT eid="e61" class="OCCURRENCE" stem="confrontar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">confrontado</EVENT> com um crescente <EVENT eid="e62" class="OCCURRENCE" stem="movimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">movimento</EVENT> popular <EVENT eid="e63" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">pedindo</EVENT> a <EVENT eid="e64" class="OCCURRENCE" stem="retirada" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">retirada</EVENT> unilateral de Israel do Líbano.</s>
+<s>Desde <TIMEX3 tid="t1979" type="DATE" value="1985" temporalFunction="false" functionInDocument="NONE">1985</TIMEX3> - quando os israelitas <EVENT eid="e66" class="OCCURRENCE" stem="criar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">criaram</EVENT> uma zona de segurança no sul do Líbano - já <EVENT eid="e67" class="OCCURRENCE" stem="morrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">morreram</EVENT> cerca de 200 soldados israelitas <EVENT eid="e68" class="OCCURRENCE" stem="combater" aspect="NONE" tense="GER" polarity="POS" pos="VERB">combatendo</EVENT> o Hezbollah e outros guerrilheiros.</s>
+<s>Na <TIMEX3 tid="t1980" type="DATE" value="1998-W08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">semana passada</TIMEX3>, militantes do Hezbollah <EVENT eid="e69" class="OCCURRENCE" stem="matar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mataram</EVENT> três soldados israelitas e <EVENT eid="e70" class="OCCURRENCE" stem="ferir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">feriram</EVENT> gravemente outros seis.</s>
+<s>Os israelitas <EVENT eid="e71" class="OCCURRENCE" stem="sofrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sofreram</EVENT> um recorde de 39 <EVENT eid="e73" class="OCCURRENCE" stem="morte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mortes</EVENT> no sul do Líbano no <TIMEX3 tid="t1981" type="DURATION" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">ano passado</TIMEX3>.</s>
+<s>Além disso, 73 soldados foram <EVENT eid="e75" class="OCCURRENCE" stem="matar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mortos</EVENT> a caminho do Líbano, quando dois helicópteros militares se <EVENT eid="e77" class="OCCURRENCE" stem="despenhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">despenharam</EVENT> em <TIMEX3 tid="t1982" type="DATE" value="1997-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">fevereiro passado</TIMEX3>.</s>
+<s>O jornal "Maariv" <EVENT eid="e78" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> neste <TIMEX3 tid="t1983" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">domingo</TIMEX3> que os <EVENT eid="e79" class="OCCURRENCE" stem="comentário" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comentários</EVENT> de Netanyahu, na <TIMEX3 tid="t1985" type="DATE" value="1998-W08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">semana passada</TIMEX3> vieram no seguimento de <EVENT eid="e80" class="I_ACTION" stem="sinal" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sinais</EVENT> da Síria de que <EVENT eid="e81" class="I_STATE" stem="querer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">quer</EVENT> <EVENT eid="e83" class="ASPECTUAL" stem="retomar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retomar</EVENT> as <EVENT eid="e84" class="OCCURRENCE" stem="conversação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversações</EVENT> de paz, há muito num impasse, entre os dois países.</s>
+<s>O jornal, <EVENT eid="e85" class="REPORTING" stem="referir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">referindo</EVENT> "<EVENT eid="e86" class="REPORTING" stem="relatório" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relatórios</EVENT> secretos", <EVENT eid="e87" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Síria tinha <EVENT eid="e88" class="I_ACTION" stem="manifestar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">manifestado</EVENT> o seu interesse em <EVENT eid="e90" class="ASPECTUAL" stem="retomar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retomar</EVENT> as <EVENT eid="e91" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> em <EVENT eid="e92" class="OCCURRENCE" stem="declaração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declarações</EVENT> <EVENT eid="e94" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">feitas</EVENT> na <TIMEX3 tid="t1986" type="DATE" value="1998-W08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">semana passada</TIMEX3> pelo embaixador sírio em Washington, Walid Mualem, numa <EVENT eid="e95" class="OCCURRENCE" stem="palestra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">palestra</EVENT> a uma audiência privada em Baltimore.</s>
+<s>Dois altos assessores de Netanyahu, o conselheiro político Uzi Arad e o secretário do governo Danny Naveh, <EVENT eid="e97" class="OCCURRENCE" stem="partir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">partiram</EVENT> para a Europa no <TIMEX3 tid="t1987" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">domingo</TIMEX3>, aparentemente para <EVENT eid="e98" class="I_ACTION" stem="investigar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">investigar</EVENT> a questão síria, <EVENT eid="e99" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> o jornal.</s>
+<s>As <EVENT eid="e100" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> entre Israel e a Síria foram <EVENT eid="e101" class="OCCURRENCE" stem="interromper" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">interrompidas</EVENT> <TIMEX3 tid="t1988" type="DURATION" value="P2Y" mod="EQUAL_OR_LESS" temporalFunction="false" functionInDocument="NONE">há cerca de dois anos</TIMEX3>.</s>
+<s>O ministro da Defesa Yitzhak Mordechai foi o primeiro alto funcionário israelita a <EVENT eid="e102" class="OCCURRENCE" stem="referir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">referir</EVENT>-se à resolução 425 da ONU num <EVENT eid="e103" class="OCCURRENCE" stem="discurso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">discurso</EVENT> <TIMEX3 tid="t1989" type="DATE" value="1998-W02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">há seis semanas</TIMEX3>, <EVENT eid="e105" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> na <TIMEX3 tid="t1993" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t1989">altura</TIMEX3> que estava <EVENT eid="e1994" class="I_STATE" stem="dispor" aspect="NONE" tense="PII+PPA" polarity="POS" pos="VERB">disposto</EVENT> a <EVENT eid="e109" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retirar</EVENT> as tropas em <EVENT eid="e110" class="OCCURRENCE" stem="troca" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">troca</EVENT> de <EVENT eid="e112" class="OCCURRENCE" stem="garantia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">garantias</EVENT> de que Israel não seria <EVENT eid="e113" class="OCCURRENCE" stem="atacar" aspect="NONE" tense="C" polarity="POS" pos="VERB">atacado</EVENT>.</s>
+
+UR (pvs-dh-lk) (PROFILE (WS SL:BC-Israel-Lebanon; CT:i; (REG:MEST;) (REG:ENGL;) (REG:EURO;) (REG:BRIT;) (REG:SCAN;) (LANG:ENGLISH;)) )
+
+<s>AP-NY-03-01-98 1411EST</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e3" relatedToTime="t123" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e6" relatedToTime="t123" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e8" relatedToTime="t125" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e22" relatedToTime="t128" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e29" relatedToTime="t127" task="A"/>
+<TLINK lid="l6" relType="OVERLAP-OR-AFTER" eventID="e33" relatedToTime="t127" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e30" relatedToTime="t127" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e35" relatedToTime="t129" task="A"/>
+<TLINK lid="l9" relType="BEFORE-OR-OVERLAP" eventID="e38" relatedToTime="t129" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e54" relatedToTime="t134" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e57" relatedToTime="t134" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e78" relatedToTime="t1983" task="A"/>
+<TLINK lid="l13" relType="AFTER" eventID="e78" relatedToTime="t1985" task="A"/>
+<TLINK lid="l14" relType="VAGUE" eventID="e84" relatedToTime="t1983" task="A"/>
+<TLINK lid="l15" relType="VAGUE" eventID="e84" relatedToTime="t1985" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e81" relatedToTime="t1983" task="A"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e81" relatedToTime="t1985" task="A"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e94" relatedToTime="t1986" task="A"/>
+<TLINK lid="l19" relType="AFTER" eventID="e91" relatedToTime="t1986" task="A"/>
+<TLINK lid="l20" relType="VAGUE" eventID="e86" relatedToTime="t1986" task="A"/>
+<TLINK lid="l21" relType="OVERLAP" eventID="e87" relatedToTime="t1986" task="A"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e97" relatedToTime="t1987" task="A"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e99" relatedToTime="t1987" task="A"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e100" relatedToTime="t1988" task="A"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e105" relatedToTime="t1989" task="A"/>
+<TLINK lid="l26" relType="OVERLAP" eventID="e105" relatedToTime="t1993" task="A"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e3" relatedToTime="t122" task="B"/>
+<TLINK lid="l28" relType="OVERLAP" eventID="e6" relatedToTime="t122" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e8" relatedToTime="t122" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e20" relatedToTime="t122" task="B"/>
+<TLINK lid="l31" relType="AFTER" eventID="e16" relatedToTime="t122" task="B"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e22" relatedToTime="t122" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e29" relatedToTime="t122" task="B"/>
+<TLINK lid="l34" relType="OVERLAP-OR-AFTER" eventID="e33" relatedToTime="t122" task="B"/>
+<TLINK lid="l35" relType="BEFORE-OR-OVERLAP" eventID="e30" relatedToTime="t122" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e35" relatedToTime="t122" task="B"/>
+<TLINK lid="l37" relType="BEFORE-OR-OVERLAP" eventID="e38" relatedToTime="t122" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e40" relatedToTime="t122" task="B"/>
+<TLINK lid="l39" relType="OVERLAP" eventID="e41" relatedToTime="t122" task="B"/>
+<TLINK lid="l40" relType="OVERLAP" eventID="e44" relatedToTime="t122" task="B"/>
+<TLINK lid="l41" relType="VAGUE" eventID="e54" relatedToTime="t122" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e57" relatedToTime="t122" task="B"/>
+<TLINK lid="l43" relType="OVERLAP" eventID="e63" relatedToTime="t122" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e78" relatedToTime="t122" task="B"/>
+<TLINK lid="l45" relType="VAGUE" eventID="e84" relatedToTime="t122" task="B"/>
+<TLINK lid="l46" relType="OVERLAP" eventID="e81" relatedToTime="t122" task="B"/>
+<TLINK lid="l47" relType="BEFORE" eventID="e94" relatedToTime="t122" task="B"/>
+<TLINK lid="l48" relType="VAGUE" eventID="e91" relatedToTime="t122" task="B"/>
+<TLINK lid="l49" relType="VAGUE" eventID="e86" relatedToTime="t122" task="B"/>
+<TLINK lid="l50" relType="BEFORE" eventID="e87" relatedToTime="t122" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e97" relatedToTime="t122" task="B"/>
+<TLINK lid="l52" relType="BEFORE" eventID="e99" relatedToTime="t122" task="B"/>
+<TLINK lid="l53" relType="BEFORE" eventID="e100" relatedToTime="t122" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e105" relatedToTime="t122" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e71" eventID="e69" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e58" eventID="e57" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e67" eventID="e61" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e61" eventID="e58" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e22" eventID="e20" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e101" eventID="e99" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e41" eventID="e40" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e99" eventID="e87" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e47" eventID="e41" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e102" eventID="e101" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e78" eventID="e75" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e57" eventID="e47" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e87" eventID="e78" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e20" eventID="e8" task="C"/>
+<TLINK lid="l15c" relType="BEFORE" relatedToEvent="e35" eventID="e29" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e69" eventID="e67" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e29" eventID="e22" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e40" eventID="e35" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e75" eventID="e71" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0033
+= 891102
+891102-0033.
+Reupke Rescinde Posição
+@ De Diretor Geral
+@ Da Reuters Holdings
+<TIMEX3 tid="t40" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+RTRSY WNEWS
+LONDON
+
+<s>A Reuters Holdings PLC <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que Michael Reupke se <EVENT eid="e2" class="OCCURRENCE" stem="demitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">demitiu</EVENT> do cargo de diretor geral para seguir interesses não especificados, uma <EVENT eid="e97" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativa</EVENT> a que a organização noticiosa chamou uma "separação amigável".</s>
+
+<s>Reupke, de 52 anos e um <EVENT eid="e47" class="STATE" stem="veterano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">veterano</EVENT> de <TIMEX3 tid="t42" type="DURATION" value="P27Y" temporalFunction="false" functionInDocument="NONE">27</TIMEX3> anos na Reuters, era o <EVENT eid="e360" class="STATE" stem="diretor" aspect="NONE" tense="PII" polarity="POS" pos="NOUN">diretor</EVENT> geral dos serviços de informação da empresa <TIMEX3 tid="t43" type="DURATION" value="P6M" temporalFunction="false" functionInDocument="NONE">há apenas seis meses</TIMEX3>.</s>
+<s>A sua <EVENT eid="e51" class="I_ACTION" stem="nomeação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nomeação</EVENT> para esse <EVENT eid="e127" class="STATE" stem="cargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cargo</EVENT>, que tem responsabilidades administrativas, de pessoal e estratégicas, <EVENT eid="e6" class="ASPECTUAL" stem="seguir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">seguiu</EVENT>-se a uma <EVENT eid="e52" class="STATE" stem="carreira" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">carreira</EVENT> de <TIMEX3 tid="t44" type="DURATION" value="PXY" temporalFunction="false" functionInDocument="NONE">vários anos</TIMEX3> como editor-chefe da Reuters.</s>
+<s>Nenhum <EVENT eid="e157" class="STATE" stem="sucessor" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">sucessor</EVENT> foi <EVENT eid="e7" class="I_ACTION" stem="nomear" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">nomeado</EVENT>, e as <EVENT eid="e168" class="STATE" stem="obrigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">obrigações</EVENT> de Reupke serão <EVENT eid="e8" class="ASPECTUAL" stem="dividir" aspect="NONE" tense="FI" polarity="POS" pos="VERB">divididas</EVENT> entre outros três altos funcionários da Reuters, <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a companhia.</s>
+
+<s>Em entrevista por telefone, Reupke <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua <EVENT eid="e55" class="OCCURRENCE" stem="saída" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">saída</EVENT> foi por "razões pessoais", que ele não quis especificar.</s>
+<s>"Não há nenhuma razão profissional para a minha <EVENT eid="e57" class="OCCURRENCE" stem="partida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">partida</EVENT>", nem qualquer desacordo sobre políticas ", <EVENT eid="e14" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT>.</s>
+<s>Também <EVENT eid="e15" class="REPORTING" stem="rejeitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">rejeitou</EVENT> os <EVENT eid="e58" class="REPORTING" stem="boato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">boatos</EVENT> de que a sua <EVENT eid="e59" class="OCCURRENCE" stem="partida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">partida</EVENT> tenha <EVENT eid="e16" class="I_ACTION" stem="resultar" aspect="NONE" tense="PPCC" polarity="POS" pos="VERB">resultado</EVENT> da <EVENT eid="e17" class="I_STATE" stem="deceção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">deceção</EVENT> de que o <EVENT eid="e359" class="STATE" stem="cargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cargo</EVENT> de diretor geral não tenha também <EVENT eid="e69" class="OCCURRENCE" stem="levar" aspect="NONE" tense="PPCC" polarity="NEG" pos="VERB">levado</EVENT> a uma <EVENT eid="e362" class="STATE" stem="posição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">posição</EVENT> no conselho de administração da organização noticiosa sediada em Londres.</s>
+
+<s>Reupke foi um dos três executivos do comité executivo de oito pessoas da Reuters que não <EVENT eid="e21" class="STATE" stem="trabalhar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">trabalhou</EVENT> também no conselho de administração da empresa.</s>
+<s>"Se eu fosse <EVENT eid="e23" class="ASPECTUAL" stem="escolher" aspect="NONE" tense="IR-PIC+INF" polarity="POS" pos="VERB">escolher</EVENT> as pessoas de amanhã, eu teria <EVENT eid="e24" class="ASPECTUAL" stem="escolher" aspect="NONE" tense="CC" polarity="POS" pos="VERB">escolhido</EVENT> as pessoas que estão <TIMEX3 tid="t46" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">agora</TIMEX3> <EVENT eid="e363" class="STATE" stem="em" aspect="NONE" tense="PI" polarity="POS" pos="PREPOSITION">no</EVENT> conselho", <EVENT eid="e27" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele.</s>
+
+<s>Um porta-voz da Reuters <EVENT eid="e28" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e65" class="OCCURRENCE" stem="partida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">partida</EVENT> não <EVENT eid="e29" class="STATE" stem="refletir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">reflete</EVENT> "nenhuma <EVENT eid="e72" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">mudança</EVENT> na <EVENT eid="e73" class="STATE" stem="estratégia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estratégia</EVENT> ou nos <EVENT eid="e74" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT>".</s>
+<s>Mark Shepperd, um analista da UBS Phillips &amp; Drew em Londres, <EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT>: "Eu <EVENT eid="e31" class="PERCEPTION" stem="suspeitar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">suspeito</EVENT> que (a <EVENT eid="e66" class="OCCURRENCE" stem="partida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">partida</EVENT>) será bastante <EVENT eid="e67" class="STATE" stem="irrelevante" aspect="NONE" tense="FI" polarity="POS" pos="ADJECTIVE">irrelevante</EVENT> para a empresa.</s>
+<s><EVENT eid="e32" class="I_STATE" stem="surpreender" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">Surpreender-me-ia</EVENT> bastante que a sua <EVENT eid="e75" class="OCCURRENCE" stem="saída" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">saída</EVENT> <EVENT eid="e76" class="ASPECTUAL" stem="assinalar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">assinalasse</EVENT> qualquer <EVENT eid="e77" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudança</EVENT> de <EVENT eid="e78" class="STATE" stem="estratégia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estratégia</EVENT> ou <EVENT eid="e79" class="ASPECTUAL" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudança</EVENT> nas <EVENT eid="e81" class="I_STATE" stem="expetativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">expetativas</EVENT> de <EVENT eid="e80" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro"</EVENT>.</s>
+<s>Na Bolsa de Valores de Londres, as ações da Reuters <EVENT eid="e35" class="I_ACTION" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> cinco pence para os 913 pence (14,43 dólares).</s>
+<s>No mercado de balcão americano, as American Depositary Shares para a Reuters, cada uma representando três ações do mercado de Londres, <EVENT eid="e36" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> inalteradas nos 43,875 dólares.</s>
+
+<s>O funcionário mais alto dos três executivos que <EVENT eid="e37" class="I_ACTION" stem="assumir" aspect="NONE" tense="FI" polarity="POS" pos="VERB">assumirão</EVENT> as <EVENT eid="e358" class="STATE" stem="função" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">funções</EVENT> de Reupke é Nigel Judah, de 58 anos, diretor de finanças e um dos diretores do conselho de administração da Reuters.</s>
+<s>Peter Holland, de 45 anos, gerente-geral adjunto, <EVENT eid="e38" class="ASPECTUAL" stem="tornar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">torna</EVENT>-se diretor de assuntos corporativos.</s>
+<s>E Patrick Mannix, de 46 anos, gerente técnico internacional, <EVENT eid="e39" class="ASPECTUAL" stem="tornar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">torna</EVENT>-se diretor de programas de qualidade de grupo.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e127" relatedToTime="t44" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e27" relatedToTime="t46" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e1" relatedToTime="t40" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e97" relatedToTime="t40" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e127" relatedToTime="t40" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e9" relatedToTime="t40" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e10" relatedToTime="t40" task="B"/>
+<TLINK lid="l8" relType="BEFORE-OR-OVERLAP" eventID="e14" relatedToTime="t40" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e58" relatedToTime="t40" task="B"/>
+<TLINK lid="l10" relType="BEFORE-OR-OVERLAP" eventID="e359" relatedToTime="t40" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e27" relatedToTime="t40" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e72" relatedToTime="t40" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e28" relatedToTime="t40" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e30" relatedToTime="t40" task="B"/>
+<TLINK lid="l15" relType="OVERLAP-OR-AFTER" eventID="e79" relatedToTime="t40" task="B"/>
+<TLINK lid="l16" relType="OVERLAP-OR-AFTER" eventID="e77" relatedToTime="t40" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e35" relatedToTime="t40" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e36" relatedToTime="t40" task="B"/>
+<TLINK lid="l19" relType="AFTER" eventID="e38" relatedToTime="t40" task="B"/>
+<TLINK lid="l20" relType="AFTER" eventID="e39" relatedToTime="t40" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e39" eventID="e38" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e14" eventID="e10" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e6" eventID="e360" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e35" eventID="e32" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e32" eventID="e30" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e27" eventID="e21" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e36" eventID="e35" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e15" eventID="e14" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e360" eventID="e1" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e10" eventID="e9" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e37" eventID="e36" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e28" eventID="e27" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e9" eventID="e6" task="C"/>
+<TLINK lid="l14c" relType="AFTER" relatedToEvent="e21" eventID="e15" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e30" eventID="e28" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e38" eventID="e37" task="C"/>
+
+</TempEval>

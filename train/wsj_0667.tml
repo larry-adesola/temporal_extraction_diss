@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0030
+= 891030
+891030-0030.
+Shoney's Vai Anunciar
+@ Amortização no Trimestre
+@ Totalizando
+@ 2,5 Milhões de Dólares
+<TIMEX3 tid="t40" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+SHN
+NASHVILLE, Tenn.
+
+
+<s>A Shoney's Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="REPORTING" stem="anunciar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">anunciará</EVENT> uma <EVENT eid="e3" class="OCCURRENCE" stem="amortização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">amortização</EVENT> de 2,5 milhões de dólares, ou sete cêntimos por ação, no <TIMEX3 tid="t41" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">seu quarto trimestre</TIMEX3> que terminou <TIMEX3 tid="t42" type="DATE" value="1989-10-29" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">ontem</TIMEX3>.</s>
+<s>O operador de restaurantes <EVENT eid="e5" class="REPORTING" stem="referir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">referiu</EVENT> os <EVENT eid="e44" class="OCCURRENCE" stem="custo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">custos</EVENT> de transação da sua <EVENT eid="e45" class="OCCURRENCE" stem="recapitalização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recapitalização</EVENT> de <TIMEX3 tid="t47" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3> como resultado de uma <EVENT eid="e46" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> de 160 milhões de dólares da sua dívida bancária.</s>
+
+<s>A <EVENT eid="e8" class="OCCURRENCE" stem="amortização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">amortização</EVENT> será <EVENT eid="e9" class="REPORTING" stem="apresentar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">apresentada</EVENT> como um item extraordinário nos <EVENT eid="e10" class="STATE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> <EVENT eid="e48" class="OCCURRENCE" stem="operacional" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">operacionais</EVENT> da empresa em <TIMEX3 tid="t49" type="DATE" value="1989" temporalFunction="false" functionInDocument="NONE">1989</TIMEX3>.</s>
+
+<s>Além disso, a <EVENT eid="e51" class="STATE" stem="taxa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">taxa</EVENT> de juro efetiva sobre os 410 milhões dólares do resto da dívida bancária após a <EVENT eid="e50" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> é de 10,66%.</s>
+<s><EVENT eid="e14" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Espera</EVENT>-se que o <EVENT eid="e52" class="STATE" stem="efeito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">efeito</EVENT> combinado destas <EVENT eid="e13" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudanças</EVENT> <EVENT eid="e16" class="OCCURRENCE" stem="poupar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">poupe</EVENT> a empresa de cerca de 4 milhões de dólares em despesas com juros no <TIMEX3 tid="t53" type="DATE" value="1990" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t40">próximo ano</TIMEX3>, ou seis cêntimos por ação.</s>
+
+<s>A Shoney's <EVENT eid="e19" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a recente <EVENT eid="e57" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> <EVENT eid="e58" class="OCCURRENCE" stem="afetar" aspect="NONE" tense="PPI" polarity="POS" pos="ADJECTIVE">afetou</EVENT> o endividamento bancário em que <EVENT eid="e22" class="OCCURRENCE" stem="incorrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">incorreu</EVENT> para <EVENT eid="e24" class="OCCURRENCE" stem="financiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">financiar</EVENT> 585 milhões de dólares para a <EVENT eid="e56" class="OCCURRENCE" stem="recapitalização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recapitalização</EVENT> de 728 milhões de dólares da empresa que <EVENT eid="e198" class="OCCURRENCE" stem="ocorrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ocorreu</EVENT> em <TIMEX3 tid="t54" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3>.</s>
+
+<s>A empresa <EVENT eid="e26" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fez</EVENT> <EVENT eid="e27" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamentos</EVENT> de 175 milhões de dólares da dívida bancária original de 585 milhões de dólares em que <EVENT eid="e28" class="OCCURRENCE" stem="incorrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">incorreu</EVENT> por causa da <EVENT eid="e59" class="OCCURRENCE" stem="recapitalização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">recapitalização</EVENT>.</s>
+<s>Estes pagamentos consistiram em 54 milhões de dólares em pagamentos agendados e 121 milhões de dólares em pagamentos antecipados, financiados por 82,8 milhões de dólares vindos do fundo de maneio, obrigações cupão zero e vendas de ativos.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t41" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e2" relatedToTime="t42" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e1" relatedToTime="t41" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e1" relatedToTime="t42" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e10" relatedToTime="t49" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e9" relatedToTime="t49" task="A"/>
+<TLINK lid="l7" relType="BEFORE-OR-OVERLAP" eventID="e13" relatedToTime="t53" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e14" relatedToTime="t53" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e198" relatedToTime="t54" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e19" relatedToTime="t54" task="A"/>
+<TLINK lid="l11" relType="OVERLAP-OR-AFTER" eventID="e2" relatedToTime="t40" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e1" relatedToTime="t40" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e10" relatedToTime="t40" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e9" relatedToTime="t40" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e13" relatedToTime="t40" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e14" relatedToTime="t40" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e198" relatedToTime="t40" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e19" relatedToTime="t40" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e26" relatedToTime="t40" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e19" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e14" eventID="e51" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e51" eventID="e9" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e26" eventID="e19" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e9" eventID="e5" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

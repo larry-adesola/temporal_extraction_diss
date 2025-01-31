@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0031
+= 891102
+891102-0031.
+Dossier de Negócios - Savin Corp.:
+@ Firma de Produtos de Escritório Anuncia
+@ Prejuízo Líquido para o Terceiro Trimestre
+<TIMEX3 tid="t29" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+SVB
+EARNINGS (ERN)
+
+
+<s>A Savin Corp. <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um <EVENT eid="e2" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido no <TIMEX3 tid="t30" type="TIME" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t29">terceiro trimestre</TIMEX3> de 35,2 milhões de dólares, ou 31 cêntimos por ação, em comparação ao <EVENT eid="e32" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> no <TIMEX3 tid="t31" type="TIME" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">período homólogo do ano anterior</TIMEX3> de 3,8 milhões de dólares, ou um cêntimo por ação.</s>
+
+<s>Um porta-voz da empresa sediada em Stamford, no Connecticut, <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as operações da empresa deram um <EVENT eid="e6" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> de 5,5 milhões de dólares nesse <TIMEX3 tid="t33" type="TIME" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">trimestre</TIMEX3> e, além disso, a <EVENT eid="e9" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perda</EVENT> foi <EVENT eid="e10" class="OCCURRENCE" stem="ampliar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ampliada</EVENT> por despesas extraordinárias totalizando 23,5 milhões de dólares e por 8,2 milhões em ajustamentos nos ativos que ele descreveu como "incomuns".</s>
+<s>Os encargos foram parcialmente <EVENT eid="e18" class="OCCURRENCE" stem="compensar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">compensados</EVENT> por um <EVENT eid="e40" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganho</EVENT> de 2 milhões com a <EVENT eid="e19" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de investimentos de duas joint ventures, <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele.</s>
+
+<s>As receitas <EVENT eid="e24" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 8% para os <EVENT eid="e138" class="STATE" stem="85.7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">85,7</EVENT> milhões de dólares, dos 93,3 milhões de dólares de <TIMEX3 tid="t38" type="TIME" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">há um ano</TIMEX3>.</s>
+<s>A Savin <EVENT eid="e25" class="REPORTING" stem="mencionar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mencionou</EVENT> "um <EVENT eid="e137" class="OCCURRENCE" stem="abrandamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abrandamento</EVENT> geral da procura de produtos de escritório nos segmentos de mercado em que a Savin concorre".</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t31" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e2" relatedToTime="t30" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t31" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1" relatedToTime="t30" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e6" relatedToTime="t33" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e4" relatedToTime="t33" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e9" relatedToTime="t33" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e24" relatedToTime="t38" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e2" relatedToTime="t29" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e1" relatedToTime="t29" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e6" relatedToTime="t29" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e4" relatedToTime="t29" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e9" relatedToTime="t29" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e23" relatedToTime="t29" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e40" relatedToTime="t29" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e19" relatedToTime="t29" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e24" relatedToTime="t29" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e25" eventID="e24" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e24" eventID="e23" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e23" eventID="e4" task="C"/>
+</TempEval>

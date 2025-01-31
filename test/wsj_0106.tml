@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0086
+= 891102
+891102-0086.
+Negócios Financeiros:
+@ Rogers Communications Inc.
+<TIMEX3 tid="t26" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+RCI.B
+
+
+<s>A Rogers Communications Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="POS" pos="VERB">planeia</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="angariar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">angariar</EVENT> entre 175 e 180 milhões de dólares canadianos (entre 148,9 e 153,3 milhões de dólares americanos) através de uma <EVENT eid="e5" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> privada de ações preferenciais perpétuas.</s>
+<s>As ações preferenciais perpétuas não são remíveis pelos titulares, <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a empresa.</s>
+<s>A Rogers <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as ações serão <EVENT eid="e27" class="OCCURRENCE" stem="convertível" aspect="NONE" tense="FI" polarity="POS" pos="ADJECTIVE">convertíveis</EVENT> em ações Classe B, mas que a empresa <EVENT eid="e29" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> a <EVENT eid="e11" class="I_STATE" stem="opção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">opção</EVENT> de <EVENT eid="e13" class="OCCURRENCE" stem="resgatar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resgatar</EVENT> as ações antes de uma <EVENT eid="e14" class="OCCURRENCE" stem="conversão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversão</EVENT> <EVENT eid="e16" class="OCCURRENCE" stem="ocorrer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">ocorrer</EVENT>.</s>
+<s>Um porta-voz da empresa de Toronto de televisão por cabo e telecomunicações <EVENT eid="e17" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a taxa de cupão ainda não foi <EVENT eid="e18" class="OCCURRENCE" stem="definir" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">definida</EVENT>, mas provavelmente será <EVENT eid="e20" class="OCCURRENCE" stem="fixar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">fixada</EVENT> em cerca de 8%.</s>
+<s>Ele <EVENT eid="e21" class="I_ACTION" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusou</EVENT>-se a <EVENT eid="e23" class="OCCURRENCE" stem="discutir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">discutir</EVENT> outros termos da emissão.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t26" task="B"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t26" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e7" relatedToTime="t26" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e16" relatedToTime="t26" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e29" relatedToTime="t26" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e8" relatedToTime="t26" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e20" relatedToTime="t26" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e17" relatedToTime="t26" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e21" relatedToTime="t26" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e17" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e7" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e21" eventID="e17" task="C"/>
+</TempEval>
+

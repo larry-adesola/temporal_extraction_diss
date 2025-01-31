@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+PRI<TIMEX3 tid="t133" type="DATE" value="1998-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">19980303</TIMEX3>.2000.2550
+REPORTAGEM
+
+
+<s><TIMEX3 tid="t135" type="DATE" value="1998-03-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">Amanhã</TIMEX3> o conselho de supervisores do concelho de Loudon, na Virgínia, vai <EVENT eid="e136" class="I_ACTION" stem="votar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">votar</EVENT> se uma escola <TIMEX3 tid="t138" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">agora</TIMEX3> <EVENT eid="e3" class="STATE" stem="localizar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">localizada</EVENT> em Mount Vernon se pode <EVENT eid="e4" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">mudar</EVENT> para o seu concelho.</s>
+<s>Nalguns aspetos, isso são atividades típicas de concelho, mas a <EVENT eid="e8" class="OCCURRENCE" stem="votação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">votação</EVENT> de <TIMEX3 tid="t139" type="DATE" value="1998-03-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">amanhã</TIMEX3> tem <EVENT eid="e141" class="STATE" stem="implicação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">implicações</EVENT> internacionais.</s>
+<s>O conselho vai <EVENT eid="e10" class="I_ACTION" stem="decidir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">decidir</EVENT> se a Academia Saudita Islâmica, <EVENT eid="e11" class="OCCURRENCE" stem="financiar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">financiada</EVENT> pelo governo da Arábia Saudita, se pode <EVENT eid="e12" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">mudar</EVENT> para Ashburn, na Virginia.</s>
+<s>Mas os moradores locais não <EVENT eid="e14" class="I_ACTION" stem="estender" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">estenderam</EVENT> propriamente o tapete vermelho para os seus vizinhos potenciais.</s>
+<s>Nancy Marshal, do The World, tem a história.</s>
+
+<s>Dentro da Academia Saudita Islâmica em Mount Vernon, na Virginia, muitas das meninas usam lenços na cabeça e algumas das crianças bem vestidas estão em uniformes.</s>
+<s>O ensino é em inglês para a maioria das aulas, em árabe para os estudos de língua e religiosos.</s>
+<s>A escola <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que <EVENT eid="e24" class="OCCURRENCE" stem="ensinar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">ensina</EVENT> as crianças a serem bons muçulmanos e bons alunos.</s>
+<s>Eles estão a <EVENT eid="e26" class="OCCURRENCE" stem="aprender" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">aprender</EVENT> uma lição de civismo dos residentes do concelho de Loudon.</s>
+<s>A Academia Saudita Islâmica <EVENT eid="e28" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> mil e duzentos estudantes, na sua maioria americanos, mas <EVENT eid="e29" class="OCCURRENCE" stem="aceitar" aspect="NONE" tense="C" polarity="POS" pos="VERB">aceitaria</EVENT> três mil e quinhentos se <EVENT eid="e32" class="STATE" stem="ter" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">tivesse</EVENT> espaço.</s>
+<s>A academia <EVENT eid="e33" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">comprou</EVENT> cem acres no concelho de Loudon, na Virgínia, e <EVENT eid="e34" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT> <EVENT eid="e35" class="I_STATE" stem="permissão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">permissão</EVENT> para <EVENT eid="e37" class="OCCURRENCE" stem="construir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">construir</EVENT> um campus de cinquenta milhões de dólares.</s>
+<s>Nos setores de habitação suburbana lá perto, alguém <EVENT eid="e38" class="OCCURRENCE" stem="distribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">distribuiu</EVENT> folhetos a <EVENT eid="e39" class="I_ACTION" stem="alertar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">alertar</EVENT> que a escola poderia <EVENT eid="e40" class="OCCURRENCE" stem="trazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">trazer</EVENT> milhares de estrangeiros do Médio Oriente e terroristas.</s>
+<s>Alguns moradores da área maioritariamente branca e maioritariamente de classe média <EVENT eid="e42" class="OCCURRENCE" stem="ficar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ficaram</EVENT> alarmados.</s>
+<s>James Zogby, do Instituto Árabe Americano, <EVENT eid="e147" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que é uma história familiar.</s>
+
+<s>Existe, a um nível muito profundo na nossa cultura, <EVENT eid="e146" class="I_STATE" stem="pensar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">penso</EVENT> eu, uma sensação de <EVENT eid="e148" class="STATE" stem="ignorância" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ignorância</EVENT> sobre o Islão, um <EVENT eid="e149" class="STATE" stem="medo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medo</EVENT> do que os muçulmanos são e do que estão a fazer.</s>
+
+<s>Muitos moradores da região <EVENT eid="e50" class="I_ACTION" stem="denunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">denunciaram</EVENT> o <EVENT eid="e150" class="STATE" stem="preconceito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preconceito</EVENT>, mas a <EVENT eid="e51" class="OCCURRENCE" stem="oposição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oposição</EVENT> à escola, em seguida, <EVENT eid="e52" class="OCCURRENCE" stem="mudar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">mudou</EVENT>.</s>
+<s><TIMEX3 tid="t346" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">Agora</TIMEX3>, os críticos da academia <EVENT eid="e53" class="OCCURRENCE" stem="dirigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dirigem</EVENT>-se ao seu proprietário, o governo saudita.</s>
+<s>O pastor James Allmen da igreja e escola comunitária em Ashburn <EVENT eid="e54" class="OCCURRENCE" stem="conduzir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">conduziu</EVENT> a <EVENT eid="e55" class="OCCURRENCE" stem="campanha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">campanha</EVENT> anti-saudita.</s>
+<s>James Allmen <EVENT eid="e56" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que não <EVENT eid="e57" class="STATE" stem="ver" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">vê</EVENT> nenhum problema numa academia de financiamento privado, mas <EVENT eid="e59" class="STATE" stem="ver" aspect="NONE" tense="PI" polarity="POS" pos="VERB">vê</EVENT> um grande problema numa escola financiada pela Arábia Saudita.</s>
+
+<s>O Governo da Arábia Saudita tem um registo atroz quanto a direitos humanos e é conhecido por ser um dos piores países em falta no que toca a perseguições religiosas.</s>
+
+<s>Isso é correto.</s>
+
+<s>E essa é uma condição do pedido, então.</s>
+
+<s>Essa é uma condição de -</s>
+
+<s>Numa <EVENT eid="e69" class="OCCURRENCE" stem="audiência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">audiência</EVENT> pública sobre o pedido da Academia Saudita Islâmica, a <EVENT eid="e71" class="STATE" stem="divisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">divisão</EVENT> de opiniões no conselho era óbvia, os defensores da Academia, incluindo Ann Robinson, <EVENT eid="e72" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que os sauditas estavam apenas a <EVENT eid="e73" class="OCCURRENCE" stem="prestar" aspect="PROGRESSIVE" tense="PII" polarity="POS" pos="VERB">prestar</EVENT> um serviço e que era <EVENT eid="e153" class="I_STATE" stem="injusto" aspect="NONE" tense="PII" polarity="POS" pos="ADJECTIVE">injusto</EVENT> <EVENT eid="e76" class="OCCURRENCE" stem="penalizar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">penalizar</EVENT> as crianças.</s>
+
+<s>Não <EVENT eid="e155" class="OCCURRENCE" stem="desenvolver" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">desenvolvemos</EVENT> o propósito dos direitos humanos no mundo <EVENT eid="e78" class="OCCURRENCE" stem="violar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">violando</EVENT> os direitos humanos sob a nossa própria constituição.</s>
+
+<s>Mas os oponentes <EVENT eid="e80" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que a escola pode ser um <EVENT eid="e82" class="I_STATE" stem="alvo" aspect="NONE" tense="INF" polarity="POS" pos="NOUN">alvo</EVENT> para <EVENT eid="e83" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT> terroristas, <EVENT eid="e84" class="I_ACTION" stem="queixar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">queixaram</EVENT>-se do seu <EVENT eid="e157" class="STATE" stem="estatuto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estatuto</EVENT> de isenção fiscal, e <EVENT eid="e85" class="I_ACTION" stem="perguntar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perguntaram</EVENT>-se por que é que os sauditas não estão <EVENT eid="e86" class="I_ACTION" stem="inclinado" aspect="NONE" tense="PI" polarity="NEG" pos="ADJECTIVE">inclinados</EVENT> a <EVENT eid="e89" class="I_ACTION" stem="permitir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">permitir</EVENT> que os cristãos <EVENT eid="e90" class="OCCURRENCE" stem="orar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">orem</EVENT> no seu país.</s>
+<s>Virgínia Welch <EVENT eid="e91" class="REPORTING" stem="entregar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">entregou</EVENT> esta mensagem ao conselho de supervisores do concelho.</s>
+
+<s><EVENT eid="e94" class="I_ACTION" stem="apelar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Apelo</EVENT>-vos que <EVENT eid="e96" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PC" polarity="POS" pos="VERB">façam</EVENT> o que é correto e <EVENT eid="e98" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">enviem</EVENT> aos sauditas uma mensagem de que os cidadãos do concelho de Loudon <EVENT eid="e100" class="STATE" stem="abraçar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">abraçam</EVENT> a liberdade religiosa e humana.</s>
+
+<s>Os funcionários do concelho de Loudon <EVENT eid="e101" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que vão <EVENT eid="e102" class="OCCURRENCE" stem="decidir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">decidir</EVENT> sobre o pedido <EVENT eid="e106" class="OCCURRENCE" stem="considerar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">considerando</EVENT> apenas as questões de uso da terra e <EVENT eid="e108" class="I_ACTION" stem="ignorar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">ignorar</EVENT> todas as outras <EVENT eid="e109" class="OCCURRENCE" stem="objeção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">objeções</EVENT>.</s>
+<s>O que está realmente por trás dessas <EVENT eid="e110" class="OCCURRENCE" stem="objeção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">objeções</EVENT>, <EVENT eid="e111" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> alguns, é a <EVENT eid="e112" class="OCCURRENCE" stem="colisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">colisão</EVENT> do concelho de Loudon com uma nova realidade na América, que é que o país está a <EVENT eid="e160" class="OCCURRENCE" stem="mudar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">mudar</EVENT> religiosamente tão certamente como o está racial e etnicamente.</s>
+<s><EVENT eid="e161" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">Segundo</EVENT> o Instituto Árabe Americano, o Islão será <TIMEX3 tid="t163" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">um dia</TIMEX3> a segunda maior <EVENT eid="e162" class="STATE" stem="religião" aspect="NONE" tense="FI" polarity="POS" pos="NOUN">religião</EVENT> do país.</s>
+<s>Para um indício dos problemas que poderão enfrentar os muçulmanos à medida que se integram na vida americana, não é preciso ir mais longe do que o concelho de Loudon, na Virgínia.</s>
+<s>Para o The World, eu sou Nancy Marshalll.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e12" relatedToTime="t133" task="B"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e23" relatedToTime="t133" task="B"/>
+<TLINK lid="l3" relType="AFTER" eventID="e29" relatedToTime="t133" task="B"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e32" relatedToTime="t133" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e28" relatedToTime="t133" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e33" relatedToTime="t133" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e38" relatedToTime="t133" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e42" relatedToTime="t133" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e147" relatedToTime="t133" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e146" relatedToTime="t133" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e59" relatedToTime="t133" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e57" relatedToTime="t133" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e56" relatedToTime="t133" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e72" relatedToTime="t133" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e80" relatedToTime="t133" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e101" relatedToTime="t133" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e160" relatedToTime="t133" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e111" relatedToTime="t133" task="B"/>
+<TLINK lid="l1c" relType="VAGUE" relatedToEvent="e91" eventID="e80" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e146" eventID="e147" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e26" eventID="e23" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e14" eventID="e10" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e8" eventID="e136" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e53" eventID="e50" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e147" eventID="e42" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e59" eventID="e54" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e38" eventID="e33" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e50" eventID="e146" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e101" eventID="e94" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e111" eventID="e101" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e42" eventID="e38" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e80" eventID="e155" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e28" eventID="e26" task="C"/>
+<TLINK lid="l17c" relType="VAGUE" relatedToEvent="e162" eventID="e111" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e155" eventID="e71" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e54" eventID="e53" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e94" eventID="e91" task="C"/>
+<TLINK lid="l21c" relType="OVERLAP-OR-AFTER" relatedToEvent="e33" eventID="e28" task="C"/>
+</TempEval>

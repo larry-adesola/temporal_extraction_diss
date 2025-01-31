@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0066
+= 891026
+891026-0066.
+Total Assets Protection Inc.
+<TIMEX3 tid="t19" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+TAPP
+ARLINGTON, Texas
+
+
+<s>A Total Assets Protection Inc., <EVENT eid="e1" class="OCCURRENCE" stem="recuperar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">recuperando</EVENT> do <EVENT eid="e2" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> anterior, <EVENT eid="e4" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e6" class="REPORTING" stem="anunciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anunciar</EVENT> <EVENT eid="e17" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> nos <EVENT eid="e7" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócios</EVENT> de cerca de 200.000 dólares para <TIMEX3 tid="t20" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">o terceiro trimestre</TIMEX3>, <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> JC Matlock, presidente do conselho de administração.</s>
+
+<s>O <EVENT eid="e21" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido inclui uma receita extraordinária de cerca de 100.000 dólares por causa de uma <EVENT eid="e11" class="OCCURRENCE" stem="reversão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reversão</EVENT> de incumprimento de dívida e de redimentos de juros.</s>
+<s>A receita foi de cerca de 4,5 milhões de dólares.</s>
+<s>No <TIMEX3 tid="t23" type="DATE" value="1988-Q3" temporalFunction="false" functionInDocument="NONE">terceiro trimestre de 1988</TIMEX3>, a empresa <EVENT eid="e13" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um prejuízo líquido de <EVENT eid="e24" class="STATE" stem="876.706" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">876.706 dólares</EVENT>, ou 22 cêntimos por ação, com uma receita de cerca de 5,1 milhões de dólares.</s>
+
+<s>A Total Assets planeia e projeta centros de computação, sistemas de segurança informática e sistemas de backup de computadores.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t20" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e6" relatedToTime="t20" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e4" relatedToTime="t20" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e9" relatedToTime="t20" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e13" relatedToTime="t23" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e2" relatedToTime="t19" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e6" relatedToTime="t19" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e4" relatedToTime="t19" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e9" relatedToTime="t19" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e21" relatedToTime="t19" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e13" relatedToTime="t19" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e21" eventID="e9" task="C"/>
+</TempEval>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0145
+= 891030
+891030-0145.
+Obrigações da Waxman Industries
+<TIMEX3 tid="t12" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+WAX
+BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)
+BEDFORD HEIGHTS, Ohio
+
+<s>A Waxman Industries Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os titulares das suas obrigações de valor nominal de 6.542.000 dólares convertíveis a 6,25% <EVENT eid="e11" class="STATE" stem="dever" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">devidas</EVENT> a <TIMEX3 tid="t13" type="DATE" value="2007-03-15" temporalFunction="false" functionInDocument="NONE">15 de março de 2007</TIMEX3> <EVENT eid="e2" class="I_ACTION" stem="escolher" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">escolheram</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="converter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">converter</EVENT> a dívida em cerca de 683.000 ações ordinárias.</s>
+
+<s>O preço de conversão é de 9,58 dólares por ação.</s>
+
+<s>A companhia <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os titulares <EVENT eid="e7" class="STATE" stem="representar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">representam</EVENT> 52% do valor nominal das obrigações.</s>
+
+<s>A Waxman vende uma variedade de ferramentas para o mercado de bricolage.</s>
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1" relatedToTime="t13" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t12" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e6" relatedToTime="t12" task="B"/>
+
+</TempEval>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0055
+= 891102
+891102-0055.
+Dossier de Negócios - Oshkosh Truck Corp.:
+@ Empresa Diz que Lucro Líquido Caiu Acentuadamente
+@ No Quarto Trimestre Fiscal
+<TIMEX3 tid="t2022" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+OTRKB
+EARNINGS (ERN)
+
+
+<s>Os lucros <EVENT eid="e17" class="REPORTING" stem="estimar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estimados</EVENT> da Oshkosh Truck Corporation, de Oshkosh no Wisconsin, para <TIMEX3 tid="t2027" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t2022">o quarto trimestre</TIMEX3> findo em <TIMEX3 tid="t2023" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t2022">30 de setembro</TIMEX3> <EVENT eid="e2" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 50% para 75% face a 4,5 milhões de dólares do ano anterior, ou 51 cêntimos por ação.</s>
+
+<s>O fabricante de camiões <EVENT eid="e3" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e21" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> significativa no lucro líquido <EVENT eid="e4" class="I_ACTION" stem="acarretar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">acarretará</EVENT> lucros menores neste <TIMEX3 tid="t2024" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t2022">ano fiscal</TIMEX3>.</s>
+<s>No <TIMEX3 tid="t37" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">ano fiscal de 1988</TIMEX3>, a empresa <EVENT eid="e5" class="OCCURRENCE" stem="faturar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">faturou</EVENT> 17,3 milhões de dólares, ou 1,92 dólares por ação, com uma receita de 352,9 milhões de dólares.</s>
+
+<s>A Oshkosh Truck <EVENT eid="e6" class="REPORTING" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> a <EVENT eid="e26" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> nos seus lucros aos custos mais elevados para <EVENT eid="e29" class="OCCURRENCE" stem="lançar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">lançar</EVENT> a sua nova divisão de chassis, a um mercado de autocaravanas mais suave e ao aumento dos custos administrativos de conformidade com a legislação de contratos do governo.</s>
+
+<s>A companhia <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que está no processo de <EVENT eid="e10" class="OCCURRENCE" stem="abandono" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abandono</EVENT> progressivo da John Deere, a sua fonte atual de produção de chassis de tamanho médio para autocaravanas.</s>
+<s>Em antecipação ao <EVENT eid="e27" class="OCCURRENCE" stem="arranque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">arranque</EVENT> da sua nova fábrica, a empresa <EVENT eid="e11" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que foi <EVENT eid="e12" class="OCCURRENCE" stem="construir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">construído</EVENT> um fornecimento de chassis maior do que o normal para <EVENT eid="e13" class="I_ACTION" stem="suportar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">suportá</EVENT>-la durante o período de <EVENT eid="e14" class="OCCURRENCE" stem="transição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transição</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e2" relatedToTime="t2027" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e2" relatedToTime="t2023" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e21" relatedToTime="t2024" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e4" relatedToTime="t2024" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e3" relatedToTime="t2024" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e5" relatedToTime="t37" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e2" relatedToTime="t2022" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e21" relatedToTime="t2022" task="B"/>
+<TLINK lid="l9" relType="AFTER" eventID="e4" relatedToTime="t2022" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e3" relatedToTime="t2022" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e5" relatedToTime="t2022" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e7" relatedToTime="t2022" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e11" relatedToTime="t2022" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e3" eventID="e17" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e11" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e6" eventID="e5" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e7" eventID="e6" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e5" eventID="e3" task="C"/>
+</TempEval>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891031-0138
+= 891031
+891031-0138.
+Internacional:
+@ Courtaulds PLC
+@ Planeia Cindir
+@ Negócio de Têxteis
+@ ----
+@ Por Craig Forman
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t89" type="DATE" value="1989-10-31" temporalFunction="false" functionInDocument="CREATION_TIME">10/31/89</TIMEX3>
+WALL STREET JOURNAL (J)
+COU
+DIVIDENDS (DIV)
+STOCK MARKET, OFFERINGS (STK)
+TEXTILES AND APPAREL (TEX)
+LONDON
+
+
+<s>A Courtaulds PLC <EVENT eid="e1" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> <EVENT eid="e85" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">planos</EVENT> para <EVENT eid="e3" class="OCCURRENCE" stem="cindir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cindir</EVENT> o negócio dos têxteis para os acionistas existentes numa <EVENT eid="e86" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> para <EVENT eid="e8" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> os valores dos acionistas.</s>
+
+<s>O plano da companhia britânica de produtos químicos e têxteis, que requer a aprovação dos acionistas, <EVENT eid="e11" class="OCCURRENCE" stem="criar" aspect="NONE" tense="C" polarity="POS" pos="VERB">criaria</EVENT> um novo capital social listado no Reino Unido com uma capitalização de mercado provável entre os 300 milhões de libras (473 milhões de dólares) e os 400 milhões de libras, <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> os analistas.</s>
+<s>A <EVENT eid="e16" class="OCCURRENCE" stem="criação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">criação</EVENT> da empresa separada, a chamar-se Courtaulds Textiles, pode concretizar-se já no <TIMEX3 tid="t90" type="DATE" value="1990-Q1" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t89">primeiro trimestre do próximo ano</TIMEX3>.</s>
+
+<s>Os investidores <EVENT eid="e20" class="OCCURRENCE" stem="receber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">receberam</EVENT> bem a <EVENT eid="e21" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medida</EVENT>.</s>
+<s>As ações da Courtaulds <EVENT eid="e22" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 15 cêntimos para os <EVENT eid="e120" class="STATE" stem="362" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">362 pence</EVENT>, estando toda a empresa avaliada em cerca de 1,44 mil milhões de libras.</s>
+
+<s>A <EVENT eid="e93" class="OCCURRENCE" stem="cisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cisão</EVENT> da Courtaulds reflete a pressão sobre a indústria britânica de estimular os preços das ações para além do alcance de atacantes corporativos.</s>
+<s>A <EVENT eid="e94" class="OCCURRENCE" stem="reestruturação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reestruturação</EVENT> da Courtaulds está entre as maiores até agora na Grã-Bretanha, embora seja pequena em comparação com os <EVENT eid="e95" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">planos</EVENT> da B.A.T. Industries PLC de <EVENT eid="e31" class="OCCURRENCE" stem="cindir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cindir</EVENT> cerca de 4 mil milhões de libras em ativos para <EVENT eid="e33" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudar</EVENT> a <EVENT eid="e34" class="OCCURRENCE" stem="defender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">defender</EVENT>-se de uma oferta pública de aquisição do financista anglo-francês Sir James Goldsmith.</s>
+<s>O negócio de têxteis alienado da Courtaulds <EVENT eid="e96" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um <EVENT eid="e97" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> operacional de 50 milhões de libras dos 980 milhões de libras em receitas no <TIMEX3 tid="t99" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" endPoint="t100">ano fiscal</TIMEX3> terminado a <TIMEX3 tid="t100" type="DATE" value="1989-03-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t89">31 de março</TIMEX3>.</s>
+
+<s>Alguns analistas <EVENT eid="e37" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que as <EVENT eid="e38" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medidas</EVENT> da Courtaulds pode <EVENT eid="e39" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> o valor da empresa em 5% a 10% porque as duas entidades separadas <EVENT eid="e41" class="STATE" stem="ter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">terão</EVENT> um produto dos lucros pelos preços maior do que <EVENT eid="e42" class="STATE" stem="ter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">tinham</EVENT> <EVENT eid="e103" class="STATE" stem="combinar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">combinadas</EVENT>.</s>
+<s>Além disso, a Courtaulds <EVENT eid="e45" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as <EVENT eid="e46" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medidas</EVENT> são lógicas porque vão <EVENT eid="e47" class="I_STATE" stem="permitir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">permitir</EVENT> que o negócio dos químicos e o do têxteis se <EVENT eid="e104" class="OCCURRENCE" stem="focar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">foque</EVENT> mais nas suas próprias atividades.</s>
+
+<s>A Courtaulds tem estado <EVENT eid="e119" class="STATE" stem="sob" aspect="NONE" tense="PPIC" polarity="POS" pos="PREPOSITION">sob</EVENT> pressão para <EVENT eid="e54" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> o valor dos acionistas desde que <EVENT eid="e55" class="OCCURRENCE" stem="surgir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">surgiram</EVENT> no <TIMEX3 tid="t108" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t89">ano passado</TIMEX3> especuladores sobre uma aquisição - incluindo o financista australiano Kerry Packer - na posse de participações pequenas.</s>
+<s>Embora Packer tenha entretanto <EVENT eid="e58" class="OCCURRENCE" stem="vender" aspect="NONE" tense="PPCC" polarity="POS" pos="VERB">vendido</EVENT> a sua participação, a Courtaulds está a <EVENT eid="e60" class="OCCURRENCE" stem="mexer" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">mexer</EVENT>-se para <EVENT eid="e62" class="ASPECTUAL" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> os seus acionistas institucionais <EVENT eid="e110" class="STATE" stem="feliz" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">felizes</EVENT>.</s>
+<s>Mesmo sem a <EVENT eid="e63" class="OCCURRENCE" stem="ameaça" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">ameaça</EVENT> específica de uma aquisição, a Courtaulds está a <EVENT eid="e64" class="OCCURRENCE" stem="dar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">dar</EVENT> aos acionistas "<EVENT eid="e65" class="OCCURRENCE" stem="escolha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">escolha</EVENT> e valor", <EVENT eid="e66" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Julia Blake, uma analista da corretora londrina Barclays de Zoete Wedd.</s>
+
+<s>Num comunicado, a empresa disse: "As duas partes só podem atingir o seu potencial pleno e ser devidamente valorizadas pelo mercado se forem empresas cotadas separadamente.</s>
+<s>A definição mais clara e a autonomia que cada uma daí ganhará vão beneficiar os acionistas, clientes e funcionários."</s>
+
+<s>O presidente do conselho de administração e diretor geral da Courtaulds, Sir Christopher Hogg, <EVENT eid="e77" class="STATE" stem="permanecer" aspect="NONE" tense="FI" polarity="POS" pos="VERB">permanecerá</EVENT> com ambos os cargos na empresa química sobrevivente após a <EVENT eid="e118" class="OCCURRENCE" stem="cisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cisão</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e96" relatedToTime="t100" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e96" relatedToTime="t99" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e85" relatedToTime="t89" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t89" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e8" relatedToTime="t89" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e15" relatedToTime="t89" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e21" relatedToTime="t89" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e22" relatedToTime="t89" task="B"/>
+<TLINK lid="l9" relType="AFTER" eventID="e33" relatedToTime="t89" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e95" relatedToTime="t89" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e96" relatedToTime="t89" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e37" relatedToTime="t89" task="B"/>
+<TLINK lid="l13" relType="OVERLAP-OR-AFTER" eventID="e39" relatedToTime="t89" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e38" relatedToTime="t89" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e46" relatedToTime="t89" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e45" relatedToTime="t89" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e60" relatedToTime="t89" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e58" relatedToTime="t89" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e64" relatedToTime="t89" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e66" relatedToTime="t89" task="B"/>
+<TLINK lid="l21" relType="OVERLAP-OR-AFTER" eventID="e77" relatedToTime="t89" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e94" eventID="e93" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e60" eventID="e119" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e93" eventID="e22" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e22" eventID="e20" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e37" eventID="e96" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e20" eventID="e16" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e66" eventID="e60" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e15" eventID="e1" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e96" eventID="e94" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e16" eventID="e15" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e45" eventID="e37" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP-OR-AFTER" relatedToEvent="e119" eventID="e45" task="C"/>
+</TempEval>

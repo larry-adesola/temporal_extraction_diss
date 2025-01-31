@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980227.0468
+REPORTAGEM
+<TIMEX3 tid="t13" type="TIME" value="1998-02-27T07:56:00" temporalFunction="false" functionInDocument="CREATION_TIME">02/27/1998 07:56:00</TIMEX3>
+w2373 Cx1f wstm-
+r i Cx13  Cx11  BC-Russia-Kalashnikov'sM 1stLd   02-27 0148
+BC-Russia-Kalashnikov's Museum, 1st Ld
+Presidente da câmara de Moscovo doa fundos para construir museu Kalashnikov
+UR Eds: SUBS 3rd graf to conform to AP style. QL
+
+<s>Moscovo (AP) - O presidente da câmara de Moscovo <EVENT eid="e1" class="OCCURRENCE" stem="alocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alocou</EVENT> fundos para <EVENT eid="e2" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudar</EVENT> a <EVENT eid="e3" class="OCCURRENCE" stem="construir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">construir</EVENT> um museu em honra de Mikhail Kalashnikov, o russo que <EVENT eid="e6" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deu</EVENT> nome à arma mais manuseada do mundo, <EVENT eid="e91" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> um <EVENT eid="e55" class="REPORTING" stem="relatório" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relatório</EVENT> de uma agência de notícias na <TIMEX3 tid="t15" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">sexta-feira</TIMEX3>.</s>
+<s>Kalashnikov <EVENT eid="e7" class="OCCURRENCE" stem="desenhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desenhou</EVENT> a espingarda automática AK-47, famosa pela confiabilidade e eficácia.</s>
+<s>Juntamente com as suas derivadas, a espingarda Kalashnikov é <EVENT eid="e8" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">utilizada</EVENT> pela polícia e exércitos de 55 países e um conjunto de guerrilheiros, terroristas e meros bandidos por todo o globo.</s>
+<s>Setenta e cinco milhões de cópias da espingarda foram <EVENT eid="e9" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">feitas</EVENT> desde que <EVENT eid="e10" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> a <EVENT eid="e79" class="STATE" stem="produção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">produção</EVENT> em <TIMEX3 tid="t16" type="DATE" value="1947-02" temporalFunction="false" functionInDocument="NONE">fevereiro de 1947</TIMEX3>, tornando-se na arma mais amplamente distribuída da história.</s>
+<s>UR The ITAR-Tass, 4th graf pvs (pvs/ji)</s>
+
+(PROFILE
+(WS SL:BC-Russia-Kalashnikov's Museum, 1st Ld; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+
+
+<s>AP-NY-02-27-98 0756EST</s>
+
+
+<TLINK lid="l1" relType="OVERLAP-OR-AFTER" eventID="e2" relatedToTime="t15" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e6" relatedToTime="t15" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e91" relatedToTime="t15" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e55" relatedToTime="t15" task="A"/>
+<TLINK lid="l5" relType="OVERLAP-OR-AFTER" eventID="e2" relatedToTime="t13" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e6" relatedToTime="t13" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e91" relatedToTime="t13" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e55" relatedToTime="t13" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e8" relatedToTime="t13" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e9" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e7" eventID="e91" task="C"/>
+</TempEval>

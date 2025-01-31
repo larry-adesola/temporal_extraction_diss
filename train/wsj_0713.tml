@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0182
+= 891027
+891027-0182.
+Aquisição do Dresdner Bank
+<TIMEX3 tid="t26" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+EUROP DRSDY F.SGF
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+BANKS (BNK)
+FRANKFURT, West Germany
+
+
+<s>As autoridades da Alemanha Ocidental e as francesas <EVENT eid="e1" class="OCCURRENCE" stem="autorizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">autorizaram</EVENT> a <EVENT eid="e2" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública de aquisição do Dresdner Bank AG de uma participação maioritária no Banque Internationale de Placement (BIP), <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> o Dresdner Bank.</s>
+
+<s>A <EVENT eid="e5" class="OCCURRENCE" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT>, que era <EVENT eid="e6" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">esperada</EVENT>, <EVENT eid="e7" class="I_ACTION" stem="permitir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permite</EVENT> que o segundo maior banco da Alemanha Ocidental <EVENT eid="e9" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PC" polarity="POS" pos="VERB">adquira</EVENT> ações do banco de investimento francês.</s>
+
+<s>Numa primeira etapa, o Dresdner Bank vai <EVENT eid="e11" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">comprar</EVENT> 32,99% do BIP, por 1.015 francos franceses (162 dólares) por ação, ou 528 milhões de francos (84,7 milhões de dólares).</s>
+<s>O Dresdner Bank <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e13" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">comprará</EVENT> também todas as ações <EVENT eid="e14" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">oferecidas</EVENT> pelos acionistas na Bolsa de Paris ao mesmo preço a partir de <TIMEX3 tid="t27" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">hoje</TIMEX3> até <TIMEX3 tid="t28" type="DATE" value="1989-11-17" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">17 de novembro</TIMEX3>.</s>
+<s>Além disso, o banco <EVENT eid="e22" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> uma <EVENT eid="e18" class="I_STATE" stem="opção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">opção</EVENT> para <EVENT eid="e20" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> uma participação de 30,84% na BIP da Societe Generale depois de <TIMEX3 tid="t29" type="DATE" value="1990-01-01" temporalFunction="false" functionInDocument="NONE">1 de janeiro de 1990</TIMEX3> a 1.015 francos por ação.</s>
+
+
+<TLINK lid="l1" relType="VAGUE" eventID="e13" relatedToTime="t27" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e13" relatedToTime="t28" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e12" relatedToTime="t27" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e12" relatedToTime="t28" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e20" relatedToTime="t29" task="A"/>
+<TLINK lid="l6" relType="BEFORE-OR-OVERLAP" eventID="e22" relatedToTime="t29" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e4" relatedToTime="t26" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e6" relatedToTime="t26" task="B"/>
+<TLINK lid="l9" relType="OVERLAP-OR-AFTER" eventID="e9" relatedToTime="t26" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e11" relatedToTime="t26" task="B"/>
+<TLINK lid="l11" relType="OVERLAP-OR-AFTER" eventID="e13" relatedToTime="t26" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e12" relatedToTime="t26" task="B"/>
+<TLINK lid="l13" relType="OVERLAP-OR-AFTER" eventID="e20" relatedToTime="t26" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e22" relatedToTime="t26" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e22" eventID="e12" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e11" eventID="e7" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e12" eventID="e11" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e7" eventID="e4" task="C"/>
+</TempEval>

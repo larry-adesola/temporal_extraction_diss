@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891027-0189
+= 891027
+891027-0189.
+Security Pacific Corp.
+<TIMEX3 tid="t28" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+SPC LJC
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+BANKS (BNK)
+LOS ANGELES
+
+<s>A Security Pacific Corp. está <EVENT eid="e1" class="I_ACTION" stem="determinado" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">determinada</EVENT> em <EVENT eid="e4" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> a sua segunda holding bancária <TIMEX3 tid="t29" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">este ano</TIMEX3>.</s>
+
+<s>A Security <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e8" class="OCCURRENCE" stem="assinar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assinou</EVENT> uma carta de <EVENT eid="e10" class="I_STATE" stem="intenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">intenção</EVENT> de <EVENT eid="e12" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> a La Jolla Bancorp, <EVENT eid="e13" class="I_STATE" stem="concordar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">concordando</EVENT> em <EVENT eid="e15" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> 15 dólares das suas próprias ações por cada ação da La Jolla.</s>
+<s>Com base no número <TIMEX3 tid="t30" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">atual</TIMEX3> de ações da La Jolla, isso dá à <EVENT eid="e19" class="OCCURRENCE" stem="operação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">operação</EVENT> um valor de 104 milhões de dólares.</s>
+
+<s>La Jolla é a empresa-mãe da La Jolla Bank &amp; Trust Co., que <EVENT eid="e20" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> 12 agências no distrito de San Diego.</s>
+<s>A partir de <TIMEX3 tid="t33" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">30 de setembro</TIMEX3>, o banco <EVENT eid="e37" class="STATE" stem="ter" aspect="NONE" tense="PII" polarity="POS" pos="OTHER">tinha</EVENT> ativos de 511 milhões de dólares e depósitos de 469 milhões de dólares, <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a Securit Pacific.</s>
+
+<s>No <TIMEX3 tid="t34" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">início deste mês</TIMEX3>, a Security Pacific, que está entre as 10 maiores holdings bancárias nos EUA, <EVENT eid="e24" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluiu</EVENT> a <EVENT eid="e25" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> da Southwest Bancorp, sediada em San Diego.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t29" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e22" relatedToTime="t33" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e25" relatedToTime="t34" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1" relatedToTime="t28" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e7" relatedToTime="t28" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e13" relatedToTime="t28" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e12" relatedToTime="t28" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e15" relatedToTime="t28" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e20" relatedToTime="t28" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e22" relatedToTime="t28" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e25" relatedToTime="t28" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP-OR-AFTER" relatedToEvent="e20" eventID="e19" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e7" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e19" eventID="e7" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e22" eventID="e20" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e24" eventID="e22" task="C"/>
+</TempEval>

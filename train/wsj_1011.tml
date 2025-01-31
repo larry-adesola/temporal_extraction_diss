@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0045
+= 891026
+891026-0045.
+Resultado Líquido da Delta Air Subiu
+@ 33% para Valor Recorde
+@ No Primeiro Trimestre Fiscal
+@ ----
+@ Por Bridget O'Brian
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t57" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DAL AWAL
+EARNINGS (ERN)
+AIRLINES (AIR)
+
+
+<s>Os lucros da Delta Air Lines <EVENT eid="e1" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 33% para um recorde no <TIMEX3 tid="t58" type="DATE" value="1989-Q1" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t57">primeiro trimestre fiscal</TIMEX3>, <EVENT eid="e3" class="OCCURRENCE" stem="contrariar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">contrariando</EVENT> a tendência da indústria para uma <EVENT eid="e4" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> dos lucros.</s>
+
+<s>A companhia aérea sediada em Atlanta, a terceira maior dos EUA, <EVENT eid="e5" class="OCCURRENCE" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> o <EVENT eid="e6" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> a um maior <EVENT eid="e7" class="OCCURRENCE" stem="tráfego" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tráfego</EVENT> de passageiros, novas rotas internacionais e o <EVENT eid="e8" class="OCCURRENCE" stem="serviço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">serviço</EVENT> reduzido da rival Eastern Airlines, que está em <EVENT eid="e9" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> de falência na sequência de uma <EVENT eid="e12" class="OCCURRENCE" stem="greve" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">greve</EVENT> que <EVENT eid="e13" class="I_ACTION" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> na <TIMEX3 tid="t60" type="DATE" value="1988-SP" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t57">última primavera</TIMEX3>.</s>
+
+<s>Para <TIMEX3 tid="t65" type="DATE" value="1989-QX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t63">o trimestre</TIMEX3> <EVENT eid="e14" class="ASPECTUAL" stem="findar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">findo</EVENT> em <TIMEX3 tid="t63" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t57">30 de setembro</TIMEX3>, a Delta <EVENT eid="e15" class="OCCURRENCE" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um lucro líquido de <EVENT eid="e96" class="STATE" stem="133.1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">133,1</EVENT> milhões de dólares, ou 2,53 dólares por ação, subindo dos <EVENT eid="e97" class="STATE" stem="100" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">100</EVENT> milhões de dólares, ou 2,03 dólares por ação, de <TIMEX3 tid="t64" type="DATE" value="1988-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t63">há um ano</TIMEX3>.</s>
+
+<s>A receita <EVENT eid="e16" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 15%, para os <EVENT eid="e98" class="STATE" stem="2,17" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,17</EVENT> mil milhões de dólares desde os <EVENT eid="e99" class="STATE" stem="1,89" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">1,89</EVENT> mil milhões de dólares.</s>
+<s>Durante <TIMEX3 tid="t70" type="DATE" value="1989-QX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t65">o trimestre</TIMEX3>, a Delta <EVENT eid="e17" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emitiu</EVENT> 2,5 milhões de ações ordinárias à Swissair, e <EVENT eid="e18" class="OCCURRENCE" stem="recomprar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recomprou</EVENT> 1,1 milhões de ações para serem <EVENT eid="e19" class="OCCURRENCE" stem="usar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">usadas</EVENT> num plano de aquisição de ações por empregados da empresa.</s>
+
+<s>"A chave do lucro recorde da Delta <EVENT eid="e21" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">continuou</EVENT> a ser o <EVENT eid="e95" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> excelente da receita de passageiros", <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Thomas Roeck, diretor financeiro.</s>
+<s>O <EVENT eid="e24" class="OCCURRENCE" stem="tráfego" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tráfego</EVENT> de passageiros <EVENT eid="e25" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentou</EVENT> 14% no trimestre, enquanto o lucro por passageiro <EVENT eid="e27" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> 2%.</s>
+
+<s>A Delta tem <EVENT eid="e28" class="OCCURRENCE" stem="beneficiar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">beneficiado</EVENT> mais do que as outras transportadoras com a fraqueza da Eastern Airlines, com a qual <EVENT eid="e29" class="OCCURRENCE" stem="dividir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">divide</EVENT> o centro de Atlanta.</s>
+<s>Embora a Eastern <TIMEX3 tid="t73" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t57">já</TIMEX3> tenha <EVENT eid="e72" class="OCCURRENCE" stem="reestabelecer" aspect="NONE" tense="PPCC" polarity="POS" pos="VERB">reestabelecido</EVENT> cerca de 80% do seu horário pré-greve, a subsidiária da Texas Air Corp. estava apenas a <EVENT eid="e31" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começar</EVENT> a <EVENT eid="e33" class="OCCURRENCE" stem="pôr" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pôr</EVENT>-se de pé durante <TIMEX3 tid="t74" type="DATE" value="1989-QX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t70">o trimestre</TIMEX3>.</s>
+
+<s>Em separado, a America West Airlines, de Phoenix, no Arizona, <EVENT eid="e34" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que o lucro do <TIMEX3 tid="t79" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t57">terceiro trimestre</TIMEX3> <EVENT eid="e35" class="OCCURRENCE" stem="disparar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disparou</EVENT> 45% para os <EVENT eid="e100" class="STATE" stem="5,8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">5,8</EVENT> milhões de dólares, ou 28 cêntimos por ação, face aos <EVENT eid="e101" class="STATE" stem="4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">4</EVENT> milhões de dólares, ou 24 cêntimos por ação, de <TIMEX3 tid="t88" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t79">há um ano</TIMEX3>.</s>
+<s>Os <EVENT eid="e36" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> mais recentes incluem um <EVENT eid="e77" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamento</EVENT> extraordinário de 2,6 milhões de dólares a partir de uma "entidade estrangeira".</s>
+<s>A America West não <EVENT eid="e38" class="OCCURRENCE" stem="identificar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">identificou</EVENT> a entidade, mas <EVENT eid="e41" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e42" class="OCCURRENCE" stem="pagamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pagamento</EVENT> foi para <EVENT eid="e43" class="OCCURRENCE" stem="uso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">uso</EVENT> da empresa estrangeira de certos benefícios fiscais relacionados com a compra de aviões da America West.</s>
+<s>Os <EVENT eid="e44" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> no <TIMEX3 tid="t80" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t79">ano anterior</TIMEX3> incluíam uma <EVENT eid="e82" class="OCCURRENCE" stem="entrada" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">entrada</EVENT> extraordinária de 1,6 milhões de dólares por causa de uma <EVENT eid="e83" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT> de obrigações subordinadas convertíveis.</s>
+
+<s>A receita <EVENT eid="e48" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 21% para os <EVENT eid="e102" class="STATE" stem="243,4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">243,4</EVENT> milhões de dólares desde os <EVENT eid="e103" class="STATE" stem="201,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">201,2</EVENT> milhões de dólares.</s>
+<s>Durante <TIMEX3 tid="t87" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">os nove meses</TIMEX3>, a America West <EVENT eid="e49" class="OCCURRENCE" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> lucros de 18,9 milhões de dólares, ou 97 cêntimos por ação, em comparação com um <EVENT eid="e51" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> de 9,7 milhões de dólares, ou 74 cêntimos por ação, <TIMEX3 tid="t89" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t57">há um ano</TIMEX3>.</s>
+<s>A receita <EVENT eid="e52" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 33% para os <EVENT eid="e104" class="STATE" stem="715,1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">715,1</EVENT> milhões de dólares desde os <EVENT eid="e105" class="STATE" stem="563,8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">563,8</EVENT> milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e6" relatedToTime="t60" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e13" relatedToTime="t60" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e15" relatedToTime="t63" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e15" relatedToTime="t65" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e15" relatedToTime="t64" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e19" relatedToTime="t70" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e31" relatedToTime="t73" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e31" relatedToTime="t74" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e34" relatedToTime="t79" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e34" relatedToTime="t88" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e82" relatedToTime="t80" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e44" relatedToTime="t80" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e49" relatedToTime="t87" task="A"/>
+<TLINK lid="l14" relType="AFTER" eventID="e49" relatedToTime="t89" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e51" relatedToTime="t87" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e51" relatedToTime="t89" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e6" relatedToTime="t57" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e13" relatedToTime="t57" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e15" relatedToTime="t57" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e16" relatedToTime="t57" task="B"/>
+<TLINK lid="l21" relType="VAGUE" eventID="e19" relatedToTime="t57" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e23" relatedToTime="t57" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e21" relatedToTime="t57" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e31" relatedToTime="t57" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e34" relatedToTime="t57" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e36" relatedToTime="t57" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e43" relatedToTime="t57" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e41" relatedToTime="t57" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e82" relatedToTime="t57" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e44" relatedToTime="t57" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e48" relatedToTime="t57" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e49" relatedToTime="t57" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e51" relatedToTime="t57" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e52" relatedToTime="t57" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e52" eventID="e49" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e23" eventID="e17" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e15" eventID="e5" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e49" eventID="e48" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e38" eventID="e36" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP-OR-AFTER" relatedToEvent="e48" eventID="e44" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e44" eventID="e38" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e31" eventID="e28" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e36" eventID="e34" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e28" eventID="e25" task="C"/>
+<TLINK lid="l11c" relType="AFTER" relatedToEvent="e25" eventID="e23" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e16" eventID="e15" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e17" eventID="e16" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e34" eventID="e31" task="C"/>
+<TLINK lid="l15c" relType="BEFORE" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

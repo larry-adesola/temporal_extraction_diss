@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0143
+= 891027
+891027-0143.
+Notícias de Dividendos:
+@ AEP Industries Inc.
+<TIMEX3 tid="t17" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+AEPI
+DIVIDENDS (DIV)
+
+
+<s>Os diretores da AEP Industries Inc. <EVENT eid="e1" class="I_ACTION" stem="autorizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">autorizaram</EVENT> uma <EVENT eid="e2" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT> das ações ordinárias de 3 para 2, a <EVENT eid="e12" class="STATE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">pagar</EVENT> a <TIMEX3 tid="t18" type="DATE" value="1989-12-07" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">7 de dezembro</TIMEX3> para ações do <EVENT eid="e3" class="STATE" stem="registo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">registo</EVENT> de <TIMEX3 tid="t19" type="DATE" value="1989-11-22" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">22 de novembro</TIMEX3>.</s>
+<s>A <EVENT eid="e4" class="OCCURRENCE" stem="divisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">divisão</EVENT> <EVENT eid="e5" class="I_STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> por objetivo <EVENT eid="e7" class="I_ACTION" stem="elevar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">elevar</EVENT> a <EVENT eid="e13" class="STATE" stem="liquidez" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">liquidez</EVENT> das ações, <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Brendan Barba, presidente do conselho de administração da Moonachie, de Nova Jérsia, fabricante de produtos de películas de plástico.</s>
+<s>Após a <EVENT eid="e9" class="OCCURRENCE" stem="divisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">divisão</EVENT>, a companhia <EVENT eid="e14" class="STATE" stem="ter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">terá</EVENT> mais de 4,7 milhões de ações em circulação.</s>
+<s>No <EVENT eid="e10" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> de balcão nacional <TIMEX3 tid="t20" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">ontem</TIMEX3>, as ações da AEP <EVENT eid="e11" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos <EVENT eid="e15" class="STATE" stem="21,25" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">21,25</EVENT> dólares, menos 50 cêntimos.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e11" relatedToTime="t20" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e10" relatedToTime="t20" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e8" relatedToTime="t17" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e7" relatedToTime="t17" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e14" relatedToTime="t17" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e11" relatedToTime="t17" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e10" relatedToTime="t17" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e11" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e14" eventID="e8" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

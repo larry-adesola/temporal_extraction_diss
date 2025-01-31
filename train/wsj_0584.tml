@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0115
+= 891030
+891030-0115.
+BellSouth, LIN
+@ Melhoram Plano
+@ Para Fundir Linhas
+@ ---
+@ Acordo Envolve Imensas Dívidas
+@ E Pode não Afastar
+@ A Rival McCaw
+@ ----
+@ Por Julie Amparano Lopez
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t286" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+BLS LINB MCAWA
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+TELEPHONE SYSTEMS (TLS)
+MEDIA, PUBLISHING, BROADCASTING, ELECTRONIC PUBLISHING (MED)
+
+
+<s>O <EVENT eid="e1" class="STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> revisto de telemóveis entre a BellSouth Corp. e a LIN Broadcasting Corp traz <EVENT eid="e3" class="STATE" stem="risco" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">riscos</EVENT> aumentados e pode não <EVENT eid="e4" class="I_STATE" stem="conseguir" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">conseguir</EVENT> <EVENT eid="e7" class="OCCURRENCE" stem="afastar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">afastar</EVENT> a McCaw Cellular Communications Inc., o pretendente rival à LIN.</s>
+
+<s>Além disso, o <EVENT eid="e8" class="STATE" stem="pacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pacto</EVENT> alterado mostra como a persistência da McCaw <EVENT eid="e10" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">colocou</EVENT> a LIN e a BellSouth entre a espada e a parede, <EVENT eid="e12" class="OCCURRENCE" stem="obrigar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">obrigando</EVENT> a uma enorme dívida na nova companhia proposta.</s>
+<s>A dívida, <EVENT eid="e13" class="I_ACTION" stem="estimar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">estimada</EVENT> em 4,7 mil milhões de dólares, pode <EVENT eid="e14" class="OCCURRENCE" stem="hipotecar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">hipotecar</EVENT> o potencial futuro de lucro da empresa de telemóveis, apesar de <EVENT eid="e19" class="OCCURRENCE" stem="aplacar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aplacar</EVENT> alguns acionistas da LIN a <TIMEX3 tid="t287" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t286">curto prazo</TIMEX3>.</s>
+
+<s>O plano ainda <EVENT eid="e21" class="I_STATE" stem="exigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">exige</EVENT> que a LIN <EVENT eid="e23" class="OCCURRENCE" stem="combinar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">combine</EVENT> os seus estabelecimentos de telemóveis com os da BellSouth e que <EVENT eid="e25" class="OCCURRENCE" stem="cindir" aspect="NONE" tense="PC" polarity="POS" pos="VERB">cinda</EVENT> os seus negócios de radiodifusão.</s>
+<s>Mas, sob os novos termos do <EVENT eid="e27" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>, <EVENT eid="e28" class="I_ACTION" stem="anunciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">anunciado</EVENT> <TIMEX3 tid="t288" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t286">sexta-feira</TIMEX3>, os acionistas da LIN <EVENT eid="e29" class="OCCURRENCE" stem="receber" aspect="NONE" tense="C" polarity="POS" pos="VERB">receberiam</EVENT> um dividendo especial em dinheiro de 42 dólares por ação, representando um pagamento de cerca de 2,23 mil milhões de dólares, pouco antes da <EVENT eid="e32" class="OCCURRENCE" stem="fusão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fusão</EVENT> <EVENT eid="e290" class="I_ACTION" stem="propor" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">proposta</EVENT>.</s>
+<s>A LIN <EVENT eid="e34" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e35" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e37" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pedir</EVENT> emprestado o dinheiro para <EVENT eid="e40" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> os dividendos, mas ainda não se <EVENT eid="e43" class="OCCURRENCE" stem="obter" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">obtiveram</EVENT> <EVENT eid="e41" class="STATE" stem="compromisso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compromissos</EVENT> com os bancos.</s>
+<s>Sob os termos anteriores, os titulares teriam <EVENT eid="e45" class="OCCURRENCE" stem="receber" aspect="NONE" tense="CC" polarity="POS" pos="VERB">recebido</EVENT> um dividendo de apenas 20 dólares por ação.</s>
+
+<s>Para além disso, a LIN, sediada em Nova Iorque, <EVENT eid="e48" class="OCCURRENCE" stem="exercer" aspect="NONE" tense="C" polarity="POS" pos="VERB">exerceria</EVENT> o seu direito de <EVENT eid="e51" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> por 1,9 mil milhões de dólares uma participação de 55% do seu parceiro, a Metromedia Co., num franchising de telemóveis de Nova Iorque.</s>
+<s>Esse dinheiro também teria de ser <EVENT eid="e56" class="OCCURRENCE" stem="emprestar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">emprestado</EVENT>.</s>
+<s>Com efeito, a McCaw <EVENT eid="e57" class="OCCURRENCE" stem="apressar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apressou</EVENT> a LIN a tomar uma posição ao <EVENT eid="e58" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">oferecer</EVENT> 1,9 mil milhões de dólares pela participação no <TIMEX3 tid="t292" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t286">início deste mês</TIMEX3>.</s>
+
+<s>"Estamos a <EVENT eid="e60" class="OCCURRENCE" stem="assumir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">assumir</EVENT> mais dívidas do que <EVENT eid="e61" class="I_STATE" stem="gostar" aspect="NONE" tense="C" polarity="POS" pos="VERB">gostaríamos</EVENT>", <EVENT eid="e63" class="REPORTING" stem="reconhecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reconheceu</EVENT> Michael Plouf, o vice-presidente e tesoureiro da LIN.</s>
+<s>Embora ele tenha <EVENT eid="e65" class="REPORTING" stem="expressar" aspect="NONE" tense="PPCC" polarity="POS" pos="VERB">expressado</EVENT> <EVENT eid="e293" class="I_STATE" stem="confiança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">confiança</EVENT> de que o cash flow da nova empresa seria <EVENT eid="e294" class="STATE" stem="suficiente" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">suficiente</EVENT> para <EVENT eid="e69" class="OCCURRENCE" stem="cobrir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cobrir</EVENT> os pagamentos dos juros da dívida, <EVENT eid="e71" class="I_ACTION" stem="estimar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estimou</EVENT> que a empresa não seria <EVENT eid="e295" class="STATE" stem="rentável" aspect="NONE" tense="NONE" polarity="NEG" pos="ADJECTIVE">rentável</EVENT> até <TIMEX3 tid="t299" type="DATE" value="1994" mod="ON_OR_AFTER" temporalFunction="false" functionInDocument="NONE">1994 ou até mais tarde</TIMEX3>.</s>
+
+<s>Os analistas <EVENT eid="e74" class="I_STATE" stem="estimar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">estimam</EVENT> o <EVENT eid="e302" class="STATE" stem="valor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">valor</EVENT> da proposta da BellSouth em cerca de 115 a 125 dólares por ação.</s>
+<s><EVENT eid="e301" class="I_STATE" stem="avaliar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Avaliam</EVENT> a <EVENT eid="e76" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> da McCaw em 112 a 118 dólares por ação.</s>
+<s>O <EVENT eid="e303" class="STATE" stem="pacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pacto</EVENT> anterior da BellSouth foi <EVENT eid="e77" class="I_ACTION" stem="avaliar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">avaliado</EVENT> em cerca de 98 a 110 por ação.</s>
+
+<s>A McCaw, a maior operadora de telemóveis nos os EUA, já possui cerca de 9,4% das ações da LIN.</s>
+<s>Em resposta ao <EVENT eid="e80" class="OCCURRENCE" stem="pacto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pacto</EVENT> alterado da BellSouth, a empresa de Kirkland, em Washington, <EVENT eid="e81" class="OCCURRENCE" stem="ampliar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ampliou</EVENT> a sua própria <EVENT eid="e82" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> para <EVENT eid="e84" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> 22 milhões de ações da LIN por 125 dólares cada, o que <EVENT eid="e85" class="OCCURRENCE" stem="dar" aspect="NONE" tense="C" polarity="POS" pos="VERB">daria</EVENT> à McCaw uma participação de 50,3%, ou o controlo acionário.</s>
+<s>No <TIMEX3 tid="t307" type="DATE" value="1989-W43-WE" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t286">fim de semana</TIMEX3>, a McCaw <EVENT eid="e88" class="OCCURRENCE" stem="continuar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">continuou</EVENT> a <EVENT eid="e90" class="OCCURRENCE" stem="apelar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apelar</EVENT> a uma venda da LIN.</s>
+<s>Os analistas <EVENT eid="e91" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que <EVENT eid="e92" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">esperam</EVENT> que a McCaw <EVENT eid="e94" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">aumente</EVENT> a oferta novamente.</s>
+
+<s>"Este jogo ainda não <EVENT eid="e310" class="OCCURRENCE" stem="acabar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">acabou</EVENT>", <EVENT eid="e98" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Joel D. Gross, um vice-presidente da Donaldson, Lufkin &amp; Jenrette Securities Corp.</s>
+<s>"A certo ponto, <EVENT eid="e100" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">tornar-se-á</EVENT> não económico para uma das empresas.</s>
+<s>Mas <EVENT eid="e101" class="I_STATE" stem="pensar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">penso</EVENT> que ainda não estamos <EVENT eid="e2026" class="STATE" stem="em" aspect="NONE" tense="PI" polarity="NEG" pos="PREPOSITION">nesse</EVENT> ponto."</s>
+
+<s>Sob a sua <EVENT eid="e104" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> <EVENT eid="e314" class="I_ACTION" stem="rever" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">revista</EVENT>, a BellSouth, sediada em Atlanta, <EVENT eid="e316" class="STATE" stem="ter" aspect="NONE" tense="C" polarity="POS" pos="VERB">teria</EVENT> uma participação de 50% na nova empresa de telemóveis e seria <EVENT eid="e317" class="STATE" stem="responsável" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">responsável</EVENT> por metade da sua dívida.</s>
+<s>Para <EVENT eid="e107" class="OCCURRENCE" stem="adoçar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adoçar</EVENT> ainda mais o pacto - e para <EVENT eid="e110" class="OCCURRENCE" stem="aliviar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aliviar</EVENT> as <EVENT eid="e319" class="STATE" stem="preocupação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preocupações</EVENT> dos investidores institucionais - a BellSouth <EVENT eid="e111" class="OCCURRENCE" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> uma disposição destinada a <EVENT eid="e115" class="OCCURRENCE" stem="dar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dar</EVENT> <EVENT eid="e116" class="OCCURRENCE" stem="proteção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proteção</EVENT> adicional aos acionistas se a companhia regional Bell alguma vez <EVENT eid="e118" class="I_ACTION" stem="decidir" aspect="NONE" tense="FC" polarity="POS" pos="VERB">decidir</EVENT> <EVENT eid="e120" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> o resto da nova empresa de telemóveis.</s>
+<s>A disposição, descrita como proteção "anti-OPAs", <EVENT eid="e125" class="I_ACTION" stem="exigir" aspect="NONE" tense="C" polarity="POS" pos="VERB">exigiria</EVENT> que a BellSouth <EVENT eid="e128" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">pagasse</EVENT> um preço equivalente ao que um grupo exterior teria de pagar.</s>
+
+<s>A oferta da McCaw também tem uma cláusula semelhante.</s>
+<s>Só que a proposta da McCaw <EVENT eid="e138" class="I_STATE" stem="exigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">exige</EVENT> que a empresa <EVENT eid="e140" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">comece</EVENT> um <EVENT eid="e141" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> de venda em <TIMEX3 tid="t322" type="DATE" value="1994-06" temporalFunction="false" functionInDocument="NONE">junho de 1994</TIMEX3> para as restantes ações a preços para terceiros.</s>
+
+<s>Para <EVENT eid="e144" class="OCCURRENCE" stem="acalmar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">acalmar</EVENT> os acionistas <EVENT eid="e145" class="OCCURRENCE" stem="preocupar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">preocupados</EVENT> com o <EVENT eid="e324" class="STATE" stem="valor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">valor</EVENT> a longo prazo da empresa sob o <EVENT eid="e146" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> entre a BellSouth e a LIN, a BellSouth também <EVENT eid="e147" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e149" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> até 10 dólares por ação, ou 540 milhões de dólares, se, após <TIMEX3 tid="t326" type="DURATION" value="P5Y" temporalFunction="false" functionInDocument="NONE">cinco anos</TIMEX3>, o valor da nova empresa de telemóveis não for tão <EVENT eid="e327" class="STATE" stem="elevado" aspect="NONE" tense="FC" polarity="NEG" pos="ADJECTIVE">elevado</EVENT> como o valor que os acionistas teriam obtido com a oferta da McCaw.</s>
+
+<s>"Estamos muito <EVENT eid="e329" class="STATE" stem="satisfeito" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">satisfeitos</EVENT> com o novo <EVENT eid="e153" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>.</s>
+<s>Não <EVENT eid="e154" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="NEG" pos="VERB">esperávamos</EVENT> que a BellSouth fosse tão rápida a <EVENT eid="e330" class="OCCURRENCE" stem="responder" aspect="NONE" tense="INF" polarity="POS" pos="VERB">responder</EVENT>", <EVENT eid="e157" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Frederick A. Moran, presidente da Moran Asset Management Inc., que detém 500.000 ações da LIN.</s>
+<s>A proteção anti-OPAs da BellSouth tinha defeitos anteriormente.</s>
+<s><EVENT eid="e161" class="I_STATE" stem="pensar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Pensamos</EVENT> que este é um <EVENT eid="e162" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">negócio</EVENT> superior ao da McCaw.</s>
+<s>Estamos surpreendidos.</s>
+<s>Não <EVENT eid="e164" class="I_STATE" stem="achar" aspect="NONE" tense="PII" polarity="NEG" pos="VERB">achávamos</EVENT> que uma mentalidade dormente (da Bell) estaria <EVENT eid="e332" class="I_STATE" stem="disposto" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">disposta</EVENT> a <EVENT eid="e168" class="OCCURRENCE" stem="assumir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">assumir</EVENT> a diluição."</s>
+
+<s>Mas Kenneth Leon, um analista de telecomunicações da Bear, Stearns &amp; Co., <EVENT eid="e170" class="I_STATE" stem="considerar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">considera</EVENT> a proposta da BellSouth ainda <EVENT eid="e171" class="STATE" stem="imperfeito" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">imperfeita</EVENT> porque a empresa não tem de <EVENT eid="e2025" class="STATE" stem="esperar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">esperar</EVENT> cinco anos para começar a comprar mais ações da LIN.</s>
+<s>"Quantas ações haverá em 1995?" perguntou.</s>
+<s>"Não há nada que impeça a BellSouth de comprar ações entretanto".</s>
+
+<s>A <EVENT eid="e183" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> revista da BellSouth <EVENT eid="e184" class="OCCURRENCE" stem="surpreender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">surpreendeu</EVENT> muitos analistas da indústria, especialmente por causa da <EVENT eid="e348" class="I_STATE" stem="disponibilidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">disponibilidade</EVENT> da companhia em <EVENT eid="e187" class="I_ACTION" stem="aceitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aceitar</EVENT> uma certa <EVENT eid="e188" class="OCCURRENCE" stem="diluição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diluição</EVENT> de ganhos futuros.</s>
+<s>William O. McCoy, presidente da unidade BellSouth Enterprises Inc. da empresa, <EVENT eid="e189" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e190" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> revisto com a LIN <EVENT eid="e191" class="OCCURRENCE" stem="diluir" aspect="NONE" tense="C" polarity="POS" pos="VERB">diluiria</EVENT> os ganhos da BellSouth em cerca de 9% em <TIMEX3 tid="t351" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3> e em <TIMEX3 tid="t352" type="DATE" value="1991" temporalFunction="false" functionInDocument="NONE">1991</TIMEX3> e em muito menos depois.</s>
+<s>De facto, o negócio de telemóveis da BellSouth foi dos primeiros no país a tornarem-se rentáveis.</s>
+
+<s>Em <TIMEX3 tid="t358" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3>, a BellSouth <EVENT eid="e196" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ganhou</EVENT> 1,7 mil milhões de dólares, ou 3,51 dólares por ação, com uma receita de 13,6 mil milhões de dólares.</s>
+<s>Os analistas <EVENT eid="e197" class="I_ACTION" stem="prever" aspect="NONE" tense="PII" polarity="POS" pos="VERB">previam</EVENT> <EVENT eid="e360" class="STATE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganhos</EVENT> da BellSouth em <TIMEX3 tid="t359" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3> na casa dos 3,90 dólares por ação, ou 1,9 mil milhões de dólares, mas <TIMEX3 tid="t361" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t286">agora</TIMEX3> estas <EVENT eid="e362" class="STATE" stem="estimativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estimativas</EVENT> estão a ser <EVENT eid="e200" class="OCCURRENCE" stem="reduzir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">reduzidas</EVENT>.</s>
+
+<s>Nas <EVENT eid="e363" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> de <TIMEX3 tid="t364" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t286">sexta-feira</TIMEX3> na Bolsa de Valores de Nova Iorque, as ações da BellSouth <EVENT eid="e201" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 87,5 cêntimos para os <EVENT eid="e366" class="STATE" stem="52,125" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">52,125</EVENT> dólares.</s>
+
+<s>No <EVENT eid="e202" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> nacional de balcão, as ações da LIN <EVENT eid="e203" class="OCCURRENCE" stem="disparar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">dispararam</EVENT> 4,625 dólares para fechar nos 112,625 dólares, enquanto a McCaw <EVENT eid="e206" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 2,50 dólares por ação para os <EVENT eid="e367" class="STATE" stem="37,75" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">37,75</EVENT> dólares.</s>
+
+<s>A companhia de telemóveis proposta BellSouth-LIN, incluindo a participação da recém-adquirida Metromedia, <EVENT eid="e207" class="OCCURRENCE" stem="dar" aspect="NONE" tense="C" polarity="POS" pos="VERB">daria</EVENT> à nova entidade 55 milhões de clientes potenciais, incluindo cerca de 35 milhões nos 10 principais mercados do país.</s>
+
+<s>Leon, da Bear Stearns, <EVENT eid="e211" class="I_ACTION" stem="especular" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">especulou</EVENT> que a McCaw, numa <EVENT eid="e212" class="I_ACTION" stem="tentativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tentativa</EVENT> de <EVENT eid="e215" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ganhar</EVENT> tempo, poderá <EVENT eid="e217" class="I_ACTION" stem="considerar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">considerar</EVENT> <EVENT eid="e219" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apresentar</EVENT> um processo antitrust contra a BellSouth ao Departamento de Justiça e ao juiz Harold Greene, de Washington, que supervisiona a aplicação do decreto judicional que <EVENT eid="e224" class="OCCURRENCE" stem="quebrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">quebrou</EVENT> o sistema da Bell em <TIMEX3 tid="t370" type="DATE" value="1984" temporalFunction="false" functionInDocument="NONE">1984</TIMEX3>.</s>
+
+<s>Na verdade, a McCaw <EVENT eid="e225" class="I_STATE" stem="parecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pareceu</EVENT> <EVENT eid="e227" class="OCCURRENCE" stem="dar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dar</EVENT> essa sugestão numa breve <EVENT eid="e230" class="OCCURRENCE" stem="declaração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declaração</EVENT>.</s>
+<s>Instando os diretores da LIN a realizar "uma venda justa com igualdade de condições", a McCaw perguntou até que ponto o interesse público seria bem servido "com as operadoras Bell a controlar mais de 94% de todos os (potenciais clientes de) telemóveis nos 10 maiores mercados do país".</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e27" relatedToTime="t288" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e28" relatedToTime="t288" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e58" relatedToTime="t292" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e90" relatedToTime="t307" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e88" relatedToTime="t307" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e140" relatedToTime="t322" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e146" relatedToTime="t326" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e147" relatedToTime="t326" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e149" relatedToTime="t326" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e189" relatedToTime="t351" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e189" relatedToTime="t352" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e190" relatedToTime="t351" task="A"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e190" relatedToTime="t352" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e196" relatedToTime="t358" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e201" relatedToTime="t364" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e363" relatedToTime="t364" task="A"/>
+<TLINK lid="l17" relType="AFTER" eventID="e215" relatedToTime="t370" task="A"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e1" relatedToTime="t286" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e21" relatedToTime="t286" task="B"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e27" relatedToTime="t286" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e28" relatedToTime="t286" task="B"/>
+<TLINK lid="l22" relType="AFTER" eventID="e40" relatedToTime="t286" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e34" relatedToTime="t286" task="B"/>
+<TLINK lid="l24" relType="OVERLAP" eventID="e35" relatedToTime="t286" task="B"/>
+<TLINK lid="l25" relType="AFTER" eventID="e51" relatedToTime="t286" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e58" relatedToTime="t286" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e60" relatedToTime="t286" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e76" relatedToTime="t286" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e82" relatedToTime="t286" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e84" relatedToTime="t286" task="B"/>
+<TLINK lid="l31" relType="OVERLAP-OR-AFTER" eventID="e85" relatedToTime="t286" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e90" relatedToTime="t286" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e88" relatedToTime="t286" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e91" relatedToTime="t286" task="B"/>
+<TLINK lid="l35" relType="OVERLAP" eventID="e92" relatedToTime="t286" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e98" relatedToTime="t286" task="B"/>
+<TLINK lid="l37" relType="AFTER" eventID="e100" relatedToTime="t286" task="B"/>
+<TLINK lid="l38" relType="OVERLAP" eventID="e101" relatedToTime="t286" task="B"/>
+<TLINK lid="l39" relType="OVERLAP-OR-AFTER" eventID="e316" relatedToTime="t286" task="B"/>
+<TLINK lid="l40" relType="AFTER" eventID="e115" relatedToTime="t286" task="B"/>
+<TLINK lid="l41" relType="AFTER" eventID="e120" relatedToTime="t286" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e111" relatedToTime="t286" task="B"/>
+<TLINK lid="l43" relType="AFTER" eventID="e128" relatedToTime="t286" task="B"/>
+<TLINK lid="l44" relType="AFTER" eventID="e140" relatedToTime="t286" task="B"/>
+<TLINK lid="l45" relType="OVERLAP" eventID="e146" relatedToTime="t286" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e147" relatedToTime="t286" task="B"/>
+<TLINK lid="l47" relType="AFTER" eventID="e149" relatedToTime="t286" task="B"/>
+<TLINK lid="l48" relType="BEFORE" eventID="e154" relatedToTime="t286" task="B"/>
+<TLINK lid="l49" relType="BEFORE" eventID="e157" relatedToTime="t286" task="B"/>
+<TLINK lid="l50" relType="OVERLAP" eventID="e161" relatedToTime="t286" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e168" relatedToTime="t286" task="B"/>
+<TLINK lid="l52" relType="BEFORE" eventID="e164" relatedToTime="t286" task="B"/>
+<TLINK lid="l53" relType="BEFORE" eventID="e189" relatedToTime="t286" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e190" relatedToTime="t286" task="B"/>
+<TLINK lid="l55" relType="BEFORE" eventID="e196" relatedToTime="t286" task="B"/>
+<TLINK lid="l56" relType="BEFORE" eventID="e201" relatedToTime="t286" task="B"/>
+<TLINK lid="l57" relType="BEFORE" eventID="e363" relatedToTime="t286" task="B"/>
+<TLINK lid="l58" relType="BEFORE" eventID="e202" relatedToTime="t286" task="B"/>
+<TLINK lid="l59" relType="BEFORE" eventID="e206" relatedToTime="t286" task="B"/>
+<TLINK lid="l60" relType="AFTER" eventID="e207" relatedToTime="t286" task="B"/>
+<TLINK lid="l61" relType="AFTER" eventID="e215" relatedToTime="t286" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e21" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e111" eventID="e316" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e101" eventID="e98" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e301" eventID="e74" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e211" eventID="e207" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e34" eventID="e29" task="C"/>
+<TLINK lid="l7c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e48" eventID="e45" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e189" eventID="e184" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e207" eventID="e203" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e157" eventID="e329" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e98" eventID="e91" task="C"/>
+<TLINK lid="l12c" relType="BEFORE" relatedToEvent="e201" eventID="e197" task="C"/>
+<TLINK lid="l13c" relType="BEFORE" relatedToEvent="e45" eventID="e34" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e29" eventID="e21" task="C"/>
+<TLINK lid="l15c" relType="BEFORE" relatedToEvent="e125" eventID="e111" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP-OR-AFTER" relatedToEvent="e147" eventID="e138" task="C"/>
+<TLINK lid="l17c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e329" eventID="e147" task="C"/>
+<TLINK lid="l18c" relType="BEFORE" relatedToEvent="e14" eventID="e8" task="C"/>
+<TLINK lid="l19c" relType="BEFORE" relatedToEvent="e74" eventID="e71" task="C"/>
+<TLINK lid="l20c" relType="BEFORE" relatedToEvent="e63" eventID="e57" task="C"/>
+<TLINK lid="l21c" relType="BEFORE" relatedToEvent="e88" eventID="e81" task="C"/>
+<TLINK lid="l22c" relType="VAGUE" relatedToEvent="e225" eventID="e211" task="C"/>
+<TLINK lid="l23c" relType="AFTER" relatedToEvent="e77" eventID="e301" task="C"/>
+<TLINK lid="l24c" relType="BEFORE" relatedToEvent="e316" eventID="e101" task="C"/>
+<TLINK lid="l25c" relType="OVERLAP" relatedToEvent="e56" eventID="e48" task="C"/>
+<TLINK lid="l26c" relType="OVERLAP" relatedToEvent="e91" eventID="e88" task="C"/>
+<TLINK lid="l27c" relType="VAGUE" relatedToEvent="e57" eventID="e56" task="C"/>
+<TLINK lid="l28c" relType="OVERLAP" relatedToEvent="e203" eventID="e201" task="C"/>
+<TLINK lid="l29c" relType="BEFORE" relatedToEvent="e170" eventID="e164" task="C"/>
+<TLINK lid="l30c" relType="OVERLAP" relatedToEvent="e71" eventID="e63" task="C"/>
+<TLINK lid="l31c" relType="BEFORE" relatedToEvent="e197" eventID="e196" task="C"/>
+<TLINK lid="l32c" relType="OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0042
+= 891026
+891026-0042.
+Anheuser-Busch, Relutantemente, Planeia Cortes no Preço da Cerveja
+@ ----
+@ Por James P. Miller
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t161" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+BUD
+BEVERAGES (BVG)
+MARKETING, ADVERTISING (MKT)
+EARNINGS (ERN)
+
+
+<s>A Anheuser-Busch Cos. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="POS" pos="VERB">planeia</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">colocar</EVENT> descontos agressivos nas suas principais marcas de cerveja, <EVENT eid="e5" class="OCCURRENCE" stem="criar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">criando</EVENT> um clima para uma <EVENT eid="e6" class="OCCURRENCE" stem="guerra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guerra</EVENT> de preços potencialmente violenta à medida que o <EVENT eid="e192" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> da indústria amadurecida <EVENT eid="e8" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> a <EVENT eid="e10" class="OCCURRENCE" stem="abrandar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">abrandar</EVENT>.</s>
+
+<s>A Anheuser, o maior fabricante de cerveja do mundo e o líder de mercado nos EUA, tem-se mostrado no passado <EVENT eid="e203" class="I_STATE" stem="relutante" aspect="NONE" tense="PPIC" polarity="POS" pos="ADJECTIVE">relutante</EVENT> em <EVENT eid="e210" class="OCCURRENCE" stem="cortar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cortar</EVENT> os preços como meio de <EVENT eid="e14" class="OCCURRENCE" stem="estimular" aspect="NONE" tense="INF" polarity="POS" pos="VERB">estimular</EVENT> as vendas.</s>
+<s>Com o <EVENT eid="e15" class="OCCURRENCE" stem="passar" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">passar</EVENT> dos <TIMEX3 tid="t227" type="DURATION" value="PXD" temporalFunction="false" functionInDocument="NONE">dias</TIMEX3> alegres das vendas <EVENT eid="e16" class="OCCURRENCE" stem="inchar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">inchadas</EVENT> da indústria, porém, as <EVENT eid="e17" class="OCCURRENCE" stem="incursão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">incursões</EVENT> outrora esporádicas e breves em <EVENT eid="e18" class="OCCURRENCE" stem="desconto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">descontos</EVENT> estão a <EVENT eid="e20" class="OCCURRENCE" stem="tornar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tornar</EVENT>-se armas competitivas comuns na indústria da cerveja.</s>
+
+<s>Durante o <TIMEX3 tid="t246" type="DATE" value="1989-SU" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">verão</TIMEX3>, os concorrentes da Anheuser <EVENT eid="e24" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ofereceram</EVENT> mais <EVENT eid="e25" class="OCCURRENCE" stem="desconto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">descontos</EVENT> e mais profundos do que os observadores da indústria <EVENT eid="e26" class="PERCEPTION" stem="ver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">viram</EVENT> durante muito tempo.</s>
+<s>Alguns especialistas <EVENT eid="e28" class="OCCURRENCE" stem="prever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">prevêem</EVENT> <TIMEX3 tid="t261" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">agora</TIMEX3> que a <EVENT eid="e29" class="OCCURRENCE" stem="entrada" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">entrada</EVENT> da Anheuser na <EVENT eid="e30" class="OCCURRENCE" stem="disputa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">disputa</EVENT> <EVENT eid="e32" class="STATE" stem="acarretar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">acarrete</EVENT> <EVENT eid="e33" class="OCCURRENCE" stem="problema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">problemas</EVENT> nos lucros a curto prazo para todos os atores da indústria.</s>
+
+<s>A empresa de St. Louis <EVENT eid="e34" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as principais rivais, a unidade Miller Brewing da Philip Morris Co. e a Adolph Coors Co. "têm <EVENT eid="e35" class="OCCURRENCE" stem="seguir" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">seguido</EVENT> uma política de <EVENT eid="e36" class="OCCURRENCE" stem="desconto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">descontos</EVENT> contínuos e profundos, pelo menos nos <TIMEX3 tid="t283" type="DURATION" value="P18M" mod="EQUAL_OR_MORE" temporalFunction="true" functionInDocument="NONE" endPoint="t161">últimos 18 meses</TIMEX3>" sobre as suas marcas de prestígio, <EVENT eid="e38" class="OCCURRENCE" stem="colocar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">colocando</EVENT> o seu produto a preços tão baixos quanto 25 cêntimos por pack de 12 abaixo da marca Budweiser da Anheuser em muitos mercados.</s>
+<s>A Anheuser <EVENT eid="e42" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua política de descontos basicamente <EVENT eid="e43" class="OCCURRENCE" stem="envolver" aspect="NONE" tense="C" polarity="POS" pos="VERB">envolveria</EVENT> <EVENT eid="e45" class="OCCURRENCE" stem="igualar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">igualar</EVENT> tais <EVENT eid="e46" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medidas</EVENT> dos rivais de acordo com cada mercado.</s>
+
+<s>A Anheuser-Busch <EVENT eid="e47" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> o seu <EVENT eid="e1991" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> ao mesmo tempo que <EVENT eid="e50" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> que o lucro líquido no <TIMEX3 tid="t321" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">terceiro trimestre</TIMEX3> <EVENT eid="e51" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> 5,2%, menos do que o esperado, para os <EVENT eid="e2241" class="STATE" stem="238,3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">238,3</EVENT> milhões de dólares, ou 83 cêntimos por ação, desde os <EVENT eid="e2242" class="STATE" stem="226,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">226,5</EVENT> milhões de dólares, ou 78 cêntimos.</s>
+<s>As vendas no terceiro trimestre foram de 2,49 mil milhões de dólares, subindo dos 2,34 mil milhões de dólares do ano passado.</s>
+
+<s>A Anheuser <EVENT eid="e52" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua nova estratégia - <EVENT eid="e53" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">iniciada</EVENT> nalguns mercados no <TIMEX3 tid="t354" type="DATE" value="1989-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">mês passado</TIMEX3> e que <EVENT eid="e56" class="I_STATE" stem="dever" aspect="NONE" tense="FI" polarity="POS" pos="VERB">deverá</EVENT> ser <EVENT eid="e58" class="OCCURRENCE" stem="aplicar" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">aplicada</EVENT> em breve em mercados selecionados a nível nacional - vai <EVENT eid="e61" class="STATE" stem="significar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">significar</EVENT> lucros mais baixos que os previstos para <TIMEX3 tid="t371" type="DATE" value="1989-H2" temporalFunction="false" functionInDocument="NONE">o último semestre de 1989</TIMEX3> e para <TIMEX3 tid="t370" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3>.</s>
+<s>A <EVENT eid="e62" class="OCCURRENCE" stem="projeção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">projeção</EVENT> <EVENT eid="e63" class="OCCURRENCE" stem="levar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">levou</EVENT> as ações da Anheuser a <EVENT eid="e64" class="OCCURRENCE" stem="mergulhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">mergulhar</EVENT> 4,375 dólares na Bolsa de Valores de Nova Iorque <TIMEX3 tid="t394" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">ontem</TIMEX3>.</s>
+<s>As ações <EVENT eid="e65" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos 38,50 dólares com um volume pesado de cerca de 3,5 milhões de ações.</s>
+<s>As ações da Coors, que dos concorrentes principais da companhia é o único de capital aberto, <EVENT eid="e66" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 1,50 dólares por ação para os <EVENT eid="e405" class="STATE" stem="19,125" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">19,125</EVENT> dólares no mercado de balcão nacional, aparentemente por causa das preocupações dos investidores sobre os potenciais <EVENT eid="e410" class="STATE" stem="efeito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">efeitos</EVENT> da futura <EVENT eid="e70" class="OCCURRENCE" stem="luta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">luta</EVENT> de preços.</s>
+
+<s>A Anheuser <EVENT eid="e72" class="REPORTING" stem="notar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">notou</EVENT> que "o volume de <EVENT eid="e424" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> da indústria da cerveja em <TIMEX3 tid="t419" type="DATE" value="1989" temporalFunction="false" functionInDocument="NONE">1989</TIMEX3> está a <EVENT eid="e73" class="OCCURRENCE" stem="seguir" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">seguir</EVENT> a <EVENT eid="e437" class="OCCURRENCE" stem="tendência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tendência</EVENT> que <EVENT eid="e74" class="STATE" stem="caracterizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caracterizou</EVENT> <TIMEX3 tid="t446" type="DATE" value="198" mod="END" temporalFunction="false" functionInDocument="NONE">a última metade dos anos 80</TIMEX3>, com o volume de vendas a ficar essencialmente <EVENT eid="e2238" class="STATE" stem="constante" aspect="NONE" tense="INF" polarity="POS" pos="ADJECTIVE">constante</EVENT>", enquanto a <EVENT eid="e77" class="OCCURRENCE" stem="consolidação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">consolidação</EVENT> <EVENT eid="e78" class="OCCURRENCE" stem="criar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">cria</EVENT> menos atores mas maiores.</s>
+
+<s>"Não podemos <EVENT eid="e80" class="I_ACTION" stem="permitir" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">permitir</EVENT> um <EVENT eid="e2000" class="OCCURRENCE" stem="abrandamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abrandamento</EVENT> maior na nossa tendência do volume", a Anheuser <EVENT eid="e82" class="REPORTING" stem="afirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afirmou</EVENT>, <EVENT eid="e83" class="REPORTING" stem="acrescentar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">acrescentando</EVENT> que irá <EVENT eid="e84" class="OCCURRENCE" stem="tomar" aspect="NONE" tense="IR-FI+INF" polarity="POS" pos="VERB">tomar</EVENT> "<EVENT eid="e85" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medidas</EVENT> adequadas de preços competitivos para <EVENT eid="e87" class="OCCURRENCE" stem="apoiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apoiar</EVENT> a nossa estratégia de longo prazo de crescimento da quota de mercado" para as marcas de prestígio.</s>
+<s>A Anheuser <EVENT eid="e88" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e89" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> a <EVENT eid="e91" class="OCCURRENCE" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> a sua meta anteriormente <EVENT eid="e2045" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">anunciada</EVENT> de uma quota de mercado de 50% nos EUA até <TIMEX3 tid="t2054" type="DATE" value="199" mod="MID" temporalFunction="false" functionInDocument="NONE">meados dos anos 90</TIMEX3>.</s>
+
+<s>Sob o jargão de um anúncio de imprensa tépido <EVENT eid="e94" class="STATE" stem="encontrar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">encontra</EVENT>-se uma ameaça poderosa do gigante da cerveja, que no ano passado <EVENT eid="e96" class="STATE" stem="representar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">representou</EVENT> cerca de 41% de todas as vendas de cerveja nos EUA e que <EVENT eid="e97" class="I_STATE" stem="dever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">deve</EVENT> <EVENT eid="e99" class="PERCEPTION" stem="ver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vê</EVENT>-las <EVENT eid="e100" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">crescer</EVENT> para 42,5% no <TIMEX3 tid="t2056" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">ano em curso</TIMEX3>.</s>
+<s>"A Anheuser é o tipo maior do bar, e <EVENT eid="e102" class="OCCURRENCE" stem="decidir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">decidiu</EVENT> agora <EVENT eid="e104" class="OCCURRENCE" stem="participar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">participar</EVENT> na <EVENT eid="e105" class="OCCURRENCE" stem="luta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">luta</EVENT> de bar", <EVENT eid="e107" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Joseph J. Doyle, um analista da Smith Barney, Harris Upham &amp; Co. "Vai <EVENT eid="e110" class="OCCURRENCE" stem="haver" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">haver</EVENT> sangue".</s>
+
+<s>Jerry Steinman, editor da Beer Marketers Insights, um boletim de comércio, <EVENT eid="e112" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e113" class="OCCURRENCE" stem="anúncio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">anúncio</EVENT> da Anheuser <EVENT eid="e114" class="STATE" stem="significar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">significa</EVENT> que "todos os outros na indústria vão <EVENT eid="e2125" class="STATE" stem="ter" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">ter</EVENT> dificuldade em <EVENT eid="e120" class="OCCURRENCE" stem="alcançar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">alcançar</EVENT> os seus objetivos de lucro".</s>
+
+<s>O analista George E. Thompson da Prudential-Bache Securities Inc. <EVENT eid="e121" class="OCCURRENCE" stem="desdenhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desdenhou</EVENT> a importância do <EVENT eid="e122" class="OCCURRENCE" stem="anúncio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">anúncio</EVENT>, e <EVENT eid="e123" class="OCCURRENCE" stem="chamar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">chamou</EVENT> à comparação entre a futura altercação na indústria da cerveja e as "guerras Cola" aparentemente intermináveis injustificada.</s>
+<s>Thompson <EVENT eid="e128" class="OCCURRENCE" stem="chamar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">chama</EVENT> aos descontos "um jogo de perdedor para quem não tem uma quota de mercado dominante", e <EVENT eid="e131" class="REPORTING" stem="referir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">referiu</EVENT> que a declaração de intenções da Anheuser pode ser simplesmente um <EVENT eid="e135" class="STATE" stem="meio" aspect="NONE" tense="INF" polarity="POS" pos="NOUN">meio</EVENT> de <EVENT eid="e2164" class="I_ACTION" stem="avisar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">avisar</EVENT> os concorrentes a <EVENT eid="e137" class="OCCURRENCE" stem="abrandar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">abrandarem</EVENT> as <EVENT eid="e2175" class="OCCURRENCE" stem="redução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reduções</EVENT> de preços sob pena de enfrentarem uma <EVENT eid="e138" class="OCCURRENCE" stem="batalha" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">batalha</EVENT> dispendiosa e inútil.</s>
+
+<s>Thompson <EVENT eid="e139" class="REPORTING" stem="observar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">observou</EVENT> que os lucros dececionantes, que <EVENT eid="e140" class="STATE" stem="ficar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ficaram</EVENT> cinco cêntimos por ação abaixo das <EVENT eid="e141" class="OCCURRENCE" stem="projeção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">projeções</EVENT> do próprio, <EVENT eid="e142" class="OCCURRENCE" stem="contribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contribuíram</EVENT> para a venda em massa por um público investidor nervoso e atualmente implacável.</s>
+
+<s>Mas Doyle, da Smith Barney, que <TIMEX3 tid="t2196" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">ontem</TIMEX3> <EVENT eid="e144" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reduziu</EVENT> a sua projeção de lucros da Anheuser para <TIMEX3 tid="t2201" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3> de 3,10 dólares para 2,95 dólares por ação, <EVENT eid="e145" class="OCCURRENCE" stem="chamar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">chamou</EVENT> à reação do mercado "justificada".</s>
+<s>Enquanto os lucros do <TIMEX3 tid="t2210" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">terceiro trimestre</TIMEX3> foram uma "<EVENT eid="e148" class="OCCURRENCE" stem="deceção" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">deceção</EVENT> moderada," <EVENT eid="e149" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele, "a verdadeira má notícia é a <EVENT eid="e2239" class="STATE" stem="intensidade" aspect="NONE" tense="PI" polarity="POS" pos="OTHER">intensidade</EVENT> da <EVENT eid="e151" class="OCCURRENCE" stem="concorrência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">concorrência</EVENT> de preços" no setor da cerveja de prestígio.</s>
+
+<s><EVENT eid="e2231" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">Segundo</EVENT> Steinman, o editor do boletim, a quota de mercado da Anheuser é quase o <EVENT eid="e2240" class="STATE" stem="dobro" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">dobro</EVENT> da do seu concorrente mais próximo, a Miller Brewing, que <EVENT eid="e2237" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> uma quota de 21,2% no <TIMEX3 tid="t2238" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t161">ano passado</TIMEX3>.</s>
+<s>É <EVENT eid="e154" class="STATE" stem="seguir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">seguida</EVENT> pela Stroh Brewery Co., que <EVENT eid="e155" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> <EVENT eid="e157" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> os seus ativos à Coors.</s>
+<s>A Coors e a Stroh têm <EVENT eid="e158" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">perdido</EVENT> recentemente quota de mercado para a Miller e a Anheuser.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e20" relatedToTime="t227" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e26" relatedToTime="t246" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e24" relatedToTime="t246" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e34" relatedToTime="t283" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e1991" relatedToTime="t321" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e47" relatedToTime="t321" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e50" relatedToTime="t321" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e51" relatedToTime="t321" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e52" relatedToTime="t371" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e52" relatedToTime="t370" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e52" relatedToTime="t354" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e56" relatedToTime="t371" task="A"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e56" relatedToTime="t370" task="A"/>
+<TLINK lid="l14" relType="AFTER" eventID="e56" relatedToTime="t354" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e424" relatedToTime="t446" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e424" relatedToTime="t419" task="A"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e88" relatedToTime="t2056" task="A"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e88" relatedToTime="t2054" task="A"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e91" relatedToTime="t2056" task="A"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e91" relatedToTime="t2054" task="A"/>
+<TLINK lid="l21" relType="OVERLAP" eventID="e97" relatedToTime="t2056" task="A"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e97" relatedToTime="t2054" task="A"/>
+<TLINK lid="l23" relType="OVERLAP" eventID="e89" relatedToTime="t2056" task="A"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e89" relatedToTime="t2054" task="A"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e99" relatedToTime="t2056" task="A"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e99" relatedToTime="t2054" task="A"/>
+<TLINK lid="l27" relType="AFTER" eventID="e145" relatedToTime="t2196" task="A"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e145" relatedToTime="t2201" task="A"/>
+<TLINK lid="l29" relType="AFTER" eventID="e149" relatedToTime="t2210" task="A"/>
+<TLINK lid="l30" relType="OVERLAP" eventID="e2237" relatedToTime="t2238" task="A"/>
+<TLINK lid="l31" relType="OVERLAP" eventID="e2" relatedToTime="t161" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e1" relatedToTime="t161" task="B"/>
+<TLINK lid="l33" relType="OVERLAP" eventID="e8" relatedToTime="t161" task="B"/>
+<TLINK lid="l34" relType="AFTER" eventID="e6" relatedToTime="t161" task="B"/>
+<TLINK lid="l35" relType="OVERLAP" eventID="e5" relatedToTime="t161" task="B"/>
+<TLINK lid="l36" relType="OVERLAP" eventID="e20" relatedToTime="t161" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e26" relatedToTime="t161" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e24" relatedToTime="t161" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e34" relatedToTime="t161" task="B"/>
+<TLINK lid="l40" relType="AFTER" eventID="e46" relatedToTime="t161" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e42" relatedToTime="t161" task="B"/>
+<TLINK lid="l42" relType="OVERLAP" eventID="e1991" relatedToTime="t161" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e47" relatedToTime="t161" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e50" relatedToTime="t161" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e51" relatedToTime="t161" task="B"/>
+<TLINK lid="l46" relType="BEFORE" eventID="e52" relatedToTime="t161" task="B"/>
+<TLINK lid="l47" relType="OVERLAP" eventID="e56" relatedToTime="t161" task="B"/>
+<TLINK lid="l48" relType="BEFORE" eventID="e65" relatedToTime="t161" task="B"/>
+<TLINK lid="l49" relType="BEFORE" eventID="e66" relatedToTime="t161" task="B"/>
+<TLINK lid="l50" relType="OVERLAP" eventID="e424" relatedToTime="t161" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e82" relatedToTime="t161" task="B"/>
+<TLINK lid="l52" relType="AFTER" eventID="e84" relatedToTime="t161" task="B"/>
+<TLINK lid="l53" relType="BEFORE" eventID="e83" relatedToTime="t161" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e88" relatedToTime="t161" task="B"/>
+<TLINK lid="l55" relType="OVERLAP" eventID="e91" relatedToTime="t161" task="B"/>
+<TLINK lid="l56" relType="OVERLAP" eventID="e97" relatedToTime="t161" task="B"/>
+<TLINK lid="l57" relType="OVERLAP" eventID="e89" relatedToTime="t161" task="B"/>
+<TLINK lid="l58" relType="AFTER" eventID="e99" relatedToTime="t161" task="B"/>
+<TLINK lid="l59" relType="BEFORE" eventID="e107" relatedToTime="t161" task="B"/>
+<TLINK lid="l60" relType="AFTER" eventID="e2125" relatedToTime="t161" task="B"/>
+<TLINK lid="l61" relType="BEFORE" eventID="e112" relatedToTime="t161" task="B"/>
+<TLINK lid="l62" relType="BEFORE" eventID="e123" relatedToTime="t161" task="B"/>
+<TLINK lid="l63" relType="OVERLAP" eventID="e128" relatedToTime="t161" task="B"/>
+<TLINK lid="l64" relType="BEFORE" eventID="e140" relatedToTime="t161" task="B"/>
+<TLINK lid="l65" relType="BEFORE" eventID="e145" relatedToTime="t161" task="B"/>
+<TLINK lid="l66" relType="BEFORE" eventID="e149" relatedToTime="t161" task="B"/>
+<TLINK lid="l67" relType="BEFORE" eventID="e2237" relatedToTime="t161" task="B"/>
+<TLINK lid="l68" relType="BEFORE" eventID="e155" relatedToTime="t161" task="B"/>
+<TLINK lid="l69" relType="AFTER" eventID="e157" relatedToTime="t161" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e34" eventID="e28" task="C"/>
+<TLINK lid="l2c" relType="VAGUE" relatedToEvent="e121" eventID="e112" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e28" eventID="e24" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e145" eventID="e139" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e107" eventID="e88" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e149" eventID="e145" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP-OR-AFTER" relatedToEvent="e66" eventID="e65" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e47" eventID="e42" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e63" eventID="e52" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e158" eventID="e154" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e65" eventID="e63" task="C"/>
+<TLINK lid="l12c" relType="AFTER" relatedToEvent="e203" eventID="e1" task="C"/>
+<TLINK lid="l13c" relType="VAGUE" relatedToEvent="e2231" eventID="e149" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e154" eventID="e2231" task="C"/>
+<TLINK lid="l15c" relType="VAGUE" relatedToEvent="e72" eventID="e66" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e88" eventID="e82" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e82" eventID="e72" task="C"/>
+<TLINK lid="l18c" relType="VAGUE" relatedToEvent="e112" eventID="e107" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e139" eventID="e128" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e128" eventID="e121" task="C"/>
+<TLINK lid="l21c" relType="BEFORE" relatedToEvent="e20" eventID="e203" task="C"/>
+<TLINK lid="l22c" relType="OVERLAP" relatedToEvent="e24" eventID="e20" task="C"/>
+<TLINK lid="l23c" relType="OVERLAP" relatedToEvent="e42" eventID="e34" task="C"/>
+</TempEval>

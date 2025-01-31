@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TempEval>
+
+WSJ891102-0019
+= 891102
+891102-0019.
+Dossier de Negócios - Valley Federal S&amp;L:
+@ Caixa de Aforro da Califórnia Teve Encargos,
+@ Prejuízo no Terceiro Trimestre
+<TIMEX3 tid="t26" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+VFED
+EARNINGS (ERN)
+
+
+<s>A Valley Federal Savings &amp; Loan Association <EVENT eid="e1" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um <EVENT eid="e1994" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargo</EVENT> de 89,9 milhões de dólares, <EVENT eid="e2" class="REPORTING" stem="registar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">registando</EVENT> um <EVENT eid="e1995" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> no <TIMEX3 tid="t28" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">terceiro trimestre</TIMEX3> de 70,7 milhões de dólares, ou 12,09 dólares por ação.</s>
+
+<s>A empresa de Van Nuys, na Califórnia, <EVENT eid="e3" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um <EVENT eid="e1996" class="OCCURRENCE" stem="rendimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">rendimento</EVENT> líquido de 132.000 dólares, ou três cêntimos por ação, <TIMEX3 tid="t29" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">há um ano</TIMEX3>.</s>
+
+<s>A maior parte do <EVENT eid="e1993" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargo</EVENT> antes de impostos vem de uma <EVENT eid="e4" class="OCCURRENCE" stem="depreciação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">depreciação</EVENT> de 62 milhões de dólares nos serviços de capitalização da subsidiária de financiamento de casas pré-fabricadas, que a empresa <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que tinha sido um grande <EVENT eid="e6" class="OCCURRENCE" stem="escoadouro" aspect="NONE" tense="MPIC" polarity="POS" pos="NOUN">escoadouro</EVENT> de <EVENT eid="e2056" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganhos</EVENT>.</s>
+<s>A empresa <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que esta <EVENT eid="e1999" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativa</EVENT> esporádica <EVENT eid="e8" class="OCCURRENCE" stem="eliminar" aspect="NONE" tense="C" polarity="POS" pos="VERB">eliminaria</EVENT> substancialmente todas as <EVENT eid="e2000" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perdas</EVENT> <TIMEX3 tid="t30" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">futuras</TIMEX3> na unidade.</s>
+
+<s>A Valley Federal também <EVENT eid="e10" class="OCCURRENCE" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> 18 milhões de dólares às reservas para empréstimos sobre imóveis e <EVENT eid="e12" class="OCCURRENCE" stem="eliminar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">eliminou</EVENT> 9,9 milhões de dólares de goodwill.</s>
+
+<s>A empresa <EVENT eid="e14" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que "após estes <EVENT eid="e15" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargos</EVENT> e <EVENT eid="e2126" class="I_ACTION" stem="assumir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">assumindo</EVENT> que não haverá <EVENT eid="e1997" class="OCCURRENCE" stem="flutuação" aspect="NONE" tense="FI" polarity="NEG" pos="NOUN">flutuações</EVENT> dramáticas nas taxas de juros, a associação <EVENT eid="e2001" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e20" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atingir</EVENT> em <TIMEX3 tid="t31" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3> <EVENT eid="e1998" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> próximos dos recordes".</s>
+
+<s>A Valley Federal está de <TIMEX3 tid="t2003" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">momento</TIMEX3> a ser <EVENT eid="e21" class="OCCURRENCE" stem="analisar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">analisada</EVENT> por funcionários fiscais.</s>
+<s>Os novos empréstimos <EVENT eid="e22" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continuam</EVENT> a <EVENT eid="e23" class="OCCURRENCE" stem="abrandar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">abrandar</EVENT>; constituíram 6,6 milhões de dólares no <TIMEX3 tid="t32" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">trimestre</TIMEX3> face aos 361,8 milhões de dólares de <TIMEX3 tid="t33" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t32">há um ano</TIMEX3>.</s>
+<s>A empresa <EVENT eid="e25" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> <EVENT eid="e2002" class="STATE" stem="ativo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ativos</EVENT> de 3,2 mil milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t28" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1995" relatedToTime="t28" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t28" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1994" relatedToTime="t28" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e3" relatedToTime="t29" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e2000" relatedToTime="t30" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e7" relatedToTime="t30" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e14" relatedToTime="t31" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e15" relatedToTime="t31" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e2001" relatedToTime="t31" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e22" relatedToTime="t33" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e22" relatedToTime="t32" task="A"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e2" relatedToTime="t26" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e1995" relatedToTime="t26" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e1" relatedToTime="t26" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e1994" relatedToTime="t26" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e3" relatedToTime="t26" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e5" relatedToTime="t26" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e1993" relatedToTime="t26" task="B"/>
+<TLINK lid="l20" relType="AFTER" eventID="e2000" relatedToTime="t26" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e7" relatedToTime="t26" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e10" relatedToTime="t26" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e14" relatedToTime="t26" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e15" relatedToTime="t26" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e2001" relatedToTime="t26" task="B"/>
+<TLINK lid="l26" relType="OVERLAP" eventID="e22" relatedToTime="t26" task="B"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e25" relatedToTime="t26" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e21" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e1993" eventID="e3" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e14" eventID="e10" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e7" eventID="e1993" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e25" eventID="e22" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e10" eventID="e7" task="C"/>
+</TempEval>

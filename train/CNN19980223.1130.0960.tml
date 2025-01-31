@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+CNN<TIMEX3 tid="t19" type="DATE" value="1998-02-23" temporalFunction="false" functionInDocument="CREATION_TIME">19980223</TIMEX3>.1130.0960
+REPORTAGEM
+
+
+<s>Apesar da possibilidade <TIMEX3 tid="t20" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">recente</TIMEX3> de um <EVENT eid="e26" class="OCCURRENCE" stem="conflito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conflito</EVENT> militar com o Iraque, os preços do petróleo têm vindo a <EVENT eid="e1" class="OCCURRENCE" stem="diminuir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">diminuir</EVENT>, isso é por causa de uma <EVENT eid="e27" class="OCCURRENCE" stem="abundância" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">abundância</EVENT> mundial de petróleo.</s>
+<s><TIMEX3 tid="t21" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">Agora</TIMEX3>, com uma <EVENT eid="e28" class="OCCURRENCE" stem="solução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">solução</EVENT> diplomática para a <EVENT eid="e29" class="OCCURRENCE" stem="crise" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crise</EVENT> aparentemente <EVENT eid="e32" class="STATE" stem="próximo" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">próxima</EVENT>, <EVENT eid="e34" class="I_ACTION" stem="preparar" aspect="NONE" tense="IMP" polarity="POS" pos="VERB">prepare</EVENT>-se para os preços do petróleo da variedade Brent do Mar do Norte levarem o crude sueco a <EVENT eid="e33" class="OCCURRENCE" stem="cair" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cair</EVENT> ainda mais.</s>
+
+<s>Os preços do petróleo <EVENT eid="e37" class="OCCURRENCE" stem="descer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">desceram</EVENT> desde <TIMEX3 tid="t22" type="DATE" value="1997-10" mod="MID" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">meados de outubro</TIMEX3> a partir de um <EVENT eid="e9" class="OCCURRENCE" stem="nível" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nível</EVENT> de vinte e dois dólares por barril para os catorze dólares que <EVENT eid="e10" class="PERCEPTION" stem="ver" aspect="NONE" tense="PI" polarity="POS" pos="VERB">vemos</EVENT> <TIMEX3 tid="t23" type="DATE" value="1998-02-23" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">hoje</TIMEX3>.</s>
+<s>Isso <EVENT eid="e11" class="OCCURRENCE" stem="acumular" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acumulou</EVENT> um impulso, e esse impulso <EVENT eid="e12" class="I_ACTION" stem="parecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">parece</EVENT> que <EVENT eid="e13" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">aumentará</EVENT>.</s>
+<s>A seguir vem aquele nível de treze dólares por barril que <EVENT eid="e14" class="PERCEPTION" stem="ver" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">vimos</EVENT> no <TIMEX3 tid="t24" type="DATE" value="1994-WI" temporalFunction="false" functionInDocument="NONE">inverno de 1994</TIMEX3>.</s>
+
+<s>Os preços do petróleo <EVENT eid="e38" class="OCCURRENCE" stem="enfraquecer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">enfraquecidos</EVENT> já <EVENT eid="e15" class="I_ACTION" stem="facilitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">facilitaram</EVENT> a vida aos motoristas nos postos de gasolina.</s>
+<s>Os preços da gasolina <EVENT eid="e18" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> quase dois cêntimos de dólar por galão nas <TIMEX3 tid="t25" type="DURATION" value="P2W" temporalFunction="true" functionInDocument="NONE" endPoint="t19">últimas duas semanas</TIMEX3>.</s>
+<s>Isso <EVENT eid="e39" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> o inquérito Lundberg a dez mil postos de gasolina por todo o país.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t20" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e33" relatedToTime="t21" task="A"/>
+<TLINK lid="l3" relType="OVERLAP-OR-AFTER" eventID="e34" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e37" relatedToTime="t22" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e37" relatedToTime="t23" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e10" relatedToTime="t22" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e10" relatedToTime="t23" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e14" relatedToTime="t24" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e18" relatedToTime="t25" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e1" relatedToTime="t19" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e33" relatedToTime="t19" task="B"/>
+<TLINK lid="l12" relType="OVERLAP-OR-AFTER" eventID="e34" relatedToTime="t19" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e37" relatedToTime="t19" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e10" relatedToTime="t19" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e13" relatedToTime="t19" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e14" relatedToTime="t19" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e15" relatedToTime="t19" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e18" relatedToTime="t19" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e39" relatedToTime="t19" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e11" eventID="e37" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e34" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e15" eventID="e14" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e39" eventID="e18" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e37" eventID="e34" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e14" eventID="e11" task="C"/>
+</TempEval>

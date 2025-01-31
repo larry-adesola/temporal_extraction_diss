@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980219.0476
+REPORTAGEM
+<TIMEX3 tid="t129" type="TIME" value="1998-02-19T08:02:00" temporalFunction="false" functionInDocument="CREATION_TIME">02/19/1998 08:02:00</TIMEX3>
+w1151 Cx1f wstm-
+r i Cx13  Cx11  BC-Cambodia-Britain-Host     02-19 0690
+BC-Cambodia-Britain-Hostage
+Cambodian resistance general looking for remains of missing Briton
+UR By DON PATHAN QC
+UR Associated Press Writer QC
+
+
+<s>O'smach, Camboja (AP) - O comandante de uma força de resistência do Cambodja <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> <TIMEX3 tid="t2443" type="DATE" value="1998-02-19" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">quinta-feira</TIMEX3> que <EVENT eid="e2" class="I_ACTION" stem="enviar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">enviou</EVENT> uma equipa para <EVENT eid="e4" class="OCCURRENCE" stem="recuperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">recuperar</EVENT> os restos de um especialista em remoção de minas britânico <EVENT eid="e5" class="OCCURRENCE" stem="sequestrar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">sequestrado</EVENT> e <EVENT eid="e146" class="I_STATE" stem="considerar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">considerado</EVENT> <EVENT eid="e7" class="OCCURRENCE" stem="matar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">morto</EVENT> por guerrilheiros do Khmer Vermelho <TIMEX3 tid="t130" type="DURATION" value="P2Y" mod="LESS_THAN" temporalFunction="true" functionInDocument="NONE" endPoint="t129">há quase dois anos</TIMEX3>.</s>
+<s>O General Nhek Bunchhay, um apoiante do ex-primeiro-ministro cambojano, o príncipe Norodom Ranariddh, <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> numa <EVENT eid="e10" class="OCCURRENCE" stem="entrevista" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">entrevista</EVENT> à Associated Press na sua sede nas montanhas que <EVENT eid="e12" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e14" class="OCCURRENCE" stem="recuperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">recuperar</EVENT> os restos mortais de Christopher Howes nas <TIMEX3 tid="t133" type="DURATION" value="P2W" temporalFunction="true" functionInDocument="NONE" beginPoint="t129">próximas duas semanas</TIMEX3>.</s>
+<s>Howes tinha estado a <EVENT eid="e15" class="OCCURRENCE" stem="trabalhar" aspect="PROGRESSIVE" tense="MPI" polarity="POS" pos="VERB">trabalhar</EVENT> para o Mines Advisory Group, sediado na Grã-Bretanha, quando foi <EVENT eid="e148" class="OCCURRENCE" stem="raptar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">raptado</EVENT> com o seu intérprete cambodjano Houn Hourth em <TIMEX3 tid="t134" type="DATE" value="1996-03" temporalFunction="false" functionInDocument="NONE">março de 1996</TIMEX3>.</s>
+<s>Houve muitos <EVENT eid="e17" class="REPORTING" stem="relato" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">relatos</EVENT> contraditórios do seu <EVENT eid="e18" class="OCCURRENCE" stem="destino" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">destino</EVENT>.</s>
+<s>A equipa de Howes estava a <EVENT eid="e150" class="OCCURRENCE" stem="desativar" aspect="PROGRESSIVE" tense="PII" polarity="POS" pos="VERB">desativar</EVENT> minas a 17 km (10 milhas) de Angkor Wat, o mítico templo do século XI que é a principal atração turística do Cambodja, quando foi <EVENT eid="e21" class="OCCURRENCE" stem="atacar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atacada</EVENT>.</s>
+<s>Em <TIMEX3 tid="t135" type="DATE" value="1998-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">janeiro deste ano</TIMEX3>, os polícias britânicos que tinham estado à <EVENT eid="e22" class="OCCURRENCE" stem="procura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">procura</EVENT> de Howes <EVENT eid="e23" class="I_ACTION" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluíram</EVENT> que ele provavelmente teria sido <EVENT eid="e24" class="OCCURRENCE" stem="matar" aspect="NONE" tense="CC" polarity="POS" pos="VERB">morto</EVENT> logo após ser <EVENT eid="e26" class="OCCURRENCE" stem="capturar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">capturado</EVENT>.</s>
+<s>O Gabinete de Relações Externas <EVENT eid="e27" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que tinha <EVENT eid="e28" class="REPORTING" stem="informar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">informado</EVENT> a família de Howes, com 37 anos à altura do <EVENT eid="e30" class="OCCURRENCE" stem="rapto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">rapto</EVENT>, de que ele provavelmente <EVENT eid="e31" class="OCCURRENCE" stem="morrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">morreu</EVENT> dentro de <TIMEX3 tid="t137" type="DURATION" value="PXW" mod="APPROX" temporalFunction="true" functionInDocument="NONE" beginPoint="t136">semanas ou meses</TIMEX3> depois da sua <EVENT eid="e32" class="OCCURRENCE" stem="captura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">captura</EVENT> em <TIMEX3 tid="t136" type="DATE" value="1996-03-26" temporalFunction="false" functionInDocument="NONE">26 de março de 1996</TIMEX3>.</s>
+<s>``Obviamente, é profundamente <EVENT eid="e33" class="OCCURRENCE" stem="desanimador" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">desanimador</EVENT> para a família depois de <TIMEX3 tid="t138" type="DURATION" value="P22M" temporalFunction="true" functionInDocument="NONE" beginPoint="t136">22 meses</TIMEX3>, mas não há nenhuma <EVENT eid="e157" class="I_STATE" stem="prova" aspect="NONE" tense="PI" polarity="NEG" pos="NOUN">prova</EVENT> de <EVENT eid="e158" class="STATE" stem="vida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vida</EVENT>.</s>
+<s>Mas não há nenhum <EVENT eid="e36" class="OCCURRENCE" stem="indício" aspect="NONE" tense="PI" polarity="NEG" pos="NOUN">indício</EVENT> em qualquer direção - que haja <EVENT eid="e38" class="I_STATE" stem="prova" aspect="NONE" tense="PI" polarity="POS" pos="NOUN">provas</EVENT> de <EVENT eid="e159" class="STATE" stem="vida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vida</EVENT> ou <EVENT eid="e39" class="STATE" stem="morte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">morte</EVENT>'', <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um porta-voz do Gabinete de Relações Externas, <EVENT eid="e41" class="OCCURRENCE" stem="falar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">falando</EVENT> com o anonimato habitual.</s>
+<s>``Vamos <EVENT eid="e42" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">continuar</EVENT> a <EVENT eid="e2446" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> tudo o que pudermos para <EVENT eid="e48" class="I_ACTION" stem="determinar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">determinar</EVENT> o que <EVENT eid="e49" class="OCCURRENCE" stem="acontecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aconteceu</EVENT>''.</s>
+<s>Os oficiais militares tailandeses que observam os assuntos do Cambodja <EVENT eid="e52" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> <TIMEX3 tid="t2449" type="DATE" value="1998-02-19" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">quinta-feira</TIMEX3> em privado que a Grã-Bretanha, através das suas embaixadas na Tailândia e no Cambodja, se tem <EVENT eid="e53" class="I_ACTION" stem="esforçar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">esforçado</EVENT> para <EVENT eid="e55" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resolver</EVENT> o caso de Howes à medida que o segundo <EVENT eid="e2447" class="OCCURRENCE" stem="aniversário" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aniversário</EVENT> do seu <EVENT eid="e56" class="OCCURRENCE" stem="rapto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">rapto</EVENT> se aproxima.</s>
+<s>Nhek Bunchhay, que tinha estado <EVENT eid="e58" class="OCCURRENCE" stem="envolver" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">envolvido</EVENT> de perto na <EVENT eid="e59" class="OCCURRENCE" stem="busca" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">busca</EVENT> de Howes antes de ter de <EVENT eid="e64" class="OCCURRENCE" stem="fugir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fugir</EVENT> da capital do Cambodja após um <EVENT eid="e160" class="OCCURRENCE" stem="golpe de estado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">golpe de estado</EVENT> no <TIMEX3 tid="t131" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">ano passado</TIMEX3>, <EVENT eid="e65" class="I_STATE" stem="parecer" aspect="NONE" tense="PII" polarity="POS" pos="VERB">parecia</EVENT> confiante de que ia <EVENT eid="e66" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="IR-PII+INF" polarity="POS" pos="VERB">encontrar</EVENT> os restos de Howes.</s>
+<s><EVENT eid="e68" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Disse</EVENT> que <EVENT eid="e69" class="OCCURRENCE" stem="receber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recebeu</EVENT> informações de guerrilheiros do Khmer Vermelho sobre o local onde o corpo havia sido <EVENT eid="e71" class="OCCURRENCE" stem="enterrar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">enterrado</EVENT> e, recentemente, <EVENT eid="e72" class="I_ACTION" stem="ordenar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ordenou</EVENT> 10 dos seus homens de uma força de 500 perto da sede do Khmer Vermelho em Anlong Veng a <EVENT eid="e162" class="OCCURRENCE" stem="conduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">conduzir</EVENT> a <EVENT eid="e76" class="OCCURRENCE" stem="busca" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">busca</EVENT>.</s>
+<s>Se e quando os restos mortais forem <EVENT eid="e78" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">encontrados</EVENT>, <EVENT eid="e79" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> ele, seriam <EVENT eid="e80" class="OCCURRENCE" stem="entregar" aspect="NONE" tense="C" polarity="POS" pos="VERB">entregues</EVENT> à embaixada britânica, aparentemente significando que seriam <EVENT eid="e83" class="OCCURRENCE" stem="enviar" aspect="NONE" tense="C" polarity="POS" pos="VERB">enviados</EVENT> pela fronteira para a Tailândia e depois para a Banguecoque.</s>
+<s>Nhek Bunchhay <EVENT eid="e85" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <TIMEX3 tid="t2452" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">agora</TIMEX3> <EVENT eid="e2227" class="I_STATE" stem="acreditar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">acreditava</EVENT> que Howes tinha sido <EVENT eid="e87" class="OCCURRENCE" stem="matar" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">morto</EVENT> na <TIMEX3 tid="t140" type="DURATION" value="P1W" temporalFunction="true" functionInDocument="NONE" beginPoint="t136">primeira semana</TIMEX3> depois da sua <EVENT eid="e88" class="OCCURRENCE" stem="captura" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">captura</EVENT> por uma fação do Khmer Vermelho fiel a Pol Pot, então o líder do grupo guerrilheiro.</s>
+<s>Pol Pot é <EVENT eid="e89" class="I_STATE" stem="considerar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">considerado</EVENT> <EVENT eid="e164" class="STATE" stem="responsável" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">responsável</EVENT> pelas <EVENT eid="e2396" class="OCCURRENCE" stem="política" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">políticas</EVENT> radicais que <EVENT eid="e90" class="OCCURRENCE" stem="levar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">levaram</EVENT> à <EVENT eid="e91" class="OCCURRENCE" stem="morte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">morte</EVENT> de pelo menos 1,7 milhões de cambodjanos quando o grupo comunista esteve <EVENT eid="e93" class="STATE" stem="em" aspect="NONE" tense="PPI" polarity="POS" pos="PREPOSITION">no</EVENT> poder no <TIMEX3 tid="t142" type="DATE" value="197" mod="END" temporalFunction="false" functionInDocument="NONE">final da década de 1970</TIMEX3>.</s>
+<s>Na altura em que Howes foi <EVENT eid="e94" class="OCCURRENCE" stem="capturar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">capturado</EVENT>, o Khmer Vermelho era uma força de guerrilha mais ou menos unida com mais de 10.000 homens armados.</s>
+<s>Mas o grupo <EVENT eid="e95" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> a <EVENT eid="e166" class="OCCURRENCE" stem="desintegrar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">desintegrar</EVENT>-se em <TIMEX3 tid="t143" type="DATE" value="1996" mod="MID" temporalFunction="false" functionInDocument="NONE">meados de 1996</TIMEX3> após a <EVENT eid="e96" class="OCCURRENCE" stem="deserção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">deserção</EVENT> de um dos seus principais líderes, Ieng Sary.</s>
+<s>Outros comandantes e milhares de guerrilheiros o <EVENT eid="e98" class="OCCURRENCE" stem="seguir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">seguiram</EVENT>.</s>
+<s>Um pequeno grupo radical sob o comando de Pol Pot <EVENT eid="e99" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">continuou</EVENT> a <EVENT eid="e101" class="OCCURRENCE" stem="funcionar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">funcionar</EVENT> na sede em Anlong Veng, no norte do Camboja, perto da fronteira tailandesa.</s>
+<s>Mas, em <TIMEX3 tid="t2228" type="DATE" value="1997-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">junho do ano passado</TIMEX3>, os líderes que restavam entraram em <EVENT eid="e103" class="OCCURRENCE" stem="desacordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desacordo</EVENT>, e Pol Pot foi <EVENT eid="e104" class="OCCURRENCE" stem="prender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">preso</EVENT>.</s>
+<s>Em <TIMEX3 tid="t169" type="DATE" value="1997-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t129">julho do ano passado</TIMEX3>, em Phnom Penh, a capital do Cambodja, o segundo primeiro-ministro Hun Sen <EVENT eid="e105" class="OCCURRENCE" stem="orquestrar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">orquestrou</EVENT> um <EVENT eid="e2448" class="OCCURRENCE" stem="golpe de estado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">golpe de estado</EVENT> bem sucedido contra o primeiro primeiro-ministro, o príncipe Norodom Ranariddh.</s>
+<s>Os apoiantes de Ranariddh, incluindo Nhek Bunchhay, seu comandante militar, <EVENT eid="e106" class="OCCURRENCE" stem="esconder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">esconderam</EVENT>-se ou <EVENT eid="e109" class="OCCURRENCE" stem="fugir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fugiram</EVENT> da capital.</s>
+<s>Nhek Bunchhay, <EVENT eid="e110" class="OCCURRENCE" stem="evitar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">evitando</EVENT> uma intensa <EVENT eid="e111" class="OCCURRENCE" stem="caça" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">caça</EVENT> ao homem, conseguiu <EVENT eid="e112" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">chegar</EVENT> a O'Smach, o último posto importante controlado pelas forças de Ranariddh.</s>
+<s>Os seus homens defenderam a fortaleza - que está na fronteira mesmo em frente à província tailandesa de Surin - contra <EVENT eid="e116" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT> repetidos e intensos das tropas de Hun Sen.</s>
+<s>Eles foram <EVENT eid="e117" class="OCCURRENCE" stem="ajudar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ajudados</EVENT> por guerrilheiros do Khmer Vermelho de Anlong Veng, que <EVENT eid="e118" class="OCCURRENCE" stem="formar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">formaram</EVENT> uma aliança com as forças de resistência de Ranariddh para se oporem a Hun Sen.</s>
+
+(PROFILE
+(WS SL:BC-Cambodia-Britain-Hostage; CT:i;
+(REG:ASIA;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(LANG:ENGLISH;))
+)
+
+
+<s>AP-NY-02-19-98 0802EST</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t2443" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e1" relatedToTime="t130" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e9" relatedToTime="t133" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e27" relatedToTime="t136" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e27" relatedToTime="t137" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e52" relatedToTime="t2449" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e85" relatedToTime="t140" task="A"/>
+<TLINK lid="l8" relType="BEFORE-OR-OVERLAP" eventID="e85" relatedToTime="t2452" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e2227" relatedToTime="t140" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e2227" relatedToTime="t2452" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e93" relatedToTime="t142" task="A"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e166" relatedToTime="t143" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e95" relatedToTime="t143" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e103" relatedToTime="t2228" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e1" relatedToTime="t129" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e9" relatedToTime="t129" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e27" relatedToTime="t129" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e40" relatedToTime="t129" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e42" relatedToTime="t129" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e52" relatedToTime="t129" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e68" relatedToTime="t129" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e79" relatedToTime="t129" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e85" relatedToTime="t129" task="B"/>
+<TLINK lid="l24" relType="BEFORE-OR-OVERLAP" eventID="e2227" relatedToTime="t129" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e93" relatedToTime="t129" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e166" relatedToTime="t129" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e95" relatedToTime="t129" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e101" relatedToTime="t129" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e99" relatedToTime="t129" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e103" relatedToTime="t129" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e106" relatedToTime="t129" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e112" relatedToTime="t129" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e94" eventID="e89" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e116" eventID="e112" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e27" eventID="e23" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e79" eventID="e68" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e42" eventID="e40" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e106" eventID="e105" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e17" eventID="e148" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e105" eventID="e103" task="C"/>
+<TLINK lid="l9c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e112" eventID="e106" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e89" eventID="e85" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e95" eventID="e94" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e65" eventID="e52" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e52" eventID="e42" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e68" eventID="e65" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e117" eventID="e116" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e85" eventID="e79" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e40" eventID="e33" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e9" eventID="e1" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e99" eventID="e98" task="C"/>
+<TLINK lid="l20c" relType="AFTER" relatedToEvent="e148" eventID="e9" task="C"/>
+<TLINK lid="l21c" relType="BEFORE" relatedToEvent="e98" eventID="e95" task="C"/>
+<TLINK lid="l22c" relType="AFTER" relatedToEvent="e21" eventID="e17" task="C"/>
+<TLINK lid="l23c" relType="BEFORE" relatedToEvent="e103" eventID="e99" task="C"/>
+<TLINK lid="l24c" relType="OVERLAP" relatedToEvent="e33" eventID="e27" task="C"/>
+<TLINK lid="l25c" relType="BEFORE" relatedToEvent="e23" eventID="e21" task="C"/>
+</TempEval>

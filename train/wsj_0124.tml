@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0067
+= 891102
+891102-0067.
+Quem É Notícia:
+@ Citadel Nomeia Walbrecher
+@ Diretor Geral
+<TIMEX3 tid="t21" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CDL WNEWS
+EARNINGS (ERN)
+GLENDALE, Calif.
+
+
+<s>William C. Walbrecher Jr., um executivo do 1st Nationwide Bank, sediado em São Francisco, foi <EVENT eid="e1" class="I_ACTION" stem="nomear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">nomeado</EVENT> presidente e diretor geral da Citadel Holding Corp. e da sua unidade operacional principal, o Fidelity Federal Bank.</s>
+
+<s>A <EVENT eid="e2" class="OCCURRENCE" stem="nomeação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nomeação</EVENT> <EVENT eid="e3" class="ASPECTUAL" stem="entrar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">entra</EVENT> em <EVENT eid="e63" class="ASPECTUAL" stem="vigor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vigor</EVENT> a <TIMEX3 tid="t23" type="DATE" value="1989-11-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">13 de novembro</TIMEX3>.</s>
+<s>Ele <EVENT eid="e4" class="ASPECTUAL" stem="suceder" aspect="NONE" tense="PI" polarity="POS" pos="VERB">sucede</EVENT> a James A. Taylor, que <EVENT eid="e5" class="ASPECTUAL" stem="deixar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">deixou</EVENT> o cargo de presidente do conselho de administração, presidente e diretor geral em <TIMEX3 tid="t27" type="TIME" value="1989-03" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">março</TIMEX3> por motivos de saúde.</s>
+<s>Edward L. Kane <EVENT eid="e7" class="ASPECTUAL" stem="suceder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sucedeu</EVENT> a Taylor como <EVENT eid="e28" class="STATE" stem="presidente" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">presidente</EVENT> do conselho de administração.</s>
+
+<s>Separadamente, a Cidadel <EVENT eid="e8" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> um <EVENT eid="e9" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido no <TIMEX3 tid="t29" type="TIME" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">terceiro trimestre</TIMEX3> de 2,3 milhões de dólares, ou de 68 cêntimos por ação, face a um <EVENT eid="e30" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido de 5,3 milhões de dólares, ou de 1,61 dólar por ação,  <TIMEX3 tid="t31" type="TIME" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t29">um ano antes</TIMEX3>.</s>
+
+<s>Os <EVENT eid="e10" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> mais recentes <EVENT eid="e11" class="REPORTING" stem="incluir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">incluem</EVENT> algumas <EVENT eid="e32" class="OCCURRENCE" stem="depreciação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">depreciações</EVENT> incomuns, que tiveram um impacto de 4,9 milhões de dólares depois dos impostos.</s>
+<s>Estes <EVENT eid="e13" class="REPORTING" stem="incluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">incluíram</EVENT> os custos associados à <EVENT eid="e34" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> potencial da Valley Federal Savings and Loan Association, que foi <EVENT eid="e15" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluída</EVENT> a <TIMEX3 tid="t36" type="DATE" value="1989-09-27" temporalFunction="false" functionInDocument="NONE">27 de setembro de 1989</TIMEX3>.</s>
+<s>Além disso, os <EVENT eid="e17" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> operacionais foram <EVENT eid="e18" class="OCCURRENCE" stem="atingir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atingidos</EVENT> por um <EVENT eid="e19" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> nos empréstimos e nas reservas para perdas imobiliárias.</s>
+
+<s>Na Bolsa de Valores Americana, as ações da Citadel <EVENT eid="e20" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> <TIMEX3 tid="t37" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">ontem</TIMEX3> nos 45,75 dólares, descendo 25 cêntimos.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e3" relatedToTime="t23" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e9" relatedToTime="t29" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e9" relatedToTime="t31" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e8" relatedToTime="t29" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e8" relatedToTime="t31" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e34" relatedToTime="t36" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e20" relatedToTime="t37" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e3" relatedToTime="t21" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e9" relatedToTime="t21" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e8" relatedToTime="t21" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e10" relatedToTime="t21" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e34" relatedToTime="t21" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e17" relatedToTime="t21" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e19" relatedToTime="t21" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e20" relatedToTime="t21" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e13" eventID="e11" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e20" eventID="e18" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e7" eventID="e4" task="C"/>
+<TLINK lid="l5c" relType="VAGUE" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e4" eventID="e3" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP-OR-AFTER" relatedToEvent="e18" eventID="e13" task="C"/>
+</TempEval>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+CNN<TIMEX3 tid="t16" type="DATE" value="1998-02-22" temporalFunction="false" functionInDocument="CREATION_TIME">19980222</TIMEX3>.1130.0084
+REPORTAGEM
+
+
+<s>Destaques noticiosos da CNN, chamo-me Sachi Koto.</s>
+<s>A diplomacia <EVENT eid="e1" class="I_STATE" stem="parecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">parece</EVENT> estar a <EVENT eid="e2" class="I_ACTION" stem="fazer" aspect="PROGRESSIVE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> progressos na <EVENT eid="e4" class="I_ACTION" stem="resolução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resolução</EVENT> do <EVENT eid="e96" class="OCCURRENCE" stem="impasse" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">impasse</EVENT> das Nações Unidas com o Iraque.</s>
+<s>Um porta-voz da ONU <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que o secretário-geral da ONU, Kofi Annan, está <EVENT eid="e142" class="STATE" stem="a" aspect="NONE" tense="PI" polarity="POS" pos="PREPOSITION">à</EVENT> beira de um grande avanço, mas <EVENT eid="e6" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> que ainda não <EVENT eid="e7" class="OCCURRENCE" stem="acabar" aspect="NONE" tense="PPI" polarity="NEG" pos="ADJECTIVE">acabou</EVENT>.</s>
+<s>Annan <EVENT eid="e8" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concluiu</EVENT> uma <EVENT eid="e35" class="OCCURRENCE" stem="reunião" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reunião</EVENT> de <TIMEX3 tid="t122" type="DURATION" value="PT3H" temporalFunction="false" functionInDocument="NONE">três horas</TIMEX3> com o presidente iraquiano, Saddam Hussein, em Bagdade <TIMEX3 tid="t18" type="DATE" value="1998-02-22" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t16">hoje</TIMEX3>.</s>
+<s><EVENT eid="e9" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Espera</EVENT>-se que se <EVENT eid="e73" class="OCCURRENCE" stem="reunir" aspect="NONE" tense="PC" polarity="POS" pos="VERB">reúna</EVENT> com o primeiro-ministro iraquiano Tariq Aziz <TIMEX3 tid="t64" type="DATE" value="1998-02-22TAF" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t16">esta tarde</TIMEX3>.</s>
+<s>Um ponto crucial foi a <EVENT eid="e129" class="I_ACTION" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> do Iraque de <EVENT eid="e46" class="OCCURRENCE" stem="abrir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">abrir</EVENT> os locais presidenciais por <TIMEX3 tid="t70" type="DURATION" value="P60D" mod="EQUAL_OR_LESS" temporalFunction="false" functionInDocument="NONE">não mais de sessenta dias</TIMEX3>.</s>
+<s>O Conselho de Segurança da ONU <EVENT eid="e13" class="I_ACTION" stem="insistir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">insiste</EVENT> que qualquer <EVENT eid="e140" class="I_ACTION" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> deve <EVENT eid="e14" class="I_STATE" stem="permitir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">permitir</EVENT> aos inspetores da ONU <EVENT eid="e141" class="OCCURRENCE" stem="acesso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acesso</EVENT> irrestrito a todos os locais suspeitos de armas.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e9" relatedToTime="t64" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e2" relatedToTime="t16" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e6" relatedToTime="t16" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e5" relatedToTime="t16" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e9" relatedToTime="t16" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e129" eventID="e9" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e9" eventID="e8" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e13" eventID="e129" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP-OR-AFTER" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

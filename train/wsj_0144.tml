@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0047
+= 891102
+891102-0047.
+Lucro da Travelers Subiu
+@ 11% no Terceiro Trimestre
+@ Apesar dos Prejuízos com o Hugo
+<TIMEX3 tid="t27" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+TIC
+EARNINGS (ERN)
+Hartford, Connecticut
+
+
+<s>O lucro líquido da Travelers Corp. no <TIMEX3 tid="t28" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t27">terceiro trimestre</TIMEX3> <EVENT eid="e1" class="OCCURRENCE" stem="crescer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cresceu</EVENT> 11%, apesar de as despesas devidas ao furacão Hugo <EVENT eid="e4" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">reduzirem</EVENT> os resultados em 40 milhões de dólares.</s>
+
+<s>O lucro líquido <EVENT eid="e6" class="OCCURRENCE" stem="avançar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">avançou</EVENT> para os <EVENT eid="e2163" class="STATE" stem="94.2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">94,2</EVENT> milhões de dólares, ou 89 cêntimos por ação, face a <EVENT eid="e2164" class="STATE" stem="85" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">85</EVENT> milhões de dólares, ou 83 cêntimos por ação, incluindo <EVENT eid="e33" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganhos</EVENT> líquidos sobre o investimento realizado de 31 milhões de dólares, <EVENT eid="e34" class="OCCURRENCE" stem="subir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">subindo</EVENT> dos <EVENT eid="e2165" class="STATE" stem="10" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">10</EVENT> milhões de dólares de <TIMEX3 tid="t40" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">há um ano</TIMEX3>.</s>
+<s>Mas a receita <EVENT eid="e8" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> para os <EVENT eid="e2166" class="STATE" stem="3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">3</EVENT> mil milhões de dólares, face a <EVENT eid="e2167" class="STATE" stem="3.2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">3,2</EVENT> mil milhões de dólares.</s>
+
+<s>A Travelers <EVENT eid="e45" class="I_ACTION" stem="estimar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estimou</EVENT> que o <EVENT eid="e46" class="OCCURRENCE" stem="terramoto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">terramoto</EVENT> da Califórnia no <TIMEX3 tid="t47" type="DATE" value="1989-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t27">mês passado</TIMEX3> <EVENT eid="e10" class="ASPECTUAL" stem="resultar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">resultará</EVENT> num <EVENT eid="e49" class="OCCURRENCE" stem="encargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encargo</EVENT> de menos de 10 milhões de dólares antes de impostos no <TIMEX3 tid="t48" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t27">quarto trimestre</TIMEX3>.</s>
+
+<s>Os ganhos da seguradora vindos dos seguros comerciais de imóveis/acidentes <EVENT eid="e12" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> 59% no <TIMEX3 tid="t52" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">último trimestre</TIMEX3>, enquanto que <EVENT eid="e14" class="OCCURRENCE" stem="perder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perdeu</EVENT> 7,2 milhões de dólares no negócio dos seguros pessoais de imóveis/acidentes, em comparação com o lucro de <EVENT eid="e2169" class="STATE" stem="6.1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">6,1</EVENT> milhões de dólares de <TIMEX3 tid="t51" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">há um ano</TIMEX3>.</s>
+
+<s>O grupo da Travelers de planos empresariais, que inclui as suas ofertas de seguros de saúde de grupo, <EVENT eid="e19" class="REPORTING" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT> <EVENT eid="e2162" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> de 24 milhões de dólares, em comparação com uma <EVENT eid="e21" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perda</EVENT> de <EVENT eid="e2170" class="STATE" stem="3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">3</EVENT> milhões de dólares no <TIMEX3 tid="t56" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t28">ano passado</TIMEX3>.</s>
+
+<s>Nos <TIMEX3 tid="t58" type="DURATION" value="P9M" temporalFunction="true" functionInDocument="NONE" beginPoint="t59">primeiros nove meses</TIMEX3>, o lucro líquido foi de <EVENT eid="e2171" class="STATE" stem="306" aspect="NONE" tense="PPI" polarity="POS" pos="OTHER">306</EVENT> milhões de dólares, em comparação com um <EVENT eid="e23" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> de 195 milhões de dólares no <TIMEX3 tid="t59" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">período de 1988</TIMEX3>.</s>
+<s>Os <EVENT eid="e24" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> do <TIMEX3 tid="t60" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t62">ano passado</TIMEX3> incluíram uma <EVENT eid="e61" class="OCCURRENCE" stem="despesa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">despesa</EVENT> de 415 milhões de dólares no <TIMEX3 tid="t62" type="DATE" value="1988-Q2" temporalFunction="false" functionInDocument="NONE">segundo trimestre de 1988</TIMEX3> por causa de empréstimos imobiliários e de hipotecas dececionantes.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e1" relatedToTime="t28" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e33" relatedToTime="t40" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e10" relatedToTime="t48" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e10" relatedToTime="t47" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e49" relatedToTime="t48" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e49" relatedToTime="t47" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e12" relatedToTime="t51" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e12" relatedToTime="t52" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e21" relatedToTime="t56" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e19" relatedToTime="t56" task="A"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e23" relatedToTime="t59" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e23" relatedToTime="t58" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e61" relatedToTime="t60" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e61" relatedToTime="t62" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e24" relatedToTime="t60" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e24" relatedToTime="t62" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e1" relatedToTime="t27" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e33" relatedToTime="t27" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e8" relatedToTime="t27" task="B"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e10" relatedToTime="t27" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e49" relatedToTime="t27" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e12" relatedToTime="t27" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e21" relatedToTime="t27" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e19" relatedToTime="t27" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e23" relatedToTime="t27" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e61" relatedToTime="t27" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e24" relatedToTime="t27" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e8" eventID="e6" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e19" eventID="e12" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e24" eventID="e2171" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e2171" eventID="e19" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e12" eventID="e45" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e45" eventID="e8" task="C"/>
+</TempEval>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0018
+= 891026
+891026-0018.
+Dossier de Negócios - Benjamin Franklin Federal S&amp;L:
+@ Caixa Planeia Reestruturar-se
+@ Depois de Prejuízo no Terceiro Trimestre
+<TIMEX3 tid="t45" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+BENJ
+
+
+<s>A Benjamin Franklin Federal Savings &amp; Loan Association <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="POS" pos="VERB">planeia</EVENT> <EVENT eid="e4" class="OCCURRENCE" stem="reestruturar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reestruturar</EVENT>-se, na sequência de um <EVENT eid="e6" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> no <TIMEX3 tid="t59" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t45">terceiro trimestre</TIMEX3> de 7,7 milhões de dólares, ou 1,01 dólares por ação, <EVENT eid="e7" class="STATE" stem="refletir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">refletindo</EVENT> uma <EVENT eid="e8" class="OCCURRENCE" stem="adição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">adição</EVENT> de 11 milhões de dólares às reservas de crédito mal parado.</s>
+
+<s>A caixa de aforro de Portland, Oregon, <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a reestruturação deve <EVENT eid="e10" class="I_ACTION" stem="ajudar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ajudá</EVENT>-la a <EVENT eid="e12" class="OCCURRENCE" stem="cumprir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">cumprir</EVENT> os novos padrões de capital do Financial Institution Reform, Recovery and Enforcement Act.</s>
+<s><TIMEX3 tid="t96" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t45">Há um ano</TIMEX3>, a Benjamin Franklin <EVENT eid="e14" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um lucro de 1,8 milhões de dólares, ou 23 cêntimos por ação.</s>
+
+<s>No <EVENT eid="e15" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> de balcão de <TIMEX3 tid="t101" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t45">ontem</TIMEX3>, a Benjamin Franklin <EVENT eid="e16" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiu</EVENT> 25 cêntimos para os 4,25 dólares.</s>
+
+<s>A companhia <EVENT eid="e17" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a fase inicial da reestruturação <EVENT eid="e18" class="OCCURRENCE" stem="trazer" aspect="NONE" tense="FI" polarity="POS" pos="VERB">trará</EVENT> uma redução gradual dos ativos e de empregos.</s>
+<s>O <EVENT eid="e131" class="I_ACTION" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> pode <EVENT eid="e20" class="OCCURRENCE" stem="incluir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">incluir</EVENT> <EVENT eid="e22" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> filiais, <EVENT eid="e23" class="OCCURRENCE" stem="consolidar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">consolidar</EVENT> ou <EVENT eid="e24" class="OCCURRENCE" stem="eliminar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">eliminar</EVENT> departamentos, e <EVENT eid="e25" class="OCCURRENCE" stem="dissolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">dissolver</EVENT> ou <EVENT eid="e26" class="OCCURRENCE" stem="alienar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">alienar</EVENT> unidades não rentáveis durante <TIMEX3 tid="t140" type="DURATION" value="P18M" mod="EQUAL_OR_LESS" temporalFunction="true" functionInDocument="NONE" beginPoint="t45">18 meses</TIMEX3>.</s>
+
+<s>Inicialmente, a empresa <EVENT eid="e27" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informou</EVENT> que vai <EVENT eid="e28" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">fechar</EVENT> a sua divisão de empréstimos imobiliários comerciais, e <EVENT eid="e29" class="ASPECTUAL" stem="deixar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">deixar</EVENT> de <EVENT eid="e30" class="I_ACTION" stem="criar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">criar</EVENT> novas concessões na sua subsidiária de leasing comercial.</s>
+
+<s>Os detalhes da reestruturação não serão <EVENT eid="e31" class="OCCURRENCE" stem="finalizar" aspect="NONE" tense="FI" polarity="NEG" pos="VERB">finalizados</EVENT> até os órgãos reguladores <EVENT eid="e34" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aprovarem</EVENT> os regulamentos <EVENT eid="e36" class="OCCURRENCE" stem="definir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">definidos</EVENT> pela nova lei federal, <EVENT eid="e38" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a companhia.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t59" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e6" relatedToTime="t59" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t59" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e16" relatedToTime="t101" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e15" relatedToTime="t101" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e131" relatedToTime="t140" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e2" relatedToTime="t45" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e6" relatedToTime="t45" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e1" relatedToTime="t45" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e10" relatedToTime="t45" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e9" relatedToTime="t45" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e16" relatedToTime="t45" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e15" relatedToTime="t45" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e17" relatedToTime="t45" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e131" relatedToTime="t45" task="B"/>
+<TLINK lid="l16" relType="AFTER" eventID="e28" relatedToTime="t45" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e27" relatedToTime="t45" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e38" relatedToTime="t45" task="B"/>
+<TLINK lid="l19" relType="AFTER" eventID="e31" relatedToTime="t45" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e20" eventID="e17" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e9" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e38" eventID="e27" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e17" eventID="e16" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e14" eventID="e9" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e27" eventID="e20" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e16" eventID="e14" task="C"/>
+</TempEval>

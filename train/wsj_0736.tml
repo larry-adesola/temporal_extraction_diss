@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0159
+= 891027
+891027-0159.
+Poughkeepsie Savings
+@ Abandona Plano de Vender
+@ Agências na Carolina do Sul
+<TIMEX3 tid="t61" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+PKPS
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+POUGHKEEPSIE, N.Y.
+
+
+<s>O Poughkeepsie Savings Bank <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e51" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> de <EVENT eid="e3" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> as suas sucursais na Carolina do Sul ao First Citizens Bank, em Columbia, na Carolina do Sul, foi <EVENT eid="e4" class="OCCURRENCE" stem="abandonar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">abandonado</EVENT>.</s>
+
+<s>O Poughkeepsie <EVENT eid="e5" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> também <EVENT eid="e7" class="OCCURRENCE" stem="anunciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anunciar</EVENT> um encargo excepcional de 8,3 milhões de dólares, <EVENT eid="e8" class="OCCURRENCE" stem="resultar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">resultando</EVENT> num <EVENT eid="e9" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido para <TIMEX3 tid="t62" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t61">o terceiro trimestre</TIMEX3>.</s>
+<s>A despeza representa uma amortização do goodwill associado ao investimento da Poughkeepsie nos bancos que está a <EVENT eid="e15" class="I_ACTION" stem="tentar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e17" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> e nas suas sucursais da Carolina do Norte também.</s>
+
+<s>O banco <EVENT eid="e18" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> o <EVENT eid="e52" class="I_STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> a <TIMEX3 tid="t63" type="DATE" value="1989-08-21" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t61">21 de agosto</TIMEX3>.</s>
+<s>Entre outras razões, as altas taxas que os órgãos reguladores impuseram em certas transferências de depósitos de poupança aos bancos comerciais "<EVENT eid="e23" class="OCCURRENCE" stem="alterar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alteraram</EVENT> substancialmente a economia da <EVENT eid="e24" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> para ambas as partes", <EVENT eid="e26" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> o Poughkeepsie.</s>
+
+<s>Além disso, o banco vai <EVENT eid="e27" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">aumentar</EVENT> as <EVENT eid="e174" class="STATE" stem="reserva" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reservas</EVENT> de crédito mal-parado para <TIMEX3 tid="t64" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t61">o terceiro trimestre</TIMEX3> em 8,5 milhões de dólares antes de impostos.</s>
+
+<s>No <TIMEX3 tid="t65" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t61">terceiro trimestre do último ano</TIMEX3>, o Poughkeepsie Savings <EVENT eid="e54" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> uma <EVENT eid="e55" class="STATE" stem="receita" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">receita</EVENT> líquida de 2,8 milhões de dólares, ou 77 cêntimos por ação.</s>
+
+<s>O Poughkeepsie <EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que vai <EVENT eid="e31" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">continuar</EVENT> a <EVENT eid="e33" class="I_ACTION" stem="tentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e35" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT>-se, no âmbito de um <EVENT eid="e36" class="I_STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> de <TIMEX3 tid="t66" type="DATE" value="1989-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t61">junho</TIMEX3> com um grupo de acionistas dissidentes.</s>
+<s>O banco também <EVENT eid="e37" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o seu <EVENT eid="e38" class="OCCURRENCE" stem="esforço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">esforço</EVENT> vai <EVENT eid="e39" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">continuar</EVENT> depois do prazo de <TIMEX3 tid="t67" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t61">1 de novembro</TIMEX3> <EVENT eid="e42" class="OCCURRENCE" stem="estabelecer" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">estabelecido</EVENT> nesse <EVENT eid="e43" class="I_STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> e que o <EVENT eid="e44" class="OCCURRENCE" stem="contencioso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">contencioso</EVENT> entre os dois lados talvez seja <EVENT eid="e45" class="ASPECTUAL" stem="retomar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">retomado</EVENT>, como <EVENT eid="e47" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultado</EVENT>.</s>
+<s>O banco e os acionistas tinham <EVENT eid="e48" class="ASPECTUAL" stem="suspender" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">suspendido</EVENT> o <EVENT eid="e49" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> judicial como parte do <EVENT eid="e50" class="I_STATE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e9" relatedToTime="t62" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e5" relatedToTime="t62" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e8" relatedToTime="t62" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e7" relatedToTime="t62" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e52" relatedToTime="t63" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e18" relatedToTime="t63" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e27" relatedToTime="t64" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e54" relatedToTime="t65" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e33" relatedToTime="t66" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e36" relatedToTime="t66" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e30" relatedToTime="t66" task="A"/>
+<TLINK lid="l12" relType="AFTER" eventID="e31" relatedToTime="t66" task="A"/>
+<TLINK lid="l13" relType="AFTER" eventID="e35" relatedToTime="t66" task="A"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e43" relatedToTime="t67" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e37" relatedToTime="t67" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e39" relatedToTime="t67" task="A"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e42" relatedToTime="t67" task="A"/>
+<TLINK lid="l18" relType="BEFORE-OR-OVERLAP" eventID="e47" relatedToTime="t67" task="A"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e4" relatedToTime="t61" task="B"/>
+<TLINK lid="l20" relType="OVERLAP-OR-AFTER" eventID="e3" relatedToTime="t61" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e1" relatedToTime="t61" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e51" relatedToTime="t61" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e9" relatedToTime="t61" task="B"/>
+<TLINK lid="l24" relType="OVERLAP" eventID="e5" relatedToTime="t61" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e8" relatedToTime="t61" task="B"/>
+<TLINK lid="l26" relType="AFTER" eventID="e7" relatedToTime="t61" task="B"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e15" relatedToTime="t61" task="B"/>
+<TLINK lid="l28" relType="OVERLAP-OR-AFTER" eventID="e17" relatedToTime="t61" task="B"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e52" relatedToTime="t61" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e18" relatedToTime="t61" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e26" relatedToTime="t61" task="B"/>
+<TLINK lid="l32" relType="OVERLAP" eventID="e27" relatedToTime="t61" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e54" relatedToTime="t61" task="B"/>
+<TLINK lid="l34" relType="BEFORE-OR-OVERLAP" eventID="e33" relatedToTime="t61" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e36" relatedToTime="t61" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e30" relatedToTime="t61" task="B"/>
+<TLINK lid="l37" relType="OVERLAP" eventID="e31" relatedToTime="t61" task="B"/>
+<TLINK lid="l38" relType="OVERLAP" eventID="e35" relatedToTime="t61" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e43" relatedToTime="t61" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e37" relatedToTime="t61" task="B"/>
+<TLINK lid="l41" relType="OVERLAP" eventID="e39" relatedToTime="t61" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e42" relatedToTime="t61" task="B"/>
+<TLINK lid="l43" relType="OVERLAP" eventID="e47" relatedToTime="t61" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e50" relatedToTime="t61" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e48" eventID="e37" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e37" eventID="e30" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e30" eventID="e54" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e15" eventID="e5" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e26" eventID="e18" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e54" eventID="e27" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e27" eventID="e26" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

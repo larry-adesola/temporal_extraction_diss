@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0041
+= 891102
+891102-0041.
+Dossier de Negócios - Primerica Corp.:
+@ A.L. Williams Corp. Funde-se
+@ Numa Empresa depois do Voto dos Titulares
+<TIMEX3 tid="t20" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+PA
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A A.L. Williams Corp. foi <EVENT eid="e1" class="OCCURRENCE" stem="fundir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fundida</EVENT> com a Primerica Corp., de Nova Iorque, depois de uma <EVENT eid="e2" class="OCCURRENCE" stem="reunião" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reunião</EVENT> especial dos acionistas da Williams ter <EVENT eid="e4" class="I_ACTION" stem="aceitar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">aceite</EVENT> a <EVENT eid="e23" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT>, <EVENT eid="e5" class="REPORTING" stem="informar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">informaram</EVENT> as empresas.</s>
+
+<s>A Primerica, que <EVENT eid="e6" class="STATE" stem="deter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">detinha</EVENT> quase 70% da Williams, vai <EVENT eid="e7" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">pagar</EVENT> cerca de 16,7 milhões de ações, <TIMEX3 tid="t25" type="TIME" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t20">atualmente</TIMEX3> <EVENT eid="e8" class="STATE" stem="avaliar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">avaliadas</EVENT> em quase 472 milhões de dólares, pelo resto da Williams.</s>
+<s>A companhia de serviços financeiros <EVENT eid="e9" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">pagará</EVENT> 0,82 ações por cada ação da Williams.</s>
+
+<s>As ações da Williams, que estavam para ser <EVENT eid="e10" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retiradas</EVENT> da Bolsa de Nova Iorque após o <EVENT eid="e26" class="OCCURRENCE" stem="fecho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fecho</EVENT> da bolsa de <TIMEX3 tid="t21" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t20">ontem</TIMEX3>, <EVENT eid="e11" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos 23,25 dólares, menos 12,5 cêntimos.</s>
+<s>A Primerica <EVENT eid="e12" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> nos 28,25 dólares, menos 50 cêntimos.</s>
+
+<s>A Williams, de Duluth, na Geórgia, é uma empresa de seguros e serviços financeiros.</s>
+<s>Os serviços das suas subsidiárias são comercializados pela A.L Williams &amp; Associates, controlada por poucos acionistas.</s>
+<s>A Primerica, como esperado, também <EVENT eid="e27" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adquiriu</EVENT> alguns ativos da agência e <EVENT eid="e17" class="OCCURRENCE" stem="assumir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">assumiu</EVENT> algumas das suas responsabilidades.</s>
+<s>Os termos não foram <EVENT eid="e18" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">divulgados</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e7" relatedToTime="t25" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e26" relatedToTime="t21" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e11" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e5" relatedToTime="t20" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e7" relatedToTime="t20" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e9" relatedToTime="t20" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e26" relatedToTime="t20" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e11" relatedToTime="t20" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e12" relatedToTime="t20" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e27" relatedToTime="t20" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e11" eventID="e9" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e18" eventID="e27" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e9" eventID="e7" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e12" eventID="e11" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e7" eventID="e5" task="C"/>
+</TempEval>

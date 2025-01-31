@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+CNN<TIMEX3 tid="t92" type="DATE" value="1998-02-27" temporalFunction="false" functionInDocument="CREATION_TIME">19980227</TIMEX3>.2130.0067
+REPORTAGEM
+
+
+<s>Ao vivo de Atlanta, boa noite, Lynne Russell, destaques da CNN.</s>
+<s>Nova evidência <EVENT eid="e4" class="I_STATE" stem="sugerir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">sugere</EVENT> que uma série de <EVENT eid="e91" class="OCCURRENCE" stem="explosão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">explosões</EVENT> em Atlanta e a <EVENT eid="e6" class="OCCURRENCE" stem="explosão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">explosão</EVENT> do <TIMEX3 tid="t93" type="DATE" value="1998-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">mês passado</TIMEX3> numa clínica feminina do Alabama podem estar <EVENT eid="e8" class="STATE" stem="relacionar" aspect="NONE" tense="INF+PPA" polarity="POS" pos="VERB">relacionadas</EVENT>.</s>
+<s>Pierre Thomas tem os últimos desenvolvimentos.</s>
+
+<s>Atlanta <TIMEX3 tid="t95" type="DATE" value="1996" temporalFunction="false" functionInDocument="NONE">1996</TIMEX3>.</s>
+<s>Uma <EVENT eid="e138" class="OCCURRENCE" stem="explosão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">explosão</EVENT> de bomba <EVENT eid="e11" class="OCCURRENCE" stem="chocar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">choca</EVENT> os Jogos Olímpicos.</s>
+<s>Uma pessoa <EVENT eid="e12" class="OCCURRENCE" stem="morrer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">morre</EVENT>.</s>
+
+<s><TIMEX3 tid="t96" type="DATE" value="1997-01" temporalFunction="false" functionInDocument="NONE">Janeiro de 1997</TIMEX3>.</s>
+<s>Atlanta novamente.</s>
+<s>Desta vez uma <EVENT eid="e149" class="OCCURRENCE" stem="bomba" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">bomba</EVENT> numa clínica de aborto.</s>
+<s>Mais pessoas ficam <EVENT eid="e16" class="OCCURRENCE" stem="ferir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">feridas</EVENT>.</s>
+<s>E mesmo no <TIMEX3 tid="t97" type="DATE" value="1998-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">mês passado</TIMEX3>, um polícia de folga <EVENT eid="e17" class="OCCURRENCE" stem="morrer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">morre</EVENT> quando uma bomba <EVENT eid="e98" class="OCCURRENCE" stem="explodir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">explode</EVENT> noutra clínica de aborto.</s>
+<s>Localização: Birmingham, Alabama.</s>
+
+<s>Um homem, Eric Rudolph, já foi <EVENT eid="e22" class="OCCURRENCE" stem="acusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acusado</EVENT> pelo <EVENT eid="e23" class="OCCURRENCE" stem="atentado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atentado</EVENT> de Birmingham.</s>
+<s><TIMEX3 tid="t178" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">Agora</TIMEX3>, as autoridades estão a <EVENT eid="e25" class="I_ACTION" stem="investigar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">investigar</EVENT> se Rudolph, que continua a monte, está <EVENT eid="e27" class="STATE" stem="ligar" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">ligado</EVENT> a todos os três <EVENT eid="e28" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataques</EVENT>.</s>
+<s>A razão: as autoridades <EVENT eid="e30" class="I_ACTION" stem="descobrir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">descobriram</EVENT> novas provas curiosas.</s>
+
+<s>As chapas de aço <EVENT eid="e33" class="OCCURRENCE" stem="recuperar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">recuperadas</EVENT> no atentado junto ao parque olímpico <EVENT eid="e34" class="I_STATE" stem="parecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">parecem</EVENT> <EVENT eid="e36" class="STATE" stem="corresponder" aspect="NONE" tense="INF" polarity="POS" pos="VERB">corresponder</EVENT> às <EVENT eid="e37" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">encontradas</EVENT> no <EVENT eid="e38" class="OCCURRENCE" stem="atentado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atentado</EVENT> junto à clínica de aborto em Atlanta.</s>
+<s>Essas placas podem ter <EVENT eid="e42" class="OCCURRENCE" stem="vir" aspect="NONE" tense="INFC" polarity="POS" pos="VERB">vindo</EVENT> de uma oficina mecânica na Carolina do Norte, onde um amigo de Rudolph <EVENT eid="e44" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">trabalhava</EVENT>.</s>
+
+<s>E os pregos <EVENT eid="e45" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">encontrados</EVENT> no <EVENT eid="e101" class="OCCURRENCE" stem="atentado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atentado</EVENT> da clínica de aborto de Atlanta são idênticos àqueles <EVENT eid="e46" class="OCCURRENCE" stem="descobrir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">descobertos</EVENT> no alpendre de Rudolph na Carolina do Norte.</s>
+<s>Uma fonte policial <EVENT eid="e49" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> à CNN que existe uma grande quantidade de <EVENT eid="e50" class="OCCURRENCE" stem="evidência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">evidências</EVENT> circunstanciais e que seria <EVENT eid="e102" class="I_STATE" stem="extraordinário" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">extraordinário</EVENT> <EVENT eid="e53" class="STATE" stem="ter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ter</EVENT> todas estas peças e não haver uma <EVENT eid="e104" class="STATE" stem="ligação" aspect="NONE" tense="INF" polarity="NEG" pos="NOUN">ligação</EVENT>.</s>
+
+<s>E fontes policiais <EVENT eid="e54" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que não se podem <EVENT eid="e55" class="STATE" stem="ignorar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">ignorar</EVENT> cartas assinadas sob o nome "Exército de Deus".</s>
+<s>O "Exército de Deus" é uma organização secreta que odeia os funcionários das clínicas de aborto, os homossexuais e o governo americano.</s>
+
+<s>As cartas do "Exército de Deus" <EVENT eid="e105" class="I_ACTION" stem="reivindicar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">reivindicam</EVENT> a <EVENT eid="e60" class="I_STATE" stem="responsibilidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">responsabilidade</EVENT> do <EVENT eid="e106" class="OCCURRENCE" stem="atentado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atentado</EVENT> da clínica de aborto de Atlanta, um <EVENT eid="e61" class="OCCURRENCE" stem="ataque" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ataque</EVENT> de <TIMEX3 tid="t107" type="DATE" value="1997" temporalFunction="false" functionInDocument="NONE">1997</TIMEX3> a um estabelecimento gay e o <EVENT eid="e63" class="OCCURRENCE" stem="atentado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atentado</EVENT> de Birmingham.</s>
+
+<s><EVENT eid="e66" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Continua</EVENT> a intensa <EVENT eid="e64" class="OCCURRENCE" stem="perseguição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perseguição</EVENT> conduzida pelo FBI e o ATF por Rudolph no oeste rural da Carolina do Norte.</s>
+<s>E <TIMEX3 tid="t108" type="DATE" value="1998-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">esta semana</TIMEX3>, o diretor do FBI Louie Freeh <EVENT eid="e109" class="OCCURRENCE" stem="destacar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">destacou</EVENT> mais agentes para a <EVENT eid="e67" class="OCCURRENCE" stem="investigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investigação</EVENT>.</s>
+
+<s>Freeh também <EVENT eid="e68" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT> que a <EVENT eid="e69" class="OCCURRENCE" stem="investigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investigação</EVENT> junte as informações junto da equipa de Atlanta, outra indicação de que as autoridades <EVENT eid="e72" class="I_STATE" stem="suspeitar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">suspeitam</EVENT> de uma <EVENT eid="e110" class="STATE" stem="ligação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ligação</EVENT> entre todos os <EVENT eid="e73" class="OCCURRENCE" stem="atentado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atentados</EVENT>.</s>
+<s>Em privado, as autoridades <EVENT eid="e74" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que Rudolph se <EVENT eid="e76" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tornou</EVENT> um foco da <EVENT eid="e77" class="OCCURRENCE" stem="investigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investigação</EVENT>.</s>
+<s>Publicamente, não estão <EVENT eid="e111" class="I_STATE" stem="dispor" aspect="NONE" tense="PI+PPA" polarity="NEG" pos="VERB">dispostas</EVENT> a <EVENT eid="e79" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fazer</EVENT> qualquer <EVENT eid="e80" class="OCCURRENCE" stem="afirmação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">afirmação</EVENT> geral.</s>
+<s>O motivo: <EVENT eid="e82" class="STATE" stem="lembrar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">lembram</EVENT>-se de Richard Jewell.</s>
+<s>Thomas Pierre, CNN, Washington.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e22" relatedToTime="t92" task="B"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e42" relatedToTime="t92" task="B"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e53" relatedToTime="t92" task="B"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e49" relatedToTime="t92" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e54" relatedToTime="t92" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e66" relatedToTime="t92" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e74" relatedToTime="t92" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e76" relatedToTime="t92" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e79" relatedToTime="t92" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e74" eventID="e68" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e66" eventID="e105" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e82" eventID="e111" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e25" eventID="e22" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e54" eventID="e49" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e68" eventID="e109" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e34" eventID="e30" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e16" eventID="e149" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e45" eventID="e42" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e49" eventID="e45" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e109" eventID="e66" task="C"/>
+<TLINK lid="l12c" relType="BEFORE" relatedToEvent="e17" eventID="e16" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e111" eventID="e74" task="C"/>
+<TLINK lid="l14c" relType="AFTER" relatedToEvent="e42" eventID="e34" task="C"/>
+<TLINK lid="l15c" relType="AFTER" relatedToEvent="e30" eventID="e25" task="C"/>
+<TLINK lid="l16c" relType="BEFORE" relatedToEvent="e12" eventID="e11" task="C"/>
+</TempEval>

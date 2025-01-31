@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+NYT19980402.0453
+REPORTAGEM
+<TIMEX3 tid="t43" type="TIME" value="1998-04-02T22:52:00" temporalFunction="false" functionInDocument="CREATION_TIME">04/02/1998 22:52:00</TIMEX3>
+
+
+A0786 ampCx1f taf-z
+u a ampCx13 ampCx11 BC-NJ-WOMEN-MURDER-PROBE 04-02 0319
+
+BC-NJ-WOMEN-MURDER-PROBE-NYT
+
+EQUIPA VAI ESTUDAR CASOS DE 14 MULHERES ASSASSINADAS
+
+(lb) ampQL ampUR By DAVID M. HERSZENHORN ampLR ampQC ampQL ampUR c.1998 N.Y. Times News Service ampLR ampQC ampQL
+
+
+<s>NEWARK, Nova Jérsia - Uma nova equipa na zona administrativa de Essex <EVENT eid="e1" class="ASPECTUAL" stem="começar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">começou</EVENT> a <EVENT eid="e45" class="OCCURRENCE" stem="investigar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">investigar</EVENT> na <TIMEX3 tid="t46" type="DATE" value="1998-04-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">quinta-feira</TIMEX3> os <EVENT eid="e2" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinatos</EVENT> de 14 mulheres negras ao longo dos <TIMEX3 tid="t48" type="DURATION" value="P5Y" temporalFunction="true" functionInDocument="NONE" endPoint="t43">últimos cinco anos</TIMEX3> na área de Newark, já que as autoridades policiais <EVENT eid="e4" class="REPORTING" stem="reconhecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">reconheceram</EVENT> que <EVENT eid="e5" class="I_STATE" stem="precisar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">precisavam</EVENT> de <EVENT eid="e6" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">trabalhar</EVENT> mais para <EVENT eid="e7" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resolver</EVENT> os casos de mulheres <EVENT eid="e67" class="OCCURRENCE" stem="assassinar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">assassinadas</EVENT>.</s>
+<s>A polícia e os procuradores <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que tinham <EVENT eid="e9" class="OCCURRENCE" stem="identificar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">identificado</EVENT> suspeitos diferentes em seis dos casos e que ainda estava por <EVENT eid="e10" class="OCCURRENCE" stem="encontrar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">encontrar</EVENT> qualquer padrão de ligação entre os <EVENT eid="e50" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinatos</EVENT> ou vítimas, algumas das quais se <EVENT eid="e12" class="I_STATE" stem="acreditar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">acreditava</EVENT> serem prostitutas.</s>
+<s>As autoridades policiais do estado, do município e locais têm <EVENT eid="e13" class="REPORTING" stem="expressar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">expressado</EVENT> preocupação nos <TIMEX3 tid="t52" type="DURATION" value="PXM" temporalFunction="true" functionInDocument="NONE" endPoint="t43">últimos meses</TIMEX3> sobre um possível padrão de mulheres <EVENT eid="e53" class="OCCURRENCE" stem="assassinar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">assassinadas</EVENT> e um número desproporcional de casos não <EVENT eid="e54" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="PPA" polarity="NEG" pos="VERB">resolvidos</EVENT>.</s>
+<s><EVENT eid="e2025" class="REPORTING" stem="referir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">Referindo</EVENT> um exemplo, o sargento Derek Glenn, um porta-voz da Esquadra de Polícia de Newark, <EVENT eid="e14" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que das nove mulheres que tinham sido <EVENT eid="e15" class="OCCURRENCE" stem="matar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">mortas</EVENT> no <TIMEX3 tid="t64" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">ano passado</TIMEX3>, tinham sido <EVENT eid="e17" class="OCCURRENCE" stem="prender" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">presos</EVENT> suspeitos em apenas quatro <EVENT eid="e18" class="OCCURRENCE" stem="caso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">casos</EVENT>.</s>
+<s>Mas no total, foram <EVENT eid="e2065" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">feitas</EVENT> <EVENT eid="e59" class="OCCURRENCE" stem="detenção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">detenções</EVENT> em mais de 60 por cento dos casos de <EVENT eid="e2060" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinato</EVENT>, ele <EVENT eid="e21" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT>.</s>
+<s>Oito dos 14 <EVENT eid="e2072" class="OCCURRENCE" stem="assassinato" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">assassinatos</EVENT> desde <TIMEX3 tid="t63" type="DATE" value="1993" temporalFunction="false" functionInDocument="NONE">1993</TIMEX3> já estavam sob <EVENT eid="e2093" class="OCCURRENCE" stem="investigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investigação</EVENT> pela Esquadra de Polícia de Newark, <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Glenn.</s>
+<s>Das oito vítimas, três foram <EVENT eid="e23" class="OCCURRENCE" stem="esfaquear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">esfaqueadas</EVENT>, duas foram <EVENT eid="e24" class="OCCURRENCE" stem="estrangular" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estranguladas</EVENT>, duas foram <EVENT eid="e25" class="OCCURRENCE" stem="espancar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">espancadas</EVENT> até a morte e uma foi <EVENT eid="e26" class="OCCURRENCE" stem="asfixiar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">asfixiada</EVENT>, <EVENT eid="e27" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele, e estes diferentes métodos de assassinato e outras provas <EVENT eid="e29" class="PERCEPTION" stem="parecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">parecem</EVENT> <EVENT eid="e30" class="REPORTING" stem="indicar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">indicar</EVENT> que os oito <EVENT eid="e2148" class="OCCURRENCE" stem="caso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">casos</EVENT> não estão <EVENT eid="e31" class="STATE" stem="relacionar" aspect="NONE" tense="PI+PPA" polarity="NEG" pos="VERB">relacionados</EVENT>.</s>
+<s>Mas com a equipa de <EVENT eid="e66" class="OCCURRENCE" stem="investigação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investigação</EVENT> apenas a <EVENT eid="e33" class="ASPECTUAL" stem="começar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">começar</EVENT>, as autoridades têm <EVENT eid="e2164" class="I_STATE" stem="ter" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">tido</EVENT> o cuidado em não <EVENT eid="e34" class="OCCURRENCE" stem="tirar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">tirar</EVENT> conclusões definitivas, <EVENT eid="e35" class="OCCURRENCE" stem="deixar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">deixando</EVENT> em aberto a possibilidade de um assassino em série em alguns dos casos.</s>
+<s>Não houve nenhuma <EVENT eid="e36" class="OCCURRENCE" stem="detenção" aspect="NONE" tense="PPI" polarity="NEG" pos="NOUN">detenção</EVENT> em nenhum dos <EVENT eid="e65" class="OCCURRENCE" stem="crime" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crimes</EVENT>.</s>
+<s>"Ainda não <EVENT eid="e38" class="PERCEPTION" stem="ver" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">vi</EVENT> um padrão", <EVENT eid="e40" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Patricia Hurt, a promotora da zona administrativa de Essex, que <EVENT eid="e41" class="OCCURRENCE" stem="criar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">criou</EVENT> a equipa na <TIMEX3 tid="t61" type="DATE" value="1998-03-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">terça-feira</TIMEX3>.</s>
+<s>"O tipo de estilo de vida que estas mulheres <EVENT eid="e60" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">têm</EVENT> é extremamente perigoso", <EVENT eid="e42" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ela.</s>
+
+<s>NYT-04-02-98 2252EST</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e1" relatedToTime="t48" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1" relatedToTime="t46" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e14" relatedToTime="t64" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e22" relatedToTime="t63" task="A"/>
+<TLINK lid="l5" relType="OVERLAP-OR-AFTER" eventID="e38" relatedToTime="t61" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t43" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e12" relatedToTime="t43" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e8" relatedToTime="t43" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e14" relatedToTime="t43" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e21" relatedToTime="t43" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e2065" relatedToTime="t43" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e22" relatedToTime="t43" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e27" relatedToTime="t43" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e35" relatedToTime="t43" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e38" relatedToTime="t43" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e42" relatedToTime="t43" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e60" relatedToTime="t43" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e21" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e36" eventID="e2164" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e2164" eventID="e27" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e40" eventID="e36" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e27" eventID="e22" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e42" eventID="e40" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e8" eventID="e45" task="C"/>
+<TLINK lid="l9c" relType="AFTER" relatedToEvent="e13" eventID="e8" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e14" eventID="e13" task="C"/>
+</TempEval>

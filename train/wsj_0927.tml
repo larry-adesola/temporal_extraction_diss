@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0131
+= 891026
+891026-0131.
+Quem É Notícia:
+@ U.S. Trust Nomeia
+@ Schwarz Diretor,
+@ Maurer Presidente
+@ ----
+@ Por James T. Areddy
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t88" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+USTC WNEWS
+NEW YORK
+
+<s>H. Marshall Schwarz foi <EVENT eid="e1" class="OCCURRENCE" stem="nomear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">nomeado</EVENT> presidente do conselho de administração e diretor geral da U.S. Trust Corp., uma empresa de banca de investimento, que gere ativos de aproximadamente 17 mil milhões de dólares.</s>
+
+<s>Schwarz, de 52 anos, <EVENT eid="e3" class="OCCURRENCE" stem="suceder" aspect="NONE" tense="FI" polarity="POS" pos="VERB">sucederá</EVENT> a Daniel P. Davison a <TIMEX3 tid="t89" type="DATE" value="1990-02-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">1 de fevereiro</TIMEX3>, pouco depois de Davison <EVENT eid="e4" class="I_STATE" stem="atingir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">atingir</EVENT> a idade da reforma obrigatória da empresa de 65 anos.</s>
+<s>Schwarz, que é presidente da U.S. Trust, será <EVENT eid="e5" class="OCCURRENCE" stem="suceder" aspect="NONE" tense="FI" polarity="POS" pos="VERB">sucedido</EVENT> no cargo por Jeffrey S. Maurer, de 42 anos, que é o vice-presidente executivo encarregue do grupo de gestão dos ativos da empresa.</s>
+
+<s>A U.S. Trust, uma instituição de 136 anos de idade que foi um dos primeiros bancos de investimento dos E.U.A., tem <EVENT eid="e8" class="I_ACTION" stem="enfrentar" aspect="NONE" tense="PPIC" polarity="POS" pos="VERB">enfrentado</EVENT> <EVENT eid="e10" class="OCCURRENCE" stem="concorrência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">concorrência</EVENT> crescente de outras firmas que <EVENT eid="e12" class="OCCURRENCE" stem="estabelecer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">estabeleceram</EVENT> e <EVENT eid="e13" class="OCCURRENCE" stem="promover" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">promoveram</EVENT> fortemente os seus próprios negócios de banca de investimento.</s>
+<s>Como resultado, os lucros da U.S. Trust <EVENT eid="e16" class="OCCURRENCE" stem="sofrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sofreram</EVENT>.</s>
+
+<s>Mas Schwarz <EVENT eid="e17" class="I_STATE" stem="ver" aspect="NONE" tense="PI" polarity="POS" pos="VERB">vê</EVENT> com bons olhos a <EVENT eid="e18" class="OCCURRENCE" stem="concorrência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">concorrência</EVENT> no negócio principal da U.S. Trust, <EVENT eid="e93" class="I_ACTION" stem="chamar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">chamando</EVENT>-lhe "elogios".</s>
+<s>Schwarz <EVENT eid="e22" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que a <EVENT eid="e23" class="OCCURRENCE" stem="concorrência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">concorrência</EVENT> "<EVENT eid="e24" class="OCCURRENCE" stem="alargar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">alarga</EVENT> a base de oportunidades para nós".</s>
+<s>As outras empresas "estão a <EVENT eid="e25" class="OCCURRENCE" stem="lidar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">lidar</EVENT> com as massas.</s>
+<s>Não <EVENT eid="e26" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">acredito</EVENT> que <EVENT eid="e28" class="I_STATE" stem="ter" aspect="NONE" tense="PC" polarity="POS" pos="VERB">tenham</EVENT> a cultura" para de forma adequada <EVENT eid="e29" class="OCCURRENCE" stem="servir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">servirem</EVENT> indíviduos muito ricos, <EVENT eid="e30" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acrescenta</EVENT>.</s>
+<s>A U.S. Trust <EVENT eid="e31" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apresentou</EVENT> <TIMEX3 tid="t95" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">recentemente</TIMEX3> certos produtos de fundos de investimento, que lhe permitem servir os clientes com depósitos mínimos de 250.000 dólares.</s>
+<s>Anteriormente, a empresa <EVENT eid="e35" class="OCCURRENCE" stem="publicitar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">publicitava</EVENT> ao nível dos 2 milhões de dólares.</s>
+
+<s>"Sempre <EVENT eid="e37" class="OCCURRENCE" stem="aceitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aceitámos</EVENT> contas mais pequenas, mas <TIMEX3 tid="t97" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">agora</TIMEX3> estamos à <EVENT eid="e39" class="OCCURRENCE" stem="procura" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="NOUN">procura</EVENT> de contas mais pequenas que vão crescer", <EVENT eid="e42" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Schwarz. </s>
+<s>"O típico para nós ainda é a conta entre 2 milhões de dólares e 20 milhões," <EVENT eid="e2136" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> ele.</s>
+<s>Os novos serviços <EVENT eid="e47" class="I_STATE" stem="permitir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permitem</EVENT> à U.S. Trust <EVENT eid="e49" class="OCCURRENCE" stem="servir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">servir</EVENT> a "riqueza nova", <EVENT eid="e50" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Schwarz.</s>
+
+<s>O lucro líquido <TIMEX3 tid="t98" type="DURATION" value="P3M" temporalFunction="false" functionInDocument="NONE">trimestral</TIMEX3> deste <TIMEX3 tid="t99" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">ano</TIMEX3> <EVENT eid="e51" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentou</EVENT> um pouco acima dos períodos comparáveis de <TIMEX3 tid="t104" type="DATE" value="1988" temporalFunction="false" functionInDocument="NONE">1988</TIMEX3>, quando o resultado líquido no final do ano foi <EVENT eid="e2372" class="STATE" stem="inferior" aspect="NONE" tense="PPI" polarity="POS" pos="ADJECTIVE">inferior</EVENT> ao <EVENT eid="e2197" class="STATE" stem="nível" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">nível</EVENT> de <TIMEX3 tid="t2194" type="DATE" value="1987" temporalFunction="false" functionInDocument="NONE">1987</TIMEX3>.</s>
+<s>No <TIMEX3 tid="t111" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">terceiro trimestre deste ano</TIMEX3>, por exemplo, o resultado líquido foi de <EVENT eid="e2366" class="STATE" stem="10,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">10,5</EVENT> milhões de dólares, ou 1,05 dólares por ação, em comparação com os <EVENT eid="e2367" class="STATE" stem="10,3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">10,3</EVENT> milhões de dólares, ou 1,02 dólares por ação, de <TIMEX3 tid="t112" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t111">há um ano</TIMEX3>.</s>
+<s>Os ativos à <TIMEX3 tid="t113" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">data de 30 de setembro</TIMEX3> <EVENT eid="e54" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> para os <EVENT eid="e2368" class="STATE" stem="2,46" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,46</EVENT> mil milhões de dólares desde cerca de <EVENT eid="e2369" class="STATE" stem="2,77" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">2,77</EVENT> mil milhões de dólares.</s>
+<s>"<EVENT eid="e55" class="STATE" stem="ter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">Teremos</EVENT> um ano razoavelmente em baixo <TIMEX3 tid="t122" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">este ano</TIMEX3>", <EVENT eid="e56" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Schwarz.</s>
+<s>Schwarz também <EVENT eid="e57" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os custos associados à mudança planeada da U.S. Trust de Wall Street para o centro de Manhattan <EVENT eid="e60" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">continuarão</EVENT> a ser um <EVENT eid="e2370" class="OCCURRENCE" stem="empecilho" aspect="NONE" tense="INF" polarity="POS" pos="NOUN">empecilho</EVENT> aos lucros durante <TIMEX3 tid="t116" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3>.</s>
+
+<s>O bisavô de Schwarz <EVENT eid="e62" class="OCCURRENCE" stem="fundar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fundou</EVENT> a loja de brinquedos de Nova Iorque F.A.O. Schwarz, mas a família já não <EVENT eid="e64" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> vínculos com a companhia.</s>
+<s>O pai de Schwarz foi um <EVENT eid="e2371" class="STATE" stem="fidecomissário" aspect="NONE" tense="PPI" polarity="POS" pos="NOUN">fidecomissário</EVENT> da U.S. Trust até <TIMEX3 tid="t127" type="DATE" value="1974" temporalFunction="false" functionInDocument="NONE">1974</TIMEX3>.</s>
+
+<s>A U.S. Trust também <EVENT eid="e65" class="I_ACTION" stem="criar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">criou</EVENT> um gabinete de quatro membros para o presidente do conselho de administração, em funcionamento a partir de <TIMEX3 tid="t131" type="DATE" value="1990-02-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t88">1 de fevereiro</TIMEX3>.</s>
+<s>Incluirá Schwarz e Maurer.</s>
+<s>Donald M. Roberts, de 54 anos, tesoureiro, e Frederick S. Wonham, de 58, que assume a responsabilidade grupo de serviços de fundos, foram <EVENT eid="e69" class="I_ACTION" stem="nomear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">nomeados</EVENT> vice-presidentes do conselho de administração e vão <EVENT eid="e71" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">trabalhar</EVENT> no gabinete do presidente.</s>
+<s>Roberts <EVENT eid="e72" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> como <EVENT eid="e132" class="STATE" stem="tesoureiro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tesoureiro</EVENT>, e Wonham <EVENT eid="e73" class="ASPECTUAL" stem="permanecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permanece</EVENT> <EVENT eid="e133" class="STATE" stem="responsável" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">responsável</EVENT> pelas pastas das finanças, planeamento, marketing e serviços gerais.</s>
+
+<s>Frederick B. Taylor, de 48 anos, também foi <EVENT eid="e77" class="I_ACTION" stem="nomear" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">nomeado</EVENT> vice-presidente do conselho de administração e <EVENT eid="e135" class="STATE" stem="diretor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diretor</EVENT> de investimentos, um novo cargo.</s>
+<s>Ele já tinha <EVENT eid="e2364" class="STATE" stem="desempenhar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">desempenhado</EVENT> cargos semelhantes.</s>
+<s>Taylor também foi <EVENT eid="e80" class="I_ACTION" stem="apontar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apontado</EVENT> como um <EVENT eid="e136" class="STATE" stem="diretor" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">diretor</EVENT>, <EVENT eid="e137" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">aumentando</EVENT> o conselho de administração para <EVENT eid="e139" class="STATE" stem="22" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">22</EVENT>, mas não faz parte do novo gabinete do presidente.</s>
+
+<s>James E. Bacon, de 58 anos, vice-presidente executivo, que já <EVENT eid="e84" class="OCCURRENCE" stem="dirigir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">dirigiu</EVENT> o grupo de serviços de fundos, <EVENT eid="e85" class="OCCURRENCE" stem="reformar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">reformar-se-á</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e37" relatedToTime="t97" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e42" relatedToTime="t97" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e51" relatedToTime="t98" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e51" relatedToTime="t104" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e51" relatedToTime="t2194" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e51" relatedToTime="t99" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e54" relatedToTime="t113" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e55" relatedToTime="t122" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e56" relatedToTime="t122" task="A"/>
+<TLINK lid="l10" relType="BEFORE-OR-OVERLAP" eventID="e60" relatedToTime="t116" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e57" relatedToTime="t116" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e93" relatedToTime="t88" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e22" relatedToTime="t88" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e30" relatedToTime="t88" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e26" relatedToTime="t88" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e28" relatedToTime="t88" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e37" relatedToTime="t88" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e42" relatedToTime="t88" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e2136" relatedToTime="t88" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e50" relatedToTime="t88" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e51" relatedToTime="t88" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e54" relatedToTime="t88" task="B"/>
+<TLINK lid="l23" relType="AFTER" eventID="e55" relatedToTime="t88" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e56" relatedToTime="t88" task="B"/>
+<TLINK lid="l25" relType="OVERLAP-OR-AFTER" eventID="e60" relatedToTime="t88" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e57" relatedToTime="t88" task="B"/>
+<TLINK lid="l27" relType="OVERLAP" eventID="e64" relatedToTime="t88" task="B"/>
+<TLINK lid="l28" relType="OVERLAP" eventID="e72" relatedToTime="t88" task="B"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e73" relatedToTime="t88" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e2364" relatedToTime="t88" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e42" eventID="e35" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e51" eventID="e50" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e2371" eventID="e62" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e80" eventID="e2364" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e65" eventID="e2371" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e22" eventID="e17" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e2364" eventID="e77" task="C"/>
+<TLINK lid="l8c" relType="AFTER" relatedToEvent="e35" eventID="e31" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e25" eventID="e22" task="C"/>
+<TLINK lid="l10c" relType="AFTER" relatedToEvent="e31" eventID="e30" task="C"/>
+<TLINK lid="l11c" relType="AFTER" relatedToEvent="e62" eventID="e57" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e2366" eventID="e51" task="C"/>
+<TLINK lid="l13c" relType="AFTER" relatedToEvent="e8" eventID="e5" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e85" eventID="e80" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e72" eventID="e69" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e2136" eventID="e42" task="C"/>
+<TLINK lid="l17c" relType="BEFORE" relatedToEvent="e56" eventID="e54" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e50" eventID="e2136" task="C"/>
+<TLINK lid="l19c" relType="BEFORE" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e77" eventID="e72" task="C"/>
+<TLINK lid="l21c" relType="OVERLAP" relatedToEvent="e5" eventID="e3" task="C"/>
+<TLINK lid="l22c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e17" eventID="e16" task="C"/>
+<TLINK lid="l23c" relType="OVERLAP" relatedToEvent="e54" eventID="e2366" task="C"/>
+<TLINK lid="l24c" relType="OVERLAP" relatedToEvent="e57" eventID="e56" task="C"/>
+<TLINK lid="l25c" relType="BEFORE" relatedToEvent="e16" eventID="e8" task="C"/>
+<TLINK lid="l26c" relType="OVERLAP" relatedToEvent="e30" eventID="e25" task="C"/>
+</TempEval>

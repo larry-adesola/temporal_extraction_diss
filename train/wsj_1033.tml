@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0023
+= 891026
+891026-0023.
+Dossier de Negócios - Esselte AB:
+@ Oferta para Comprar Restantes 22%
+@ Da Unidade É Feita pela Empresa
+<TIMEX3 tid="t30" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+S.ESL ESB
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+EARNINGS (ERN)
+
+<s>A Esselte AB, a empresa de Estocolmo de artigos de escritório, como <EVENT eid="e31" class="I_STATE" stem="esperar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">esperado</EVENT>, <EVENT eid="e1" class="I_ACTION" stem="propor" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">propôs</EVENT> <EVENT eid="e3" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> os 22% que não <EVENT eid="e52" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">possui</EVENT> da sua unidade americana, a Esselte Business Systems Inc.</s>
+
+<s>O preço da <EVENT eid="e6" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT> é de 43,50 dólares por cada uma dos 4,9 milhões de ações que a empresa-mãe não <EVENT eid="e70" class="STATE" stem="possuir" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">possui</EVENT>, ou 213,2 milhões de dólares.</s>
+
+<s>Nas <EVENT eid="e73" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> da Bolsa de Valores de Nova Iorque, a Esselte <EVENT eid="e9" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fechou</EVENT> <TIMEX3 tid="t78" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">ontem</TIMEX3> nos 43,50 dólares por ação, subindo 1 dólar.</s>
+
+<s>Uma comissão de diretores externos da unidade de Garden City, em Nova Iorque, está a <EVENT eid="e10" class="OCCURRENCE" stem="avaliar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">avaliar</EVENT> a <EVENT eid="e11" class="OCCURRENCE" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT>; a empresa-mãe <EVENT eid="e12" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT>-lhe que <EVENT eid="e14" class="OCCURRENCE" stem="responder" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">respondesse</EVENT> até <TIMEX3 tid="t91" type="DATE" value="1989-10-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">31 de outubro</TIMEX3>.</s>
+<s>A unidade <EVENT eid="e15" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que não pode <EVENT eid="e16" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">oferecer</EVENT> qualquer <EVENT eid="e18" class="STATE" stem="garantia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">garantia</EVENT> de que uma <EVENT eid="e19" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> vá <EVENT eid="e20" class="OCCURRENCE" stem="ocorrer" aspect="NONE" tense="IR-PC+INF" polarity="POS" pos="VERB">ocorrer</EVENT>.</s>
+
+<s>A Esselte AB <EVENT eid="e21" class="OCCURRENCE" stem="vender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">vendeu</EVENT> a participação minoritária <TIMEX3 tid="t140" type="DATE" value="1984" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">há cinco anos</TIMEX3>, numa <EVENT eid="e143" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> internacional de ações de 40 milhões de dólares.</s>
+<s>A unidade, que é a holding das unidades da Esselte que não são suecas, foi <EVENT eid="e23" class="STATE" stem="responsável" aspect="NONE" tense="PPI" polarity="POS" pos="ADJECTIVE">responsável</EVENT> por 58% das vendas e 71% do lucro operacional no <TIMEX3 tid="t148" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">ano passado</TIMEX3>.</s>
+
+
+<s>Separadamente, a Esselte Business Systems <EVENT eid="e24" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> que o lucro líquido no <TIMEX3 tid="t162" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">terceiro trimestre</TIMEX3> <EVENT eid="e25" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caiu</EVENT> 5,9% para os <EVENT eid="e179" class="STATE" stem="9,5" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">9,5</EVENT> milhões de dólares, ou 46 cêntimos por ação, desde os <EVENT eid="e180" class="STATE" stem="10,1" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">10,1</EVENT> milhões de dólares, ou 49 cêntimos por ação, no <TIMEX3 tid="t167" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t30">mesmo período do ano anterior</TIMEX3>.</s>
+<s>As vendas <EVENT eid="e27" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 2,9% para os <EVENT eid="e181" class="STATE" stem="329,2" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">329,2</EVENT> milhões dólares desde os <EVENT eid="e182" class="STATE" stem="320" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">320</EVENT> milhões de dólares.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e9" relatedToTime="t78" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e73" relatedToTime="t78" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e21" relatedToTime="t140" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e24" relatedToTime="t162" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e24" relatedToTime="t167" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e25" relatedToTime="t162" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e25" relatedToTime="t167" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e3" relatedToTime="t30" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e31" relatedToTime="t30" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e9" relatedToTime="t30" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e73" relatedToTime="t30" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e15" relatedToTime="t30" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e21" relatedToTime="t30" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e24" relatedToTime="t30" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e25" relatedToTime="t30" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e27" relatedToTime="t30" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e9" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e27" eventID="e24" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e24" eventID="e23" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e21" eventID="e15" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e23" eventID="e21" task="C"/>
+<TLINK lid="l7c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e10" eventID="e9" task="C"/>
+</TempEval>

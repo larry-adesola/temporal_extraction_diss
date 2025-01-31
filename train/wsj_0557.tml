@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0143
+= 891030
+891030-0143.
+RJR Está a Vender
+@ Marcas de Guloseimas
+@ Por 370 Milhões de Dólares
+@ ----
+@ Por Peter Waldman
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t78" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+RJR Z.NES
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+FOOD PRODUCTS (FOD)
+
+
+<s>A RJR Nabisco Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e4" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> os negócios da Baby Ruth, Butterfinger e Pearson à unidade da Nestlé Foods da Nestlé S.A. por 370 milhões de dólares.</s>
+
+<s>A <EVENT eid="e5" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT>, a um <EVENT eid="e121" class="STATE" stem="preço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">preço</EVENT> mais elevado do que alguns analistas <EVENT eid="e7" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">esperavam</EVENT>, <EVENT eid="e8" class="I_ACTION" stem="ajudar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">ajuda</EVENT> o gigante de comida e tabaco a <EVENT eid="e72" class="OCCURRENCE" stem="levantar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">levantar</EVENT> fundos para <EVENT eid="e10" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> dívidas e <EVENT eid="e11" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">aumenta</EVENT> a quota de 7% da Nestlé no mercado de doces americano para cerca de <EVENT eid="e73" class="STATE" stem="12%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">12%</EVENT>.</s>
+
+<s>As empresas de doces <EVENT eid="e75" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tiveram</EVENT> <EVENT eid="e76" class="STATE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> de cerca de 154 milhões de dólares no <TIMEX3 tid="t79" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t78">ano passado</TIMEX3>, que foi cerca de 12% da receita total da unidade Planters LifeSavers da RJR, <EVENT eid="e80" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">segundo</EVENT> uma nota <EVENT eid="e14" class="OCCURRENCE" stem="distribuir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">distribuída</EVENT> pelo dono da RJR, a Kohlberg Kravis Roberts &amp; Co., aos banqueiros em <TIMEX3 tid="t82" type="DATE" value="1988-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t78">dezembro passado</TIMEX3>.</s>
+
+<s>A aquisição da Nestlé inclui uma fábrica de doces em Franklin Park, no Illinois, que emprega cerca de 800 trabalhadores.</s>
+
+<s>A <EVENT eid="e17" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT>, que era <EVENT eid="e18" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">esperada</EVENT>, é parte do <EVENT eid="e83" class="I_STATE" stem="programa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">programa</EVENT> da KKR de <EVENT eid="e20" class="OCCURRENCE" stem="saldar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">saldar</EVENT> 5 mil milhões de dólares de um empréstimo-ponte de 6 mil milhões de dólares até <TIMEX3 tid="t85" type="DATE" value="1990-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t78">fevereiro</TIMEX3>.</s>
+<s>Cerca de 2 mil milhões de dólares dessa dívida já foram <EVENT eid="e21" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pagos</EVENT> com dinheiros de vendas anteriores de recursos, e a RJR <EVENT eid="e23" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e24" class="OCCURRENCE" stem="usar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">usar</EVENT> mais 2 mil milhões da <EVENT eid="e25" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> de duas partes pendente da maioria da sua unidade de Del Monte.</s>
+<s>Essa <EVENT eid="e26" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT>, porém, ainda pode ser <EVENT eid="e89" class="OCCURRENCE" stem="abandonar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">abandonada</EVENT> se se <EVENT eid="e29" class="OCCURRENCE" stem="desenvolver" aspect="NONE" tense="FC" polarity="POS" pos="VERB">desenvolverem</EVENT> problemas de financiamento.</s>
+<s>Assim, continua a ser crucial para a RJR obter bom dinheiro pelos seus ativos mais pequenos, como as marcas de guloseimas.</s>
+
+<s>Louis Gerstner Jr., presidente do conselho de administração e diretor geral da RJR, sediada em Nova Iorque, chamou à venda um "passo significativo" no programa de alienação da empresa, bem como "uma alienação estratégica".</s>
+<s>Depois de a KKR ter <EVENT eid="e38" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">comprado</EVENT> a RJR em <TIMEX3 tid="t91" type="DATE" value="1989-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t78">fevereiro</TIMEX3> por 25 mil milhões de dívida, <EVENT eid="e39" class="I_STATE" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e41" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> quase 5 mil milhões dos ativos da RJR.</s>
+<s>Os executivos da RJR <EVENT eid="e42" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que vão <EVENT eid="e43" class="OCCURRENCE" stem="desistir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">desistir</EVENT> de determinadas marcas, em especial, as que não são <EVENT eid="e93" class="STATE" stem="líder" aspect="NONE" tense="PI" polarity="NEG" pos="NOUN">líderes</EVENT> de mercado.</s>
+<s>"A RJR Nabisco e a Planters LifeSavers vão <EVENT eid="e94" class="OCCURRENCE" stem="concentrar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">concentrar</EVENT>-se mais nos nossos principais negócios", <EVENT eid="e50" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Gerstner na <TIMEX3 tid="t95" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t78">sexta-feira</TIMEX3>.</s>
+
+<s>Os Baby Ruth e Butterfinger estão ambos entre as tabletes de chocolate mais vendidas nos EUA, mas a quota global da RJR do mercado de cerca de 5,1 mil milhões de dólares é inferior a 5%.</s>
+<s>A <EVENT eid="e96" class="STATE" stem="quota" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">quota</EVENT> da Nestlé de 7% antes das <EVENT eid="e52" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compras</EVENT> de <TIMEX3 tid="t99" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t78">sexta-feira</TIMEX3> está muito abaixo da quota dos líderes de mercado, a Hershey Foods Corp. e a Mars Inc., que têm cerca de 40% e 36% do mercado, respetivamente.</s>
+
+<s>"Isto significa que a Nestlé está agora no negócio de chocolates de uma maneira grande", <EVENT eid="e61" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Lisbeth Echeandía, editora da Confectioner Magazine, sediada em Orlando, na Flórida.</s>
+<s>"Para eles, faz todo o tipo de sentido.</s>
+<s><EVENT eid="e64" class="OCCURRENCE" stem="receber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">Receberam</EVENT> ordens da Suíça" para <EVENT eid="e67" class="I_ACTION" stem="expandir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expandir</EVENT> os <EVENT eid="e100" class="OCCURRENCE" stem="negócio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negócios</EVENT> de chocolate nos EUA.</s>
+<s>A Nestlé S.A. está sediada em Vevey, na Suíça.</s>
+
+<s>As novas tabletes de chocolate "<EVENT eid="e69" class="OCCURRENCE" stem="dar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dão</EVENT> um <EVENT eid="e70" class="OCCURRENCE" stem="contributo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">contributo</EVENT> importante ao nosso compromisso da Nestlé Foods com esta unidade estratégica muito importante", <EVENT eid="e71" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> C. Alan MacDonald, presidente da Nestlé Foods, em Purchase, em Nova Iorque.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e75" relatedToTime="t82" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e75" relatedToTime="t79" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e80" relatedToTime="t82" task="A"/>
+<TLINK lid="l4" relType="VAGUE" eventID="e80" relatedToTime="t79" task="A"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e76" relatedToTime="t82" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e76" relatedToTime="t79" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e18" relatedToTime="t85" task="A"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e20" relatedToTime="t85" task="A"/>
+<TLINK lid="l9" relType="VAGUE" eventID="e17" relatedToTime="t85" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e39" relatedToTime="t91" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e41" relatedToTime="t91" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e38" relatedToTime="t91" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e50" relatedToTime="t95" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e52" relatedToTime="t99" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e2" relatedToTime="t78" task="B"/>
+<TLINK lid="l16" relType="AFTER" eventID="e4" relatedToTime="t78" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e1" relatedToTime="t78" task="B"/>
+<TLINK lid="l18" relType="AFTER" eventID="e10" relatedToTime="t78" task="B"/>
+<TLINK lid="l19" relType="AFTER" eventID="e5" relatedToTime="t78" task="B"/>
+<TLINK lid="l20" relType="OVERLAP" eventID="e8" relatedToTime="t78" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e7" relatedToTime="t78" task="B"/>
+<TLINK lid="l22" relType="OVERLAP" eventID="e11" relatedToTime="t78" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e75" relatedToTime="t78" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e80" relatedToTime="t78" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e76" relatedToTime="t78" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e18" relatedToTime="t78" task="B"/>
+<TLINK lid="l27" relType="AFTER" eventID="e20" relatedToTime="t78" task="B"/>
+<TLINK lid="l28" relType="AFTER" eventID="e17" relatedToTime="t78" task="B"/>
+<TLINK lid="l29" relType="OVERLAP" eventID="e23" relatedToTime="t78" task="B"/>
+<TLINK lid="l30" relType="AFTER" eventID="e24" relatedToTime="t78" task="B"/>
+<TLINK lid="l31" relType="AFTER" eventID="e25" relatedToTime="t78" task="B"/>
+<TLINK lid="l32" relType="AFTER" eventID="e26" relatedToTime="t78" task="B"/>
+<TLINK lid="l33" relType="AFTER" eventID="e89" relatedToTime="t78" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e39" relatedToTime="t78" task="B"/>
+<TLINK lid="l35" relType="VAGUE" eventID="e41" relatedToTime="t78" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e38" relatedToTime="t78" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e42" relatedToTime="t78" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e50" relatedToTime="t78" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e52" relatedToTime="t78" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e61" relatedToTime="t78" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e64" relatedToTime="t78" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e71" relatedToTime="t78" task="B"/>
+<TLINK lid="l43" relType="OVERLAP" eventID="e69" relatedToTime="t78" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e42" eventID="e39" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP-OR-AFTER" relatedToEvent="e21" eventID="e83" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e89" eventID="e21" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e75" eventID="e8" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e61" eventID="e96" task="C"/>
+<TLINK lid="l6c" relType="VAGUE" relatedToEvent="e50" eventID="e42" task="C"/>
+<TLINK lid="l7c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

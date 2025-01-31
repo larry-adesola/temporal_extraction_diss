@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0133
+= 891027
+891027-0133.
+Notícias de Dividendos:
+@ Cambrex Corp.
+<TIMEX3 tid="t22" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CBAM
+DIVIDENDS (DIV)
+
+
+<s>A Cambrex Corp., de Bayonne, na Nova Jérsia, <EVENT eid="e1" class="OCCURRENCE" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT> os seus dividendos trimestrais iniciais de cinco cêntimos por acção, <EVENT eid="e24" class="STATE" stem="pagável" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">pagáveis</EVENT> em <TIMEX3 tid="t23" type="DATE" value="1989-12-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">1 de dezembro</TIMEX3> às ações com <EVENT eid="e2" class="STATE" stem="registo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">registo</EVENT> a <TIMEX3 tid="t25" type="DATE" value="1989-11-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">10 de novembro</TIMEX3>.</s>
+<s>O fabricante de químicos de especialidade tem aproximadamente 5,9 milhões de ações em circulação.</s>
+<s>A empresa <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e5" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medida</EVENT> <EVENT eid="e6" class="STATE" stem="refletir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">reflete</EVENT> a sua forte <EVENT eid="e15" class="STATE" stem="posição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">posição</EVENT> financeira.</s>
+<s>Embora os lucros tenham sido "<EVENT eid="e7" class="OCCURRENCE" stem="espremer" aspect="NONE" tense="PPCC" polarity="POS" pos="VERB">espremidos</EVENT>" em <TIMEX3 tid="t26" type="DATE" value="1989" temporalFunction="false" functionInDocument="NONE">1989</TIMEX3>, principalmente como resultado dos custos mais altos das matérias-primas, a companhia <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que está <EVENT eid="e16" class="I_STATE" stem="confiante" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">confiante</EVENT> quanto aos <EVENT eid="e17" class="OCCURRENCE" stem="rendimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">rendimentos</EVENT> futuros e o <EVENT eid="e10" class="OCCURRENCE" stem="cash flow" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cash flow</EVENT> para <TIMEX3 tid="t27" type="DATE" value="1990" mod="ON_OR_AFTER" temporalFunction="false" functionInDocument="NONE">1990 e depois</TIMEX3>.</s>
+<s>No <EVENT eid="e11" class="OCCURRENCE" stem="mercado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mercado</EVENT> nacional de balcão de <TIMEX3 tid="t28" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">ontem</TIMEX3>, as ações da Cambrex <EVENT eid="e12" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> 50 cêntimos para <EVENT eid="e14" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fechar</EVENT> nos <EVENT eid="e18" class="STATE" stem="13" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">13</EVENT> dólares por ação.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e9" relatedToTime="t27" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e9" relatedToTime="t26" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e14" relatedToTime="t28" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e12" relatedToTime="t28" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e11" relatedToTime="t28" task="A"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e4" relatedToTime="t22" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e5" relatedToTime="t22" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e9" relatedToTime="t22" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e14" relatedToTime="t22" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e12" relatedToTime="t22" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e11" relatedToTime="t22" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e9" eventID="e4" task="C"/>
+<TLINK lid="l2c" relType="VAGUE" relatedToEvent="e12" eventID="e9" task="C"/>
+</TempEval>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0152
+= 891026
+891026-0152.
+Resultados da Chandler Insurance
+<TIMEX3 tid="t21" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CHANF
+GRAND CAYMAN, Cayman Islands
+
+
+<s>A Chandler Insurance Co. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e4" class="REPORTING" stem="anunciar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anunciar</EVENT> que o rendimento líquido do <TIMEX3 tid="t22" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">terceiro trimestre</TIMEX3> <EVENT eid="e5" class="OCCURRENCE" stem="disparar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disparou</EVENT> 97% para os 2,8 milhões de dólares, ou 51 cêntimos por ação.</s>
+
+<s>No <TIMEX3 tid="t60" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">trimestre correspondente do ano anterior</TIMEX3>, a seguradora de automóveis e camiões <EVENT eid="e6" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> <EVENT eid="e25" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> de 1,4 milhões de dólares, ou 48 cêntimos por ação segundo relatórios corrigidos, sobre uma receita de 16,5 milhões de dólares.</s>
+<s>Numa <EVENT eid="e7" class="OCCURRENCE" stem="entrevista" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">entrevista</EVENT>, W. Brent LeGere, presidente do conselho de administração e diretor geral, <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e9" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> que a receita no <TIMEX3 tid="t26" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">último trimestre</TIMEX3> <EVENT eid="e11" class="OCCURRENCE" stem="totalizar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">totalize</EVENT> cerca de 28 milhões de dólares.</s>
+<s>Os números do lucro por ação refletem um <EVENT eid="e29" class="OCCURRENCE" stem="dividendo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">dividendo</EVENT> de 25% em <TIMEX3 tid="t31" type="DATE" value="1989-06" temporalFunction="false" functionInDocument="NONE">junho de 1989</TIMEX3>.</s>
+
+<s>LeGere <EVENT eid="e14" class="I_ACTION" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> o <EVENT eid="e15" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> dos lucros ao <EVENT eid="e17" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> das linhas de seguros da companhia para camiões de longo curso e à <EVENT eid="e32" class="I_STATE" stem="capacidade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">capacidade</EVENT> de <EVENT eid="e20" class="ASPECTUAL" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> <EVENT eid="e33" class="STATE" stem="firme" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">firmes</EVENT> as taxas dos prémios.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e2" relatedToTime="t22" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e4" relatedToTime="t22" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t22" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e6" relatedToTime="t60" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e9" relatedToTime="t26" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e8" relatedToTime="t26" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e2" relatedToTime="t21" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e4" relatedToTime="t21" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e1" relatedToTime="t21" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e6" relatedToTime="t21" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e9" relatedToTime="t21" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e8" relatedToTime="t21" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e15" relatedToTime="t21" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e14" eventID="e29" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e8" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e29" eventID="e8" task="C"/>
+</TempEval>

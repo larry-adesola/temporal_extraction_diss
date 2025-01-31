@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0089
+= 891027
+891027-0089.
+Negócios Financeiros:
+@ Healthdyne Inc.
+<TIMEX3 tid="t22" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+HDYN
+STOCK MARKET, OFFERINGS (STK)
+INITIAL STOCK OFFERINGS (INI)
+
+
+<s>A Healthdyne Inc., de Atlanta, <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua subsidiária, a Home Nutricional Services Inc., <EVENT eid="e2" class="OCCURRENCE" stem="registar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">registou</EVENT> na Securities and Exchange Commission uma <EVENT eid="e3" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> pública inicial de quatro milhões de ações ordinárias.</s>
+<s>O prestador de serviços de saúde ao domicílio <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que vai <EVENT eid="e5" class="OCCURRENCE" stem="vender" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">vender</EVENT> 1,8 milhões das novas ações, enquanto que a Home Nutricional Services <EVENT eid="e7" class="OCCURRENCE" stem="vender" aspect="NONE" tense="FI" polarity="POS" pos="VERB">venderá</EVENT> os restantes 2,2 milhões.</s>
+<s>A empresa <EVENT eid="e8" class="I_STATE" stem="estimar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">estima</EVENT> o preço da oferta <EVENT eid="e21" class="STATE" stem="entre" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">entre</EVENT> os 14 dólares e os 16 dólares por ação.</s>
+<s>A companhia <EVENT eid="e9" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e10" class="I_STATE" stem="esperar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">espera</EVENT> <EVENT eid="e12" class="OCCURRENCE" stem="usar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">usar</EVENT> os rendimentos para <EVENT eid="e14" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> certas dívidas bancárias e para fins gerais da empresa, incluindo a <EVENT eid="e15" class="OCCURRENCE" stem="criação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">criação</EVENT> de novos centros operacionais e possíveis <EVENT eid="e16" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisições</EVENT>.</s>
+<s>A Home Nutricional <EVENT eid="e17" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> <TIMEX3 tid="t23" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t22">atualmente</TIMEX3> 10 milhões de ações em circulação.</s>
+<s><EVENT eid="e24" class="STATE" stem="ter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">Terá</EVENT> 11,8 milhões de ações em circulação após a <EVENT eid="e18" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>, com a Healthdyne a <EVENT eid="e20" class="STATE" stem="possuir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">possuir</EVENT> cerca de 65% do total.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e17" relatedToTime="t23" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t22" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e4" relatedToTime="t22" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e5" relatedToTime="t22" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e7" relatedToTime="t22" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e16" relatedToTime="t22" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e10" relatedToTime="t22" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e9" relatedToTime="t22" task="B"/>
+<TLINK lid="l9" relType="AFTER" eventID="e12" relatedToTime="t22" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e17" relatedToTime="t22" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e24" relatedToTime="t22" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e9" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e8" eventID="e4" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e24" eventID="e17" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e17" eventID="e9" task="C"/>
+</TempEval>

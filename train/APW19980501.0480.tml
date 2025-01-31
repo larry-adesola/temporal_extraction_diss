@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+APW19980501.0480
+REPORTAGEM
+<TIMEX3 tid="t136" type="DATE" value="1998-05-01T09:13:00" temporalFunction="false" functionInDocument="CREATION_TIME">05/01/1998 09:13:00</TIMEX3>
+
+w2844 Cx1f wstm-
+r w Cx13  Cx11  SETTING-THE-STAGEsked     05-01 0665
+SETTING-THE-STAGE sked
+MALAYSIA
+Setting the stage for Net convergence, NEW STRAITS TIMES-MANAGEMENT TIMES
+QL
+xfdws SETTING-THE-STAGE sked
+Emerging Markets Datafile
+April 30, 1998
+NEW STRAITS TIMES-MANAGEMENT TIMES
+ENGLISH
+COPYRIGHT 1998 BY WORLDSOURCES, INC., A JOINT VENTURE OF FDCH,
+INC. AND WORLD TIMES, INC. NO PORTION OF THE MATERIALS CONTAINED
+HEREIN MAY BE USED
+IN ANY MEDIA WITHOUT ATTRIBUTION TO WORLDSOURCES, INC.
+
+
+<s>A <EVENT eid="e1" class="OCCURRENCE" stem="entrada" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">entrada</EVENT> agressiva da Malásia na era da informação não poderia <EVENT eid="e3" class="OCCURRENCE" stem="vir" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">vir</EVENT> num <TIMEX3 tid="t138" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t136">momento</TIMEX3> mais oportuno.</s>
+<s>Com a <EVENT eid="e8" class="OCCURRENCE" stem="convergência" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">convergência</EVENT> das comunicações e das tecnologias da informação (TI), a par com o <EVENT eid="e139" class="OCCURRENCE" stem="amadurecimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">amadurecimento</EVENT> da Internet e das tecnologias a ela ligadas, estão <EVENT eid="e13" class="OCCURRENCE" stem="reunir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">reunidas</EVENT> as condições para os malaios <EVENT eid="e15" class="OCCURRENCE" stem="aproveitar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">aproveitarem</EVENT> a oportunidade de se <EVENT eid="e17" class="OCCURRENCE" stem="transformar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">transformarem</EVENT> numa sociedade do conhecimento e de se <EVENT eid="e18" class="ASPECTUAL" stem="tornar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">tornarem</EVENT> adversários/atores importantes no espaço do mercado global.</s>
+<s>A Internet, a rede mundial de computadores, <EVENT eid="e20" class="OCCURRENCE" stem="chegar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">chega</EVENT> agora a grande parte do país - <EVENT eid="e21" class="OCCURRENCE" stem="alargar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">alargando</EVENT> o seu alcance para <EVENT eid="e24" class="OCCURRENCE" stem="incluir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">incluir</EVENT> todos os cantos do país -, o que <EVENT eid="e154" class="OCCURRENCE" stem="abrir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">abre</EVENT> as portas para não só uma gama diversificada de fontes de informação mas também uma lista exaustiva de possibilidades de <EVENT eid="e28" class="OCCURRENCE" stem="criar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">criar</EVENT> novas aplicações que <EVENT eid="e30" class="OCCURRENCE" stem="acrescentar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acrescentam</EVENT> valor à vida das pessoas.</s>
+<s>No mundo dos negócios, a Internet - através de soluções de intranet e extranet - <EVENT eid="e32" class="ASPECTUAL" stem="tornar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">tornou</EVENT>-se numa <EVENT eid="e33" class="STATE" stem="ferramenta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ferramenta</EVENT> inestimável para as empresas aproveitarem de forma a <EVENT eid="e35" class="OCCURRENCE" stem="ganhar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">ganharem</EVENT> uma vantagem competitiva.</s>
+<s>As soluções também são componentes vitais ao <EVENT eid="e38" class="OCCURRENCE" stem="desenvolvimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desenvolvimento</EVENT> da aplicação mais importante do marketing sem fronteiras que é um elemento vital para <EVENT eid="e40" class="OCCURRENCE" stem="liderar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">liderar</EVENT> o <EVENT eid="e41" class="OCCURRENCE" stem="desenvolvimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desenvolvimento</EVENT> do projeto Multimedia Super Corridor (MSC).</s>
+<s>A aplicação <EVENT eid="e44" class="OCCURRENCE" stem="criar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">criará</EVENT> a base e a infra-estrutura necessárias para <EVENT eid="e46" class="OCCURRENCE" stem="apoiar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apoiar</EVENT> as <EVENT eid="e48" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativas</EVENT> de comércio electrónico (e-commerce) no país.</s>
+<s>No entanto, é importante notar que a <EVENT eid="e51" class="OCCURRENCE" stem="instalação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">instalação</EVENT> ou <EVENT eid="e52" class="OCCURRENCE" stem="implementação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">implementação</EVENT> de tecnologias de Internet só por si não <EVENT eid="e55" class="OCCURRENCE" stem="assegurar" aspect="NONE" tense="C" polarity="NEG" pos="VERB">asseguraria</EVENT> o <EVENT eid="e58" class="OCCURRENCE" stem="sucesso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">sucesso</EVENT> instantâneo.</s>
+<s>Para o e-commerce <EVENT eid="e157" class="OCCURRENCE" stem="florescer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">florescer</EVENT> com <EVENT eid="e155" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transações</EVENT> comerciais a sério, é <EVENT eid="e158" class="I_STATE" stem="necessário" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">necessário</EVENT> <EVENT eid="e156" class="OCCURRENCE" stem="planeamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">planeamento</EVENT> estratégico que incorpore planos tanto de tecnologia como de negócios para que uma organização <EVENT eid="e159" class="PERCEPTION" stem="ver" aspect="NONE" tense="PC" polarity="POS" pos="VERB">veja</EVENT> retornos viáveis do investimento.</s>
+<s>As intranets, através da utilização de tecnologia da Internet, <EVENT eid="e142" class="STATE" stem="mostrar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">mostram</EVENT>-se uma plataforma para as empresas <EVENT eid="e143" class="OCCURRENCE" stem="otimizar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">otimizarem</EVENT>, <EVENT eid="e144" class="OCCURRENCE" stem="ampliar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">ampliarem</EVENT> e <EVENT eid="e145" class="OCCURRENCE" stem="transformar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">transformarem</EVENT> novos canais de negócios.</s>
+<s>Quando <EVENT eid="e146" class="OCCURRENCE" stem="implementar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">implementada</EVENT> estrategicamente, uma solução de intranet <EVENT eid="e147" class="OCCURRENCE" stem="fornecer" aspect="NONE" tense="FI" polarity="POS" pos="VERB">fornecerá</EVENT> a capacidade de <EVENT eid="e149" class="OCCURRENCE" stem="mediar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">mediar</EVENT> funções que são críticas a missões e que apoiam a decisão nas organizações.</s>
+<s><EVENT eid="e86" class="OCCURRENCE" stem="ajudar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">Ajudará</EVENT> ainda a <EVENT eid="e150" class="OCCURRENCE" stem="melhorar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">melhorar</EVENT> a <EVENT eid="e87" class="OCCURRENCE" stem="comunicação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comunicação</EVENT> e a <EVENT eid="e88" class="OCCURRENCE" stem="colaboração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">colaboração</EVENT> a todos os níveis numa organização.</s>
+<s>Com as intranets <EVENT eid="e90" class="STATE" stem="instalar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">instaladas</EVENT>, é lógico que as organizações <EVENT eid="e151" class="OCCURRENCE" stem="ligar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">liguem</EVENT> a rede às de outras empresas para fins de negócio prolongado através de extranets.</s>
+<s>Apesar de tal <EVENT eid="e91" class="OCCURRENCE" stem="permitir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">permitir</EVENT> a partilha de informação entre as empresas, vão <EVENT eid="e99" class="OCCURRENCE" stem="surgir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">surgir</EVENT> questões de segurança, como firewalls e criptografia, bem como procedimentos de acesso e de administração e os níveis de confiança que as empresas têm umas com as outras, e vai haver uma <EVENT eid="e152" class="I_STATE" stem="necessidade" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="NOUN">necessidade</EVENT> de os <EVENT eid="e101" class="OCCURRENCE" stem="resolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">resolver</EVENT>.</s>
+<s>Para além da <EVENT eid="e102" class="OCCURRENCE" stem="utilização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">utilização</EVENT> comercial, a tecnologia da Internet também está a <EVENT eid="e105" class="I_ACTION" stem="começar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">começar</EVENT> a <EVENT eid="e107" class="OCCURRENCE" stem="infiltrar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">infiltrar</EVENT>-se no campo do estilo de vida.</s>
+<s>Já <EVENT eid="e108" class="OCCURRENCE" stem="surgir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">surgiram</EVENT> ``casas inteligentes'', <EVENT eid="e109" class="OCCURRENCE" stem="trazer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">trazendo</EVENT> uma quantidade de informação e entretenimento às famílias através das linhas de telecomunicações.</s>
+<s>A arte de conviver também está a <EVENT eid="e114" class="OCCURRENCE" stem="passar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">passar</EVENT> por uma <EVENT eid="e115" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudança</EVENT> onde as relações pela net ou virtuais estão rapidamente a  <EVENT eid="e116" class="OCCURRENCE" stem="ultrapassar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">ultrapassar</EVENT> ou a <EVENT eid="e117" class="OCCURRENCE" stem="tornar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">tornar</EVENT>-se paralelas às relações humanas normais.</s>
+<s>Ainda falta <EVENT eid="e121" class="PERCEPTION" stem="saber" aspect="NONE" tense="INF" polarity="POS" pos="VERB">saber</EVENT> se tal se <EVENT eid="e118" class="OCCURRENCE" stem="revelar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">revelará</EVENT> positivo ou não para a sociedade no <TIMEX3 tid="t153" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t136">futuro</TIMEX3>.</s>
+<s>Tudo somado, a Internet <EVENT eid="e122" class="OCCURRENCE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> muito a <EVENT eid="e123" class="OCCURRENCE" stem="oferecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">oferecer</EVENT>.</s>
+<s>No entanto, o seu valor e benefícios são apenas tão bons como a forma como a <EVENT eid="e124" class="OCCURRENCE" stem="usar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">usamos</EVENT>.</s>
+
+Copyright 1998 NEW STRAITS TIMES-MANAGEMENT TIMES all rights
+reserved as distributed by WorldSources, Inc.
+(PROFILE
+(WS SL:SETTING-THE-STAGE sked; CT:w;
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+
+<s>AP-NY-05-01-98 0913EDT</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e3" relatedToTime="t138" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1" relatedToTime="t138" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e121" relatedToTime="t153" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e3" relatedToTime="t136" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e1" relatedToTime="t136" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e18" relatedToTime="t136" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e13" relatedToTime="t136" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e30" relatedToTime="t136" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e32" relatedToTime="t136" task="B"/>
+<TLINK lid="l10" relType="VAGUE" eventID="e35" relatedToTime="t136" task="B"/>
+<TLINK lid="l11" relType="VAGUE" eventID="e159" relatedToTime="t136" task="B"/>
+<TLINK lid="l12" relType="AFTER" eventID="e86" relatedToTime="t136" task="B"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e105" relatedToTime="t136" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e115" relatedToTime="t136" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e117" relatedToTime="t136" task="B"/>
+<TLINK lid="l16" relType="AFTER" eventID="e121" relatedToTime="t136" task="B"/>
+<TLINK lid="l17" relType="OVERLAP" eventID="e123" relatedToTime="t136" task="B"/>
+<TLINK lid="l18" relType="OVERLAP" eventID="e122" relatedToTime="t136" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e124" relatedToTime="t136" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e38" eventID="e32" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e142" eventID="e158" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e158" eventID="e55" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e13" eventID="e3" task="C"/>
+<TLINK lid="l5c" relType="VAGUE" relatedToEvent="e147" eventID="e142" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e124" eventID="e122" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e99" eventID="e151" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e32" eventID="e20" task="C"/>
+<TLINK lid="l9c" relType="BEFORE" relatedToEvent="e55" eventID="e44" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e121" eventID="e114" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e44" eventID="e38" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP" relatedToEvent="e86" eventID="e147" task="C"/>
+<TLINK lid="l13c" relType="VAGUE" relatedToEvent="e151" eventID="e86" task="C"/>
+<TLINK lid="l14c" relType="OVERLAP" relatedToEvent="e108" eventID="e102" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP-OR-AFTER" relatedToEvent="e122" eventID="e121" task="C"/>
+<TLINK lid="l16c" relType="VAGUE" relatedToEvent="e102" eventID="e99" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e20" eventID="e13" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e114" eventID="e108" task="C"/>
+</TempEval>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891026-0021
+= 891026
+891026-0021.
+Dossier de Negócios - Consolidated Freightways Inc.:
+@ Resultado Líquido do Terceiro Trimestre Caiu 77%
+@ Com o Prejuízo Esperado da Emery
+<TIMEX3 tid="t24" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CNF
+EARNINGS (ERN)
+TRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA)
+
+
+<s>A Consolidated Freightways Inc. <EVENT eid="e1" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> uma <EVENT eid="e28" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> de 77% no lucro líquido do <TIMEX3 tid="t25" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t24">terceiro trimestre</TIMEX3>, <EVENT eid="e2" class="REPORTING" stem="referir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">referindo</EVENT> os <EVENT eid="e29" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízos</EVENT> <EVENT eid="e30" class="I_STATE" stem="esperar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">esperados</EVENT> no seu negócio de transporte marítimo Emery Worldwide.</s>
+
+<s>A empresa de Menlo Park, na Califórnia, <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o resultado líquido foi de <EVENT eid="e36" class="STATE" stem="7,4" aspect="NONE" tense="PPI" polarity="POS" pos="OTHER">7,4</EVENT> milhões de dólares, ou 22 cêntimos por ação, descendo dos <EVENT eid="e37" class="STATE" stem="32,3" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">32,3</EVENT> milhões de dólares, ou 86 cêntimos por ação, de <TIMEX3 tid="t26" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">há um ano</TIMEX3>.</s>
+<s>A receita <EVENT eid="e6" class="STATE" stem="totalizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">totalizou</EVENT> 1,01 mil milhões de dólares, um <EVENT eid="e7" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> de 43% desde os 704,4 milhões de dólares, <EVENT eid="e8" class="STATE" stem="refletir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">refletindo</EVENT> a <EVENT eid="e9" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisição</EVENT> da companhia da Emery no <TIMEX3 tid="t27" type="DATE" value="1989" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t24">início deste ano</TIMEX3>.</s>
+
+<s>O lucro também <EVENT eid="e10" class="OCCURRENCE" stem="sofrer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sofreu</EVENT> por causa de <EVENT eid="e11" class="OCCURRENCE" stem="desconto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">descontos</EVENT> "intensos" no seu negócio de camiões de longo curso, <EVENT eid="e14" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a empresa.</s>
+
+<s>Os analistas <EVENT eid="e15" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">esperavam</EVENT> que a Consolidated <EVENT eid="e17" class="OCCURRENCE" stem="anunciar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">anunciasse</EVENT> um lucro magro, e as ações da empresa <EVENT eid="e35" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> apenas 25 cêntimos para os 30,25 dólares na Bolsa de Valores de Nova Iorque <TIMEX3 tid="t36" type="DATE" value="1989-10-25" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t24">ontem</TIMEX3>.</s>
+<s>"Eles têm de <EVENT eid="e20" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">continuar</EVENT> a <EVENT eid="e22" class="OCCURRENCE" stem="apertar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apertar</EVENT> o cinto", <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Craig Kloner, um analista da Goldman, Sachs &amp; Co.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e29" relatedToTime="t25" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e28" relatedToTime="t25" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e1" relatedToTime="t25" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e5" relatedToTime="t26" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e9" relatedToTime="t27" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e7" relatedToTime="t27" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e15" relatedToTime="t36" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e17" relatedToTime="t36" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e29" relatedToTime="t24" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e28" relatedToTime="t24" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e1" relatedToTime="t24" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e5" relatedToTime="t24" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e9" relatedToTime="t24" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e7" relatedToTime="t24" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e14" relatedToTime="t24" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e15" relatedToTime="t24" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e17" relatedToTime="t24" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e23" relatedToTime="t24" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e20" relatedToTime="t24" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e15" eventID="e14" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e14" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e23" eventID="e15" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e6" eventID="e5" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e5" eventID="e1" task="C"/>
+</TempEval>

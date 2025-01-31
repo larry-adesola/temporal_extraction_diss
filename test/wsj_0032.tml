@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0161
+= 891102
+891102-0161.
+Oferta da Montedison à Erbamond
+<TIMEX3 tid="t13" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+MNT ERB
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+DRUG MANUFACTURERS (DRG)
+NEW YORK
+
+
+<s>A gigante química italiana Montedison S.p.A., através da sua unidade intermediária Montedison Acquisition N.V., <EVENT eid="e1" class="ASPECTUAL" stem="iniciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">iniciou</EVENT> a sua <EVENT eid="e2" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de aquisição de 37 dólares por ação a todas as ações ordinárias em circulação da Erbamond N.V., um fabricante de produtos farmacêuticos constituído na Holanda.</s>
+
+<s>A <EVENT eid="e4" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT>, <EVENT eid="e5" class="OCCURRENCE" stem="anunciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">anunciada</EVENT> na edição de <TIMEX3 tid="t19" type="DATE" value="1989-11-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">hoje</TIMEX3> do The Wall Street Journal, está <EVENT eid="e6" class="I_ACTION" stem="agendar" aspect="NONE" tense="PI+PPA" polarity="POS" pos="VERB">agendada</EVENT> para <EVENT eid="e8" class="OCCURRENCE" stem="expirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expirar</EVENT> no final de <TIMEX3 tid="t18" type="TIME" value="1989-11" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">novembro</TIMEX3>.</s>
+
+<s>A Montedison <EVENT eid="e20" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">atualmente</TIMEX3> cerca de 72% das ações ordinárias em circulação da Erbamond.</s>
+
+<s>A <EVENT eid="e10" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> está a ser <EVENT eid="e11" class="I_ACTION" stem="lançar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">lançada</EVENT> ao abrigo de um <EVENT eid="e12" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> <TIMEX3 tid="t21" type="TIME" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">previamente</TIMEX3> <EVENT eid="e22" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">anunciado</EVENT> entre as empresas.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e4" relatedToTime="t18" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e4" relatedToTime="t19" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e10" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e12" relatedToTime="t21" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e2" relatedToTime="t13" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t13" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e4" relatedToTime="t13" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e10" relatedToTime="t13" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e12" relatedToTime="t13" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e20" eventID="e6" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e11" eventID="e20" task="C"/>
+</TempEval>

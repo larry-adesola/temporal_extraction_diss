@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891026-0043
+= 891026
+891026-0043.
+Columbia S&amp;L Anuncia
+@ Prejuízo de 226,3 Milhões de Dólares
+@ Depois de Depreciar Carteira de Alto Rendimento
+@ ----
+@ Por Pauline Yoshihashi
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t163" type="DATE" value="1989-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">10/26/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CSV
+EARNINGS (ERN)
+BEVERLY HILLS, Calif.
+
+
+<s>A Columbia Savings &amp; Loan Association, <EVENT eid="e1" class="OCCURRENCE" stem="cambalear" aspect="NONE" tense="GER" polarity="POS" pos="VERB">cambaleando</EVENT> por causa das <EVENT eid="e2" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudanças</EVENT> na contabilidade dos aforros <EVENT eid="e4" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">aprovadas</EVENT> pelo Congresso e por causa do recente <EVENT eid="e5" class="OCCURRENCE" stem="colapso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">colapso</EVENT> do mercado das obrigações especulativas, <EVENT eid="e7" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> uma <EVENT eid="e8" class="OCCURRENCE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perda</EVENT> para o <TIMEX3 tid="t164" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">terceiro trimestre</TIMEX3> de 226,3 milhões de dólares, ou 11,57 dólares por ação.</s>
+
+<s>Para <TIMEX3 tid="t165" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t164">o mesmo trimestre do ano passado</TIMEX3>, a Colômbia <EVENT eid="e9" class="REPORTING" stem="divulgar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">divulgou</EVENT> lucros de 16,3 milhões de dólares, ou 37 cêntimos por ação.</s>
+<s>Os ativos totais <EVENT eid="e10" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentaram</EVENT> para os <EVENT eid="e2401" class="STATE" stem="12,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">12,7</EVENT> mil milhões de dólares no <TIMEX3 tid="t166" type="DATE" value="1989-QX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">último trimestre</TIMEX3> desde os <EVENT eid="e2402" class="STATE" stem="12,4" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">12,4</EVENT> mil milhões de dólares de <TIMEX3 tid="t167" type="DATE" value="1988-QX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t166">há um ano</TIMEX3>.</s>
+
+<s>O <EVENT eid="e11" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> <EVENT eid="e12" class="STATE" stem="decorrer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">decorre</EVENT> de 357,5 milhões de dólares em <EVENT eid="e168" class="OCCURRENCE" stem="depreciação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">depreciações</EVENT> na carteira de fundos de investimento de alto rendimento de 4,4 milhões de dólares da Columbia, que <EVENT eid="e13" class="OCCURRENCE" stem="incluir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">inclui</EVENT> cerca de 3,7 mil milhões de obrigações especulativas, 400 milhões de dólares em ações preferenciais e títulos do Tesouro.</s>
+
+<s>A Columbia <EVENT eid="e15" class="STATE" stem="dever" aspect="NONE" tense="PI" polarity="POS" pos="VERB">deve</EVENT> o seu <EVENT eid="e2022" class="OCCURRENCE" stem="crescimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">crescimento</EVENT> espectacular nos <TIMEX3 tid="t169" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">últimos anos</TIMEX3> à sua carteira de obrigações especulativas, a maior de qualquer caixa de aforros dos EUA.</s>
+<s>Grande parte das <EVENT eid="e17" class="OCCURRENCE" stem="troca" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">trocas</EVENT> comerciais de obrigações especulativas da Columbia foi <EVENT eid="e18" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">feita</EVENT> por meio do departamento de alto rendimento do seu vizinho em Beverly Hills, a Drexel Burnham Lambert Inc.</s>
+
+<s>Durante <TIMEX3 tid="t170" type="DURATION" value="P9M" temporalFunction="false" functionInDocument="NONE">os nove meses</TIMEX3>, os prejuízos <EVENT eid="e19" class="OCCURRENCE" stem="totalizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">totalizaram</EVENT> <EVENT eid="e2403" class="STATE" stem="212" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">212</EVENT> milhões de dólares, ou 10,83 dólares por ação, em comparação com um lucro líquido de <EVENT eid="e2404" class="STATE" stem="48,7" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">48,7</EVENT> milhões de dólares, ou 1,11 dólares por ação, de <TIMEX3 tid="t172" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">há um ano</TIMEX3>.</s>
+
+<s>Os <EVENT eid="e21" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> incluem uma <EVENT eid="e1989" class="OCCURRENCE" stem="depreciação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">depreciação</EVENT> de 130,2 milhões de dólares dos títulos da carteira de alto rendimento para o valor inferior de entre o seu custo e o valor de mercado.</s>
+
+<s>A Columbia também <EVENT eid="e26" class="OCCURRENCE" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT> 227,3 milhões de dólares às reservas para <EVENT eid="e1990" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízos</EVENT> na carteira, <EVENT eid="e29" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">aumentando</EVENT> as reservas gerais para os <EVENT eid="e2405" class="STATE" stem="300" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">300</EVENT> milhões de dólares, ou cerca de 6,7% do total da carteira, à <TIMEX3 tid="t1991" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">data de 30 de setembro</TIMEX3>.</s>
+<s>A <TIMEX3 tid="t1992" type="DATE" value="1989-06-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">30 de junho</TIMEX3>, as reservas para prejuízos <EVENT eid="e31" class="STATE" stem="perfazer" aspect="NONE" tense="PII" polarity="POS" pos="VERB">perfaziam</EVENT> 108,3 milhões de dólares.</s>
+<s>Os funcionários da caixa <EVENT eid="e32" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que a reserva de 300 milhões será <EVENT eid="e33" class="OCCURRENCE" stem="ajustar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">ajustada</EVENT> trimestralmente e vai <EVENT eid="e34" class="STATE" stem="refletir" aspect="NONE" tense="FI" polarity="POS" pos="VERB">refletir</EVENT> a <EVENT eid="e2099" class="STATE" stem="taxa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">taxa</EVENT> de disposições e as <EVENT eid="e2100" class="STATE" stem="condição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">condições</EVENT> do mercado.</s>
+
+<s>Os <EVENT eid="e36" class="OCCURRENCE" stem="ajuste" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ajustes</EVENT> <EVENT eid="e37" class="STATE" stem="resultar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">resultam</EVENT> da legislação recentemente <EVENT eid="e1993" class="OCCURRENCE" stem="aprovar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">aprovada</EVENT> para ajudar a indústria das caixas de aforro, que <EVENT eid="e40" class="STATE" stem="requerer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">requer</EVENT> que as caixas <EVENT eid="e42" class="OCCURRENCE" stem="alienar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">alienem</EVENT> todos os investimentos em obrigações de alto rendimento até <TIMEX3 tid="t1994" type="DATE" value="1994" temporalFunction="false" functionInDocument="NONE">1994</TIMEX3>.</s>
+<s>Anteriormente, a Columbia não teve de <EVENT eid="e47" class="OCCURRENCE" stem="ajustar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">ajustar</EVENT> o valor contabilístico dos investimentos em obrigações especulativas para <EVENT eid="e50" class="STATE" stem="refletir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">refletir</EVENT> as <EVENT eid="e1997" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">quedas</EVENT> dos preços de mercado, porque as obrigações eram <EVENT eid="e52" class="STATE" stem="deter" aspect="NONE" tense="PII" polarity="POS" pos="VERB">detidas</EVENT> como investimentos de longo prazo.</s>
+<s>Como a Columbia <TIMEX3 tid="t2151" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">agora</TIMEX3> tem de <EVENT eid="e55" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> as obrigações dentro de <TIMEX3 tid="t1999" type="DURATION" value="P5Y" temporalFunction="false" functionInDocument="NONE">cinco anos</TIMEX3>, as regras de contabilidade <EVENT eid="e58" class="STATE" stem="exigir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">exigem</EVENT> que a empresa <EVENT eid="e60" class="OCCURRENCE" stem="avaliar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">avalie</EVENT> as obrigações ao valor menor de entre o custo e os preços de mercado.</s>
+
+<s>Na sua estratégia para o futuro, os funcionários da Columbia <EVENT eid="e62" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que a caixa pode <EVENT eid="e2000" class="OCCURRENCE" stem="expandir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expandir</EVENT>-se para os <EVENT eid="e63" class="OCCURRENCE" stem="empréstimo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">empréstimos</EVENT> comerciais ou a <EVENT eid="e65" class="OCCURRENCE" stem="gestão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">gestão</EVENT> de investimentos no exterior, bem como <EVENT eid="e67" class="OCCURRENCE" stem="fortalecer" aspect="NONE" tense="INF" polarity="POS" pos="VERB">fortalecer</EVENT> as <EVENT eid="e68" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> mais tradicionais das caixas de aforro.</s>
+
+<s>Os <EVENT eid="e69" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> trimestrais também <EVENT eid="e70" class="STATE" stem="refletir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">refletiram</EVENT> 21,4 milhões de dólares em <EVENT eid="e2001" class="OCCURRENCE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízos</EVENT> extraordinários de <EVENT eid="e71" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> comerciais imobiliárias na Califórnia.</s>
+
+<s>Thomas Spiegel, presidente do conselho de administração da Columbia, <EVENT eid="e73" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> em <EVENT eid="e74" class="OCCURRENCE" stem="comunicado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comunicado</EVENT> que a caixa estava "<EVENT eid="e76" class="OCCURRENCE" stem="dececionar" aspect="NONE" tense="PII+PPA" polarity="POS" pos="VERB">dececionada</EVENT>" com os efeitos das <EVENT eid="e77" class="OCCURRENCE" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudanças</EVENT> na contabilidade.</s>
+<s>Mas <EVENT eid="e78" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Columbia <EVENT eid="e79" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">continua</EVENT> a ser "uma das instituições de poupança mais fortemente capitalizadas na indústria", com <EVENT eid="e82" class="OCCURRENCE" stem="base" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">base</EVENT> no valor económico dos seus ativos e do capital tangível.</s>
+
+<s>A Columbia <EVENT eid="e84" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> os <EVENT eid="e85" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> após o <EVENT eid="e2002" class="OCCURRENCE" stem="fecho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fecho</EVENT> do mercado de ações.</s>
+<s>As ações <EVENT eid="e87" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> nos 5,125 dólares cada na Bolsa de Valores de Nova Iorque, descendo 37,5 cêntimos.</s>
+<s>O preço das ações da Columbia foi <EVENT eid="e88" class="OCCURRENCE" stem="cortar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">cortado</EVENT> quase pela metade desde <TIMEX3 tid="t2004" type="DATE" value="1989-08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">agosto</TIMEX3>, quando eram <EVENT eid="e91" class="OCCURRENCE" stem="comercializar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">comercializadas</EVENT> em cerca de 10 dólares, já que os investidores aparentemente <EVENT eid="e92" class="OCCURRENCE" stem="perceber" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">perceberam</EVENT> que a instituição de poupanças seria <EVENT eid="e93" class="OCCURRENCE" stem="forçar" aspect="NONE" tense="C" polarity="POS" pos="VERB">forçada</EVENT> a <EVENT eid="e96" class="OCCURRENCE" stem="efetuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">efetuar</EVENT> uma grande <EVENT eid="e2005" class="OCCURRENCE" stem="desvalorização" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">desvalorização</EVENT>.</s>
+<s>A <EVENT eid="e2006" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> das ações <EVENT eid="e97" class="OCCURRENCE" stem="acelerar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acelerou</EVENT> nas <TIMEX3 tid="t2007" type="DURATION" value="P2W" temporalFunction="true" functionInDocument="NONE" endPoint="t163">últimas duas semanas</TIMEX3>, desde um preço de <EVENT eid="e2008" class="STATE" stem="8" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">8</EVENT> dólares por ação a <TIMEX3 tid="t2009" type="DATE" value="1989-10-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">9 de outubro</TIMEX3>.</s>
+
+<s>Os funcionários da Columbia <EVENT eid="e99" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que não <EVENT eid="e100" class="STATE" stem="saber" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">sabem</EVENT> com que rapidez se vão <EVENT eid="e102" class="OCCURRENCE" stem="libertar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">libertar</EVENT> das obrigações especulativas da caixa, porque os regulamentos federais, como aqueles que <EVENT eid="e105" class="STATE" stem="permitir" aspect="NONE" tense="C" polarity="POS" pos="VERB">permitiriam</EVENT> que as caixas <EVENT eid="e108" class="ASPECTUAL" stem="continuar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">continuassem</EVENT> na <EVENT eid="e109" class="STATE" stem="posse" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">posse</EVENT> das obrigações em subsidiárias com capital separado, ainda não estão <EVENT eid="e111" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="PI+PPA" polarity="NEG" pos="VERB">concluídos</EVENT>.</s>
+
+<s>Os funcionários da Colômbia <EVENT eid="e113" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> também que a caixa não deve <EVENT eid="e114" class="OCCURRENCE" stem="enfrentar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">enfrentar</EVENT> problemas de <EVENT eid="e117" class="OCCURRENCE" stem="cumprimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cumprimento</EVENT> dos requisitos regulamentares de capital, apesar das grandes reservas e <EVENT eid="e2010" class="OCCURRENCE" stem="depreciação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">depreciações</EVENT> e das exigências regulamentares mais duras que devem estar <EVENT eid="e2406" class="STATE" stem="em" aspect="NONE" tense="INF" polarity="POS" pos="PREPOSITION">em</EVENT> vigor até ao <TIMEX3 tid="t2012" type="DATE" value="1989" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">final do ano</TIMEX3>.</s>
+<s>O seu rácio entre o capital tangível e os ativos totais em <TIMEX3 tid="t2013" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t163">30 de setembro</TIMEX3> era <EVENT eid="e2398" class="STATE" stem="3.6%" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">3,6%</EVENT>, e o capital total era de <EVENT eid="e2399" class="STATE" stem="457,9" aspect="NONE" tense="NONE" polarity="POS" pos="OTHER">457,9</EVENT> milhões de dólares.</s>
+
+<s>A instituição de poupanças <EVENT eid="e124" class="REPORTING" stem="salientar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">salientou</EVENT> que <EVENT eid="e125" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> uma grande carteira de valores mobiliários <EVENT eid="e128" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">emitidos</EVENT> no âmbito de reestruturações empresariais e <EVENT eid="e2015" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisições</EVENT> alavancadas, que <EVENT eid="e130" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> um valor contabilístico de 90 milhões de dólares.</s>
+
+<s>Embora muitas das <EVENT eid="e131" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transações</EVENT> relativas a esses valores não estejam <EVENT eid="e134" class="OCCURRENCE" stem="concluir" aspect="NONE" tense="PC+PPA" polarity="NEG" pos="VERB">concluídas</EVENT>, a Columbia <EVENT eid="e136" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o <EVENT eid="e2397" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> final sobre a <EVENT eid="e137" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> destes ativos <EVENT eid="e139" class="STATE" stem="variar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">variará</EVENT> entre os 200 milhões de dólares e os 300 milhões de dólares.</s>
+<s>A Columbia também <EVENT eid="e140" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> <EVENT eid="e2016" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucros</EVENT> por saldar na sua carteira de títulos públicos de capital de mais de 70 milhões de dólares.</s>
+
+---
+
+<s>David B. Hilder em Nova Iorque <EVENT eid="e143" class="OCCURRENCE" stem="contribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contribuiu</EVENT> para este artigo.</s>
+
+
+<TLINK lid="l1" relType="BEFORE-OR-OVERLAP" eventID="e2" relatedToTime="t164" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e8" relatedToTime="t164" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e7" relatedToTime="t164" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e9" relatedToTime="t165" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e10" relatedToTime="t167" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e10" relatedToTime="t166" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e17" relatedToTime="t172" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e17" relatedToTime="t170" task="A"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e1990" relatedToTime="t1991" task="A"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e26" relatedToTime="t1991" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e29" relatedToTime="t1991" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e37" relatedToTime="t1994" task="A"/>
+<TLINK lid="l13" relType="AFTER" eventID="e55" relatedToTime="t2151" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e55" relatedToTime="t1999" task="A"/>
+<TLINK lid="l15" relType="AFTER" eventID="e96" relatedToTime="t2004" task="A"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e2006" relatedToTime="t2007" task="A"/>
+<TLINK lid="l17" relType="AFTER" eventID="e2006" relatedToTime="t2009" task="A"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e113" relatedToTime="t2012" task="A"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e2" relatedToTime="t163" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e8" relatedToTime="t163" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e7" relatedToTime="t163" task="B"/>
+<TLINK lid="l22" relType="BEFORE" eventID="e9" relatedToTime="t163" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e10" relatedToTime="t163" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e11" relatedToTime="t163" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e17" relatedToTime="t163" task="B"/>
+<TLINK lid="l26" relType="BEFORE" eventID="e21" relatedToTime="t163" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e1990" relatedToTime="t163" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e26" relatedToTime="t163" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e29" relatedToTime="t163" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e32" relatedToTime="t163" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e37" relatedToTime="t163" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e52" relatedToTime="t163" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e1997" relatedToTime="t163" task="B"/>
+<TLINK lid="l34" relType="AFTER" eventID="e55" relatedToTime="t163" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e62" relatedToTime="t163" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e2001" relatedToTime="t163" task="B"/>
+<TLINK lid="l37" relType="BEFORE" eventID="e69" relatedToTime="t163" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e77" relatedToTime="t163" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e73" relatedToTime="t163" task="B"/>
+<TLINK lid="l40" relType="OVERLAP" eventID="e79" relatedToTime="t163" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e78" relatedToTime="t163" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e2002" relatedToTime="t163" task="B"/>
+<TLINK lid="l43" relType="BEFORE" eventID="e84" relatedToTime="t163" task="B"/>
+<TLINK lid="l44" relType="BEFORE" eventID="e85" relatedToTime="t163" task="B"/>
+<TLINK lid="l45" relType="BEFORE" eventID="e87" relatedToTime="t163" task="B"/>
+<TLINK lid="l46" relType="VAGUE" eventID="e96" relatedToTime="t163" task="B"/>
+<TLINK lid="l47" relType="BEFORE" eventID="e2006" relatedToTime="t163" task="B"/>
+<TLINK lid="l48" relType="OVERLAP" eventID="e109" relatedToTime="t163" task="B"/>
+<TLINK lid="l49" relType="OVERLAP" eventID="e108" relatedToTime="t163" task="B"/>
+<TLINK lid="l50" relType="BEFORE" eventID="e99" relatedToTime="t163" task="B"/>
+<TLINK lid="l51" relType="BEFORE" eventID="e113" relatedToTime="t163" task="B"/>
+<TLINK lid="l52" relType="OVERLAP" eventID="e125" relatedToTime="t163" task="B"/>
+<TLINK lid="l53" relType="OVERLAP" eventID="e130" relatedToTime="t163" task="B"/>
+<TLINK lid="l54" relType="BEFORE" eventID="e136" relatedToTime="t163" task="B"/>
+<TLINK lid="l55" relType="AFTER" eventID="e2397" relatedToTime="t163" task="B"/>
+<TLINK lid="l56" relType="AFTER" eventID="e137" relatedToTime="t163" task="B"/>
+<TLINK lid="l57" relType="OVERLAP" eventID="e2016" relatedToTime="t163" task="B"/>
+<TLINK lid="l58" relType="OVERLAP" eventID="e140" relatedToTime="t163" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e32" eventID="e31" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e78" eventID="e73" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e37" eventID="e32" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP-OR-AFTER" relatedToEvent="e2398" eventID="e113" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e87" eventID="e84" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e62" eventID="e58" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e58" eventID="e47" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP-OR-AFTER" relatedToEvent="e97" eventID="e88" task="C"/>
+<TLINK lid="l9c" relType="VAGUE" relatedToEvent="e84" eventID="e78" task="C"/>
+<TLINK lid="l10c" relType="BEFORE" relatedToEvent="e73" eventID="e70" task="C"/>
+<TLINK lid="l11c" relType="AFTER" relatedToEvent="e47" eventID="e37" task="C"/>
+<TLINK lid="l12c" relType="OVERLAP-OR-AFTER" relatedToEvent="e88" eventID="e87" task="C"/>
+<TLINK lid="l13c" relType="AFTER" relatedToEvent="e70" eventID="e62" task="C"/>
+<TLINK lid="l14c" relType="VAGUE" relatedToEvent="e12" eventID="e10" task="C"/>
+<TLINK lid="l15c" relType="OVERLAP" relatedToEvent="e113" eventID="e99" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e136" eventID="e124" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e143" eventID="e140" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e15" eventID="e12" task="C"/>
+<TLINK lid="l19c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e21" eventID="e18" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP-OR-AFTER" relatedToEvent="e18" eventID="e15" task="C"/>
+<TLINK lid="l21c" relType="AFTER" relatedToEvent="e31" eventID="e26" task="C"/>
+<TLINK lid="l22c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e140" eventID="e136" task="C"/>
+<TLINK lid="l23c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e124" eventID="e2398" task="C"/>
+<TLINK lid="l24c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e10" eventID="e9" task="C"/>
+<TLINK lid="l25c" relType="AFTER" relatedToEvent="e26" eventID="e21" task="C"/>
+<TLINK lid="l26c" relType="BEFORE" relatedToEvent="e99" eventID="e97" task="C"/>
+<TLINK lid="l27c" relType="AFTER" relatedToEvent="e9" eventID="e7" task="C"/>
+</TempEval>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0016
+= 891030
+891030-0016.
+Dossier de Negócios - Octel Communications Corp:
+@ Hewlett-Packard Co. Aumenta
+@ Participação para 8,5% das Ações Ordinárias
+<TIMEX3 tid="t46" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+HWP OCTL
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A Hewlett-Packard Co. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aumentou</EVENT> a sua participação na Octel Communications Corp. para 8,5% das ações ordinárias em circulação.</s>
+
+<s>Num documento <EVENT eid="e53" class="REPORTING" stem="enviar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">enviado</EVENT> à Securities and Exchange Commission, a Hewlett-Packard <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que agora <EVENT eid="e5" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> 1.384.119 ações ordinárias da Octel, incluindo 100.000 ações <EVENT eid="e6" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">compradas</EVENT> entre <TIMEX3 tid="t94" type="DATE" value="1989-08-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t46">26 de agosto</TIMEX3> e <TIMEX3 tid="t51" type="DATE" value="1989-10-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t46">20 de outubro</TIMEX3> por entre 23,31 dólares e 24,25 dólares por ação.</s>
+
+<s>A Hewlett-Packard, uma empresa de informática de Palo Alto, na Califórnia, <EVENT eid="e7" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e8" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adquiriu</EVENT> as ações "para <EVENT eid="e10" class="OCCURRENCE" stem="desenvolver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">desenvolver</EVENT> e <EVENT eid="e11" class="STATE" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> uma parceria estratégica em que cada empresa <EVENT eid="e13" class="STATE" stem="permanecer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">permanece</EVENT> independente enquanto <EVENT eid="e15" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">trabalham</EVENT> em conjunto para <EVENT eid="e16" class="OCCURRENCE" stem="comercializar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comercializar</EVENT> e <EVENT eid="e17" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> os seus produtos".</s>
+
+<s>A Octel <EVENT eid="e18" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a <EVENT eid="e19" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT> era <EVENT eid="e20" class="I_STATE" stem="esperar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">esperada</EVENT>.</s>
+<s>A Hewlett-Packard <EVENT eid="e21" class="REPORTING" stem="afirmar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">afirmou</EVENT> que não <EVENT eid="e22" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">planeia</EVENT> <EVENT eid="e25" class="OCCURRENCE" stem="obter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">obter</EVENT> o controlo da Octel, um fabricante de Milpitas, na Califórnia, de sistemas de processamento de voz.</s>
+
+<s><EVENT eid="e59" class="REPORTING" stem="segundo" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">Segundo</EVENT> o documento <EVENT eid="e26" class="OCCURRENCE" stem="submeter" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">submetido</EVENT>, a Hewlett-Packard <EVENT eid="e27" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adquiriu</EVENT> 730.070 ações ordinárias da Octel como resultado de um <EVENT eid="e29" class="I_ACTION" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> de <EVENT eid="e56" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT> de ações de <TIMEX3 tid="t57" type="DATE" value="1988-08-10" temporalFunction="false" functionInDocument="NONE">10 de agosto de 1988</TIMEX3>.</s>
+<s>Esse <EVENT eid="e58" class="I_ACTION" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> também <EVENT eid="e30" class="I_ACTION" stem="exigir" aspect="NONE" tense="PII" polarity="POS" pos="VERB">exigia</EVENT> que a Hewlett-Packard <EVENT eid="e32" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="PIC" polarity="POS" pos="VERB">comprasse</EVENT> 730.070 ações da Octel no mercado aberto dentro de <TIMEX3 tid="t60" type="DURATION" value="P18M" temporalFunction="false" functionInDocument="NONE">18 meses</TIMEX3>.</s>
+<s>Além disso, a Hewlett-Packard <EVENT eid="e36" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">adquiriu</EVENT> uma <EVENT eid="e37" class="I_STATE" stem="opção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">opção</EVENT> de <TIMEX3 tid="t61" type="DURATION" value="P2Y" temporalFunction="false" functionInDocument="NONE">dois anos</TIMEX3> para <EVENT eid="e39" class="OCCURRENCE" stem="comprar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comprar</EVENT> mais 10%, metade das quais podem ser <EVENT eid="e40" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vendidas</EVENT> diretamente à Hewlett-Packard pela Octel.</s>
+
+
+<TLINK lid="l1" relType="BEFORE-OR-OVERLAP" eventID="e6" relatedToTime="t51" task="A"/>
+<TLINK lid="l2" relType="OVERLAP-OR-AFTER" eventID="e6" relatedToTime="t94" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e4" relatedToTime="t51" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e4" relatedToTime="t94" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e5" relatedToTime="t51" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e5" relatedToTime="t94" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e27" relatedToTime="t57" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e29" relatedToTime="t57" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e56" relatedToTime="t57" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e32" relatedToTime="t60" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e30" relatedToTime="t60" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e58" relatedToTime="t60" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e40" relatedToTime="t61" task="A"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e39" relatedToTime="t61" task="A"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e36" relatedToTime="t61" task="A"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e1" relatedToTime="t46" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e6" relatedToTime="t46" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e4" relatedToTime="t46" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e5" relatedToTime="t46" task="B"/>
+<TLINK lid="l20" relType="OVERLAP-OR-AFTER" eventID="e13" relatedToTime="t46" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e8" relatedToTime="t46" task="B"/>
+<TLINK lid="l22" relType="OVERLAP-OR-AFTER" eventID="e17" relatedToTime="t46" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e7" relatedToTime="t46" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e19" relatedToTime="t46" task="B"/>
+<TLINK lid="l25" relType="BEFORE" eventID="e18" relatedToTime="t46" task="B"/>
+<TLINK lid="l26" relType="OVERLAP" eventID="e22" relatedToTime="t46" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e27" relatedToTime="t46" task="B"/>
+<TLINK lid="l28" relType="BEFORE" eventID="e29" relatedToTime="t46" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e56" relatedToTime="t46" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e32" relatedToTime="t46" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e30" relatedToTime="t46" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e58" relatedToTime="t46" task="B"/>
+<TLINK lid="l33" relType="AFTER" eventID="e40" relatedToTime="t46" task="B"/>
+<TLINK lid="l34" relType="AFTER" eventID="e39" relatedToTime="t46" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e36" relatedToTime="t46" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e27" eventID="e21" task="C"/>
+<TLINK lid="l3c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e36" eventID="e30" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP-OR-AFTER" relatedToEvent="e30" eventID="e27" task="C"/>
+<TLINK lid="l5c" relType="BEFORE-OR-OVERLAP" relatedToEvent="e18" eventID="e7" task="C"/>
+<TLINK lid="l6c" relType="VAGUE" relatedToEvent="e21" eventID="e18" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e7" eventID="e4" task="C"/>
+</TempEval>

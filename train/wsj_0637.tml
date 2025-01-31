@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0061
+= 891030
+891030-0061.
+Labatt Planeia Colocar no Mercado
+@ Novas Ações Preferenciais
+<TIMEX3 tid="t34" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+T.LBT
+LONDON, Ontario
+
+
+<s>A John Labatt Ltd. <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> que <EVENT eid="e2" class="I_STATE" stem="planear" aspect="NONE" tense="PI" polarity="POS" pos="VERB">planeia</EVENT> um <EVENT eid="e3" class="OCCURRENCE" stem="investimento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">investimento</EVENT> privado de 150 milhões de dólares canadianos (127,5 milhões de dólares americanos) em ações preferenciais, a ser <EVENT eid="e6" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">concluído</EVENT> <TIMEX3 tid="t72" type="DATE" value="1989-11-01" mod="APPROX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t34">por volta de 1 de novembro</TIMEX3>.</s>
+
+<s>O dinheiro será <EVENT eid="e7" class="I_ACTION" stem="usar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">usado</EVENT> para <EVENT eid="e9" class="OCCURRENCE" stem="reduzir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reduzir</EVENT> a dívida de curto prazo da empresa de cerveja e comida, <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> Robert Vaux, vice-presidente das finanças.</s>
+
+<s>As ações preferenciais <EVENT eid="e12" class="STATE" stem="ter" aspect="NONE" tense="FI" polarity="POS" pos="VERB">terão</EVENT> um dividendo anual variável igual a 72% da taxa das bankers' acceptances a 30 dias até <TIMEX3 tid="t37" type="DATE" value="1994-12-31" temporalFunction="false" functionInDocument="NONE">31 de dezembro de 1994</TIMEX3>.</s>
+<s>Posteriormente, a taxa será <EVENT eid="e13" class="OCCURRENCE" stem="renegociar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">renegociada</EVENT>.</s>
+<s>Vaux <EVENT eid="e14" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que, se nenhum <EVENT eid="e16" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">acordo</EVENT> se <EVENT eid="e17" class="OCCURRENCE" stem="obter" aspect="NONE" tense="FC" polarity="POS" pos="VERB">obtiver</EVENT>, <EVENT eid="e18" class="I_ACTION" stem="procurar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">procurar-se-ão</EVENT> outros compradores por <EVENT eid="e19" class="OCCURRENCE" stem="licitação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">licitação</EVENT> ou <EVENT eid="e20" class="OCCURRENCE" stem="leilão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">leilão</EVENT>.</s>
+<s>As ações são <EVENT eid="e41" class="STATE" stem="resgatável" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">resgatáveis</EVENT> depois do <TIMEX3 tid="t42" type="DATE" value="1994" mod="END" temporalFunction="false" functionInDocument="NONE">fim de 1994</TIMEX3>.</s>
+
+<s>Vaux <EVENT eid="e21" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a emissão de ações faz parte de uma <EVENT eid="e43" class="I_STATE" stem="estratégia" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">estratégia</EVENT> para <EVENT eid="e23" class="OCCURRENCE" stem="reforçar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">reforçar</EVENT> o balanço da Labatt na antecipação das <EVENT eid="e25" class="OCCURRENCE" stem="aquisição" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aquisições</EVENT> a serem <EVENT eid="e27" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">feitas</EVENT> durante <TIMEX3 tid="t46" type="DURATION" value="PXM" temporalFunction="true" functionInDocument="NONE" beginPoint="t34">os próximos 12 a 18 meses</TIMEX3>.</s>
+<s>A Labatt não <EVENT eid="e28" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">tem</EVENT> <TIMEX3 tid="t49" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t34">atualmente</TIMEX3> OPAs pendentes, <EVENT eid="e30" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> ele.</s>
+
+<s>O maior subscritor da emissão é a Toronto Dominion Securities Inc.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e2" relatedToTime="t72" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e1" relatedToTime="t72" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e21" relatedToTime="t46" task="A"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e27" relatedToTime="t46" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e25" relatedToTime="t46" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e28" relatedToTime="t49" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e30" relatedToTime="t49" task="A"/>
+<TLINK lid="l8" relType="BEFORE-OR-OVERLAP" eventID="e2" relatedToTime="t34" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e1" relatedToTime="t34" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e10" relatedToTime="t34" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e7" relatedToTime="t34" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e16" relatedToTime="t34" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e14" relatedToTime="t34" task="B"/>
+<TLINK lid="l14" relType="AFTER" eventID="e19" relatedToTime="t34" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e18" relatedToTime="t34" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e21" relatedToTime="t34" task="B"/>
+<TLINK lid="l17" relType="AFTER" eventID="e27" relatedToTime="t34" task="B"/>
+<TLINK lid="l18" relType="AFTER" eventID="e25" relatedToTime="t34" task="B"/>
+<TLINK lid="l19" relType="OVERLAP" eventID="e28" relatedToTime="t34" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e30" relatedToTime="t34" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e21" eventID="e41" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e13" eventID="e12" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e30" eventID="e21" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e12" eventID="e10" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e14" eventID="e13" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e10" eventID="e1" task="C"/>
+<TLINK lid="l7c" relType="BEFORE" relatedToEvent="e41" eventID="e14" task="C"/>
+</TempEval>

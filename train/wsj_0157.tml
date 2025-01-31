@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0034
+= 891102
+891102-0034.
+Dossier de Negócios - Tony Lama Co.:
+@ Equus Investiment II Procura
+@ Mudar Oferta à Firma
+<TIMEX3 tid="t26" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+TLAM
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A Tony Lama Co. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a Equus Investiment II Limited Partnership <EVENT eid="e2" class="I_ACTION" stem="propor" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">propôs</EVENT> a <EVENT eid="e2030" class="OCCURRENCE" stem="alteração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alteração</EVENT> da <EVENT eid="e1995" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de aquisição da empresa para 13,65 dólares em dinheiro e ações, de uma <EVENT eid="e4" class="I_ACTION" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> só em dinheiro.</s>
+
+<s>Nos termos da nova <EVENT eid="e2046" class="I_ACTION" stem="proposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proposta</EVENT>, a Equus, gerida pela Equus Capital Corp., de Houston, <EVENT eid="e7" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="C" polarity="POS" pos="VERB">pagaria</EVENT> 12 dólares em dinheiro e uma nova ação preferencial, com uma preferência de liquidação de 1,65 dólares por ação para cada uma dos 2,1 milhões de ações em circulação da Tony Lama.</s>
+<s><TIMEX3 tid="t1999" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">Anteriormente</TIMEX3>, <EVENT eid="e9" class="I_ACTION" stem="oferecer" aspect="NONE" tense="MPI" polarity="POS" pos="VERB">oferecera</EVENT> 13,65 dólares por ação em dinheiro, ou 29 milhões de dólares.</s>
+
+<s>A El Paso, do Texas, fabricante de botas do faroeste e acessórios de couro, <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que as ações preferenciais seriam capazes de <EVENT eid="e11" class="OCCURRENCE" stem="receber" aspect="NONE" tense="INF" polarity="POS" pos="VERB">receber</EVENT> dividendos a uma taxa de 12%, mas não seriam <EVENT eid="e14" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="C" polarity="NEG" pos="VERB">pagos</EVENT> nos <TIMEX3 tid="t28" type="DURATION" value="P2Y" temporalFunction="true" functionInDocument="NONE" beginPoint="t26">dois primeiros anos</TIMEX3>.</s>
+<s>As ações seriam <EVENT eid="e17" class="OCCURRENCE" stem="resgatável" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">resgatáveis</EVENT> em <TIMEX3 tid="t29" type="DATE" value="1994" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t26">cinco anos</TIMEX3>, sujeitas aos termos das dívidas da empresa sobrevivente.</s>
+
+<s>Nem a Equus nem a Tony Lama <EVENT eid="e19" class="REPORTING" stem="dar" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">deram</EVENT> uma razão para a <EVENT eid="e2031" class="ASPECTUAL" stem="mudança" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mudança</EVENT> da <EVENT eid="e2000" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> e a Tony Lama não estava contactável para <EVENT eid="e2001" class="REPORTING" stem="comentar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">comentar</EVENT>.</s>
+<s>Contudo, a Tony Lama <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que iria <EVENT eid="e24" class="OCCURRENCE" stem="submeter" aspect="NONE" tense="IR-C+INF" polarity="POS" pos="VERB">submeter</EVENT> de imediato a <EVENT eid="e2002" class="I_ACTION" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> a uma comissão especial do conselho de administração da empresa.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e9" relatedToTime="t1999" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e10" relatedToTime="t28" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e14" relatedToTime="t28" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e1995" relatedToTime="t26" task="B"/>
+<TLINK lid="l5" relType="AFTER" eventID="e2030" relatedToTime="t26" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t26" task="B"/>
+<TLINK lid="l7" relType="AFTER" eventID="e7" relatedToTime="t26" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e9" relatedToTime="t26" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e10" relatedToTime="t26" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e14" relatedToTime="t26" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e2000" relatedToTime="t26" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e19" relatedToTime="t26" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e23" relatedToTime="t26" task="B"/>
+<TLINK lid="l14" relType="OVERLAP" eventID="e2002" relatedToTime="t26" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e19" eventID="e17" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e23" eventID="e19" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e7" eventID="e1" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e17" eventID="e10" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e9" eventID="e7" task="C"/>
+<TLINK lid="l6c" relType="BEFORE" relatedToEvent="e10" eventID="e9" task="C"/>
+</TempEval>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891030-0035
+= 891030
+891030-0035.
+Dossier de Negócios - Jayark Corp.:
+@ Firma Concorda Em Comprar Kofcoh
+@ Por Dinheiro, Obrigações e Ações
+<TIMEX3 tid="t31" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3>
+WALL STREET JOURNAL (J)
+JAYA
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+
+
+<s>A Jayark Corp. <EVENT eid="e1" class="I_ACTION" stem="concordar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">concordou</EVENT> em <EVENT eid="e3" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> 4 milhões de dólares em dinheiro, 2 milhões de dólares em obrigações convertíveis em 12%, e 1,6 milhões de ações ordinárias para <EVENT eid="e7" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> a Kofcoh Imports Inc., na mão de um grupo pequeno de acionistas.</s>
+
+<s>Nas <EVENT eid="e9" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> do mercado de balcão de <TIMEX3 tid="t32" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">sexta-feira</TIMEX3>, a Jayark estava <EVENT eid="e10" class="OCCURRENCE" stem="cotar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">cotada</EVENT> a 87,5 cêntimos, tendo descido 15,625 cêntimos.</s>
+<s>Ao preço de mercado, a operação tem um valor total indicado de 7,4 milhões de dólares.</s>
+
+<s>A Kofcoh é uma holding de Nova Iorque da Rosalco Inc., que importa móveis e outros itens.</s>
+<s>David L. Koffman, presidente e diretor geral da Jayark, <EVENT eid="e33" class="STATE" stem="deter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">detém</EVENT> cerca de 40% da Kofcoh, <EVENT eid="e16" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a Jayark.</s>
+
+<s>A Jayark, de Nova Iorque, distribui e aluga equipamento áudio-visual e imprime anúncios promocionais para retalhistas.</s>
+<s>No <TIMEX3 tid="t36" type="DATE" value="1989-Q2" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">trimestre</TIMEX3> findo em <TIMEX3 tid="t35" type="DATE" value="1989-07-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t31">31 de julho</TIMEX3>, a Jayark <EVENT eid="e39" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> uma média de 5,6 milhões de ações em circulação.</s>
+
+<s>A <EVENT eid="e22" class="OCCURRENCE" stem="transação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">transação</EVENT> está <EVENT eid="e42" class="I_STATE" stem="sujeito" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">sujeita</EVENT> à <EVENT eid="e23" class="I_ACTION" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT> de um júri composto por diretores desinteressados, <EVENT eid="e24" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a companhia, <EVENT eid="e25" class="REPORTING" stem="acrescentar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">acrescentando</EVENT> que não é <EVENT eid="e27" class="I_STATE" stem="necessário" aspect="NONE" tense="PI" polarity="NEG" pos="ADJECTIVE">necessária</EVENT> a <EVENT eid="e26" class="OCCURRENCE" stem="aprovação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aprovação</EVENT> dos acionistas.</s>
+
+
+<TLINK lid="l1" relType="VAGUE" eventID="e1" relatedToTime="t32" task="A"/>
+<TLINK lid="l2" relType="OVERLAP-OR-AFTER" eventID="e7" relatedToTime="t32" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e9" relatedToTime="t32" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e3" relatedToTime="t32" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e39" relatedToTime="t36" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e39" relatedToTime="t35" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e1" relatedToTime="t31" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e7" relatedToTime="t31" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e9" relatedToTime="t31" task="B"/>
+<TLINK lid="l10" relType="AFTER" eventID="e3" relatedToTime="t31" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e33" relatedToTime="t31" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e16" relatedToTime="t31" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e39" relatedToTime="t31" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e24" relatedToTime="t31" task="B"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e25" relatedToTime="t31" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e24" eventID="e39" task="C"/>
+</TempEval>

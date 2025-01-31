@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+PRI<TIMEX3 tid="t37" type="DATE" value="1998-02-13" temporalFunction="false" functionInDocument="CREATION_TIME">19980213</TIMEX3>.2000.0313
+REPORTAGEM
+
+
+<s>As autoridades da Califórnia estão a <EVENT eid="e1" class="I_ACTION" stem="avisar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">avisar</EVENT> os moradores de que as <EVENT eid="e40" class="OCCURRENCE" stem="chuva" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">chuvas</EVENT> que se aproximam irão <EVENT eid="e3" class="OCCURRENCE" stem="provocar" aspect="NONE" tense="IR-FI+INF" polarity="POS" pos="VERB">provocar</EVENT> <EVENT eid="e41" class="OCCURRENCE" stem="deslizamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">deslizamentos</EVENT> de terra perigosos e imprevisíveis.</s>
+<s>Da estação KQED, Auncil Martinez <EVENT eid="e42" class="REPORTING" stem="relatar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">relata</EVENT> a história.</s>
+<s>Os especialistas <EVENT eid="e5" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que a terra está tão <EVENT eid="e6" class="STATE" stem="saturar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">saturada</EVENT> que não pode <EVENT eid="e8" class="OCCURRENCE" stem="absorver" aspect="NONE" tense="INF" polarity="POS" pos="VERB">absorver</EVENT> mais água.</s>
+<s>Então, <EVENT eid="e9" class="I_STATE" stem="significar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">significa</EVENT> que o solo vai <EVENT eid="e43" class="OCCURRENCE" stem="cair" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">cair</EVENT> aos pedaços e <EVENT eid="e11" class="OCCURRENCE" stem="destruir" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">destruir</EVENT> tudo no seu caminho.</s>
+<s>Em Los Angeles, essa lição foi lembrada <TIMEX3 tid="t38" type="DATE" value="1998-02-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">hoje</TIMEX3> quando toneladas de terra <EVENT eid="e16" class="OCCURRENCE" stem="cair" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">caíram</EVENT> em cascata de uma colina, <EVENT eid="e17" class="OCCURRENCE" stem="arrancar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">arrancando</EVENT> duas casas dos alicerces.</s>
+<s>Ninguém ficou <EVENT eid="e18" class="OCCURRENCE" stem="ferir" aspect="NONE" tense="PPA" polarity="NEG" pos="VERB">ferido</EVENT>, mas os bombeiros <EVENT eid="e19" class="I_ACTION" stem="ordenar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">ordenaram</EVENT> a <EVENT eid="e45" class="OCCURRENCE" stem="evacuação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">evacuação</EVENT> das casas nas proximidades e <EVENT eid="e20" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> que vão <EVENT eid="e21" class="OCCURRENCE" stem="acompanhar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">acompanhar</EVENT> as mudanças do terreno.</s>
+<s>Na cidade de Rio Nido no norte da Califórnia, as entidades oficiais <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que uma parte de uma encosta do tamanho de um campo de futebol pode ainda <EVENT eid="e25" class="OCCURRENCE" stem="soltar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">soltar</EVENT>-se a <TIMEX3 tid="t39" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t37">qualquer momento</TIMEX3> e <EVENT eid="e29" class="OCCURRENCE" stem="destruir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">destruir</EVENT> um bairro inteiro.</s>
+<s>E em São Francisco, uma mansão com vista para o Oceano Pacífico e a ponte Golden Gate está a <EVENT eid="e31" class="OCCURRENCE" stem="deslizar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">deslizar</EVENT> para o mar.</s>
+<s>Os meteorologistas <EVENT eid="e32" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dizem</EVENT> que a situação vai <EVENT eid="e33" class="ASPECTUAL" stem="piorar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">piorar</EVENT>, porque se prevêem mais <EVENT eid="e47" class="STATE" stem="chuva" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">chuvas</EVENT>.</s>
+<s>Para a NPR News, Auncil Martinez a <EVENT eid="e36" class="REPORTING" stem="relatar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">relatar</EVENT>.</s>
+
+<TLINK lid="l1" relType="BEFORE" eventID="e23" relatedToTime="t39" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e42" relatedToTime="t37" task="B"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e5" relatedToTime="t37" task="B"/>
+<TLINK lid="l4" relType="AFTER" eventID="e43" relatedToTime="t37" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e20" relatedToTime="t37" task="B"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e23" relatedToTime="t37" task="B"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e32" relatedToTime="t37" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e18" eventID="e16" task="C"/>
+<TLINK lid="l2c" relType="OVERLAP" relatedToEvent="e36" eventID="e32" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e32" eventID="e31" task="C"/>
+<TLINK lid="l4c" relType="VAGUE" relatedToEvent="e23" eventID="e18" task="C"/>
+<TLINK lid="l5c" relType="OVERLAP" relatedToEvent="e9" eventID="e5" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e42" eventID="e1" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e31" eventID="e23" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e5" eventID="e42" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e16" eventID="e9" task="C"/>
+</TempEval>

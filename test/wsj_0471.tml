@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891031-0040
+= 891031
+891031-0040.
+Dossier de Negócios - Dataproducts Inc.:
+@ Processo em Tribunal para Bloquear
+@ OPA Hostil da DPC
+<TIMEX3 tid="t34" type="DATE" value="1989-10-31" temporalFunction="false" functionInDocument="CREATION_TIME">10/31/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DPC
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+COMPUTERS AND INFORMATION TECHNOLOGY (CPR)
+
+
+<s>A Dataproducts Inc. <EVENT eid="e1" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e2" class="OCCURRENCE" stem="meter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">meteu</EVENT> um <EVENT eid="e3" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> no tribunal de Delaware Chancery para <EVENT eid="e5" class="I_ACTION" stem="bloquear" aspect="NONE" tense="INF" polarity="POS" pos="VERB">bloquear</EVENT> uma <EVENT eid="e36" class="OCCURRENCE" stem="OPA" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">OPA</EVENT> pela DPC Acquisition Partners, <EVENT eid="e7" class="REPORTING" stem="alegar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">alegando</EVENT> que a <EVENT eid="e8" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> hostil <EVENT eid="e9" class="OCCURRENCE" stem="violar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">viola</EVENT> um <EVENT eid="e10" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT> de não aquisição entre as duas empresas.</s>
+
+<s>A DPC, um grupo de investidores <EVENT eid="e12" class="OCCURRENCE" stem="liderar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">liderado</EVENT> pela Crescott Investment Associates, sediada em Nova Iorque, tinha ela própria <EVENT eid="e14" class="OCCURRENCE" stem="entrar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">entrado</EVENT> com um <EVENT eid="e15" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> num tribunal estadual em Los Angeles para <EVENT eid="e17" class="I_ACTION" stem="tentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e19" class="OCCURRENCE" stem="anular" aspect="NONE" tense="INF" polarity="POS" pos="VERB">anular</EVENT> o <EVENT eid="e20" class="OCCURRENCE" stem="acordo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acordo</EVENT>.</s>
+<s>No <TIMEX3 tid="t39" type="TIME" value="1989" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t34">início deste ano</TIMEX3>, a Dataproducts havia <EVENT eid="e21" class="OCCURRENCE" stem="rejeitar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">rejeitado</EVENT> uma <EVENT eid="e22" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> da DPC de 15 dólares por ação, <EVENT eid="e23" class="REPORTING" stem="dizer" aspect="NONE" tense="GER" polarity="POS" pos="VERB">dizendo</EVENT> que não estava adequadamente <EVENT eid="e24" class="OCCURRENCE" stem="financiar" aspect="NONE" tense="PII+PPA" polarity="NEG" pos="VERB">financiada</EVENT>.</s>
+<s>A DPC na <TIMEX3 tid="t40" type="DATE" value="1989-10-24" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t34">semana passada</TIMEX3> <EVENT eid="e26" class="ASPECTUAL" stem="lançar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">lançou</EVENT> uma nova <EVENT eid="e27" class="OCCURRENCE" stem="oferta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">oferta</EVENT> de 10 dólares por ação ao fabricante de impressoras de computador sediado em Woodland Hills, na Califórnia.</s>
+
+<s>A DPC <EVENT eid="e28" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que não podia <EVENT eid="e29" class="OCCURRENCE" stem="comentar" aspect="NONE" tense="INF" polarity="NEG" pos="VERB">comentar</EVENT> o <EVENT eid="e32" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e23" relatedToTime="t39" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e22" relatedToTime="t39" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e27" relatedToTime="t40" task="A"/>
+<TLINK lid="l4" relType="BEFORE" eventID="e10" relatedToTime="t34" task="B"/>
+<TLINK lid="l5" relType="BEFORE" eventID="e1" relatedToTime="t34" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e8" relatedToTime="t34" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e36" relatedToTime="t34" task="B"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e20" relatedToTime="t34" task="B"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e17" relatedToTime="t34" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e23" relatedToTime="t34" task="B"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e22" relatedToTime="t34" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e27" relatedToTime="t34" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e28" relatedToTime="t34" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e28" eventID="e26" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e26" eventID="e21" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e21" eventID="e14" task="C"/>
+<TLINK lid="l4c" relType="AFTER" relatedToEvent="e14" eventID="e1" task="C"/>
+</TempEval>

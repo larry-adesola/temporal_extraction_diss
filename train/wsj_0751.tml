@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0144
+= 891027
+891027-0144.
+Compra do Dime Savings Bank
+<TIMEX3 tid="t23" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+DME STPT
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+SAVINGS AND LOANS, THRIFTS, CREDIT UNIONS (SAL)
+GARDEN CITY, N.Y.
+
+
+<s>O Dime Savings Bank de Nova Iorque foi <EVENT eid="e1" class="I_ACTION" stem="autorizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">autorizado</EVENT> pela Federal Deposit Insurance Corp. a <EVENT eid="e3" class="OCCURRENCE" stem="adquirir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">adquirir</EVENT> o Starpointe Savings Bank de Somerset, em Nova Jérsia, <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> os bancos.</s>
+
+<s>Os acionistas da Starpointe, que <EVENT eid="e5" class="I_ACTION" stem="aprovar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aprovaram</EVENT> o <EVENT eid="e20" class="STATE" stem="plano" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plano</EVENT> em <TIMEX3 tid="t24" type="DATE" value="1989-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">abril</TIMEX3> passado, <EVENT eid="e6" class="OCCURRENCE" stem="receber" aspect="NONE" tense="FI" polarity="POS" pos="VERB">receberão</EVENT> 21 dólares em dinheiro por ação, ou um total de 63 milhões de ações.</s>
+<s>O FDIC <EVENT eid="e9" class="I_ACTION" stem="autorizar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">autorizou</EVENT> a <EVENT eid="e10" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medida</EVENT> <TIMEX3 tid="t25" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t23">ontem</TIMEX3>, e os bancos devem <EVENT eid="e11" class="OCCURRENCE" stem="esperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">esperar</EVENT> <TIMEX3 tid="t26" type="DURATION" value="P30D" mod="EQUAL_OR_MORE" temporalFunction="false" functionInDocument="NONE">pelo menos 30 dias</TIMEX3> antes de <EVENT eid="e14" class="ASPECTUAL" stem="concluir" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">concluírem</EVENT> a <EVENT eid="e15" class="OCCURRENCE" stem="compra" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">compra</EVENT>.</s>
+<s>Ainda não foi <EVENT eid="e16" class="OCCURRENCE" stem="definir" aspect="NONE" tense="PPI" polarity="NEG" pos="VERB">definida</EVENT> uma data de conclusão.</s>
+<s>Os bancos <EVENT eid="e18" class="I_ACTION" stem="aceitar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">aceitaram</EVENT> a <EVENT eid="e19" class="OCCURRENCE" stem="operação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">operação</EVENT> em <TIMEX3 tid="t27" type="DATE" value="1988-08" temporalFunction="false" functionInDocument="NONE">agosto de 1988</TIMEX3>.</s>
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e20" relatedToTime="t24" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e10" relatedToTime="t25" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e10" relatedToTime="t26" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e15" relatedToTime="t25" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e15" relatedToTime="t26" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e18" relatedToTime="t27" task="A"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e4" relatedToTime="t23" task="B"/>
+<TLINK lid="l8" relType="AFTER" eventID="e3" relatedToTime="t23" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e20" relatedToTime="t23" task="B"/>
+<TLINK lid="l10" relType="BEFORE" eventID="e10" relatedToTime="t23" task="B"/>
+<TLINK lid="l11" relType="AFTER" eventID="e15" relatedToTime="t23" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e16" relatedToTime="t23" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e18" relatedToTime="t23" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e18" eventID="e16" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e9" eventID="e6" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e16" eventID="e9" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e6" eventID="e4" task="C"/>
+</TempEval>

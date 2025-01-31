@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891027-0117
+= 891027
+891027-0117.
+Lei:
+@ Ameaças dos EUA de Confiscar Honorários
+@ Desincentivam Advogados de Casos
+@ ----
+@ Por Laurie P. Cohen
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t232" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3>
+WALL STREET JOURNAL (J)
+CRZYQ
+LAW AND LEGAL AFFAIRS (LAW)
+BANKRUPTCIES (BCY)
+JUSTICE DEPARTMENT (JUS)
+SECURITIES AND EXCHANGE COMMISSION (SEC)
+
+<s>O governo está a <EVENT eid="e1" class="OCCURRENCE" stem="afiar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">afiar</EVENT> a sua arma mais recente contra os acusados de crimes de colarinho branco: o <EVENT eid="e200" class="I_STATE" stem="poder" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">poder</EVENT> de <EVENT eid="e4" class="I_ACTION" stem="impedir" aspect="NONE" tense="INF" polarity="POS" pos="VERB">impedi</EVENT>-los de <EVENT eid="e6" class="OCCURRENCE" stem="pagr" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> as suas contas jurídicas.</s>
+<s>E os advogados de defesa estão a <EVENT eid="e8" class="I_ACTION" stem="avisar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">avisar</EVENT> que não vão <EVENT eid="e9" class="OCCURRENCE" stem="trabalhar" aspect="NONE" tense="IR-PI+INF" polarity="NEG" pos="VERB">trabalhar</EVENT> se não forem <EVENT eid="e14" class="STATE" stem="pagar" aspect="NONE" tense="FC" polarity="NEG" pos="ADJECTIVE">pagos</EVENT>.</s>
+
+<s>A questão levantou fervura em Newark, na Nova Jérsia, onde os procuradores federais <EVENT eid="e16" class="I_ACTION" stem="alertar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alertaram</EVENT> os advogados de Eddie Antar que se o fundador e ex-presidente do conselho de administração da Crazy Eddie Inc. for <EVENT eid="e18" class="OCCURRENCE" stem="indiciar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">indiciado</EVENT>, o governo pode <EVENT eid="e19" class="OCCURRENCE" stem="atuar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">atuar</EVENT> para <EVENT eid="e22" class="OCCURRENCE" stem="apoderar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apoderar</EVENT>-se do dinheiro que Antar está a <EVENT eid="e24" class="OCCURRENCE" stem="utilizar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">utilizar</EVENT> para <EVENT eid="e26" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">pagar</EVENT> as despesas jurídicas.</s>
+
+<s>O <EVENT eid="e27" class="OCCURRENCE" stem="aviso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aviso</EVENT> da procuradoria americana segue duas <EVENT eid="e29" class="OCCURRENCE" stem="decisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">decisões</EVENT> do Supremo Tribunal dos EUA de <TIMEX3 tid="t233" type="DATE" value="1989-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t232">junho passado</TIMEX3>.</s>
+<s>Nesses casos, o Supremo Tribunal <EVENT eid="e31" class="I_ACTION" stem="decidir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">decidiu</EVENT> que a lei federal <EVENT eid="e33" class="STATE" stem="dar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">dá</EVENT> aos procuradores toda a <EVENT eid="e203" class="I_STATE" stem="autoridade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">autoridade</EVENT> para <EVENT eid="e35" class="OCCURRENCE" stem="apreender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apreender</EVENT> os bens de pessoas acusadas de extorção de dinheiro e crimes relacionados com drogas, incluindo os honorários pagos aos advogados antes de uma arguição.</s>
+
+<s>Se o governo <EVENT eid="e42" class="I_ACTION" stem="ter" aspect="NONE" tense="FC" polarity="POS" pos="VERB">tiver</EVENT> êxito na <EVENT eid="e44" class="OCCURRENCE" stem="apreensão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apreensão</EVENT> dos bens de Antar, ele poderia <EVENT eid="e45" class="STATE" stem="ficar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">ficar</EVENT> sem a representação por advogados de topo, porque os seus advogados provavelmente <EVENT eid="e48" class="ASPECTUAL" stem="desistir" aspect="NONE" tense="C" polarity="POS" pos="VERB">desistiriam</EVENT>, <EVENT eid="e206" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">de acordo com</EVENT> pessoas familiarizadas com o caso.</s>
+<s>A <EVENT eid="e50" class="OCCURRENCE" stem="apreensão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apreensão</EVENT> também <EVENT eid="e51" class="OCCURRENCE" stem="tornar" aspect="NONE" tense="C" polarity="POS" pos="VERB">tornaria</EVENT> o caso o <EVENT eid="e207" class="STATE" stem="maior" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">maior</EVENT> - e um dos primeiros - em que os honorários dos advogados são confiscados numa acusação não relacionada com drogas.</s>
+
+<s>"As pessoas que sofrem no curto prazo são os réus, mas as pessoas que sofrem a longo prazo são todas as pessoas, porque não haverá um corpo privado vigoroso para defender os direitos dos cidadãos", <EVENT eid="e66" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> Gerald Lefcourt, um advogado de defesa criminal que <EVENT eid="e67" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> ter <EVENT eid="e68" class="OCCURRENCE" stem="recusar" aspect="NONE" tense="INFC" polarity="POS" pos="VERB">recusado</EVENT> uma série de casos para <EVENT eid="e71" class="I_ACTION" stem="evitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">evitar</EVENT> possíveis <EVENT eid="e72" class="OCCURRENCE" stem="apreensão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apreensões</EVENT> de honorários.</s>
+
+<s>Antar está a ser <EVENT eid="e73" class="I_ACTION" stem="investigar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">investigado</EVENT> por um júri federal em Newark, onde os promotores lhe <EVENT eid="e74" class="REPORTING" stem="contar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contaram</EVENT> que podem <TIMEX3 tid="t234" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t232">em breve</TIMEX3> <EVENT eid="e75" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apresentar</EVENT> uma <EVENT eid="e77" class="OCCURRENCE" stem="acusação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">acusação</EVENT> de extorsão e queixas de fraude financeira.</s>
+<s>Sob a lei Racketeer Influenced and Corrupt Organizations, ou RICO, o governo <EVENT eid="e84" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> autoridade para <EVENT eid="e86" class="I_ACTION" stem="tentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">tentar</EVENT> <EVENT eid="e88" class="OCCURRENCE" stem="congelar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">congelar</EVENT> ou <EVENT eid="e89" class="OCCURRENCE" stem="apreender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apreender</EVENT> os bens de um réu antes do <EVENT eid="e90" class="OCCURRENCE" stem="julgamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">julgamento</EVENT>.</s>
+
+<s><EVENT eid="e208" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">De acordo com</EVENT> pessoas familiarizadas com o caso de Antar, o Ministério Público <EVENT eid="e93" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emitiu</EVENT> o aviso <TIMEX3 tid="t235" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t232">esta semana</TIMEX3> após um dos advogados de Antar <EVENT eid="e95" class="I_ACTION" stem="perguntar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">perguntar</EVENT> se os honorários dos advogados estariam <EVENT eid="e210" class="I_STATE" stem="suscetível" aspect="NONE" tense="C" polarity="POS" pos="ADJECTIVE">suscetíveis</EVENT> de ser <EVENT eid="e98" class="OCCURRENCE" stem="apreender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apreendidos</EVENT>.</s>
+<s>Numa carta, os procuradores <EVENT eid="e100" class="REPORTING" stem="contar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contaram</EVENT> aos advogados de Antar que por causa das <TIMEX3 tid="t236" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t232">recentes</TIMEX3> <EVENT eid="e214" class="OCCURRENCE" stem="decisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">decisões</EVENT> do Supremo Tribunal podiam <EVENT eid="e101" class="I_STATE" stem="esperar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">esperar</EVENT> que quaisquer honorários cobrados a Antar possam ser <EVENT eid="e104" class="OCCURRENCE" stem="apreender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apreendidos</EVENT>.</s>
+<s>Os promotores <EVENT eid="e106" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT> aos advogados de Antar que <EVENT eid="e107" class="I_STATE" stem="acreditar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">acreditam</EVENT> que os lucros de Antar alegadamente mal obtidos são tão grandes que qualquer dinheiro que ele tenha usado para pagar a advogados <EVENT eid="e112" class="STATE" stem="derivar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">deriva</EVENT> de <EVENT eid="e113" class="OCCURRENCE" stem="atividade" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">atividades</EVENT> ilegais.</s>
+<s>Portanto, <EVENT eid="e114" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disseram</EVENT>, o dinheiro pode ser <EVENT eid="e116" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">retirado</EVENT> aos advogados, mesmo depois de serem <EVENT eid="e118" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">pagos</EVENT>.</s>
+
+<s>Justin Feldman e Jack Arseneault, os advogados de Antar, <EVENT eid="e119" class="I_ACTION" stem="recusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">recusaram</EVENT>-se ambos a <EVENT eid="e121" class="OCCURRENCE" stem="comentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">comentar</EVENT> o assunto.</s>
+
+<s>Em Newark, o procurador americano Samuel A. Alito <EVENT eid="e123" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT>: "Não <EVENT eid="e124" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="NEG" pos="VERB">acho</EVENT> que haja qualquer <EVENT eid="e126" class="STATE" stem="razão" aspect="NONE" tense="NONE" polarity="NEG" pos="NOUN">razão</EVENT> legal para <EVENT eid="e216" class="I_ACTION" stem="limitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">limitar</EVENT> a <EVENT eid="e217" class="STATE" stem="perda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">perda</EVENT> dos honorários dos advogados aos casos de drogas".</s>
+<s>Alito <EVENT eid="e128" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que o seu escritório "apenas <EVENT eid="e129" class="I_ACTION" stem="responder" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">respondeu</EVENT> à <EVENT eid="e130" class="I_ACTION" stem="pergunta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pergunta</EVENT> de um advogado sobre se <EVENT eid="e131" class="OCCURRENCE" stem="pedir" aspect="NONE" tense="C" polarity="POS" pos="VERB">pediríamos</EVENT> os honorários dos advogados, e isso é diferente de realmente fazê-lo, embora <EVENT eid="e218" class="I_STATE" stem="reservar" aspect="NONE" tense="PC" polarity="POS" pos="VERB">reservemos</EVENT> esse <EVENT eid="e219" class="STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direito</EVENT>".</s>
+
+<s>Antar foi <EVENT eid="e137" class="OCCURRENCE" stem="acusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acusado</EVENT> no <TIMEX3 tid="t237" type="DATE" value="1989-09" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t232">mês passado</TIMEX3> num <EVENT eid="e138" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> civil <EVENT eid="e140" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">apresentado</EVENT> no tribunal federal de Newark pela Securities and Exchange Commission.</s>
+<s>Nesse <EVENT eid="e142" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT>, a SEC <EVENT eid="e143" class="I_ACTION" stem="acusar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acusou</EVENT> Antar de <EVENT eid="e144" class="I_ACTION" stem="participar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">participar</EVENT> numa "<EVENT eid="e145" class="OCCURRENCE" stem="fraude" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fraude</EVENT> financeira maciça" ao <EVENT eid="e147" class="OCCURRENCE" stem="exagerar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">exagerar</EVENT> os ganhos da Crazy Eddie, de Edison, na Nova Jérsia, ao longo de <TIMEX3 tid="t238" type="DURATION" value="P3Y" temporalFunction="false" functionInDocument="NONE">um período de três anos</TIMEX3>.</s>
+<s>Através dos advogados, Antar <EVENT eid="e148" class="REPORTING" stem="negar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">negou</EVENT> as <EVENT eid="e149" class="OCCURRENCE" stem="alegação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">alegações</EVENT> no <EVENT eid="e150" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processo</EVENT> da SEC e em <EVENT eid="e152" class="OCCURRENCE" stem="processo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">processos</EVENT> civis anteriormente <EVENT eid="e154" class="OCCURRENCE" stem="apresentar" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">apresentados</EVENT> pelos acionistas contra Antar e outros.</s>
+
+<s>A SEC <EVENT eid="e155" class="I_ACTION" stem="alegar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">alegou</EVENT> que Antar <EVENT eid="e156" class="I_STATE" stem="pretender" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pretendeu</EVENT> <EVENT eid="e158" class="OCCURRENCE" stem="aumentar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aumentar</EVENT> o preço das ações da empresa através de <EVENT eid="e159" class="STATE" stem="declaração" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declarações</EVENT> financeiras falsas a fim de <EVENT eid="e164" class="OCCURRENCE" stem="vender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">vender</EVENT> a sua participação e <EVENT eid="e166" class="OCCURRENCE" stem="colher" aspect="NONE" tense="INF" polarity="POS" pos="VERB">colher</EVENT> lucros enormes.</s>
+<s>Antar, a SEC <EVENT eid="e167" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT>, <EVENT eid="e168" class="OCCURRENCE" stem="fazer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fez</EVENT> mais de 60 milhões de dólares com a <EVENT eid="e169" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">venda</EVENT> das suas ações entre <TIMEX3 tid="t240" type="DATE" value="1985" temporalFunction="false" functionInDocument="NONE">1985</TIMEX3> e <TIMEX3 tid="t241" type="DATE" value="1987" temporalFunction="false" functionInDocument="NONE">1987</TIMEX3>.</s>
+
+<s>O Departamento de Justiça <EVENT eid="e171" class="REPORTING" stem="sublinhar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">sublinhou</EVENT> que o poder do governo em apreender honorários é para ser <EVENT eid="e173" class="OCCURRENCE" stem="usar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">usado</EVENT> com moderação.</s>
+<s><EVENT eid="e226" class="REPORTING" stem="de acordo com" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">De acordo com</EVENT> a política do departamento, os procuradores devem <EVENT eid="e176" class="I_ACTION" stem="provar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">provar</EVENT> claramente que os honorários dos advogados <EVENT eid="e177" class="OCCURRENCE" stem="vir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">vieram</EVENT> de bens manchados por lucros ilegais antes de se <EVENT eid="e183" class="I_ACTION" stem="fazer" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">fazerem</EVENT> quaisquer <EVENT eid="e179" class="I_ACTION" stem="tentativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tentativas</EVENT> de <EVENT eid="e181" class="OCCURRENCE" stem="apreensão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">apreensão</EVENT>.</s>
+
+<s>Ainda assim, <EVENT eid="e184" class="I_STATE" stem="preocupar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">preocupa</EVENT> os advogados de defesa criminal que os réus estejam a ser <EVENT eid="e185" class="I_STATE" stem="privar" aspect="PROGRESSIVE" tense="PC" polarity="POS" pos="VERB">privados</EVENT> do seu <EVENT eid="e227" class="STATE" stem="direito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">direito</EVENT> pela Sexta Emenda a um advogado e a um <EVENT eid="e188" class="OCCURRENCE" stem="julgamento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">julgamento</EVENT> justo se o governo pode <EVENT eid="e190" class="OCCURRENCE" stem="apreender" aspect="NONE" tense="INF" polarity="POS" pos="VERB">apreender</EVENT> os honorários dos advogados.</s>
+<s>Também <EVENT eid="e228" class="I_STATE" stem="temer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">temem</EVENT> que se o governo <EVENT eid="e193" class="OCCURRENCE" stem="aplicar" aspect="NONE" tense="FC" polarity="POS" pos="VERB">aplicar</EVENT> as leis de apreensão de bens em geral, os melhores advogados de defesa não estarão <EVENT eid="e230" class="I_STATE" stem="disposto" aspect="NONE" tense="FI" polarity="NEG" pos="ADJECTIVE">dispostos</EVENT> a <EVENT eid="e196" class="OCCURRENCE" stem="aceitar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">aceitar</EVENT> casos criminais a menos que estejam <EVENT eid="e198" class="I_STATE" stem="certo" aspect="NONE" tense="PC" polarity="POS" pos="ADJECTIVE">certos</EVENT> de serem <EVENT eid="e199" class="OCCURRENCE" stem="pagar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">pagos</EVENT>.</s>
+
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e75" relatedToTime="t234" task="A"/>
+<TLINK lid="l2" relType="BEFORE" eventID="e74" relatedToTime="t234" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e101" relatedToTime="t236" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e100" relatedToTime="t236" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e137" relatedToTime="t237" task="A"/>
+<TLINK lid="l6" relType="OVERLAP-OR-AFTER" eventID="e168" relatedToTime="t240" task="A"/>
+<TLINK lid="l7" relType="BEFORE-OR-OVERLAP" eventID="e168" relatedToTime="t241" task="A"/>
+<TLINK lid="l8" relType="OVERLAP-OR-AFTER" eventID="e169" relatedToTime="t240" task="A"/>
+<TLINK lid="l9" relType="BEFORE-OR-OVERLAP" eventID="e169" relatedToTime="t241" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e167" relatedToTime="t240" task="A"/>
+<TLINK lid="l11" relType="AFTER" eventID="e167" relatedToTime="t241" task="A"/>
+<TLINK lid="l12" relType="VAGUE" eventID="e6" relatedToTime="t232" task="B"/>
+<TLINK lid="l13" relType="AFTER" eventID="e19" relatedToTime="t232" task="B"/>
+<TLINK lid="l14" relType="OVERLAP-OR-AFTER" eventID="e26" relatedToTime="t232" task="B"/>
+<TLINK lid="l15" relType="OVERLAP-OR-AFTER" eventID="e24" relatedToTime="t232" task="B"/>
+<TLINK lid="l16" relType="OVERLAP" eventID="e33" relatedToTime="t232" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e206" relatedToTime="t232" task="B"/>
+<TLINK lid="l18" relType="AFTER" eventID="e45" relatedToTime="t232" task="B"/>
+<TLINK lid="l19" relType="AFTER" eventID="e51" relatedToTime="t232" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e67" relatedToTime="t232" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e66" relatedToTime="t232" task="B"/>
+<TLINK lid="l22" relType="AFTER" eventID="e75" relatedToTime="t232" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e74" relatedToTime="t232" task="B"/>
+<TLINK lid="l24" relType="OVERLAP" eventID="e84" relatedToTime="t232" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e86" relatedToTime="t232" task="B"/>
+<TLINK lid="l26" relType="BEFORE-OR-OVERLAP" eventID="e101" relatedToTime="t232" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e100" relatedToTime="t232" task="B"/>
+<TLINK lid="l28" relType="OVERLAP" eventID="e107" relatedToTime="t232" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e106" relatedToTime="t232" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e114" relatedToTime="t232" task="B"/>
+<TLINK lid="l31" relType="AFTER" eventID="e116" relatedToTime="t232" task="B"/>
+<TLINK lid="l32" relType="VAGUE" eventID="e118" relatedToTime="t232" task="B"/>
+<TLINK lid="l33" relType="BEFORE" eventID="e119" relatedToTime="t232" task="B"/>
+<TLINK lid="l34" relType="BEFORE" eventID="e123" relatedToTime="t232" task="B"/>
+<TLINK lid="l35" relType="BEFORE" eventID="e124" relatedToTime="t232" task="B"/>
+<TLINK lid="l36" relType="BEFORE" eventID="e128" relatedToTime="t232" task="B"/>
+<TLINK lid="l37" relType="AFTER" eventID="e131" relatedToTime="t232" task="B"/>
+<TLINK lid="l38" relType="BEFORE" eventID="e137" relatedToTime="t232" task="B"/>
+<TLINK lid="l39" relType="BEFORE" eventID="e164" relatedToTime="t232" task="B"/>
+<TLINK lid="l40" relType="BEFORE" eventID="e168" relatedToTime="t232" task="B"/>
+<TLINK lid="l41" relType="BEFORE" eventID="e169" relatedToTime="t232" task="B"/>
+<TLINK lid="l42" relType="BEFORE" eventID="e167" relatedToTime="t232" task="B"/>
+<TLINK lid="l43" relType="AFTER" eventID="e173" relatedToTime="t232" task="B"/>
+<TLINK lid="l44" relType="AFTER" eventID="e183" relatedToTime="t232" task="B"/>
+<TLINK lid="l45" relType="VAGUE" eventID="e177" relatedToTime="t232" task="B"/>
+<TLINK lid="l46" relType="AFTER" eventID="e199" relatedToTime="t232" task="B"/>
+<TLINK lid="l47" relType="AFTER" eventID="e196" relatedToTime="t232" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e148" eventID="e143" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e155" eventID="e148" task="C"/>
+<TLINK lid="l3c" relType="VAGUE" relatedToEvent="e123" eventID="e119" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP-OR-AFTER" relatedToEvent="e93" eventID="e84" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e119" eventID="e114" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e66" eventID="e51" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e31" eventID="e27" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e114" eventID="e106" task="C"/>
+<TLINK lid="l9c" relType="OVERLAP" relatedToEvent="e27" eventID="e16" task="C"/>
+<TLINK lid="l10c" relType="OVERLAP" relatedToEvent="e51" eventID="e45" task="C"/>
+<TLINK lid="l11c" relType="OVERLAP" relatedToEvent="e84" eventID="e73" task="C"/>
+<TLINK lid="l12c" relType="AFTER" relatedToEvent="e137" eventID="e128" task="C"/>
+<TLINK lid="l13c" relType="VAGUE" relatedToEvent="e171" eventID="e167" task="C"/>
+<TLINK lid="l14c" relType="BEFORE" relatedToEvent="e45" eventID="e31" task="C"/>
+<TLINK lid="l15c" relType="VAGUE" relatedToEvent="e184" eventID="e176" task="C"/>
+<TLINK lid="l16c" relType="OVERLAP" relatedToEvent="e143" eventID="e137" task="C"/>
+<TLINK lid="l17c" relType="OVERLAP" relatedToEvent="e106" eventID="e100" task="C"/>
+<TLINK lid="l18c" relType="OVERLAP" relatedToEvent="e100" eventID="e93" task="C"/>
+<TLINK lid="l19c" relType="OVERLAP" relatedToEvent="e128" eventID="e123" task="C"/>
+<TLINK lid="l20c" relType="OVERLAP" relatedToEvent="e167" eventID="e155" task="C"/>
+<TLINK lid="l21c" relType="OVERLAP" relatedToEvent="e73" eventID="e66" task="C"/>
+<TLINK lid="l22c" relType="OVERLAP" relatedToEvent="e228" eventID="e184" task="C"/>
+<TLINK lid="l23c" relType="BEFORE" relatedToEvent="e176" eventID="e171" task="C"/>
+<TLINK lid="l24c" relType="OVERLAP-OR-AFTER" relatedToEvent="e16" eventID="e8" task="C"/>
+<TLINK lid="l25c" relType="OVERLAP" relatedToEvent="e8" eventID="e1" task="C"/>
+</TempEval>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+PRI<TIMEX3 tid="t32" type="DATE" value="1998-01-21" temporalFunction="false" functionInDocument="CREATION_TIME">19980121</TIMEX3>.2000.2591
+REPORTAGEM
+
+<s>Agora, o <EVENT eid="e1985" class="OCCURRENCE" stem="concurso" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">concurso</EVENT> de geografia de <TIMEX3 tid="t33" type="DATE" value="1998-01-21" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t32">hoje</TIMEX3>.</s>
+
+<s>Estamos à <EVENT eid="e2" class="OCCURRENCE" stem="procura" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="NOUN">procura</EVENT> de uma cidade antiga e exótica.</s>
+
+<s>Uma que também está <EVENT eid="e4" class="OCCURRENCE" stem="reconhecer" aspect="NONE" tense="PI" polarity="POS" pos="ADJECTIVE">reconhecida</EVENT> oficialmente.</s>
+<s>A UNESCO <EVENT eid="e5" class="I_ACTION" stem="declarar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">declarou</EVENT>-a um local <EVENT eid="e1981" class="OCCURRENCE" stem="proteger" aspect="NONE" tense="PPA" polarity="POS" pos="VERB">protegido</EVENT> pela sua beleza e significado histórico.</s>
+
+<s>A cidade poderia ter <EVENT eid="e6" class="I_ACTION" stem="usufruir" aspect="NONE" tense="INFC" polarity="POS" pos="VERB">usufruído</EVENT> de alguma <EVENT eid="e8" class="STATE" stem="proteção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">proteção</EVENT> especial em <TIMEX3 tid="t34" type="DATE" value="1979" temporalFunction="false" functionInDocument="NONE">1979</TIMEX3> quando a União Soviética <EVENT eid="e10" class="OCCURRENCE" stem="invadir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">invadiu</EVENT> o Afeganistão.</s>
+<s>A maioria dos monumentos da cidade foram <EVENT eid="e11" class="OCCURRENCE" stem="destruir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">destruídos</EVENT>, incluindo uma magnífica mesquita coberta de azulejos, que <EVENT eid="e12" class="OCCURRENCE" stem="dominar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">dominou</EVENT> o horizonte durante <TIMEX3 tid="t1982" type="DURATION" value="PXC" temporalFunction="false" functionInDocument="NONE">séculos</TIMEX3>.</s>
+
+<s>As pessoas daqui são famosas em toda a Ásia central pela sua habilidade em fazer cerâmica e azulejos, vidro também.</s>
+<s>Algumas famílias <EVENT eid="e1989" class="OCCURRENCE" stem="manter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">mantêm</EVENT> os segredos para trabalhar o vidro desde há <TIMEX3 tid="t1991" type="DURATION" value="P2L" mod="MORE_THAN" temporalFunction="false" functionInDocument="NONE">mais de dois mil anos</TIMEX3>.</s>
+
+<s>Embora esta cidade fique no Afeganistão, a maioria das pessoas daqui <EVENT eid="e19" class="I_ACTION" stem="falar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">fala</EVENT> um dialeto da língua persa e <EVENT eid="e22" class="STATE" stem="ter" aspect="NONE" tense="PI" polarity="POS" pos="VERB">tem</EVENT> <EVENT eid="e1983" class="OCCURRENCE" stem="laço" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">laços</EVENT> culturais de há muito tempo com o vizinho Irão.</s>
+
+<s><EVENT eid="e25" class="I_STATE" stem="achar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">Acha</EVENT> que já <EVENT eid="e26" class="OCCURRENCE" stem="saber" aspect="NONE" tense="PI" polarity="POS" pos="VERB">sabe</EVENT>?</s>
+<s>Bem, honestamente, eu não, mas a <EVENT eid="e29" class="OCCURRENCE" stem="resposta" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resposta</EVENT> <EVENT eid="e30" class="OCCURRENCE" stem="vir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">vem</EVENT> aí daqui a apenas <TIMEX3 tid="t1986" type="DURATION" value="PXM" temporalFunction="false" functionInDocument="NONE">alguns minutos</TIMEX3>.</s>
+
+<TLINK lid="l1" relType="OVERLAP" eventID="e6" relatedToTime="t34" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e30" relatedToTime="t1986" task="A"/>
+<TLINK lid="l3" relType="BEFORE" eventID="e6" relatedToTime="t32" task="B"/>
+<TLINK lid="l4" relType="OVERLAP" eventID="e22" relatedToTime="t32" task="B"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e25" relatedToTime="t32" task="B"/>
+<TLINK lid="l6" relType="AFTER" eventID="e30" relatedToTime="t32" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e4" eventID="e2" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e5" eventID="e4" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e2" eventID="e1985" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e25" eventID="e19" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e6" eventID="e5" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e11" eventID="e6" task="C"/>
+<TLINK lid="l7c" relType="OVERLAP" relatedToEvent="e19" eventID="e1989" task="C"/>
+<TLINK lid="l8c" relType="BEFORE" relatedToEvent="e30" eventID="e25" task="C"/>
+</TempEval>

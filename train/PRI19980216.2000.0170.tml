@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TempEval>
+
+
+PRI<TIMEX3 tid="t25" type="DATE" value="1998-02-16" temporalFunction="false" functionInDocument="CREATION_TIME">19980216</TIMEX3>.2000.0170
+REPORTAGEM
+
+<s>O governo britânico <EVENT eid="e1" class="I_ACTION" stem="pedir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">pediu</EVENT> formalmente que o Sinn Fein, o braço político do IRA, seja <EVENT eid="e2" class="OCCURRENCE" stem="expelir" aspect="NONE" tense="PC" polarity="POS" pos="VERB">expulso</EVENT> das <EVENT eid="e37" class="OCCURRENCE" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT> multilaterais de paz na Irlanda do Norte.</s>
+<s>A <EVENT eid="e27" class="OCCURRENCE" stem="iniciativa" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">iniciativa</EVENT> tinha sido amplamente <EVENT eid="e57" class="I_STATE" stem="esperar" aspect="NONE" tense="MPIC" polarity="POS" pos="VERB">esperada</EVENT> depois de a polícia da Irlanda do Norte ter <EVENT eid="e6" class="REPORTING" stem="dizer" aspect="NONE" tense="INFFC" polarity="POS" pos="VERB">dito</EVENT> que <EVENT eid="e7" class="I_STATE" stem="acreditar" aspect="NONE" tense="PII" polarity="POS" pos="VERB">acreditava</EVENT> que o IRA estava <EVENT eid="e74" class="STATE" stem="por detrás" aspect="NONE" tense="NONE" polarity="POS" pos="ADVERB">por detrás</EVENT> de duas <EVENT eid="e75" class="OCCURRENCE" stem="morte" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">mortes</EVENT> em Belfast na <TIMEX3 tid="t26" type="DATE" value="1998-W07" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t25">semana passada</TIMEX3>.</s>
+<s>O Presidente do Sinn Fein Mitchell McLaughlin <EVENT eid="e8" class="REPORTING" stem="dizer" aspect="NONE" tense="PI" polarity="POS" pos="VERB">diz</EVENT> que o partido vai <EVENT eid="e9" class="OCCURRENCE" stem="contestar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">contestar</EVENT> a <EVENT eid="e60" class="OCCURRENCE" stem="medida" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">medida</EVENT> por meios legais, se necessário.</s>
+
+<s>Vamos <EVENT eid="e186" class="I_ACTION" stem="combater" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">combatê</EVENT>-la.</s>
+<s>E já <EVENT eid="e46" class="OCCURRENCE" stem="contestar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">contestámos</EVENT>, muito veementemente, os <EVENT eid="e191" class="REPORTING" stem="termo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">termos</EVENT> em que isto foi <EVENT eid="e13" class="REPORTING" stem="apresentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">apresentada</EVENT>.</s>
+<s>Mas vamos <EVENT eid="e14" class="OCCURRENCE" stem="contestar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">contestá</EVENT>-la na base de que a polícia <EVENT eid="e16" class="OCCURRENCE" stem="emitir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">emitiu</EVENT> uma opinião e essa opinião vai ser <EVENT eid="e18" class="OCCURRENCE" stem="utilizar" aspect="NONE" tense="IR-PI+INF" polarity="POS" pos="VERB">utilizada</EVENT> como um mecanismo para nos <EVENT eid="e19" class="OCCURRENCE" stem="retirar" aspect="NONE" tense="INFF" polarity="POS" pos="VERB">retirarem</EVENT> das <EVENT eid="e20" class="REPORTING" stem="negociação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">negociações</EVENT>, e isso é muito grave.</s>
+
+<s>Qualquer <EVENT eid="e28" class="OCCURRENCE" stem="decisão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">decisão</EVENT> de <EVENT eid="e22" class="OCCURRENCE" stem="expulsar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">expulsar</EVENT> o Sinn Fein deve ser <EVENT eid="e23" class="I_ACTION" stem="acordar" aspect="NONE" tense="INF" polarity="POS" pos="VERB">acordada</EVENT> conjuntamente pelos governos da Grã-Bretanha e da República da Irlanda.</s>
+
+
+<TLINK lid="l1" relType="AFTER" eventID="e6" relatedToTime="t26" task="A"/>
+<TLINK lid="l2" relType="AFTER" eventID="e57" relatedToTime="t26" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e27" relatedToTime="t26" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e7" relatedToTime="t26" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e37" relatedToTime="t25" task="B"/>
+<TLINK lid="l6" relType="BEFORE" eventID="e1" relatedToTime="t25" task="B"/>
+<TLINK lid="l7" relType="BEFORE" eventID="e6" relatedToTime="t25" task="B"/>
+<TLINK lid="l8" relType="BEFORE" eventID="e57" relatedToTime="t25" task="B"/>
+<TLINK lid="l9" relType="BEFORE" eventID="e27" relatedToTime="t25" task="B"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e7" relatedToTime="t25" task="B"/>
+<TLINK lid="l11" relType="OVERLAP" eventID="e8" relatedToTime="t25" task="B"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e60" relatedToTime="t25" task="B"/>
+<TLINK lid="l13" relType="BEFORE-OR-OVERLAP" eventID="e16" relatedToTime="t25" task="B"/>
+<TLINK lid="l14" relType="OVERLAP-OR-AFTER" eventID="e20" relatedToTime="t25" task="B"/>
+<TLINK lid="l15" relType="AFTER" eventID="e18" relatedToTime="t25" task="B"/>
+<TLINK lid="l16" relType="AFTER" eventID="e23" relatedToTime="t25" task="B"/>
+<TLINK lid="l1c" relType="BEFORE" relatedToEvent="e186" eventID="e8" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e57" eventID="e1" task="C"/>
+<TLINK lid="l3c" relType="OVERLAP" relatedToEvent="e14" eventID="e46" task="C"/>
+<TLINK lid="l4c" relType="BEFORE" relatedToEvent="e8" eventID="e57" task="C"/>
+<TLINK lid="l5c" relType="BEFORE" relatedToEvent="e23" eventID="e14" task="C"/>
+<TLINK lid="l6c" relType="AFTER" relatedToEvent="e46" eventID="e186" task="C"/>
+</TempEval>

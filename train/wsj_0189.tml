@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+WSJ891102-0001
+= 891102
+891102-0001.
+Lucro da Ralston
+@ Caiu 47%
+@ No 4 º Trimestre
+@ ---
+@ Por Richard Gibson
+@ Repórter do The Wall Street Journal
+<TIMEX3 tid="t35" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+RAL
+EARNINGS (ERN)
+FOOD PRODUCTS (FOD)
+
+
+<s>A Ralston Purina Co. <EVENT eid="e1" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um <EVENT eid="e1991" class="OCCURRENCE" stem="declínio" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">declínio</EVENT> de 47% nos <EVENT eid="e2018" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganhos</EVENT> do <TIMEX3 tid="t38" type="DURATION" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">quarto trimestre</TIMEX3>, <EVENT eid="e2" class="I_STATE" stem="refletir" aspect="NONE" tense="GER" polarity="POS" pos="VERB">refletindo</EVENT> <EVENT eid="e2033" class="OCCURRENCE" stem="custo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">custos</EVENT> de reestruturação, bem como um mercado de alimentos para animais de estimação mais difícil.</s>
+
+<s>A empresa de St. Louis <EVENT eid="e3" class="OCCURRENCE" stem="faturar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">faturou</EVENT> 45,2 milhões de dólares, ou 65 cêntimos por ação, face aos 84,9 milhões de dólares, ou 1,24 dólares por ação, do <TIMEX3 tid="t39" type="DATE" value="1988-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t38">ano anterior</TIMEX3>.</s>
+<s>As <EVENT eid="e2044" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> no <TIMEX3 tid="t42" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">último período</TIMEX3> foram de 1,76 mil milhões de dólares, um <EVENT eid="e1992" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumento</EVENT> de 13% relativamente aos 1,55 mil milhões de dólares do <TIMEX3 tid="t43" type="DATE" value="1988-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t42">ano passado</TIMEX3>.</s>
+
+<s>Para <TIMEX3 tid="t41" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">o ano</TIMEX3> que <EVENT eid="e5" class="ASPECTUAL" stem="terminar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">terminou</EVENT> a <TIMEX3 tid="t40" type="DATE" value="1989-09-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">30 de setembro</TIMEX3>, a Ralston <EVENT eid="e6" class="OCCURRENCE" stem="faturar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">faturou</EVENT> 422,5 milhões de dólares, ou 6,44 dólares por ação, subindo 8,9% dos 387,8 milhões de dólares, ou 5,63 dólares por ação.</s>
+<s>Os <EVENT eid="e1993" class="OCCURRENCE" stem="resultado" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resultados</EVENT> deste <TIMEX3 tid="t50" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">ano</TIMEX3> incluíram um <EVENT eid="e1994" class="OCCURRENCE" stem="ganho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">ganho</EVENT> de 70,2 milhões de dólares relativos à <EVENT eid="e8" class="OCCURRENCE" stem="eliminação" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">eliminação</EVENT> das explorações de marisco.</s>
+<s>As <EVENT eid="e1995" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> para <TIMEX3 tid="t44" type="DATE" value="1989" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">todo o ano</TIMEX3> foram de 6,6 mil milhões de dólares, um aumento de 13% relativamente aos 5,8 mil milhões de dólares.</s>
+
+<s>A Ralston <EVENT eid="e10" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que os <EVENT eid="e1999" class="OCCURRENCE" stem="custo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">custos</EVENT> de reestruturação <EVENT eid="e11" class="OCCURRENCE" stem="incluir" aspect="NONE" tense="PI" polarity="POS" pos="VERB">incluem</EVENT> o <EVENT eid="e1996" class="OCCURRENCE" stem="encerramento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">encerramento</EVENT> de uma fábrica de pilhas em Greenville, na Carolina do Norte, o <EVENT eid="e1997" class="OCCURRENCE" stem="fecho" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">fecho</EVENT> <TIMEX3 tid="t45" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">recente</TIMEX3> de uma padaria de bolos da marca Hostess em Cincinnati e uma <EVENT eid="e1998" class="OCCURRENCE" stem="redução" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">redução</EVENT> de pessoal em toda a empresa.</s>
+<s>A fábrica de pilhas, que <EVENT eid="e13" class="OCCURRENCE" stem="fabricar" aspect="NONE" tense="PI" polarity="POS" pos="VERB">fabrica</EVENT> produtos recarregáveis de níquel-cádmio e de zinco de carbono, será <EVENT eid="e14" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="FI" polarity="POS" pos="VERB">fechada</EVENT> no <TIMEX3 tid="t46" type="DATE" value="1990" mod="APPROX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">próximo ano ou por aí</TIMEX3>, <EVENT eid="e2000" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> um porta-voz.</s>
+
+<s>A Ralston <EVENT eid="e15" class="I_STATE" stem="atribuir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">atribuiu</EVENT> a sua <EVENT eid="e2001" class="OCCURRENCE" stem="queda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">queda</EVENT> no <TIMEX3 tid="t47" type="DATE" value="1989-Q4" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">quarto trimestre</TIMEX3> tanto ao aumento dos <EVENT eid="e2003" class="OCCURRENCE" stem="custo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">custos</EVENT> dos ingredientes no negócio de alimentos para animais como a <EVENT eid="e2002" class="OCCURRENCE" stem="pressão" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">pressões</EVENT> competitivas, que <EVENT eid="e18" class="I_STATE" stem="exigir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">exigiram</EVENT> maiores <EVENT eid="e2004" class="OCCURRENCE" stem="gasto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">gastos</EVENT> com publicidade.</s>
+<s>Nesse <TIMEX3 tid="t48" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">ano</TIMEX3>, o volume de comida para animais foi <EVENT eid="e2154" class="STATE" stem="baixo" aspect="NONE" tense="PPI" polarity="POS" pos="ADJECTIVE">baixo</EVENT>, <EVENT eid="e19" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> a empresa.</s>
+
+<s>A divisão de cereais <EVENT eid="e20" class="OCCURRENCE" stem="obter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">obteve</EVENT> maior <EVENT eid="e2005" class="OCCURRENCE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> operacional por causa de <EVENT eid="e21" class="OCCURRENCE" stem="aumento" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aumentos</EVENT> de volume, mas também <EVENT eid="e2006" class="OCCURRENCE" stem="gastar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">gastou</EVENT> mais em <EVENT eid="e24" class="OCCURRENCE" stem="promoção" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">promoção</EVENT>.</s>
+<s>O negócio da Continental Baking <EVENT eid="e26" class="OCCURRENCE" stem="beneficiar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">beneficiou</EVENT> de margens mais <EVENT eid="e2007" class="STATE" stem="elevado" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">elevadas</EVENT> no pão e do aumento de <EVENT eid="e2008" class="OCCURRENCE" stem="venda" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">vendas</EVENT> de bolos, <EVENT eid="e30" class="REPORTING" stem="acrescentar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">acrescentou</EVENT>.</s>
+
+<s>A Ralston <EVENT eid="e31" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que a sua unidade de pilhas Eveready foi <EVENT eid="e32" class="OCCURRENCE" stem="prejudicar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">prejudicada</EVENT> pelos <EVENT eid="e2009" class="OCCURRENCE" stem="problema" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">problemas</EVENT> económicos <EVENT eid="e33" class="ASPECTUAL" stem="contínuo" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">contínuos</EVENT> na América do Sul.</s>
+
+<s>As ações da Ralston <EVENT eid="e34" class="OCCURRENCE" stem="fechar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">fecharam</EVENT> <TIMEX3 tid="t49" type="DATE" value="1989-11-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t35">ontem</TIMEX3> nos 80,50 dólares, perdendo 1 dólar, na Bolsa de Valores de Nova Iorque.</s>
+
+<TLINK lid="l1" relType="AFTER" eventID="e1" relatedToTime="t38" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1991" relatedToTime="t38" task="A"/>
+<TLINK lid="l3" relType="AFTER" eventID="e3" relatedToTime="t39" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1992" relatedToTime="t43" task="A"/>
+<TLINK lid="l5" relType="OVERLAP" eventID="e1992" relatedToTime="t42" task="A"/>
+<TLINK lid="l6" relType="OVERLAP" eventID="e6" relatedToTime="t40" task="A"/>
+<TLINK lid="l7" relType="OVERLAP" eventID="e6" relatedToTime="t41" task="A"/>
+<TLINK lid="l8" relType="OVERLAP" eventID="e1994" relatedToTime="t50" task="A"/>
+<TLINK lid="l9" relType="OVERLAP" eventID="e1993" relatedToTime="t50" task="A"/>
+<TLINK lid="l10" relType="AFTER" eventID="e10" relatedToTime="t45" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e2000" relatedToTime="t46" task="A"/>
+<TLINK lid="l12" relType="BEFORE" eventID="e13" relatedToTime="t46" task="A"/>
+<TLINK lid="l13" relType="OVERLAP" eventID="e14" relatedToTime="t46" task="A"/>
+<TLINK lid="l14" relType="OVERLAP-OR-AFTER" eventID="e19" relatedToTime="t48" task="A"/>
+<TLINK lid="l15" relType="OVERLAP" eventID="e34" relatedToTime="t49" task="A"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e1" relatedToTime="t35" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e1991" relatedToTime="t35" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e3" relatedToTime="t35" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e1992" relatedToTime="t35" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e6" relatedToTime="t35" task="B"/>
+<TLINK lid="l21" relType="BEFORE" eventID="e1994" relatedToTime="t35" task="B"/>
+<TLINK lid="l22" relType="BEFORE-OR-OVERLAP" eventID="e1993" relatedToTime="t35" task="B"/>
+<TLINK lid="l23" relType="BEFORE" eventID="e10" relatedToTime="t35" task="B"/>
+<TLINK lid="l24" relType="BEFORE" eventID="e2000" relatedToTime="t35" task="B"/>
+<TLINK lid="l25" relType="OVERLAP" eventID="e13" relatedToTime="t35" task="B"/>
+<TLINK lid="l26" relType="AFTER" eventID="e14" relatedToTime="t35" task="B"/>
+<TLINK lid="l27" relType="BEFORE" eventID="e19" relatedToTime="t35" task="B"/>
+<TLINK lid="l28" relType="OVERLAP" eventID="e21" relatedToTime="t35" task="B"/>
+<TLINK lid="l29" relType="BEFORE" eventID="e2008" relatedToTime="t35" task="B"/>
+<TLINK lid="l30" relType="BEFORE" eventID="e30" relatedToTime="t35" task="B"/>
+<TLINK lid="l31" relType="BEFORE" eventID="e31" relatedToTime="t35" task="B"/>
+<TLINK lid="l32" relType="BEFORE" eventID="e34" relatedToTime="t35" task="B"/>
+<TLINK lid="l1c" relType="OVERLAP" relatedToEvent="e19" eventID="e15" task="C"/>
+<TLINK lid="l2c" relType="AFTER" relatedToEvent="e20" eventID="e19" task="C"/>
+<TLINK lid="l3c" relType="BEFORE" relatedToEvent="e10" eventID="e1995" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e2000" eventID="e10" task="C"/>
+<TLINK lid="l5c" relType="AFTER" relatedToEvent="e1995" eventID="e1993" task="C"/>
+<TLINK lid="l6c" relType="OVERLAP" relatedToEvent="e2044" eventID="e3" task="C"/>
+<TLINK lid="l7c" relType="AFTER" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l8c" relType="OVERLAP" relatedToEvent="e15" eventID="e2000" task="C"/>
+<TLINK lid="l9c" relType="VAGUE" relatedToEvent="e31" eventID="e30" task="C"/>
+<TLINK lid="l10c" relType="VAGUE" relatedToEvent="e34" eventID="e31" task="C"/>
+<TLINK lid="l11c" relType="BEFORE" relatedToEvent="e30" eventID="e20" task="C"/>
+<TLINK lid="l12c" relType="BEFORE" relatedToEvent="e1993" eventID="e6" task="C"/>
+<TLINK lid="l13c" relType="OVERLAP" relatedToEvent="e6" eventID="e2044" task="C"/>
+</TempEval>

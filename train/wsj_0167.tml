@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TempEval>
+
+
+WSJ891102-0023
+= 891102
+891102-0023.
+Dossier de Negócios - RMS International Inc.:
+@ Fontes de Financiamento, Renúncias
+@ De Dívidas Procuram-se
+<TIMEX3 tid="t19" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3>
+WALL STREET JOURNAL (J)
+RMS
+EARNINGS (ERN)
+
+
+<s>A RMS International Inc., de Hasbrouk Heights, na Nova Jérsia, <EVENT eid="e1" class="I_ACTION" stem="deparar" aspect="NONE" tense="GER" polarity="POS" pos="VERB">deparando</EVENT>-se com um <EVENT eid="e1989" class="STATE" stem="aperto" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">aperto</EVENT> nas finanças, <EVENT eid="e2" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que está à <EVENT eid="e3" class="OCCURRENCE" stem="procurar" aspect="PROGRESSIVE" tense="PI" polarity="POS" pos="VERB">procura</EVENT> de outras fontes de financiamento e de renúncias por parte de credores.</s>
+
+<s>A companhia <EVENT eid="e4" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que por causa de um abrandamento das vendas não está <EVENT eid="e1999" class="STATE" stem="em" aspect="NONE" tense="PI" polarity="NEG" pos="PREPOSITION">em</EVENT> conformidade com os <EVENT eid="e1991" class="I_STATE" stem="requisito" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">requisitos</EVENT> de <EVENT eid="e7" class="STATE" stem="manter" aspect="NONE" tense="INF" polarity="POS" pos="VERB">manter</EVENT> 3 milhões de dólares no fundo de maneio.</s>
+<s>A RMS distribui dispositivos eletrónicos e produz fontes de alimentação e estantes de livros de plástico.</s>
+
+<s>A RMS <EVENT eid="e12" class="REPORTING" stem="dizer" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">disse</EVENT> que <EVENT eid="e1994" class="STATE" stem="ter" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">teve</EVENT> um prejuízo de 158.666 dólares, ou 10 cêntimos por ação, no <TIMEX3 tid="t21" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t19">terceiro trimestre</TIMEX3>, em comparação com um <EVENT eid="e1996" class="STATE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> no <TIMEX3 tid="t22" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">período homólogo do ano anterior</TIMEX3> de 26.956 dólares, ou dois cêntimos por ação.</s>
+<s>As vendas <EVENT eid="e15" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> para os 3 milhões de dólares desde os 2,9 milhões de dólares.</s>
+
+<s>Para <TIMEX3 tid="t23" type="DURATION" value="P9M" temporalFunction="true" functionInDocument="NONE" endPoint="t21">os nove meses</TIMEX3>, a empresa <EVENT eid="e16" class="REPORTING" stem="anunciar" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">anunciou</EVENT> um <EVENT eid="e1997" class="STATE" stem="prejuízo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">prejuízo</EVENT> líquido de 608.413 dólares, ou 39 cêntimos por ação, contra o <EVENT eid="e1998" class="STATE" stem="lucro" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lucro</EVENT> líquido do <TIMEX3 tid="t24" type="DATE" value="1988" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">ano anterior</TIMEX3> de 967.809 dólares, ou 62 cêntimos por ação.</s>
+<s>As vendas <EVENT eid="e18" class="OCCURRENCE" stem="subir" aspect="NONE" tense="PPI" polarity="POS" pos="VERB">subiram</EVENT> para os 9,8 milhões de dólares desde os 8,9 milhões.</s>
+
+
+<TLINK lid="l1" relType="BEFORE" eventID="e1996" relatedToTime="t21" task="A"/>
+<TLINK lid="l2" relType="OVERLAP" eventID="e1996" relatedToTime="t22" task="A"/>
+<TLINK lid="l3" relType="OVERLAP" eventID="e1994" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="AFTER" eventID="e1994" relatedToTime="t22" task="A"/>
+<TLINK lid="l5" relType="AFTER" eventID="e12" relatedToTime="t21" task="A"/>
+<TLINK lid="l6" relType="AFTER" eventID="e12" relatedToTime="t22" task="A"/>
+<TLINK lid="l7" relType="AFTER" eventID="e16" relatedToTime="t24" task="A"/>
+<TLINK lid="l8" relType="AFTER" eventID="e16" relatedToTime="t23" task="A"/>
+<TLINK lid="l9" relType="AFTER" eventID="e1997" relatedToTime="t24" task="A"/>
+<TLINK lid="l10" relType="OVERLAP" eventID="e1997" relatedToTime="t23" task="A"/>
+<TLINK lid="l11" relType="BEFORE" eventID="e2" relatedToTime="t19" task="B"/>
+<TLINK lid="l12" relType="OVERLAP" eventID="e3" relatedToTime="t19" task="B"/>
+<TLINK lid="l13" relType="BEFORE" eventID="e4" relatedToTime="t19" task="B"/>
+<TLINK lid="l14" relType="BEFORE" eventID="e1996" relatedToTime="t19" task="B"/>
+<TLINK lid="l15" relType="BEFORE" eventID="e1994" relatedToTime="t19" task="B"/>
+<TLINK lid="l16" relType="BEFORE" eventID="e12" relatedToTime="t19" task="B"/>
+<TLINK lid="l17" relType="BEFORE" eventID="e15" relatedToTime="t19" task="B"/>
+<TLINK lid="l18" relType="BEFORE" eventID="e16" relatedToTime="t19" task="B"/>
+<TLINK lid="l19" relType="BEFORE" eventID="e1997" relatedToTime="t19" task="B"/>
+<TLINK lid="l20" relType="BEFORE" eventID="e18" relatedToTime="t19" task="B"/>
+<TLINK lid="l1c" relType="AFTER" relatedToEvent="e18" eventID="e16" task="C"/>
+<TLINK lid="l2c" relType="BEFORE" relatedToEvent="e16" eventID="e15" task="C"/>
+<TLINK lid="l3c" relType="AFTER" relatedToEvent="e15" eventID="e12" task="C"/>
+<TLINK lid="l4c" relType="OVERLAP" relatedToEvent="e4" eventID="e2" task="C"/>
+</TempEval>
