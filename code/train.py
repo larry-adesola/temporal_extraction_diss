@@ -5,12 +5,12 @@ from torch.utils.data import DataLoader, Subset
 from transformers import RobertaTokenizerFast, AdamW, RobertaConfig, get_linear_schedule_with_warmup, DebertaV2TokenizerFast, DebertaV2Config
 from typing import List
 from data import temprel_set
-from model import TemporalRelationClassification
-from model_time import TemporalRelationClassificationWithTime
-from model_weight_fct import TemporalRelationClassificationWithWeightedFCT
-from model_weight_no_time import TemporalRelationClassificationWithWeightNoTime
-from model_pos_embedding import TemporalRelationClassificationWithPOSEmbedding
-from model_deberta import TemporalRelationClassificationWithDebertaPOS
+from models.model import TemporalRelationClassification
+from models.model_time import TemporalRelationClassificationWithTime
+from models.model_weight_fct import TemporalRelationClassificationWithWeightedFCT
+from models.model_weight_no_time import TemporalRelationClassificationWithWeightNoTime
+from models.model_pos_embedding import TemporalRelationClassificationWithPOSEmbedding
+from models.model_deberta import TemporalRelationClassificationWithDebertaPOS
 import numpy as np
 import argparse
 import random
