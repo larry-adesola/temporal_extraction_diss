@@ -237,7 +237,7 @@ def process_single_tml_file(input_file):
             # Combine the token streams from the two sentences.
             # (Here we use a " ||| " separator to indicate a sentence boundary;
             #  you can change or remove the separator as needed.)
-            combined_tokens = " ".join(final_tokens1) + " ".join(final_tokens2)
+            combined_tokens = " ".join(final_tokens1) + " " +" ".join(final_tokens2)
 
             # Build the <SENTENCE> element for cross-sentence events.
             sent_el = ET.Element("SENTENCE")
@@ -280,7 +280,7 @@ def convert_timebankpt_dir(input_dir, output_xml):
 
 
 
-input_tml = "/content/drive/MyDrive/diss/test"
-output_xml = "/content/drive/MyDrive/diss/test_pt.xml"
+input_tml = "/content/drive/MyDrive/diss/train"
+output_xml = "/content/drive/MyDrive/diss/train_pt.xml"
 
 convert_timebankpt_dir(input_tml, output_xml)

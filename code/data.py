@@ -44,7 +44,6 @@ class temprel_ee:
         is_start = True
         for i,d in enumerate(self.data):
             tmp = d.split('///')
-            print(tmp)
             self.part_of_speech.append(tmp[-2])
             self.position.append(tmp[-1])
             self.token.append(tmp[0])
@@ -63,7 +62,6 @@ class temprel_ee:
                 self.event_offset.append(len(self.text))
 
             self.text += tmp[0]
-        print(self.data)
         assert len(self.event_ix) == 2
 
 
@@ -128,26 +126,52 @@ class temprel_set:
 
 
 
-    tokenized_event_ix = []
+      tokenized_event_ix = []
 
-    for i in range(len(self.temprel_ee)):
+      for i in range(len(self.temprel_ee)):
+          event_ix_pair = []
+          # Get the two event offsets for this instance
+          event_offsets = self.temprel_ee[i].event_offset
+          # Iterate over each event offset to find its corresponding token index
+          for offset in event_offsets:
+              found = False
+              for j, (sub_start, sub_end) in enumerate(tokenized_output['offset_mapping'][i]):
+                  # Skip special tokens with (0,0) offsets
+                  if sub_start == 0 and sub_end == 0:
+                      continue
+                  # Check if the subword start matches the event offset (or offset+1 for DeBERTa)
+                  if sub_start == offset or sub_start + 1 == offset:
+                      event_ix_pair.append(j)
+                      found = True
+                      break  # Stop after finding the first occurrence
+              if not found:
+                  # Handle missing event offset (adjust as needed)
+                  raise ValueError(f'Instance {i} missing event at offset {offset}')
+          
+          if len(event_ix_pair) != 2:
+              # Print debug info if needed
+              # print(self.temprel_ee[i].text)
+              # print(self.temprel_ee[i].data)
+              # print(tokenized_output['offset_mapping'][i])
+              # print(self.temprel_ee[i].event_offset)
+              # print(event_ix_pair)
+              raise ValueError(f'Instance {i} has {len(event_ix_pair)} event indices, expected 2.')
+          
+          tokenized_event_ix.append(event_ix_pair)
 
-      event_ix_pair = []
-      for j, offset_pair in enumerate(tokenized_output['offset_mapping'][i]):
-          if ((offset_pair[0] == self.temprel_ee[i].event_offset[0] 
-          or offset_pair[0] + 1 == self.temprel_ee[i].event_offset[0]) or #as deberta offset doesn't increment
-              (offset_pair[0] == self.temprel_ee[i].event_offset[1] or 
-              offset_pair[0] + 1 == self.temprel_ee[i].event_offset[1])) and\
-              offset_pair[0] != offset_pair[1]:
-              event_ix_pair.append(j)
-      if len(event_ix_pair) != 2:
-          raise ValueError(f'Instance {i} doesn\'t found 2 event idx.')
-      tokenized_event_ix.append(event_ix_pair)
+
+
     input_ids = torch.LongTensor(tokenized_output['input_ids'])
     attention_mask = torch.LongTensor(tokenized_output['attention_mask'])
     tokenized_event_ix = torch.LongTensor(tokenized_event_ix)
     labels = torch.LongTensor([LabelType.to_class_index(ee.label) for ee in self.temprel_ee])
+    # print(input_ids.size())
+    # print(attention_mask.size())
+    # print(tokenized_event_ix.size())
+    # print(labels.size())
+    # print(pos_ids.size())
 
+    # print(labels)
     if pos_enabled:
       return TensorDataset(input_ids, attention_mask, tokenized_event_ix, labels, pos_ids)
     return TensorDataset(input_ids, attention_mask, tokenized_event_ix, labels)

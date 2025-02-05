@@ -111,8 +111,14 @@ def contextualise_data(tokeniser, trainsetLoc, testsetLoc, model):
 
     traindevset = temprel_set(trainsetLoc)
     traindev_tensorset = traindevset.to_tensor(tokenizer=tokeniser, pos_enabled=model >= 4)
-    train_idx = list(range(len(traindev_tensorset)-1852))
-    dev_idx = list(range(len(traindev_tensorset)-1852, len(traindev_tensorset)))
+    if model == 6:
+      total_len = len(traindev_tensorset)
+      split_point = int(0.9 * total_len)  # 90% for training, 10% for dev
+      train_idx = list(range(split_point))
+      dev_idx = list(range(split_point, total_len))
+    else:
+      train_idx = list(range(len(traindev_tensorset)-1852))
+      dev_idx = list(range(len(traindev_tensorset)-1852, len(traindev_tensorset)))
     train_tensorset = Subset(traindev_tensorset, train_idx)
     dev_tensorset = Subset(traindev_tensorset, dev_idx) #Last 21 docs
 
@@ -217,7 +223,7 @@ def main(input_args=None):
     if args.model == 5:
       tokeniser = DebertaV2TokenizerFast.from_pretrained("microsoft/deberta-v3-large")
     elif args.model == 6:
-      tokeniser = tokenizer = XLMRobertaTokenizerFast.from_pretrained("xlm-roberta-large")
+      tokeniser = XLMRobertaTokenizerFast.from_pretrained("xlm-roberta-large")
     else:
       tokeniser = RobertaTokenizerFast.from_pretrained("roberta-large")
 
