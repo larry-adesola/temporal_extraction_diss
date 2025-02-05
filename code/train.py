@@ -2,7 +2,7 @@ from sklearn.metrics import classification_report
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, Subset
-from transformers import RobertaTokenizerFast, AdamW, RobertaConfig, get_linear_schedule_with_warmup, DebertaV2TokenizerFast, DebertaV2Config
+from transformers import RobertaTokenizerFast, AdamW, RobertaConfig, get_linear_schedule_with_warmup, DebertaV2TokenizerFast, DebertaV2Config, XLMRobertaTokenizerFast, XLMRobertaConfig
 from typing import List
 from data import temprel_set
 from models.model import TemporalRelationClassification
@@ -11,6 +11,7 @@ from models.model_weight_fct import TemporalRelationClassificationWithWeightedFC
 from models.model_weight_no_time import TemporalRelationClassificationWithWeightNoTime
 from models.model_pos_embedding import TemporalRelationClassificationWithPOSEmbedding
 from models.model_deberta import TemporalRelationClassificationWithDebertaPOS
+from models.models_xlm_pos import XLMTemporalRelationClassificationWithPOSEmbedding
 import numpy as np
 import argparse
 import random
@@ -25,9 +26,9 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Train a temporal relation classification model.")
     
     # Arguments for model training
-    parser.add_argument("--trainset_loc", type=str, default="../trainset-temprel.xml",
+    parser.add_argument("--trainset_loc", type=str, default="../train_pt.xml",
                         help="Path to the training dataset file.")
-    parser.add_argument("--testset_loc", type=str, default="../testset-temprel.xml",
+    parser.add_argument("--testset_loc", type=str, default="../test_pt.xml",
                         help="Path to the testing dataset file.")
     parser.add_argument("--batch_size", type=int, default=16,
                         help="Batch size for training.")
@@ -51,8 +52,8 @@ def parse_args():
                         help="Beta 1 parameters (b1, b2) for optimizer.")
     parser.add_argument("--beta2", type=float, default=0.999,
                         help="Beta 1 parameters (b1, b2) for optimizer.")
-    parser.add_argument("--model", type=int, default="5",
-                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3 POS Embedding - 4 Deberta & POS - 5")
+    parser.add_argument("--model", type=int, default="6",
+                        help="Baseline - 0 Time prediction - 1 Weight FCT - 2 Weight FCT No Time - 3 POS Embedding - 4 Deberta & POS - 5 XLM & POS - 6")
     
     return parser.parse_args()
 
@@ -215,6 +216,8 @@ def main(input_args=None):
     # Tokenizer and datasets
     if args.model == 5:
       tokeniser = DebertaV2TokenizerFast.from_pretrained("microsoft/deberta-v3-large")
+    elif args.model == 6:
+      tokeniser = tokenizer = XLMRobertaTokenizerFast.from_pretrained("xlm-roberta-large")
     else:
       tokeniser = RobertaTokenizerFast.from_pretrained("roberta-large")
 
@@ -257,6 +260,13 @@ def main(input_args=None):
         config = DebertaV2Config.from_pretrained("microsoft/deberta-v3-large", num_labels=4, hidden_dropout_prob=args.dropout)
         model = TemporalRelationClassificationWithDebertaPOS.from_pretrained(
             "microsoft/deberta-v3-large", config=config,
+            dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
+        )
+    elif args.model == 6:
+        print("XLM & POS Tagging")
+        config = XLMRobertaConfig.from_pretrained("xlm-roberta-large", num_labels=4, hidden_dropout_prob=args.dropout)
+        model = XLMTemporalRelationClassificationWithPOSEmbedding.from_pretrained(
+            "xlm-roberta-large", config=config,
             dataset={"label_mapping": {"BEFORE": 0, "AFTER": 1, "EQUAL": 2, "VAGUE": 3}},
         )
     else:

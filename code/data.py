@@ -44,6 +44,7 @@ class temprel_ee:
         is_start = True
         for i,d in enumerate(self.data):
             tmp = d.split('///')
+            print(tmp)
             self.part_of_speech.append(tmp[-2])
             self.position.append(tmp[-1])
             self.token.append(tmp[0])
@@ -62,7 +63,7 @@ class temprel_ee:
                 self.event_offset.append(len(self.text))
 
             self.text += tmp[0]
-
+        print(self.data)
         assert len(self.event_ix) == 2
 
 
