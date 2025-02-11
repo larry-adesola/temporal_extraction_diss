@@ -108,7 +108,6 @@ class TemporalRelationClassificationWithDebertaPOS(DebertaV2PreTrainedModel):
       loss += torch.sum(torch.abs(relative * mask_equal))
       loss /= sequence_output.size(0)
 
-      # Compute loss if labels are provided
   
       loss_fct = nn.CrossEntropyLoss()
       loss += loss_fct(logits, labels)

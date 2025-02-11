@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers import RobertaTokenizerFast, RobertaModel, AdamW, BertPreTrainedModel, RobertaConfig, get_scheduler
+from transformers import RobertaModel, BertPreTrainedModel, RobertaConfig
 from copy import deepcopy
 #from transformers.models.roberta.modeling_roberta import RobertaClassificationHead
 
@@ -34,7 +34,7 @@ class TemporalRelationClassificationWithPOSEmbedding(BertPreTrainedModel):
   def __init__(self, config, dataset=None, pos_vocab_size=100, pos_dim=16):
     super(TemporalRelationClassificationWithPOSEmbedding, self).__init__(config)
 
-    # Initialize RoBERTa backbone
+    # Initialise RoBERTa backbone
     self.roberta = RobertaModel(config)
     self.dropout = nn.Dropout(config.hidden_dropout_prob)
 
@@ -42,7 +42,7 @@ class TemporalRelationClassificationWithPOSEmbedding(BertPreTrainedModel):
     self.pos_embedding = nn.Embedding(pos_vocab_size, pos_dim)
 
 
-    # Initialize classification head
+    # Initialise classification head
     config_for_classification_head = deepcopy(config)
     config_for_classification_head.num_labels = len(dataset["label_mapping"])  
 
@@ -111,7 +111,7 @@ class TemporalRelationClassificationWithPOSEmbedding(BertPreTrainedModel):
       loss += torch.sum(torch.abs(relative * mask_equal))
       loss /= sequence_output.size(0)
 
-      # Compute loss if labels are provided
+      
   
       loss_fct = nn.CrossEntropyLoss()
       loss += loss_fct(logits, labels)
