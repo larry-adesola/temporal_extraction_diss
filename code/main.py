@@ -10,18 +10,11 @@ import argparse
 import os
 from torch.utils.data import DataLoader
 import torch
-from eval_tools import evaluate_model
+from eval_tools import evaluate_model, plot_training_curves
 from train import train_model
 from data_utils.tokenise import contextualise_data
 import random
 import numpy as np
-
-
-def set_seed(seed):
-    torch.manual_seed(seed)
-    torch.cuda.manual_seed_all(seed)
-    np.random.seed(seed)
-    random.seed(seed)
 
 def parse_args():
   parser = argparse.ArgumentParser(description="Train a temporal relation classification model.")
@@ -58,13 +51,23 @@ def parse_args():
   
   return parser.parse_args()
 
+
+def set_seed(seed):
+  torch.manual_seed(seed)
+  torch.cuda.manual_seed_all(seed)
+  np.random.seed(seed)
+  random.seed(seed)
+
+
+
+
 def main(input_args=None):
 
   os.environ["TOKENIZERS_PARALLELISM"] = "false"
   # Parse arguments
   args = parse_args()
   
-  #set_seed(args.seed)
+  set_seed(args.seed)
 
   # Access arguments
   trainsetLoc = args.trainset_loc
@@ -85,9 +88,14 @@ def main(input_args=None):
 
   train_dataset, dev_dataset, test_dataset = contextualise_data(tokeniser, trainsetLoc, testsetLoc, args.model)
   
+  print(len(train_dataset))
+  print(len(dev_dataset))
+  print(len(test_dataset))
+
   train_dataloader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle=True, num_workers=num_workers)
   test_dataloader = DataLoader(test_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)
   dev_dataloader = DataLoader(dev_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)
+
 
   
   # Model and optimizer
@@ -139,7 +147,9 @@ def main(input_args=None):
   
   # Training
   device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-  train_model(args, model, train_dataloader, dev_dataloader, device, args.model>=4)
+  train_losses, train_accuracies = train_model(args, model, train_dataloader, dev_dataloader, device, args.model>=4)
+
+  plot_training_curves(train_losses, train_accuracies)
 
 
   print(f"Test Stats")

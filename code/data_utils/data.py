@@ -126,38 +126,38 @@ class temprel_set:
 
 
 
-      tokenized_event_ix = []
+    tokenized_event_ix = []
 
-      for i in range(len(self.temprel_ee)):
-        event_ix_pair = []
-        # Get the two event offsets for this instance
-        event_offsets = self.temprel_ee[i].event_offset
-        # Iterate over each event offset to find its corresponding token index
-        for offset in event_offsets:
-          found = False
-          for j, (sub_start, sub_end) in enumerate(tokenized_output['offset_mapping'][i]):
-            # Skip special tokens with (0,0) offsets
-            if sub_start == 0 and sub_end == 0:
-              continue
-            # Check if the subword start matches the event offset (or offset+1 for DeBERTa)
-            if sub_start == offset or sub_start + 1 == offset:
-              event_ix_pair.append(j)
-              found = True
-              break  # Stop after finding the first occurrence
-          if not found:
-            # Handle missing event offset (adjust as needed)
-            raise ValueError(f'Instance {i} missing event at offset {offset}')
-        
-        if len(event_ix_pair) != 2:
-          # Print debug info if needed
-          # print(self.temprel_ee[i].text)
-          # print(self.temprel_ee[i].data)
-          # print(tokenized_output['offset_mapping'][i])
-          # print(self.temprel_ee[i].event_offset)
-          # print(event_ix_pair)
-          raise ValueError(f'Instance {i} has {len(event_ix_pair)} event indices, expected 2.')
-        
-        tokenized_event_ix.append(event_ix_pair)
+    for i in range(len(self.temprel_ee)):
+      event_ix_pair = []
+      # Get the two event offsets for this instance
+      event_offsets = self.temprel_ee[i].event_offset
+      # Iterate over each event offset to find its corresponding token index
+      for offset in event_offsets:
+        found = False
+        for j, (sub_start, sub_end) in enumerate(tokenized_output['offset_mapping'][i]):
+          # Skip special tokens with (0,0) offsets
+          if sub_start == 0 and sub_end == 0:
+            continue
+          # Check if the subword start matches the event offset (or offset+1 for DeBERTa)
+          if sub_start == offset or sub_start + 1 == offset:
+            event_ix_pair.append(j)
+            found = True
+            break  # Stop after finding the first occurrence
+        if not found:
+          # Handle missing event offset (adjust as needed)
+          raise ValueError(f'Instance {i} missing event at offset {offset}')
+      
+      if len(event_ix_pair) != 2:
+        # Print debug info if needed
+        # print(self.temprel_ee[i].text)
+        # print(self.temprel_ee[i].data)
+        # print(tokenized_output['offset_mapping'][i])
+        # print(self.temprel_ee[i].event_offset)
+        # print(event_ix_pair)
+        raise ValueError(f'Instance {i} has {len(event_ix_pair)} event indices, expected 2.')
+      
+      tokenized_event_ix.append(event_ix_pair)
 
 
 

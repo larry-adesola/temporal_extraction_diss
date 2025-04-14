@@ -11,7 +11,7 @@ class TemporalRelationClassificationWithPOSEmbedding(BertPreTrainedModel):
   config_class = RobertaConfig
   base_model_prefix = "roberta"
 
-  def __init__(self, config, dataset=None, pos_vocab_size=100, pos_dim=16):
+  def __init__(self, config, dataset=None, pos_vocab_size=50, pos_dim=16):
     super(TemporalRelationClassificationWithPOSEmbedding, self).__init__(config)
 
     # Initialise RoBERTa backbone

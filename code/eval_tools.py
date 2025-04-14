@@ -1,7 +1,7 @@
 from sklearn.metrics import classification_report
 import torch
 import numpy as np
-
+import matplotlib.pyplot as plt
 
 def calc_f1(predicted_labels, all_labels):
     confusion = np.zeros((4, 4))
@@ -44,4 +44,30 @@ def evaluate_model(model, dataloader, device, pos_enabled):
     print(f"Acc={acc}, Precision={prec}, Recall={rec}, F1={f1}")
     print(f"Confusion={confusion}")
 
+def plot_training_curves(train_losses, train_accuracies):
+    """Simple function to plot training loss and accuracy curves."""
+    epochs = range(1, len(train_losses) + 1)
+
+    plt.figure(figsize=(12, 4))
+
+    # Plot Loss
+    plt.subplot(1, 2, 1)
+    plt.plot(epochs, train_losses, 'b-o', label='Train Loss')
+    plt.xlabel('Epoch')
+    plt.ylabel('Loss')
+    plt.title('Training Loss over Epochs')
+    plt.legend()
+
+    # Plot Accuracy
+    plt.subplot(1, 2, 2)
+    plt.plot(epochs, train_accuracies, 'r-o', label='Train Accuracy')
+    plt.xlabel('Epoch')
+    plt.ylabel('Accuracy')
+    plt.title('Training Accuracy over Epochs')
+    plt.ylim([0, 1])
+    plt.legend()
+
+    plt.tight_layout()
+    plt.savefig('/content/drive/MyDrive/diss/graph.png')
+    #plt.show()
     

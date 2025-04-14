@@ -39,45 +39,53 @@ def train_model(args, model, train_dataloader, dev_dataloader, device, pos_enabl
     update_per_batch = args.update_batch_size // args.batch_size
     model.to(device)
 
+    train_losses = []
+    train_accuracies = []
 
     for epoch in range(args.epochs):
-        model.train()
-        total_loss = 0
-        correct, total = 0, 0
+      model.train()
+      total_loss = 0
+      correct, total = 0, 0
 
-        print(f"Epoch {epoch + 1}/{args.epochs}")
-        for i, batch in enumerate(train_dataloader):
-          
-          if pos_enabled:
-            input_ids, attention_mask, event_ix, labels, pos_id = (item.to(device) for item in batch)
-            loss, logits = model(input_ids, attention_mask, event_ix, labels, pos_id)
-          
-          else:
-            input_ids, attention_mask, event_ix, labels = (item.to(device) for item in batch)
-            loss, logits = model(input_ids, attention_mask, event_ix, labels)
+      print(f"Epoch {epoch + 1}/{args.epochs}")
+      for i, batch in enumerate(train_dataloader):
+        
+        if pos_enabled:
+          input_ids, attention_mask, event_ix, labels, pos_id = (item.to(device) for item in batch)
+          loss, logits = model(input_ids, attention_mask, event_ix, labels, pos_id)
+        
+        else:
+          input_ids, attention_mask, event_ix, labels = (item.to(device) for item in batch)
+          loss, logits = model(input_ids, attention_mask, event_ix, labels)
 
 
-          loss /= update_per_batch
-          loss.backward()
-          
-          if (i+1) % update_per_batch == 0 or (i+1) == len(train_dataloader):
-              # global_loss.backward()
+        loss /= update_per_batch
+        loss.backward()
+        
+        if (i+1) % update_per_batch == 0 or (i+1) == len(train_dataloader):
+            # global_loss.backward()
 
-              torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 
-              optimizer.step()
-              scheduler.step()
-              model.zero_grad()
+            optimizer.step()
+            scheduler.step()
+            model.zero_grad()
 
-          # optimizer.step()
-          # scheduler.step()
+        # optimizer.step()
+        # scheduler.step()
 
-          total_loss += loss.item()
-          predictions = torch.argmax(logits, dim=1)
-          correct += (predictions == labels).sum().item()
-          total += labels.size(0)
+        total_loss += loss.item()
+        predictions = torch.argmax(logits, dim=1)
+        correct += (predictions == labels).sum().item()
+        total += labels.size(0)
 
-        print(f"Train Loss: {total_loss / len(train_dataloader):.4f}, Train Accuracy: {correct / total:.4f}")
+      epoch_loss = total_loss / len(train_dataloader)
+      epoch_acc = correct / total
 
-        # Evaluate on dev set
-        evaluate_model(model, dev_dataloader, device, pos_enabled)
+      train_losses.append(epoch_loss)
+      train_accuracies.append(epoch_acc)
+      print(f"Train Loss: {total_loss / len(train_dataloader):.4f}, Train Accuracy: {correct / total:.4f}")
+
+      # Evaluate on dev set
+      evaluate_model(model, dev_dataloader, device, pos_enabled)
+    return train_losses, train_accuracies
