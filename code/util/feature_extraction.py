@@ -63,7 +63,6 @@ def extract_features_full_sentence(ee):
   For a temprel_ee object that has:
     - A single verb E1, a single verb E2
     - The entire sentence text in ee.text, or can be reconstructed from ee.data
-  We'll:
     1) Parse with spaCy
     2) Locate E1 and E2 tokens
     3) Extract morphological (tense, aspect) for each event
@@ -100,7 +99,7 @@ def extract_features_full_sentence(ee):
   # Locate these tokens in the doc
   e1_doc_idx, e2_doc_idx = find_event_tokens(doc, e1_verb_str, e2_verb_str)
 
-  # If we found them, get morphological info
+  # If found them, get morphological info
   if e1_doc_idx >= 0 and e1_doc_idx < len(doc):
     e1_tense, e1_aspect = approximate_tense_aspect_spacy(doc[e1_doc_idx])
   else:
@@ -163,7 +162,7 @@ def main():
   # At that point, you can do:
   X = df_train.drop("label", axis=1)
   y = df_train["label"]
-  #
+
   from sklearn.linear_model import LogisticRegression
   from sklearn.model_selection import train_test_split
   from sklearn.metrics import classification_report
@@ -199,7 +198,7 @@ def main():
   preds = clf.predict(X_test)
   print(classification_report(y_test, preds))
 
-  # Optional: Examine feature importances
+  #Examine feature importances
   importances = clf.feature_importances_
   feature_names = list(X.columns)
   for name, imp in sorted(zip(feature_names, importances), key=lambda x: x[1], reverse=True):

@@ -235,7 +235,7 @@ def process_single_tml_file(input_file):
                 final_tokens2.append(triple)
 
             # Combine the token streams from the two sentences.
-            # (Here we use a " ||| " separator to indicate a sentence boundary;
+            # (use a " ||| " separator to indicate a sentence boundary;
             #  you can change or remove the separator as needed.)
             combined_tokens = " ".join(final_tokens1) + " " +" ".join(final_tokens2)
 
