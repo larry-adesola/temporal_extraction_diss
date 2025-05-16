@@ -5,10 +5,11 @@ from models.model_weight_no_time import TemporalRelationClassificationWithWeight
 from models.model_pos_embedding import TemporalRelationClassificationWithPOSEmbedding
 from models.model_deberta import TemporalRelationClassificationWithDebertaPOS
 from models.models_xlm_pos import XLMTemporalRelationClassificationWithPOSEmbedding
-from transformers import RobertaTokenizerFast, AdamW, RobertaConfig, get_linear_schedule_with_warmup, DebertaV2TokenizerFast, DebertaV2Config, XLMRobertaTokenizerFast, XLMRobertaConfig
+from transformers import RobertaTokenizerFast, RobertaConfig, get_linear_schedule_with_warmup, DebertaV2TokenizerFast, DebertaV2Config, XLMRobertaTokenizerFast, XLMRobertaConfig
 import argparse
 import os
 from torch.utils.data import DataLoader
+from torch.optim import AdamW
 import torch
 from eval_tools import evaluate_model, plot_training_curves
 from train import train_model
@@ -88,9 +89,9 @@ def main(input_args=None):
 
   train_dataset, dev_dataset, test_dataset = contextualise_data(tokeniser, trainsetLoc, testsetLoc, args.model)
   
-  print(len(train_dataset))
-  print(len(dev_dataset))
-  print(len(test_dataset))
+  # print(len(train_dataset))
+  # print(len(dev_dataset))
+  # print(len(test_dataset))
 
   train_dataloader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle=True, num_workers=num_workers)
   test_dataloader = DataLoader(test_dataset, batch_size=test_batch_size, shuffle=False, num_workers=num_workers)

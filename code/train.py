@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
-from transformers import AdamW, get_linear_schedule_with_warmup
+from transformers import get_linear_schedule_with_warmup
+from torch.optim import AdamW
 from typing import List
 from math import ceil
 from eval_tools import evaluate_model
